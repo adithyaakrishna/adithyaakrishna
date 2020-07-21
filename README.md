@@ -14,7 +14,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=thedevilx&repo=My-Mario-Game&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
-<a href="https://github.com/thedevilx/Actions-On-Google">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=thedevilx&repo=Actions-On-Google&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<a href="https://github.com/thedevilx/thedevilx.github.io">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=thedevilx&repo=thedevilx.github.io&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
