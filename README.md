@@ -10,8 +10,8 @@
   
 ![Adithya's github Stats](https://github-readme-stats.vercel.app/api?username=thedevilx&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-<a href="https://github.com/thedevilx/mymariogame">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=thedevilx&repo=mymariogame&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<a href="https://github.com/thedevilx/My-Mario-Game">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=thedevilx&repo=My-Mario-Game&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
 <a href="https://github.com/thedevilx/thedevilx.github.io">
