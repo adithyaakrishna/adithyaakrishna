@@ -9,7 +9,6 @@
 <a href="https://adiiikris.wordpress.com/"><img src="https://img.shields.io/badge/wordpress-%231DA1F2.svg?&style=for-the-badge&logo=wodrpress&logoColor=white" height=25></a>
 <a href=(https://stackoverflow.com/users/8782331/adi-kris"><img src=https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/8782331/adi-kris" height=25></a></p>
 
-  
 <hr>
   
 ![Adithya's github Stats](https://github-readme-stats.vercel.app/api?username=adithyaakrishna&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
