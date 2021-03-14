@@ -1,6 +1,6 @@
 <!--### Hey There! 🦸‍👋-->
 
-<img src="https://raw.githubusercontent.com/adithyaakrishna/adithyaakrishna/master/svg/Hello.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/adithyaakrishna/adithyaakrishna/master/svg/Hello.png" alt="Hello world" width="600" height="200" >
 
 ## I'm [Adithya Krishna](https://adithyaakrishna.github.io/) </br>
 <b> A rising senior at JIT studying Computer Science Engineering from <img src="https://image.flaticon.com/icons/svg/3014/3014003.svg" width="18"/> <b>Bengaluru, India</b>
@@ -12,12 +12,16 @@
 <hr>
   
 ![Adithya's github Stats](https://github-readme-stats.vercel.app/api?username=adithyaakrishna&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
+<!--
 <a href="https://github.com/adithyaakrishna/RateMadi">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=adithyaakrishna&repo=RateMadi&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
+-->
 
+<!--
 <a href="https://github.com/adithyaakrishna/adithyaakrishna.github.io">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=adithyaakrishna&repo=adithyaakrishna.github.io&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
+-->
+
 
