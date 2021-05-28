@@ -1,6 +1,8 @@
 <!--### Hey There! 🦸‍👋-->
 
-<-- <img src="https://raw.githubusercontent.com/adithyaakrishna/adithyaakrishna/master/svg/Hello.png" alt="Hello world" width="600" height="200"> -->
+<-- 
+<img src="https://raw.githubusercontent.com/adithyaakrishna/adithyaakrishna/master/svg/Hello.png" alt="Hello world" width="600" height="200">
+-->
 
 ## I'm [Adithya Krishna](https://adithyaakrishna.github.io/) </br>
 <b> A Senior at JIT studying Computer Science Engineering from <img src="https://image.flaticon.com/icons/svg/3014/3014003.svg" width="18"/> <b>Bengaluru, India</b>
