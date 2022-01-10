@@ -29,5 +29,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=adithyaakrishna&repo=adithyaakrishna.github.io&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 -->
+ <br> 
 
 ![VisitorCount](https://profile-counter.glitch.me/adithyaakrishna/count.svg)
