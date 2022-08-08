@@ -24,11 +24,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
+- [adithyaakrishna/Analyze-SSG](https://github.com/adithyaakrishna/Analyze-SSG) - Static Site Generators Comparison (today)
 - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 days ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native management plane (2 days ago)
 - [adithyaakrishna/my-static-blazor-app](https://github.com/adithyaakrishna/my-static-blazor-app) -  (3 days ago)
 - [patternfly/patternfly-react](https://github.com/patternfly/patternfly-react) - A set of React components for the PatternFly project.  (6 days ago)
-- [RedHat-UX/red-hat-design-system](https://github.com/RedHat-UX/red-hat-design-system) - Red Hat&#39;s Design System (1 month ago)
 
 #### 🛠 Latest Pull Requests I have created
 
