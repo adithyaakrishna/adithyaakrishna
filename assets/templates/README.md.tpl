@@ -38,11 +38,6 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
-#### 🍴 My Recent Forks
-{{range recentForks 10}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
-
 #### ✅ Latest releases I've contributed to
 {{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}

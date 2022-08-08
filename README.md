@@ -1,6 +1,6 @@
 ## Hello there! 👋🏻
   
-### I'm [Adithya Krishna](https://adithyaakrishna.github.io/), from <b>Bengaluru, India</b></br>
+#### I'm [Adithya Krishna](https://adithyaakrishna.github.io/), from Bengaluru, India </br>
 
 An Associate Software Engineer at [Red Hat](https://www.redhat.com), where I work with tools/libraries like ReactJS, NodeJS, Storybook, Patternfly(Red Hat's Design System), Lerna (monorepo manager), GitLab and it's Pipelines. Sometimes, I also work on AdobeXd and Figma designs to keep the creative part of me alive.
 
