@@ -1,0 +1,47 @@
+name: Update Contributions
+
+on:
+  schedule:
+    - cron: "0 */1 * * *"
+
+jobs:
+  contributions-update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: muesli/readme-scribe@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+        with:
+          template: "templates/README.md.tpl"
+          writeTo: "README.md"
+
+      - name: Add Comments
+        run: |
+         chmod +x "${GITHUB_WORKSPACE}/.github/public/scripts/add-comments.sh"
+         "${GITHUB_WORKSPACE}/.github/public/scripts/add-comments.sh"
+        shell: bash
+
+      - uses: actions/upload-artifact@v1
+        with:
+          name: README.md
+          path: README.md
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          commit_message: Update Generated README
+          branch: master
+          commit_user_name: readme-scribe 🤖
+          commit_user_email: actions@github.com
+          commit_author: readme-scribe 🤖 <actions@github.com>
+
+      - name: Show Readme File
+        run: |
+         cat README.md
+        shell: bash
+
+      
+      
