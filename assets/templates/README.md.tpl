@@ -13,7 +13,8 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 #### 📫 How to reach me
 
 [![Twitter](https://img.shields.io/badge/-@adii_kris-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/adii_kris) &ensp;
-[![LinkedIn](https://img.shields.io/badge/-Adithya%20Krishna-%230A67C3?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/adiiikris/)
+[![LinkedIn](https://img.shields.io/badge/-Adithya%20Krishna-%230A67C3?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/adiiikris/) &ensp;
+[![My Website](https://img.shields.io/badge/-My%20Website-%230A67C3?style=for-the-badge)](https://adithyaakrishna.github.io/)
 
 #### ⚡️ GitHub stats
 
@@ -34,11 +35,6 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 #### ⭐ My Recent Stars
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
-{{- end}}
-
-#### ✅ Latest releases I've contributed to
-{{range recentReleases 5}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
 <br> 
