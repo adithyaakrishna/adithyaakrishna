@@ -8,28 +8,44 @@ Maintainer (Docs) of [Meshery](https://github.com/meshery) (a CNCF Sandbox Proje
 
 A MeshMate at [Layer5](https://layer5.io), where I help new contributors get started with open-source, help them contribute to [Meshery](https://github.com/meshery), have regular sync-ups with new community members to set-up their local dev environments while contributing to Meshery or Layer5 projects.
 
+Apart from work, I love contributing to open-source, reading blogs/newsletters related to tech and latest trends in it. I also love participating in hackathons and during the past two years I have won in a couple of them as well [Hackathon Projects](http://bit.ly/adikris-hackathons)
+
+<!-- #### 📫 How to reach me -->
+
 <p>
   <a href="https://www.twitter.com/adii_kris"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a><a href="https://www.linkedin.com/in/adiiikris"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a><a href="https://dev.to/adithyaakrishna"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a><a href="https://adiiikris.wordpress.com/"><img src="https://img.shields.io/badge/wordpress-%231DA1F2.svg?&style=for-the-badge&logo=wodrpress&logoColor=white" height=25></a>
 </p>
 
+<p align="center">
+    ![Adithya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adithyaakrishna&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+    <!-- <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyaakrishna&layout=compact&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&langs_count=10&hide=jupyter%20notebook,tex,css,php&show=dart"> -->
+</p>
+
 <hr>
 
-![Adithya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adithyaakrishna&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-<!-- <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyaakrishna&layout=compact&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&langs_count=10&hide=jupyter%20notebook,tex,css,php&show=dart"> -->
-
-#### Check out what I'm currently working on 🌱
+#### 🧑🏻‍💻 Check out what I'm currently working on
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-#### Latest releases I've contributed to 🔗
-{{range recentReleases 5}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-{{- end}}
-
-#### Latest Pull Requests I Created 🔧
+#### 🛠 Latest Pull Requests I have created
 {{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
+
+#### ⭐ My Recent Stars
+{{range recentStars 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
+{{- end}}
+
+#### 🍴 My Recent Forks
+{{range recentForks 10}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
+{{- end}}
+
+#### ✅ Latest releases I've contributed to
+{{range recentReleases 5}}
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
 <br> 
