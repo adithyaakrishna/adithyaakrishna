@@ -13,7 +13,8 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 #### 📫 How to reach me
 
 [![Twitter](https://img.shields.io/badge/-@adii_kris-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/adii_kris) &ensp;
-[![LinkedIn](https://img.shields.io/badge/-Adithya%20Krishna-%230A67C3?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/adiiikris/)
+[![LinkedIn](https://img.shields.io/badge/-Adithya%20Krishna-%230A67C3?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/adiiikris/) &ensp;
+[![My Website](https://img.shields.io/badge/-My%20Website-%230A67C3?style=for-the-badge)](https://adithyaakrishna.github.io/)
 
 #### ⚡️ GitHub stats
 
@@ -44,14 +45,6 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 - [kubeslice/docs](https://github.com/kubeslice/docs) - docs: Repository for OSS Docs (1 day ago)
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems (2 days ago)
 - [shashank88/system_design](https://github.com/shashank88/system_design) - Preparation links and resources for system design questions (2 days ago)
-
-#### ✅ Latest releases I've contributed to
-
-- [patternfly/patternfly-react](https://github.com/patternfly/patternfly-react) ([@patternfly/react-charts@6.84.5](https://github.com/patternfly/patternfly-react/releases/tag/%40patternfly%2Freact-charts%406.84.5), 3 days ago) - A set of React components for the PatternFly project. 
-- [nasa/cumulus](https://github.com/nasa/cumulus) ([v13.2.0](https://github.com/nasa/cumulus/releases/tag/v13.2.0), 3 days ago) - Cumulus Framework &#43; Cumulus API
-- [mattermost/focalboard](https://github.com/mattermost/focalboard) ([v7.1.0](https://github.com/mattermost/focalboard/releases/tag/v7.1.0), 1 month ago) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-- [kubernetes/website](https://github.com/kubernetes/website) ([snapshot-initial-v1.24](https://github.com/kubernetes/website/releases/tag/snapshot-initial-v1.24), 3 months ago) - Kubernetes website and documentation repo: 
-- [redhataccess/jwt-redhat](https://github.com/redhataccess/jwt-redhat) ([1.0.1](https://github.com/redhataccess/jwt-redhat/releases/tag/1.0.1), 5 months ago) - For integrating JWT in Red Hat webapps
 
 <br> 
 
