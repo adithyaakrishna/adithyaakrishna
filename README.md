@@ -2,13 +2,13 @@
   
 ### I'm [Adithya Krishna](https://adithyaakrishna.github.io/), from <b>Bengaluru, India</b></br>
 
-An Associate Software Engineer at [Red Hat](https://www.redhat.com), where I work with tools/libraries like ReactJS, NodeJS, Storybook, Patternfly(Red Hat's Design System), Lerna (monorepo manager), GitLab and it's Pipelines. Sometimes, I also work on AdobeXd and Figma designs to keep the creative part of me alive.
+An Associate Software Engineer at [Red Hat](https://www.redhat.com), where I work with tools/libraries like ReactJS, NodeJS, Storybook, Patternfly(Red Hat's Design System), Lerna (monorepo manager), GitLab and it's Pipelines. I also work on AdobeXd and Figma designs to keep the creative part of me alive.
 
 Maintainer (Docs) of [Meshery](https://github.com/meshery) (a CNCF Sandbox Project), where I contribute quite oftenly in areas of UI, GitHub Actions, documentation updates, reviewing PRs and suggesting improvements.
 
 A MeshMate at [Layer5](https://layer5.io), where I help new contributors get started with open-source, help them contribute to [Meshery](https://github.com/meshery), have regular sync-ups with new community members to set-up their local dev environments while contributing to Meshery or Layer5 projects.
 
-Apart from work, I love contributing to open-source, reading blogs/newsletters related to tech and latest trends in it. I also love participating in hackathons and during the past two years I have won in a couple of them as well [Hackathon Projects](http://bit.ly/adikris-hackathons)
+Apart from work, I love contributing to open-source, reading blogs/newsletters related to tech and latest trends in it. I also love participating in hackathons and during the past two years, I have won in a couple of them as well [My hackathon Projects](http://bit.ly/adikris-hackathons)
 
 #### 📫 How to reach me
 
