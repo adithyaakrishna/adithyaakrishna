@@ -24,27 +24,27 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [adithyaakrishna/Analyze-SSG](https://github.com/adithyaakrishna/Analyze-SSG) - Static Site Generators Comparison (today)
-- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 days ago)
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native management plane (2 days ago)
-- [adithyaakrishna/my-static-blazor-app](https://github.com/adithyaakrishna/my-static-blazor-app) -  (3 days ago)
-- [patternfly/patternfly-react](https://github.com/patternfly/patternfly-react) - A set of React components for the PatternFly project.  (6 days ago)
+- [adithyaakrishna/Analyze-SSG](https://github.com/adithyaakrishna/Analyze-SSG) - Static Site Generators Comparison (1 day ago)
+- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (3 days ago)
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native management plane (3 days ago)
+- [adithyaakrishna/my-static-blazor-app](https://github.com/adithyaakrishna/my-static-blazor-app) -  (4 days ago)
+- [patternfly/patternfly-react](https://github.com/patternfly/patternfly-react) - A set of React components for the PatternFly project.  (1 week ago)
 
 #### 🛠 Latest Pull Requests I have created
 
-- [[Chore] - Migrate to TypeScript](https://github.com/RedHatInsights/frontend-components/pull/1595) on [RedHatInsights/frontend-components](https://github.com/RedHatInsights/frontend-components) (today)
-- [[Bug] - Updated chmod permission calculator links](https://github.com/docker/docker.github.io/pull/15337) on [docker/docker.github.io](https://github.com/docker/docker.github.io) (today)
-- [Added Eslint GH Action](https://github.com/meshery/meshery/pull/5986) on [meshery/meshery](https://github.com/meshery/meshery) (2 days ago)
-- [Revert &#34;Bump react-transition-group from 4.3.0 to 4.4.4&#34;](https://github.com/adithyaakrishna/adithyaakrishna.github.io/pull/96) on [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) (6 days ago)
+- [[Chore] - Migrate to TypeScript](https://github.com/RedHatInsights/frontend-components/pull/1595) on [RedHatInsights/frontend-components](https://github.com/RedHatInsights/frontend-components) (1 day ago)
+- [[Bug] - Updated chmod permission calculator links](https://github.com/docker/docker.github.io/pull/15337) on [docker/docker.github.io](https://github.com/docker/docker.github.io) (1 day ago)
+- [Added Eslint GH Action](https://github.com/meshery/meshery/pull/5986) on [meshery/meshery](https://github.com/meshery/meshery) (3 days ago)
+- [Revert &#34;Bump react-transition-group from 4.3.0 to 4.4.4&#34;](https://github.com/adithyaakrishna/adithyaakrishna.github.io/pull/96) on [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) (1 week ago)
 - [Bug(ContextSelector) - Updated Param Type of toggleText in ContentSelector](https://github.com/patternfly/patternfly-react/pull/7651) on [patternfly/patternfly-react](https://github.com/patternfly/patternfly-react) (1 month ago)
 
 #### ⭐ My Recent Stars
 
-- [fluent/fluentd-website](https://github.com/fluent/fluentd-website) - For fluentd.org (today)
-- [armosec/kubescape](https://github.com/armosec/kubescape) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.  (today)
-- [kubeslice/docs](https://github.com/kubeslice/docs) - docs: Repository for OSS Docs (1 day ago)
-- [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems (2 days ago)
-- [shashank88/system_design](https://github.com/shashank88/system_design) - Preparation links and resources for system design questions (2 days ago)
+- [fluent/fluentd-website](https://github.com/fluent/fluentd-website) - For fluentd.org (1 day ago)
+- [armosec/kubescape](https://github.com/armosec/kubescape) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.  (1 day ago)
+- [kubeslice/docs](https://github.com/kubeslice/docs) - docs: Repository for OSS Docs (2 days ago)
+- [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems (3 days ago)
+- [shashank88/system_design](https://github.com/shashank88/system_design) - Preparation links and resources for system design questions (3 days ago)
 
 <br> 
 
