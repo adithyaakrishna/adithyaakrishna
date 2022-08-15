@@ -24,7 +24,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [adithyaakrishna/Analyze-SSG](https://github.com/adithyaakrishna/Analyze-SSG) - Static Site Generators Comparison (6 days ago)
+- [adithyaakrishna/Analyze-SSG](https://github.com/adithyaakrishna/Analyze-SSG) - Static Site Generators Comparison (1 week ago)
 - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 week ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native management plane (1 week ago)
 - [adithyaakrishna/my-static-blazor-app](https://github.com/adithyaakrishna/my-static-blazor-app) -  (1 week ago)
@@ -32,18 +32,18 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🛠 Latest Pull Requests I have created
 
-- [[Chore] - Migrate to TypeScript](https://github.com/RedHatInsights/frontend-components/pull/1595) on [RedHatInsights/frontend-components](https://github.com/RedHatInsights/frontend-components) (6 days ago)
-- [[Bug] - Updated chmod permission calculator links](https://github.com/docker/docker.github.io/pull/15337) on [docker/docker.github.io](https://github.com/docker/docker.github.io) (6 days ago)
+- [[Chore] - Migrate to TypeScript](https://github.com/RedHatInsights/frontend-components/pull/1595) on [RedHatInsights/frontend-components](https://github.com/RedHatInsights/frontend-components) (1 week ago)
+- [[Bug] - Updated chmod permission calculator links](https://github.com/docker/docker.github.io/pull/15337) on [docker/docker.github.io](https://github.com/docker/docker.github.io) (1 week ago)
 - [Added Eslint GH Action](https://github.com/meshery/meshery/pull/5986) on [meshery/meshery](https://github.com/meshery/meshery) (1 week ago)
 - [Revert &#34;Bump react-transition-group from 4.3.0 to 4.4.4&#34;](https://github.com/adithyaakrishna/adithyaakrishna.github.io/pull/96) on [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) (1 week ago)
 - [Bug(ContextSelector) - Updated Param Type of toggleText in ContentSelector](https://github.com/patternfly/patternfly-react/pull/7651) on [patternfly/patternfly-react](https://github.com/patternfly/patternfly-react) (1 month ago)
 
 #### ⭐ My Recent Stars
 
-- [hoppscotch/hoppscotch-extension](https://github.com/hoppscotch/hoppscotch-extension) - 🧩 Browser extensions to provide more capabilities to https://hoppscotch.io (4 days ago)
-- [hoppscotch/docs](https://github.com/hoppscotch/docs) - 📖 Hoppscotch documentation (work in progress) - https://docs.hoppscotch.io (4 days ago)
-- [fluent/fluentd-website](https://github.com/fluent/fluentd-website) - For fluentd.org (6 days ago)
-- [armosec/kubescape](https://github.com/armosec/kubescape) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.  (6 days ago)
+- [hoppscotch/hoppscotch-extension](https://github.com/hoppscotch/hoppscotch-extension) - 🧩 Browser extensions to provide more capabilities to https://hoppscotch.io (5 days ago)
+- [hoppscotch/docs](https://github.com/hoppscotch/docs) - 📖 Hoppscotch documentation (work in progress) - https://docs.hoppscotch.io (5 days ago)
+- [fluent/fluentd-website](https://github.com/fluent/fluentd-website) - For fluentd.org (1 week ago)
+- [armosec/kubescape](https://github.com/armosec/kubescape) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.  (1 week ago)
 - [kubeslice/docs](https://github.com/kubeslice/docs) - docs: Repository for OSS Docs (1 week ago)
 
 <br> 
