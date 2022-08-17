@@ -40,11 +40,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
+- [karangarg45/eslint-plugin-react-hooks-state](https://github.com/karangarg45/eslint-plugin-react-hooks-state) - Eslint plugin to verify user syncs component state with the context state while using hooks (today)
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API (today)
 - [hoppscotch/hoppscotch-extension](https://github.com/hoppscotch/hoppscotch-extension) - 🧩 Browser extensions to provide more capabilities to https://hoppscotch.io (1 week ago)
 - [hoppscotch/docs](https://github.com/hoppscotch/docs) - 📖 Hoppscotch documentation (work in progress) - https://docs.hoppscotch.io (1 week ago)
 - [fluent/fluentd-website](https://github.com/fluent/fluentd-website) - For fluentd.org (1 week ago)
-- [armosec/kubescape](https://github.com/armosec/kubescape) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.  (1 week ago)
-- [kubeslice/docs](https://github.com/kubeslice/docs) - docs: Repository for OSS Docs (1 week ago)
 
 <br> 
 
