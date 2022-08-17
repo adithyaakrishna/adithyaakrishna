@@ -24,7 +24,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (today)
+- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 day ago)
 - [adithyaakrishna/Analyze-SSG](https://github.com/adithyaakrishna/Analyze-SSG) - Static Site Generators Comparison (1 week ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native management plane (1 week ago)
 - [patternfly/patternfly-react](https://github.com/patternfly/patternfly-react) - A set of React components for the PatternFly project.  (2 weeks ago)
@@ -40,8 +40,8 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
-- [hoppscotch/hoppscotch-extension](https://github.com/hoppscotch/hoppscotch-extension) - 🧩 Browser extensions to provide more capabilities to https://hoppscotch.io (6 days ago)
-- [hoppscotch/docs](https://github.com/hoppscotch/docs) - 📖 Hoppscotch documentation (work in progress) - https://docs.hoppscotch.io (6 days ago)
+- [hoppscotch/hoppscotch-extension](https://github.com/hoppscotch/hoppscotch-extension) - 🧩 Browser extensions to provide more capabilities to https://hoppscotch.io (1 week ago)
+- [hoppscotch/docs](https://github.com/hoppscotch/docs) - 📖 Hoppscotch documentation (work in progress) - https://docs.hoppscotch.io (1 week ago)
 - [fluent/fluentd-website](https://github.com/fluent/fluentd-website) - For fluentd.org (1 week ago)
 - [armosec/kubescape](https://github.com/armosec/kubescape) - Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.  (1 week ago)
 - [kubeslice/docs](https://github.com/kubeslice/docs) - docs: Repository for OSS Docs (1 week ago)
