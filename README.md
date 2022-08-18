@@ -40,11 +40,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
+- [cntt-n/CNTT](https://github.com/cntt-n/CNTT) - CNTT (today)
 - [karangarg45/eslint-plugin-react-hooks-state](https://github.com/karangarg45/eslint-plugin-react-hooks-state) - Eslint plugin to verify user syncs component state with the context state while using hooks (1 day ago)
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API (1 day ago)
 - [hoppscotch/hoppscotch-extension](https://github.com/hoppscotch/hoppscotch-extension) - 🧩 Browser extensions to provide more capabilities to https://hoppscotch.io (1 week ago)
 - [hoppscotch/docs](https://github.com/hoppscotch/docs) - 📖 Hoppscotch documentation (work in progress) - https://docs.hoppscotch.io (1 week ago)
-- [fluent/fluentd-website](https://github.com/fluent/fluentd-website) - For fluentd.org (1 week ago)
 
 <br> 
 
