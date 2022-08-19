@@ -24,7 +24,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 days ago)
+- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (3 days ago)
 - [adithyaakrishna/Analyze-SSG](https://github.com/adithyaakrishna/Analyze-SSG) - Static Site Generators Comparison (1 week ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native management plane (1 week ago)
 - [patternfly/patternfly-react](https://github.com/patternfly/patternfly-react) - A set of React components for the PatternFly project.  (2 weeks ago)
@@ -40,9 +40,9 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
-- [cntt-n/CNTT](https://github.com/cntt-n/CNTT) - CNTT (today)
-- [karangarg45/eslint-plugin-react-hooks-state](https://github.com/karangarg45/eslint-plugin-react-hooks-state) - Eslint plugin to verify user syncs component state with the context state while using hooks (1 day ago)
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API (1 day ago)
+- [cntt-n/CNTT](https://github.com/cntt-n/CNTT) - CNTT (1 day ago)
+- [karangarg45/eslint-plugin-react-hooks-state](https://github.com/karangarg45/eslint-plugin-react-hooks-state) - Eslint plugin to verify user syncs component state with the context state while using hooks (2 days ago)
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API (2 days ago)
 - [hoppscotch/hoppscotch-extension](https://github.com/hoppscotch/hoppscotch-extension) - 🧩 Browser extensions to provide more capabilities to https://hoppscotch.io (1 week ago)
 - [hoppscotch/docs](https://github.com/hoppscotch/docs) - 📖 Hoppscotch documentation (work in progress) - https://docs.hoppscotch.io (1 week ago)
 
