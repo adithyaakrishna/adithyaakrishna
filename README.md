@@ -32,11 +32,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🛠 Latest Pull Requests I have created
 
+- [Updated Red Hat Logo and Text](https://github.com/kumahq/kuma-website/pull/971) on [kumahq/kuma-website](https://github.com/kumahq/kuma-website) (today)
 - [[Chore] - Migrate to TypeScript](https://github.com/RedHatInsights/frontend-components/pull/1595) on [RedHatInsights/frontend-components](https://github.com/RedHatInsights/frontend-components) (1 week ago)
 - [[Bug] - Updated chmod permission calculator links](https://github.com/docker/docker.github.io/pull/15337) on [docker/docker.github.io](https://github.com/docker/docker.github.io) (1 week ago)
 - [Added Eslint GH Action](https://github.com/meshery/meshery/pull/5986) on [meshery/meshery](https://github.com/meshery/meshery) (1 week ago)
 - [Revert &#34;Bump react-transition-group from 4.3.0 to 4.4.4&#34;](https://github.com/adithyaakrishna/adithyaakrishna.github.io/pull/96) on [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) (2 weeks ago)
-- [Bug(ContextSelector) - Updated Param Type of toggleText in ContentSelector](https://github.com/patternfly/patternfly-react/pull/7651) on [patternfly/patternfly-react](https://github.com/patternfly/patternfly-react) (1 month ago)
 
 #### ⭐ My Recent Stars
 
