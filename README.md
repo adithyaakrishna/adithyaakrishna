@@ -24,7 +24,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (4 days ago)
+- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (5 days ago)
 - [adithyaakrishna/Analyze-SSG](https://github.com/adithyaakrishna/Analyze-SSG) - Static Site Generators Comparison (1 week ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native management plane (2 weeks ago)
 - [patternfly/patternfly-react](https://github.com/patternfly/patternfly-react) - A set of React components for the PatternFly project.  (2 weeks ago)
@@ -32,7 +32,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🛠 Latest Pull Requests I have created
 
-- [Updated Red Hat Logo and Text](https://github.com/kumahq/kuma-website/pull/971) on [kumahq/kuma-website](https://github.com/kumahq/kuma-website) (1 day ago)
+- [Updated Red Hat Logo and Text](https://github.com/kumahq/kuma-website/pull/971) on [kumahq/kuma-website](https://github.com/kumahq/kuma-website) (2 days ago)
 - [[Chore] - Migrate to TypeScript](https://github.com/RedHatInsights/frontend-components/pull/1595) on [RedHatInsights/frontend-components](https://github.com/RedHatInsights/frontend-components) (1 week ago)
 - [[Bug] - Updated chmod permission calculator links](https://github.com/docker/docker.github.io/pull/15337) on [docker/docker.github.io](https://github.com/docker/docker.github.io) (1 week ago)
 - [Added Eslint GH Action](https://github.com/meshery/meshery/pull/5986) on [meshery/meshery](https://github.com/meshery/meshery) (2 weeks ago)
@@ -40,9 +40,9 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
-- [cntt-n/CNTT](https://github.com/cntt-n/CNTT) - CNTT (2 days ago)
-- [karangarg45/eslint-plugin-react-hooks-state](https://github.com/karangarg45/eslint-plugin-react-hooks-state) - Eslint plugin to verify user syncs component state with the context state while using hooks (3 days ago)
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API (3 days ago)
+- [cntt-n/CNTT](https://github.com/cntt-n/CNTT) - CNTT (3 days ago)
+- [karangarg45/eslint-plugin-react-hooks-state](https://github.com/karangarg45/eslint-plugin-react-hooks-state) - Eslint plugin to verify user syncs component state with the context state while using hooks (4 days ago)
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API (4 days ago)
 - [hoppscotch/hoppscotch-extension](https://github.com/hoppscotch/hoppscotch-extension) - 🧩 Browser extensions to provide more capabilities to https://hoppscotch.io (1 week ago)
 - [hoppscotch/docs](https://github.com/hoppscotch/docs) - 📖 Hoppscotch documentation (work in progress) - https://docs.hoppscotch.io (1 week ago)
 
