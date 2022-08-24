@@ -24,27 +24,27 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
+- [kumahq/kuma-website](https://github.com/kumahq/kuma-website) - 🐻 The official website for Kuma, the control plane for modern service connectivity. (today)
 - [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker&#39;s Documentation (1 day ago)
-- [adithyaakrishna/t3-con-new](https://github.com/adithyaakrishna/t3-con-new) -  (2 days ago)
 - [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) - Homepage for the test trove (2 days ago)
+- [adithyaakrishna/t3-con-new](https://github.com/adithyaakrishna/t3-con-new) -  (2 days ago)
 - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 week ago)
-- [adithyaakrishna/Analyze-SSG](https://github.com/adithyaakrishna/Analyze-SSG) - Static Site Generators Comparison (2 weeks ago)
 
 #### 🛠 Latest Pull Requests I have created
 
+- [[Bug] - Fixed Copy Icon scrolling horizontally](https://github.com/kumahq/kuma-website/pull/981) on [kumahq/kuma-website](https://github.com/kumahq/kuma-website) (today)
 - [Updated Next Config](https://github.com/the-test-trove/the-test-trove.github.io/pull/31) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (2 days ago)
 - [Removed Large APIS](https://github.com/the-test-trove/the-test-trove.github.io/pull/30) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (2 days ago)
 - [Updated distDir](https://github.com/the-test-trove/the-test-trove.github.io/pull/29) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (2 days ago)
 - [Removed package-lock](https://github.com/the-test-trove/the-test-trove.github.io/pull/28) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (2 days ago)
-- [Updated Next Version and Removed .next directory](https://github.com/the-test-trove/the-test-trove.github.io/pull/27) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (2 days ago)
 
 #### ⭐ My Recent Stars
 
+- [BolajiAyodeji/awesome-technical-writing](https://github.com/BolajiAyodeji/awesome-technical-writing) - :books: A curated list of awesome resources : articles, books, videos, tools, podcasts about technical writing (today)
+- [malgamves/CommunityWriterPrograms](https://github.com/malgamves/CommunityWriterPrograms) - A list of Developer Community Writer Programs (today)
+- [kiegroup/kie-cloud-operator](https://github.com/kiegroup/kie-cloud-operator) - OCP Operator for KIE (today)
 - [cntt-n/CNTT](https://github.com/cntt-n/CNTT) - CNTT (6 days ago)
 - [karangarg45/eslint-plugin-react-hooks-state](https://github.com/karangarg45/eslint-plugin-react-hooks-state) - Eslint plugin to verify user syncs component state with the context state while using hooks (1 week ago)
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API (1 week ago)
-- [hoppscotch/hoppscotch-extension](https://github.com/hoppscotch/hoppscotch-extension) - 🧩 Browser extensions to provide more capabilities to https://hoppscotch.io (2 weeks ago)
-- [hoppscotch/docs](https://github.com/hoppscotch/docs) - 📖 Hoppscotch documentation (work in progress) - https://docs.hoppscotch.io (2 weeks ago)
 
 <br> 
 
