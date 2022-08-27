@@ -40,11 +40,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
+- [kadalu/moana](https://github.com/kadalu/moana) - Moana is a frontend for the Kadalu Storage / GlusterFS. Moana provides tools for setting up and managing the Kadalu Storage / Gluster pools. (today)
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Figma to HTML, CSS, React, Vue, and more! (2 days ago)
 - [BolajiAyodeji/awesome-technical-writing](https://github.com/BolajiAyodeji/awesome-technical-writing) - :books: A curated list of awesome resources : articles, books, videos, tools, podcasts about technical writing (3 days ago)
 - [malgamves/CommunityWriterPrograms](https://github.com/malgamves/CommunityWriterPrograms) - A list of Developer Community Writer Programs (3 days ago)
 - [kiegroup/kie-cloud-operator](https://github.com/kiegroup/kie-cloud-operator) - OCP Operator for KIE (3 days ago)
-- [cntt-n/CNTT](https://github.com/cntt-n/CNTT) - CNTT (1 week ago)
 
 <br> 
 
