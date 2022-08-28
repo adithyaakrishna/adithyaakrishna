@@ -24,27 +24,27 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [kumahq/kuma-website](https://github.com/kumahq/kuma-website) - 🐻 The official website for Kuma, the control plane for modern service connectivity. (3 days ago)
-- [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker&#39;s Documentation (4 days ago)
-- [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) - Homepage for the test trove (5 days ago)
-- [adithyaakrishna/t3-con-new](https://github.com/adithyaakrishna/t3-con-new) -  (5 days ago)
+- [kumahq/kuma-website](https://github.com/kumahq/kuma-website) - 🐻 The official website for Kuma, the control plane for modern service connectivity. (4 days ago)
+- [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker&#39;s Documentation (5 days ago)
+- [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) - Homepage for the test trove (6 days ago)
+- [adithyaakrishna/t3-con-new](https://github.com/adithyaakrishna/t3-con-new) -  (6 days ago)
 - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 week ago)
 
 #### 🛠 Latest Pull Requests I have created
 
-- [[Bug] - Fixed Copy Icon scrolling horizontally](https://github.com/kumahq/kuma-website/pull/981) on [kumahq/kuma-website](https://github.com/kumahq/kuma-website) (3 days ago)
-- [Updated Next Config](https://github.com/the-test-trove/the-test-trove.github.io/pull/31) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (5 days ago)
-- [Removed Large APIS](https://github.com/the-test-trove/the-test-trove.github.io/pull/30) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (5 days ago)
-- [Updated distDir](https://github.com/the-test-trove/the-test-trove.github.io/pull/29) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (5 days ago)
-- [Removed package-lock](https://github.com/the-test-trove/the-test-trove.github.io/pull/28) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (5 days ago)
+- [[Bug] - Fixed Copy Icon scrolling horizontally](https://github.com/kumahq/kuma-website/pull/981) on [kumahq/kuma-website](https://github.com/kumahq/kuma-website) (4 days ago)
+- [Updated Next Config](https://github.com/the-test-trove/the-test-trove.github.io/pull/31) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (6 days ago)
+- [Removed Large APIS](https://github.com/the-test-trove/the-test-trove.github.io/pull/30) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (6 days ago)
+- [Updated distDir](https://github.com/the-test-trove/the-test-trove.github.io/pull/29) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (6 days ago)
+- [Removed package-lock](https://github.com/the-test-trove/the-test-trove.github.io/pull/28) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (6 days ago)
 
 #### ⭐ My Recent Stars
 
-- [kadalu/moana](https://github.com/kadalu/moana) - Moana is a frontend for the Kadalu Storage / GlusterFS. Moana provides tools for setting up and managing the Kadalu Storage / Gluster pools. (today)
-- [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Figma to HTML, CSS, React, Vue, and more! (2 days ago)
-- [BolajiAyodeji/awesome-technical-writing](https://github.com/BolajiAyodeji/awesome-technical-writing) - :books: A curated list of awesome resources : articles, books, videos, tools, podcasts about technical writing (3 days ago)
-- [malgamves/CommunityWriterPrograms](https://github.com/malgamves/CommunityWriterPrograms) - A list of Developer Community Writer Programs (3 days ago)
-- [kiegroup/kie-cloud-operator](https://github.com/kiegroup/kie-cloud-operator) - OCP Operator for KIE (3 days ago)
+- [kadalu/moana](https://github.com/kadalu/moana) - Moana is a frontend for the Kadalu Storage / GlusterFS. Moana provides tools for setting up and managing the Kadalu Storage / Gluster pools. (1 day ago)
+- [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Figma to HTML, CSS, React, Vue, and more! (3 days ago)
+- [BolajiAyodeji/awesome-technical-writing](https://github.com/BolajiAyodeji/awesome-technical-writing) - :books: A curated list of awesome resources : articles, books, videos, tools, podcasts about technical writing (4 days ago)
+- [malgamves/CommunityWriterPrograms](https://github.com/malgamves/CommunityWriterPrograms) - A list of Developer Community Writer Programs (4 days ago)
+- [kiegroup/kie-cloud-operator](https://github.com/kiegroup/kie-cloud-operator) - OCP Operator for KIE (4 days ago)
 
 <br> 
 
