@@ -24,7 +24,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [kumahq/kuma-website](https://github.com/kumahq/kuma-website) - 🐻 The official website for Kuma, the control plane for modern service connectivity. (6 days ago)
+- [kumahq/kuma-website](https://github.com/kumahq/kuma-website) - 🐻 The official website for Kuma, the control plane for modern service connectivity. (1 week ago)
 - [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker&#39;s Documentation (1 week ago)
 - [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) - Homepage for the test trove (1 week ago)
 - [adithyaakrishna/t3-con-new](https://github.com/adithyaakrishna/t3-con-new) -  (1 week ago)
@@ -32,7 +32,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🛠 Latest Pull Requests I have created
 
-- [[Bug] - Fixed Copy Icon scrolling horizontally](https://github.com/kumahq/kuma-website/pull/981) on [kumahq/kuma-website](https://github.com/kumahq/kuma-website) (6 days ago)
+- [[Bug] - Fixed Copy Icon scrolling horizontally](https://github.com/kumahq/kuma-website/pull/981) on [kumahq/kuma-website](https://github.com/kumahq/kuma-website) (1 week ago)
 - [Updated Next Config](https://github.com/the-test-trove/the-test-trove.github.io/pull/31) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (1 week ago)
 - [Removed Large APIS](https://github.com/the-test-trove/the-test-trove.github.io/pull/30) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (1 week ago)
 - [Updated distDir](https://github.com/the-test-trove/the-test-trove.github.io/pull/29) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (1 week ago)
@@ -40,11 +40,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
-- [rh-impact/pnt-hackathon-2022](https://github.com/rh-impact/pnt-hackathon-2022) -  (today)
-- [fossology/FOSSologyUI](https://github.com/fossology/FOSSologyUI) - Repository to hold the new UI framework for FOSSology built with React (1 day ago)
-- [kadalu/moana](https://github.com/kadalu/moana) - Moana is a frontend for the Kadalu Storage / GlusterFS. Moana provides tools for setting up and managing the Kadalu Storage / Gluster pools. (3 days ago)
-- [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Figma to HTML, CSS, React, Vue, and more! (5 days ago)
-- [BolajiAyodeji/awesome-technical-writing](https://github.com/BolajiAyodeji/awesome-technical-writing) - :books: A curated list of awesome resources : articles, books, videos, tools, podcasts about technical writing (6 days ago)
+- [redhat-developer/odo](https://github.com/redhat-developer/odo) - odo - Developer-focused CLI for OpenShift and Kubernetes (1 day ago)
+- [rh-impact/pnt-hackathon-2022](https://github.com/rh-impact/pnt-hackathon-2022) -  (1 day ago)
+- [fossology/FOSSologyUI](https://github.com/fossology/FOSSologyUI) - Repository to hold the new UI framework for FOSSology built with React (2 days ago)
+- [kadalu/moana](https://github.com/kadalu/moana) - Moana is a frontend for the Kadalu Storage / GlusterFS. Moana provides tools for setting up and managing the Kadalu Storage / Gluster pools. (4 days ago)
+- [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Figma to HTML, CSS, React, Vue, and more! (6 days ago)
 
 <br> 
 
