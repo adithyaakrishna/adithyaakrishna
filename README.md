@@ -40,10 +40,10 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
-- [redhat-developer/odo](https://github.com/redhat-developer/odo) - odo - Developer-focused CLI for OpenShift and Kubernetes (2 days ago)
-- [rh-impact/pnt-hackathon-2022](https://github.com/rh-impact/pnt-hackathon-2022) -  (2 days ago)
-- [fossology/FOSSologyUI](https://github.com/fossology/FOSSologyUI) - Repository to hold the new UI framework for FOSSology built with React (3 days ago)
-- [kadalu/moana](https://github.com/kadalu/moana) - Moana is a frontend for the Kadalu Storage / GlusterFS. Moana provides tools for setting up and managing the Kadalu Storage / Gluster pools. (5 days ago)
+- [redhat-developer/odo](https://github.com/redhat-developer/odo) - odo - Developer-focused CLI for OpenShift and Kubernetes (3 days ago)
+- [rh-impact/pnt-hackathon-2022](https://github.com/rh-impact/pnt-hackathon-2022) -  (3 days ago)
+- [fossology/FOSSologyUI](https://github.com/fossology/FOSSologyUI) - Repository to hold the new UI framework for FOSSology built with React (4 days ago)
+- [kadalu/moana](https://github.com/kadalu/moana) - Moana is a frontend for the Kadalu Storage / GlusterFS. Moana provides tools for setting up and managing the Kadalu Storage / Gluster pools. (6 days ago)
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Figma to HTML, CSS, React, Vue, and more! (1 week ago)
 
 <br> 
