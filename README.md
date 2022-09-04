@@ -24,7 +24,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 day ago)
+- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 days ago)
 - [kumahq/kuma-website](https://github.com/kumahq/kuma-website) - 🐻 The official website for Kuma, the control plane for modern service connectivity. (1 week ago)
 - [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker&#39;s Documentation (1 week ago)
 - [adithyaakrishna/t3-con-new](https://github.com/adithyaakrishna/t3-con-new) -  (1 week ago)
@@ -40,11 +40,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
-- [redhat-developer/odo](https://github.com/redhat-developer/odo) - odo - Developer-focused CLI for OpenShift and Kubernetes (4 days ago)
-- [rh-impact/pnt-hackathon-2022](https://github.com/rh-impact/pnt-hackathon-2022) -  (4 days ago)
-- [fossology/FOSSologyUI](https://github.com/fossology/FOSSologyUI) - Repository to hold the new UI framework for FOSSology built with React (5 days ago)
+- [FNNDSC/cookiecutter-chrisapp](https://github.com/FNNDSC/cookiecutter-chrisapp) - A cookiecutter template for Chris app plugins (1 day ago)
+- [redhat-developer/odo](https://github.com/redhat-developer/odo) - odo - Developer-focused CLI for OpenShift and Kubernetes (5 days ago)
+- [rh-impact/pnt-hackathon-2022](https://github.com/rh-impact/pnt-hackathon-2022) -  (5 days ago)
+- [fossology/FOSSologyUI](https://github.com/fossology/FOSSologyUI) - Repository to hold the new UI framework for FOSSology built with React (6 days ago)
 - [kadalu/moana](https://github.com/kadalu/moana) - Moana is a frontend for the Kadalu Storage / GlusterFS. Moana provides tools for setting up and managing the Kadalu Storage / Gluster pools. (1 week ago)
-- [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Figma to HTML, CSS, React, Vue, and more! (1 week ago)
 
 <br> 
 
