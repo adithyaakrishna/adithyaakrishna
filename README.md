@@ -40,11 +40,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
-- [FNNDSC/cookiecutter-chrisapp](https://github.com/FNNDSC/cookiecutter-chrisapp) - A cookiecutter template for Chris app plugins (1 day ago)
-- [redhat-developer/odo](https://github.com/redhat-developer/odo) - odo - Developer-focused CLI for OpenShift and Kubernetes (5 days ago)
-- [rh-impact/pnt-hackathon-2022](https://github.com/rh-impact/pnt-hackathon-2022) -  (5 days ago)
-- [fossology/FOSSologyUI](https://github.com/fossology/FOSSologyUI) - Repository to hold the new UI framework for FOSSology built with React (6 days ago)
-- [kadalu/moana](https://github.com/kadalu/moana) - Moana is a frontend for the Kadalu Storage / GlusterFS. Moana provides tools for setting up and managing the Kadalu Storage / Gluster pools. (1 week ago)
+- [flotiq/flotiq-gatsby-shop-1](https://github.com/flotiq/flotiq-gatsby-shop-1) - Flotiq starter for creating a shop with gatsby (today)
+- [JorgeX/gatsby-theme-novela](https://github.com/JorgeX/gatsby-theme-novela) - Welcome to Novela, the simplest way to start publishing with Gatsby. (today)
+- [codebushi/gatsby-starter-paradigm-shift](https://github.com/codebushi/gatsby-starter-paradigm-shift) -  (today)
+- [LekoArts/gatsby-starter-portfolio-emilia](https://github.com/LekoArts/gatsby-starter-portfolio-emilia) - Minimalistic portfolio/photography site with masonry grid, page transitions and big images. Themeable with Theme UI. Includes Light/Dark mode. (today)
+- [LekoArts/gatsby-starter-portfolio-jodie](https://github.com/LekoArts/gatsby-starter-portfolio-jodie) - Image-heavy photography portfolio with colorful accents &amp; customizable pages. Includes adaptive image grids powered by CSS grid and automatic image integration into projects. (today)
 
 <br> 
 
