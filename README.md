@@ -24,27 +24,27 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 days ago)
+- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (3 days ago)
 - [kumahq/kuma-website](https://github.com/kumahq/kuma-website) - 🐻 The official website for Kuma, the control plane for modern service connectivity. (1 week ago)
 - [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker&#39;s Documentation (1 week ago)
-- [adithyaakrishna/t3-con-new](https://github.com/adithyaakrishna/t3-con-new) -  (1 week ago)
-- [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) - Homepage for the test trove (1 week ago)
+- [adithyaakrishna/t3-con-new](https://github.com/adithyaakrishna/t3-con-new) -  (2 weeks ago)
+- [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) - Homepage for the test trove (2 weeks ago)
 
 #### 🛠 Latest Pull Requests I have created
 
 - [[Bug] - Fixed Copy Icon scrolling horizontally](https://github.com/kumahq/kuma-website/pull/981) on [kumahq/kuma-website](https://github.com/kumahq/kuma-website) (1 week ago)
-- [Updated Next Config](https://github.com/the-test-trove/the-test-trove.github.io/pull/31) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (1 week ago)
-- [Removed Large APIS](https://github.com/the-test-trove/the-test-trove.github.io/pull/30) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (1 week ago)
-- [Updated distDir](https://github.com/the-test-trove/the-test-trove.github.io/pull/29) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (1 week ago)
-- [Removed package-lock](https://github.com/the-test-trove/the-test-trove.github.io/pull/28) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (1 week ago)
+- [Updated Next Config](https://github.com/the-test-trove/the-test-trove.github.io/pull/31) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (2 weeks ago)
+- [Removed Large APIS](https://github.com/the-test-trove/the-test-trove.github.io/pull/30) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (2 weeks ago)
+- [Updated distDir](https://github.com/the-test-trove/the-test-trove.github.io/pull/29) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (2 weeks ago)
+- [Removed package-lock](https://github.com/the-test-trove/the-test-trove.github.io/pull/28) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (2 weeks ago)
 
 #### ⭐ My Recent Stars
 
-- [flotiq/flotiq-gatsby-shop-1](https://github.com/flotiq/flotiq-gatsby-shop-1) - Flotiq starter for creating a shop with gatsby (today)
-- [JorgeX/gatsby-theme-novela](https://github.com/JorgeX/gatsby-theme-novela) - Welcome to Novela, the simplest way to start publishing with Gatsby. (today)
-- [codebushi/gatsby-starter-paradigm-shift](https://github.com/codebushi/gatsby-starter-paradigm-shift) -  (today)
-- [LekoArts/gatsby-starter-portfolio-emilia](https://github.com/LekoArts/gatsby-starter-portfolio-emilia) - Minimalistic portfolio/photography site with masonry grid, page transitions and big images. Themeable with Theme UI. Includes Light/Dark mode. (today)
-- [LekoArts/gatsby-starter-portfolio-jodie](https://github.com/LekoArts/gatsby-starter-portfolio-jodie) - Image-heavy photography portfolio with colorful accents &amp; customizable pages. Includes adaptive image grids powered by CSS grid and automatic image integration into projects. (today)
+- [flotiq/flotiq-gatsby-shop-1](https://github.com/flotiq/flotiq-gatsby-shop-1) - Flotiq starter for creating a shop with gatsby (1 day ago)
+- [JorgeX/gatsby-theme-novela](https://github.com/JorgeX/gatsby-theme-novela) - Welcome to Novela, the simplest way to start publishing with Gatsby. (1 day ago)
+- [codebushi/gatsby-starter-paradigm-shift](https://github.com/codebushi/gatsby-starter-paradigm-shift) -  (1 day ago)
+- [LekoArts/gatsby-starter-portfolio-emilia](https://github.com/LekoArts/gatsby-starter-portfolio-emilia) - Minimalistic portfolio/photography site with masonry grid, page transitions and big images. Themeable with Theme UI. Includes Light/Dark mode. (1 day ago)
+- [LekoArts/gatsby-starter-portfolio-jodie](https://github.com/LekoArts/gatsby-starter-portfolio-jodie) - Image-heavy photography portfolio with colorful accents &amp; customizable pages. Includes adaptive image grids powered by CSS grid and automatic image integration into projects. (1 day ago)
 
 <br> 
 
