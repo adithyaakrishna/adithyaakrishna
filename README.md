@@ -24,11 +24,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (4 days ago)
+- [adithyaakrishna/JIT-Canteen-Admin](https://github.com/adithyaakrishna/JIT-Canteen-Admin) - The Admin Site of JIT CMA (today)
+- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (today)
+- [adithyaakrishna/Actions-on-Google](https://github.com/adithyaakrishna/Actions-on-Google) - This Project is For Developing My Actions Which Are Published To Google Assistant (today)
 - [kumahq/kuma-website](https://github.com/kumahq/kuma-website) - 🐻 The official website for Kuma, the control plane for modern service connectivity. (1 week ago)
 - [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker&#39;s Documentation (2 weeks ago)
-- [adithyaakrishna/t3-con-new](https://github.com/adithyaakrishna/t3-con-new) -  (2 weeks ago)
-- [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) - Homepage for the test trove (2 weeks ago)
 
 #### 🛠 Latest Pull Requests I have created
 
