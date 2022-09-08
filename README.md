@@ -40,11 +40,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
+- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production (today)
+- [apache/apisix-dashboard](https://github.com/apache/apisix-dashboard) - Dashboard for Apache APISIX (today)
 - [flotiq/flotiq-gatsby-shop-1](https://github.com/flotiq/flotiq-gatsby-shop-1) - Flotiq starter for creating a shop with gatsby (4 days ago)
 - [JorgeX/gatsby-theme-novela](https://github.com/JorgeX/gatsby-theme-novela) - Welcome to Novela, the simplest way to start publishing with Gatsby. (4 days ago)
 - [codebushi/gatsby-starter-paradigm-shift](https://github.com/codebushi/gatsby-starter-paradigm-shift) -  (4 days ago)
-- [LekoArts/gatsby-starter-portfolio-emilia](https://github.com/LekoArts/gatsby-starter-portfolio-emilia) - Minimalistic portfolio/photography site with masonry grid, page transitions and big images. Themeable with Theme UI. Includes Light/Dark mode. (4 days ago)
-- [LekoArts/gatsby-starter-portfolio-jodie](https://github.com/LekoArts/gatsby-starter-portfolio-jodie) - Image-heavy photography portfolio with colorful accents &amp; customizable pages. Includes adaptive image grids powered by CSS grid and automatic image integration into projects. (4 days ago)
 
 <br> 
 
