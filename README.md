@@ -24,11 +24,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
+- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (today)
+- [adithyaakrishna/console-log](https://github.com/adithyaakrishna/console-log) -  (today)
 - [adithyaakrishna/JIT-Canteen-Admin](https://github.com/adithyaakrishna/JIT-Canteen-Admin) - The Admin Site of JIT CMA (3 days ago)
-- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (3 days ago)
 - [adithyaakrishna/Actions-on-Google](https://github.com/adithyaakrishna/Actions-on-Google) - This Project is For Developing My Actions Which Are Published To Google Assistant (3 days ago)
 - [kumahq/kuma-website](https://github.com/kumahq/kuma-website) - 🐻 The official website for Kuma, the control plane for modern service connectivity. (2 weeks ago)
-- [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker&#39;s Documentation (2 weeks ago)
 
 #### 🛠 Latest Pull Requests I have created
 
@@ -40,11 +40,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
+- [devfile/docs](https://github.com/devfile/docs) - ⛔️ DEPRECATED - Devfile website and documentation, use https://github.com/devfile/devfile-web/ instead (today)
+- [localstack/localstack.github.io](https://github.com/localstack/localstack.github.io) - LocalStack website (today)
+- [devfile/api](https://github.com/devfile/api) - Kube-native API for cloud development workspaces specification (today)
+- [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel. (today)
 - [m3db/m3](https://github.com/m3db/m3) - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform (1 day ago)
-- [openshift/origin](https://github.com/openshift/origin) - Conformance test suite for OpenShift (1 day ago)
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production (1 day ago)
-- [apache/apisix-dashboard](https://github.com/apache/apisix-dashboard) - Dashboard for Apache APISIX (1 day ago)
-- [flotiq/flotiq-gatsby-shop-1](https://github.com/flotiq/flotiq-gatsby-shop-1) - Flotiq starter for creating a shop with gatsby (5 days ago)
 
 <br> 
 
