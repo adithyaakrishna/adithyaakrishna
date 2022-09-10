@@ -24,11 +24,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Hugo Blog (today)
-- [adithyaakrishna/console-log](https://github.com/adithyaakrishna/console-log) -  (today)
-- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (today)
-- [adithyaakrishna/JIT-Canteen-Admin](https://github.com/adithyaakrishna/JIT-Canteen-Admin) - The Admin Site of JIT CMA (3 days ago)
-- [adithyaakrishna/Actions-on-Google](https://github.com/adithyaakrishna/Actions-on-Google) - This Project is For Developing My Actions Which Are Published To Google Assistant (3 days ago)
+- [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Hugo Blog (1 day ago)
+- [adithyaakrishna/console-log](https://github.com/adithyaakrishna/console-log) -  (1 day ago)
+- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 day ago)
+- [adithyaakrishna/JIT-Canteen-Admin](https://github.com/adithyaakrishna/JIT-Canteen-Admin) - The Admin Site of JIT CMA (4 days ago)
+- [adithyaakrishna/Actions-on-Google](https://github.com/adithyaakrishna/Actions-on-Google) - This Project is For Developing My Actions Which Are Published To Google Assistant (4 days ago)
 
 #### 🛠 Latest Pull Requests I have created
 
@@ -40,11 +40,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
-- [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go  (today)
-- [devfile/docs](https://github.com/devfile/docs) - ⛔️ DEPRECATED - Devfile website and documentation, use https://github.com/devfile/devfile-web/ instead (today)
-- [localstack/localstack.github.io](https://github.com/localstack/localstack.github.io) - LocalStack website (today)
-- [devfile/api](https://github.com/devfile/api) - Kube-native API for cloud development workspaces specification (today)
-- [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel. (today)
+- [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go  (1 day ago)
+- [devfile/docs](https://github.com/devfile/docs) - ⛔️ DEPRECATED - Devfile website and documentation, use https://github.com/devfile/devfile-web/ instead (1 day ago)
+- [localstack/localstack.github.io](https://github.com/localstack/localstack.github.io) - LocalStack website (1 day ago)
+- [devfile/api](https://github.com/devfile/api) - Kube-native API for cloud development workspaces specification (1 day ago)
+- [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel. (1 day ago)
 
 <br> 
 
