@@ -10,11 +10,14 @@ A MeshMate at [Layer5](https://layer5.io), where I help new contributors get sta
 
 Apart from work, I love contributing to open-source, reading blogs/newsletters related to tech and latest trends in it. I also love participating in hackathons and during the past two years, I have won in a couple of them as well [My hackathon Projects](http://bit.ly/adikris-hackathons)
 
+**Polywork Profile**: [https://poly.me/adiiikris](https://poly.me/adiiikris)
+
 #### 📫 How to reach me
 
 [![Twitter](https://img.shields.io/badge/-@adii_kris-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/adii_kris) &ensp;
 [![LinkedIn](https://img.shields.io/badge/-Adithya%20Krishna-%230A67C3?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/adiiikris/) &ensp;
 [![My Website](https://img.shields.io/badge/-My%20Website-%230A67C3?style=for-the-badge)](https://adithyaakrishna.github.io/)
+
 
 #### ⚡️ GitHub stats
 
@@ -40,11 +43,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
+- [open-gitops/project](https://github.com/open-gitops/project) - Repository for top-level information about the OpenGitOps project (today)
 - [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go  (1 day ago)
 - [devfile/docs](https://github.com/devfile/docs) - ⛔️ DEPRECATED - Devfile website and documentation, use https://github.com/devfile/devfile-web/ instead (1 day ago)
 - [localstack/localstack.github.io](https://github.com/localstack/localstack.github.io) - LocalStack website (1 day ago)
 - [devfile/api](https://github.com/devfile/api) - Kube-native API for cloud development workspaces specification (1 day ago)
-- [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel. (1 day ago)
 
 <br> 
 
