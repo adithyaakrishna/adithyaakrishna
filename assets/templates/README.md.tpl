@@ -10,11 +10,14 @@ A MeshMate at [Layer5](https://layer5.io), where I help new contributors get sta
 
 Apart from work, I love contributing to open-source, reading blogs/newsletters related to tech and latest trends in it. I also love participating in hackathons and during the past two years, I have won in a couple of them as well [My hackathon Projects](http://bit.ly/adikris-hackathons)
 
+**Polywork Profile**: [https://poly.me/adiiikris](https://poly.me/adiiikris)
+
 #### 📫 How to reach me
 
 [![Twitter](https://img.shields.io/badge/-@adii_kris-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/adii_kris) &ensp;
 [![LinkedIn](https://img.shields.io/badge/-Adithya%20Krishna-%230A67C3?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/adiiikris/) &ensp;
 [![My Website](https://img.shields.io/badge/-My%20Website-%230A67C3?style=for-the-badge)](https://adithyaakrishna.github.io/)
+
 
 #### ⚡️ GitHub stats
 
