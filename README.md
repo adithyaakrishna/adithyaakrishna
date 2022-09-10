@@ -43,11 +43,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
+- [shipwright-io/website](https://github.com/shipwright-io/website) -  (today)
 - [open-gitops/project](https://github.com/open-gitops/project) - Repository for top-level information about the OpenGitOps project (today)
 - [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go  (1 day ago)
 - [devfile/docs](https://github.com/devfile/docs) - ⛔️ DEPRECATED - Devfile website and documentation, use https://github.com/devfile/devfile-web/ instead (1 day ago)
 - [localstack/localstack.github.io](https://github.com/localstack/localstack.github.io) - LocalStack website (1 day ago)
-- [devfile/api](https://github.com/devfile/api) - Kube-native API for cloud development workspaces specification (1 day ago)
 
 <br> 
 
