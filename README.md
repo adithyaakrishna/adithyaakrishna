@@ -27,11 +27,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Hugo Blog (1 day ago)
-- [adithyaakrishna/console-log](https://github.com/adithyaakrishna/console-log) -  (1 day ago)
-- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 day ago)
-- [adithyaakrishna/JIT-Canteen-Admin](https://github.com/adithyaakrishna/JIT-Canteen-Admin) - The Admin Site of JIT CMA (4 days ago)
-- [adithyaakrishna/Actions-on-Google](https://github.com/adithyaakrishna/Actions-on-Google) - This Project is For Developing My Actions Which Are Published To Google Assistant (4 days ago)
+- [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Hugo Blog (2 days ago)
+- [adithyaakrishna/console-log](https://github.com/adithyaakrishna/console-log) -  (2 days ago)
+- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 days ago)
+- [adithyaakrishna/JIT-Canteen-Admin](https://github.com/adithyaakrishna/JIT-Canteen-Admin) - The Admin Site of JIT CMA (5 days ago)
+- [adithyaakrishna/Actions-on-Google](https://github.com/adithyaakrishna/Actions-on-Google) - This Project is For Developing My Actions Which Are Published To Google Assistant (5 days ago)
 
 #### 🛠 Latest Pull Requests I have created
 
@@ -43,11 +43,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
-- [shipwright-io/website](https://github.com/shipwright-io/website) -  (today)
-- [open-gitops/project](https://github.com/open-gitops/project) - Repository for top-level information about the OpenGitOps project (today)
-- [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go  (1 day ago)
-- [devfile/docs](https://github.com/devfile/docs) - ⛔️ DEPRECATED - Devfile website and documentation, use https://github.com/devfile/devfile-web/ instead (1 day ago)
-- [localstack/localstack.github.io](https://github.com/localstack/localstack.github.io) - LocalStack website (1 day ago)
+- [shipwright-io/website](https://github.com/shipwright-io/website) -  (1 day ago)
+- [open-gitops/project](https://github.com/open-gitops/project) - Repository for top-level information about the OpenGitOps project (1 day ago)
+- [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go  (2 days ago)
+- [devfile/docs](https://github.com/devfile/docs) - ⛔️ DEPRECATED - Devfile website and documentation, use https://github.com/devfile/devfile-web/ instead (2 days ago)
+- [localstack/localstack.github.io](https://github.com/localstack/localstack.github.io) - LocalStack website (2 days ago)
 
 <br> 
 
