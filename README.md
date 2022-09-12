@@ -43,11 +43,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
+- [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster (today)
 - [shipwright-io/website](https://github.com/shipwright-io/website) -  (2 days ago)
 - [open-gitops/project](https://github.com/open-gitops/project) - Repository for top-level information about the OpenGitOps project (2 days ago)
 - [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go  (3 days ago)
 - [devfile/docs](https://github.com/devfile/docs) - ⛔️ DEPRECATED - Devfile website and documentation, use https://github.com/devfile/devfile-web/ instead (3 days ago)
-- [localstack/localstack.github.io](https://github.com/localstack/localstack.github.io) - LocalStack website (3 days ago)
 
 <br> 
 
