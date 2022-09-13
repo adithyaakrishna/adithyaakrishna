@@ -27,11 +27,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Hugo Blog (1 day ago)
-- [adithyaakrishna/console-log](https://github.com/adithyaakrishna/console-log) -  (3 days ago)
-- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (3 days ago)
-- [adithyaakrishna/JIT-Canteen-Admin](https://github.com/adithyaakrishna/JIT-Canteen-Admin) - The Admin Site of JIT CMA (6 days ago)
-- [adithyaakrishna/Actions-on-Google](https://github.com/adithyaakrishna/Actions-on-Google) - This Project is For Developing My Actions Which Are Published To Google Assistant (6 days ago)
+- [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Hugo Blog (2 days ago)
+- [adithyaakrishna/console-log](https://github.com/adithyaakrishna/console-log) -  (4 days ago)
+- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (4 days ago)
+- [adithyaakrishna/JIT-Canteen-Admin](https://github.com/adithyaakrishna/JIT-Canteen-Admin) - The Admin Site of JIT CMA (1 week ago)
+- [adithyaakrishna/Actions-on-Google](https://github.com/adithyaakrishna/Actions-on-Google) - This Project is For Developing My Actions Which Are Published To Google Assistant (1 week ago)
 
 #### 🛠 Latest Pull Requests I have created
 
@@ -43,11 +43,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
-- [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster (today)
-- [shipwright-io/website](https://github.com/shipwright-io/website) -  (2 days ago)
-- [open-gitops/project](https://github.com/open-gitops/project) - Repository for top-level information about the OpenGitOps project (2 days ago)
-- [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go  (3 days ago)
-- [devfile/docs](https://github.com/devfile/docs) - ⛔️ DEPRECATED - Devfile website and documentation, use https://github.com/devfile/devfile-web/ instead (3 days ago)
+- [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster (1 day ago)
+- [shipwright-io/website](https://github.com/shipwright-io/website) -  (3 days ago)
+- [open-gitops/project](https://github.com/open-gitops/project) - Repository for top-level information about the OpenGitOps project (3 days ago)
+- [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go  (4 days ago)
+- [devfile/docs](https://github.com/devfile/docs) - ⛔️ DEPRECATED - Devfile website and documentation, use https://github.com/devfile/devfile-web/ instead (4 days ago)
 
 <br> 
 
