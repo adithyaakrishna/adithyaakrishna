@@ -35,11 +35,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🛠 Latest Pull Requests I have created
 
+- [[Docs] - Revamp Hugo Website](https://github.com/fluent/fluentd-website-hugo/pull/1) on [fluent/fluentd-website-hugo](https://github.com/fluent/fluentd-website-hugo) (today)
 - [[Bug] - Fixed Copy Icon scrolling horizontally](https://github.com/kumahq/kuma-website/pull/981) on [kumahq/kuma-website](https://github.com/kumahq/kuma-website) (2 weeks ago)
 - [Updated Next Config](https://github.com/the-test-trove/the-test-trove.github.io/pull/31) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (3 weeks ago)
 - [Removed Large APIS](https://github.com/the-test-trove/the-test-trove.github.io/pull/30) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (3 weeks ago)
 - [Updated distDir](https://github.com/the-test-trove/the-test-trove.github.io/pull/29) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (3 weeks ago)
-- [Removed package-lock](https://github.com/the-test-trove/the-test-trove.github.io/pull/28) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (3 weeks ago)
 
 #### ⭐ My Recent Stars
 
