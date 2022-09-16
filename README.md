@@ -27,27 +27,27 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Hugo Blog (5 days ago)
-- [adithyaakrishna/console-log](https://github.com/adithyaakrishna/console-log) -  (1 week ago)
-- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 week ago)
-- [adithyaakrishna/JIT-Canteen-Admin](https://github.com/adithyaakrishna/JIT-Canteen-Admin) - The Admin Site of JIT CMA (1 week ago)
-- [adithyaakrishna/Actions-on-Google](https://github.com/adithyaakrishna/Actions-on-Google) - This Project is For Developing My Actions Which Are Published To Google Assistant (1 week ago)
+- [adithyaakrishna/rh-impact-crepos](https://github.com/adithyaakrishna/rh-impact-crepos) - Automate the Creation of Multiple Repositories in Your Organization Using NodeJS (today)
+- [zedr/rh-ansible-workshop](https://github.com/zedr/rh-ansible-workshop) -  (today)
+- [rh-impact/pl-watermark](https://github.com/rh-impact/pl-watermark) -  (today)
+- [rh-impact/pl-graphicsmagick](https://github.com/rh-impact/pl-graphicsmagick) - GraphicsMagick plugin for ChRIS medical imaging project (today)
+- [fluent/fluentd-website](https://github.com/fluent/fluentd-website) - For fluentd.org (today)
 
 #### 🛠 Latest Pull Requests I have created
 
+- [Updated CI](https://github.com/rh-impact/pl-graphicsmagick/pull/3) on [rh-impact/pl-graphicsmagick](https://github.com/rh-impact/pl-graphicsmagick) (today)
+- [[Bug] - Fixed Broken Links](https://github.com/fluent/fluentd-docs-gitbook/pull/428) on [fluent/fluentd-docs-gitbook](https://github.com/fluent/fluentd-docs-gitbook) (today)
+- [[Bug]- Fixed Broken Links](https://github.com/fluent/fluentd-website/pull/240) on [fluent/fluentd-website](https://github.com/fluent/fluentd-website) (today)
+- [Added Adithya Krishna](https://github.com/zedr/rh-ansible-workshop/pull/7) on [zedr/rh-ansible-workshop](https://github.com/zedr/rh-ansible-workshop) (today)
 - [[Docs] - Revamp Hugo Website](https://github.com/fluent/fluentd-website-hugo/pull/1) on [fluent/fluentd-website-hugo](https://github.com/fluent/fluentd-website-hugo) (3 days ago)
-- [[Bug] - Fixed Copy Icon scrolling horizontally](https://github.com/kumahq/kuma-website/pull/981) on [kumahq/kuma-website](https://github.com/kumahq/kuma-website) (3 weeks ago)
-- [Updated Next Config](https://github.com/the-test-trove/the-test-trove.github.io/pull/31) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (3 weeks ago)
-- [Removed Large APIS](https://github.com/the-test-trove/the-test-trove.github.io/pull/30) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (3 weeks ago)
-- [Updated distDir](https://github.com/the-test-trove/the-test-trove.github.io/pull/29) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (3 weeks ago)
 
 #### ⭐ My Recent Stars
 
+- [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification (today)
 - [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster (4 days ago)
 - [shipwright-io/website](https://github.com/shipwright-io/website) -  (6 days ago)
 - [open-gitops/project](https://github.com/open-gitops/project) - Repository for top-level information about the OpenGitOps project (6 days ago)
 - [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go  (1 week ago)
-- [devfile/docs](https://github.com/devfile/docs) - ⛔️ DEPRECATED - Devfile website and documentation, use https://github.com/devfile/devfile-web/ instead (1 week ago)
 
 <br> 
 
