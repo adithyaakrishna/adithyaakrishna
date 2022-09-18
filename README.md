@@ -27,27 +27,27 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [adithyaakrishna/rh-impact-crepos](https://github.com/adithyaakrishna/rh-impact-crepos) - Automate the Creation of Multiple Repositories in Your Organization Using NodeJS (1 day ago)
-- [rh-impact/pl-watermark](https://github.com/rh-impact/pl-watermark) - WIP - A ChRIS App Plugin To Add Watermark to Images (1 day ago)
-- [fluent/fluentd-website](https://github.com/fluent/fluentd-website) - For fluentd.org (1 day ago)
-- [zedr/rh-ansible-workshop](https://github.com/zedr/rh-ansible-workshop) -  (1 day ago)
-- [rh-impact/pl-graphicsmagick](https://github.com/rh-impact/pl-graphicsmagick) - GraphicsMagick plugin for ChRIS medical imaging project (1 day ago)
+- [adithyaakrishna/rh-impact-crepos](https://github.com/adithyaakrishna/rh-impact-crepos) - Automate the Creation of Multiple Repositories in Your Organization Using NodeJS (2 days ago)
+- [rh-impact/pl-watermark](https://github.com/rh-impact/pl-watermark) - WIP - A ChRIS App Plugin To Add Watermark to Images (2 days ago)
+- [fluent/fluentd-website](https://github.com/fluent/fluentd-website) - For fluentd.org (2 days ago)
+- [zedr/rh-ansible-workshop](https://github.com/zedr/rh-ansible-workshop) -  (2 days ago)
+- [rh-impact/pl-graphicsmagick](https://github.com/rh-impact/pl-graphicsmagick) - GraphicsMagick plugin for ChRIS medical imaging project (2 days ago)
 
 #### 🛠 Latest Pull Requests I have created
 
-- [Updated CI](https://github.com/rh-impact/pl-graphicsmagick/pull/3) on [rh-impact/pl-graphicsmagick](https://github.com/rh-impact/pl-graphicsmagick) (1 day ago)
-- [[Bug] - Fixed Broken Links](https://github.com/fluent/fluentd-docs-gitbook/pull/428) on [fluent/fluentd-docs-gitbook](https://github.com/fluent/fluentd-docs-gitbook) (1 day ago)
-- [[Bug]- Fixed Broken Links](https://github.com/fluent/fluentd-website/pull/240) on [fluent/fluentd-website](https://github.com/fluent/fluentd-website) (1 day ago)
-- [Added Adithya Krishna](https://github.com/zedr/rh-ansible-workshop/pull/7) on [zedr/rh-ansible-workshop](https://github.com/zedr/rh-ansible-workshop) (1 day ago)
-- [[Docs] - Revamp Hugo Website](https://github.com/fluent/fluentd-website-hugo/pull/1) on [fluent/fluentd-website-hugo](https://github.com/fluent/fluentd-website-hugo) (4 days ago)
+- [Updated CI](https://github.com/rh-impact/pl-graphicsmagick/pull/3) on [rh-impact/pl-graphicsmagick](https://github.com/rh-impact/pl-graphicsmagick) (2 days ago)
+- [[Bug] - Fixed Broken Links](https://github.com/fluent/fluentd-docs-gitbook/pull/428) on [fluent/fluentd-docs-gitbook](https://github.com/fluent/fluentd-docs-gitbook) (2 days ago)
+- [[Bug]- Fixed Broken Links](https://github.com/fluent/fluentd-website/pull/240) on [fluent/fluentd-website](https://github.com/fluent/fluentd-website) (2 days ago)
+- [Added Adithya Krishna](https://github.com/zedr/rh-ansible-workshop/pull/7) on [zedr/rh-ansible-workshop](https://github.com/zedr/rh-ansible-workshop) (2 days ago)
+- [[Docs] - Revamp Hugo Website](https://github.com/fluent/fluentd-website-hugo/pull/1) on [fluent/fluentd-website-hugo](https://github.com/fluent/fluentd-website-hugo) (5 days ago)
 
 #### ⭐ My Recent Stars
 
-- [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification (1 day ago)
-- [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster (5 days ago)
+- [okd-project/okd](https://github.com/okd-project/okd) - The self-managing, auto-upgrading, Kubernetes distribution for everyone (1 day ago)
+- [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification (2 days ago)
+- [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster (6 days ago)
 - [shipwright-io/website](https://github.com/shipwright-io/website) -  (1 week ago)
 - [open-gitops/project](https://github.com/open-gitops/project) - Repository for top-level information about the OpenGitOps project (1 week ago)
-- [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go  (1 week ago)
 
 <br> 
 
