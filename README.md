@@ -27,7 +27,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (5 days ago)
+- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (6 days ago)
 - [adithyaakrishna/rh-impact-crepos](https://github.com/adithyaakrishna/rh-impact-crepos) - Automate the Creation of Multiple Repositories in Your Organization Using NodeJS (1 week ago)
 - [rh-impact/pl-watermark](https://github.com/rh-impact/pl-watermark) - WIP - A ChRIS App Plugin To Add Watermark to Images (1 week ago)
 - [fluent/fluentd-website](https://github.com/fluent/fluentd-website) - For fluentd.org (1 week ago)
@@ -43,11 +43,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
-- [yeoman/yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow (1 day ago)
-- [react-webpack-generators/generator-react-webpack](https://github.com/react-webpack-generators/generator-react-webpack) - Yeoman generator for ReactJS and Webpack (1 day ago)
-- [yeoman/yeoman.io](https://github.com/yeoman/yeoman.io) - Yeoman website (1 day ago)
-- [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack (5 days ago)
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀 (5 days ago)
+- [yeoman/yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow (2 days ago)
+- [react-webpack-generators/generator-react-webpack](https://github.com/react-webpack-generators/generator-react-webpack) - Yeoman generator for ReactJS and Webpack (2 days ago)
+- [yeoman/yeoman.io](https://github.com/yeoman/yeoman.io) - Yeoman website (2 days ago)
+- [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack (6 days ago)
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀 (6 days ago)
 
 <br> 
 
