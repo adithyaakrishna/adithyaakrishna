@@ -29,9 +29,9 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 week ago)
 - [adithyaakrishna/rh-impact-crepos](https://github.com/adithyaakrishna/rh-impact-crepos) - Automate the Creation of Multiple Repositories in Your Organization Using NodeJS (1 week ago)
-- [rh-impact/pl-watermark](https://github.com/rh-impact/pl-watermark) - WIP - A ChRIS App Plugin To Add Watermark to Images (1 week ago)
-- [fluent/fluentd-website](https://github.com/fluent/fluentd-website) - For fluentd.org (1 week ago)
 - [zedr/rh-ansible-workshop](https://github.com/zedr/rh-ansible-workshop) -  (1 week ago)
+- [rh-impact/pl-graphicsmagick](https://github.com/rh-impact/pl-graphicsmagick) - GraphicsMagick plugin for ChRIS medical imaging project (1 week ago)
+- [rh-impact/pl-watermark](https://github.com/rh-impact/pl-watermark) - WIP - A ChRIS App Plugin To Add Watermark to Images (1 week ago)
 
 #### 🛠 Latest Pull Requests I have created
 
@@ -43,10 +43,10 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
-- [Atri-Labs/atrilabs-engine](https://github.com/Atri-Labs/atrilabs-engine) - Full stack web development framework to build Progressive Web Apps (PWA) faster. (1 day ago)
-- [yeoman/yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow (3 days ago)
-- [react-webpack-generators/generator-react-webpack](https://github.com/react-webpack-generators/generator-react-webpack) - Yeoman generator for ReactJS and Webpack (3 days ago)
-- [yeoman/yeoman.io](https://github.com/yeoman/yeoman.io) - Yeoman website (3 days ago)
+- [Atri-Labs/atrilabs-engine](https://github.com/Atri-Labs/atrilabs-engine) - Full stack web development framework to build Progressive Web Apps (PWA) faster. (2 days ago)
+- [yeoman/yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow (4 days ago)
+- [react-webpack-generators/generator-react-webpack](https://github.com/react-webpack-generators/generator-react-webpack) - Yeoman generator for ReactJS and Webpack (4 days ago)
+- [yeoman/yeoman.io](https://github.com/yeoman/yeoman.io) - Yeoman website (4 days ago)
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack (1 week ago)
 
 <br> 
