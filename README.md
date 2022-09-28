@@ -43,10 +43,10 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
-- [Atri-Labs/atrilabs-engine](https://github.com/Atri-Labs/atrilabs-engine) - Full stack web development framework to build Progressive Web Apps (PWA) faster. (3 days ago)
-- [yeoman/yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow (5 days ago)
-- [react-webpack-generators/generator-react-webpack](https://github.com/react-webpack-generators/generator-react-webpack) - Yeoman generator for ReactJS and Webpack (5 days ago)
-- [yeoman/yeoman.io](https://github.com/yeoman/yeoman.io) - Yeoman website (5 days ago)
+- [Atri-Labs/atrilabs-engine](https://github.com/Atri-Labs/atrilabs-engine) - Full stack web development framework to build Progressive Web Apps (PWA) faster. (4 days ago)
+- [yeoman/yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow (6 days ago)
+- [react-webpack-generators/generator-react-webpack](https://github.com/react-webpack-generators/generator-react-webpack) - Yeoman generator for ReactJS and Webpack (6 days ago)
+- [yeoman/yeoman.io](https://github.com/yeoman/yeoman.io) - Yeoman website (6 days ago)
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack (1 week ago)
 
 <br> 
