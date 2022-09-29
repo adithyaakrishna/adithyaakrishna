@@ -43,11 +43,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
+- [mosip/mosip](https://github.com/mosip/mosip) - Use this repo to get to know about other repos and the overall organization of the MOSIP structure (today)
 - [Atri-Labs/atrilabs-engine](https://github.com/Atri-Labs/atrilabs-engine) - Full stack web development framework to build Progressive Web Apps (PWA) faster. (5 days ago)
 - [yeoman/yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow (1 week ago)
 - [react-webpack-generators/generator-react-webpack](https://github.com/react-webpack-generators/generator-react-webpack) - Yeoman generator for ReactJS and Webpack (1 week ago)
 - [yeoman/yeoman.io](https://github.com/yeoman/yeoman.io) - Yeoman website (1 week ago)
-- [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack (1 week ago)
 
 <br> 
 
