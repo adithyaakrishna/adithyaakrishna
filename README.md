@@ -28,23 +28,23 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
 - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 week ago)
-- [adithyaakrishna/rh-impact-crepos](https://github.com/adithyaakrishna/rh-impact-crepos) - Automate the Creation of Multiple Repositories in Your Organization Using NodeJS (1 week ago)
-- [zedr/rh-ansible-workshop](https://github.com/zedr/rh-ansible-workshop) -  (1 week ago)
-- [rh-impact/pl-graphicsmagick](https://github.com/rh-impact/pl-graphicsmagick) - GraphicsMagick plugin for ChRIS medical imaging project (1 week ago)
-- [rh-impact/pl-watermark](https://github.com/rh-impact/pl-watermark) - WIP - A ChRIS App Plugin To Add Watermark to Images (1 week ago)
+- [adithyaakrishna/rh-impact-crepos](https://github.com/adithyaakrishna/rh-impact-crepos) - Automate the Creation of Multiple Repositories in Your Organization Using NodeJS (2 weeks ago)
+- [zedr/rh-ansible-workshop](https://github.com/zedr/rh-ansible-workshop) -  (2 weeks ago)
+- [rh-impact/pl-graphicsmagick](https://github.com/rh-impact/pl-graphicsmagick) - GraphicsMagick plugin for ChRIS medical imaging project (2 weeks ago)
+- [rh-impact/pl-watermark](https://github.com/rh-impact/pl-watermark) - WIP - A ChRIS App Plugin To Add Watermark to Images (2 weeks ago)
 
 #### 🛠 Latest Pull Requests I have created
 
-- [Updated CI](https://github.com/rh-impact/pl-graphicsmagick/pull/3) on [rh-impact/pl-graphicsmagick](https://github.com/rh-impact/pl-graphicsmagick) (1 week ago)
-- [[Bug] - Fixed Broken Links](https://github.com/fluent/fluentd-docs-gitbook/pull/428) on [fluent/fluentd-docs-gitbook](https://github.com/fluent/fluentd-docs-gitbook) (1 week ago)
-- [[Bug]- Fixed Broken Links](https://github.com/fluent/fluentd-website/pull/240) on [fluent/fluentd-website](https://github.com/fluent/fluentd-website) (1 week ago)
-- [Added Adithya Krishna](https://github.com/zedr/rh-ansible-workshop/pull/7) on [zedr/rh-ansible-workshop](https://github.com/zedr/rh-ansible-workshop) (1 week ago)
+- [Updated CI](https://github.com/rh-impact/pl-graphicsmagick/pull/3) on [rh-impact/pl-graphicsmagick](https://github.com/rh-impact/pl-graphicsmagick) (2 weeks ago)
+- [[Bug] - Fixed Broken Links](https://github.com/fluent/fluentd-docs-gitbook/pull/428) on [fluent/fluentd-docs-gitbook](https://github.com/fluent/fluentd-docs-gitbook) (2 weeks ago)
+- [[Bug]- Fixed Broken Links](https://github.com/fluent/fluentd-website/pull/240) on [fluent/fluentd-website](https://github.com/fluent/fluentd-website) (2 weeks ago)
+- [Added Adithya Krishna](https://github.com/zedr/rh-ansible-workshop/pull/7) on [zedr/rh-ansible-workshop](https://github.com/zedr/rh-ansible-workshop) (2 weeks ago)
 - [[Docs] - Revamp Hugo Website](https://github.com/fluent/fluentd-website-hugo/pull/1) on [fluent/fluentd-website-hugo](https://github.com/fluent/fluentd-website-hugo) (2 weeks ago)
 
 #### ⭐ My Recent Stars
 
-- [mosip/mosip](https://github.com/mosip/mosip) - Use this repo to get to know about other repos and the overall organization of the MOSIP structure (today)
-- [Atri-Labs/atrilabs-engine](https://github.com/Atri-Labs/atrilabs-engine) - Full stack web development framework to build Progressive Web Apps (PWA) faster. (5 days ago)
+- [mosip/mosip](https://github.com/mosip/mosip) - Use this repo to get to know about other repos and the overall organization of the MOSIP structure (1 day ago)
+- [Atri-Labs/atrilabs-engine](https://github.com/Atri-Labs/atrilabs-engine) - Full stack web development framework to build Progressive Web Apps (PWA) faster. (6 days ago)
 - [yeoman/yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow (1 week ago)
 - [react-webpack-generators/generator-react-webpack](https://github.com/react-webpack-generators/generator-react-webpack) - Yeoman generator for ReactJS and Webpack (1 week ago)
 - [yeoman/yeoman.io](https://github.com/yeoman/yeoman.io) - Yeoman website (1 week ago)
