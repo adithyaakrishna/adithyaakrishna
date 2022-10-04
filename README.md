@@ -35,17 +35,17 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🛠 Latest Pull Requests I have created
 
+- [Added adithyaakrishna to maintainers list](https://github.com/github/india/pull/1015) on [github/india](https://github.com/github/india) (1 day ago)
 - [Updated CI](https://github.com/rh-impact/pl-graphicsmagick/pull/3) on [rh-impact/pl-graphicsmagick](https://github.com/rh-impact/pl-graphicsmagick) (2 weeks ago)
 - [[Bug] - Fixed Broken Links](https://github.com/fluent/fluentd-docs-gitbook/pull/428) on [fluent/fluentd-docs-gitbook](https://github.com/fluent/fluentd-docs-gitbook) (2 weeks ago)
 - [[Bug]- Fixed Broken Links](https://github.com/fluent/fluentd-website/pull/240) on [fluent/fluentd-website](https://github.com/fluent/fluentd-website) (2 weeks ago)
 - [Added Adithya Krishna](https://github.com/zedr/rh-ansible-workshop/pull/7) on [zedr/rh-ansible-workshop](https://github.com/zedr/rh-ansible-workshop) (2 weeks ago)
-- [[Docs] - Revamp Hugo Website](https://github.com/fluent/fluentd-website-hugo/pull/1) on [fluent/fluentd-website-hugo](https://github.com/fluent/fluentd-website-hugo) (2 weeks ago)
 
 #### ⭐ My Recent Stars
 
-- [redhat-developer/openshift-dd-ext](https://github.com/redhat-developer/openshift-dd-ext) - OpenShift Extension for Docker desktop (today)
-- [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and community growth. (2 days ago)
-- [mosip/mosip](https://github.com/mosip/mosip) - Use this repo to get to know about other repos and the overall organization of the MOSIP structure (4 days ago)
+- [redhat-developer/openshift-dd-ext](https://github.com/redhat-developer/openshift-dd-ext) - OpenShift Extension for Docker desktop (1 day ago)
+- [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and community growth. (3 days ago)
+- [mosip/mosip](https://github.com/mosip/mosip) - Use this repo to get to know about other repos and the overall organization of the MOSIP structure (5 days ago)
 - [Atri-Labs/atrilabs-engine](https://github.com/Atri-Labs/atrilabs-engine) - Full stack web development framework to build Progressive Web Apps (PWA) faster. (1 week ago)
 - [yeoman/yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow (1 week ago)
 
