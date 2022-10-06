@@ -35,7 +35,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🛠 Latest Pull Requests I have created
 
-- [Added adithyaakrishna to maintainers list](https://github.com/github/india/pull/1015) on [github/india](https://github.com/github/india) (2 days ago)
+- [Added adithyaakrishna to maintainers list](https://github.com/github/india/pull/1015) on [github/india](https://github.com/github/india) (3 days ago)
 - [Updated CI](https://github.com/rh-impact/pl-graphicsmagick/pull/3) on [rh-impact/pl-graphicsmagick](https://github.com/rh-impact/pl-graphicsmagick) (2 weeks ago)
 - [[Bug] - Fixed Broken Links](https://github.com/fluent/fluentd-docs-gitbook/pull/428) on [fluent/fluentd-docs-gitbook](https://github.com/fluent/fluentd-docs-gitbook) (2 weeks ago)
 - [[Bug]- Fixed Broken Links](https://github.com/fluent/fluentd-website/pull/240) on [fluent/fluentd-website](https://github.com/fluent/fluentd-website) (2 weeks ago)
@@ -43,11 +43,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
-- [redhat-developer/openshift-dd-ext](https://github.com/redhat-developer/openshift-dd-ext) - OpenShift Extension for Docker desktop (2 days ago)
-- [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and community growth. (4 days ago)
-- [mosip/mosip](https://github.com/mosip/mosip) - Use this repo to get to know about other repos and the overall organization of the MOSIP structure (6 days ago)
+- [redhat-developer/openshift-dd-ext](https://github.com/redhat-developer/openshift-dd-ext) - OpenShift Extension for Docker desktop (3 days ago)
+- [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and community growth. (5 days ago)
+- [mosip/mosip](https://github.com/mosip/mosip) - Use this repo to get to know about other repos and the overall organization of the MOSIP structure (1 week ago)
 - [Atri-Labs/atrilabs-engine](https://github.com/Atri-Labs/atrilabs-engine) - Full stack web development framework to build Progressive Web Apps (PWA) faster. (1 week ago)
-- [yeoman/yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow (1 week ago)
+- [yeoman/yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow (2 weeks ago)
 
 <br> 
 
