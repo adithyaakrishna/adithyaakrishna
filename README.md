@@ -27,7 +27,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [adithyaakrishna/my-talks](https://github.com/adithyaakrishna/my-talks) -  (1 day ago)
+- [adithyaakrishna/my-talks](https://github.com/adithyaakrishna/my-talks) -  (2 days ago)
 - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (3 weeks ago)
 - [zedr/rh-ansible-workshop](https://github.com/zedr/rh-ansible-workshop) -  (3 weeks ago)
 - [rh-impact/pl-watermark](https://github.com/rh-impact/pl-watermark) - WIP - A ChRIS App Plugin To Add Watermark to Images (3 weeks ago)
@@ -35,7 +35,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🛠 Latest Pull Requests I have created
 
-- [Added adithyaakrishna to maintainers list](https://github.com/github/india/pull/1015) on [github/india](https://github.com/github/india) (6 days ago)
+- [Added adithyaakrishna to maintainers list](https://github.com/github/india/pull/1015) on [github/india](https://github.com/github/india) (1 week ago)
 - [Updated CI](https://github.com/rh-impact/pl-graphicsmagick/pull/3) on [rh-impact/pl-graphicsmagick](https://github.com/rh-impact/pl-graphicsmagick) (3 weeks ago)
 - [[Bug] - Fixed Broken Links](https://github.com/fluent/fluentd-docs-gitbook/pull/428) on [fluent/fluentd-docs-gitbook](https://github.com/fluent/fluentd-docs-gitbook) (3 weeks ago)
 - [[Bug]- Fixed Broken Links](https://github.com/fluent/fluentd-website/pull/240) on [fluent/fluentd-website](https://github.com/fluent/fluentd-website) (3 weeks ago)
@@ -43,7 +43,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
-- [redhat-developer/openshift-dd-ext](https://github.com/redhat-developer/openshift-dd-ext) - OpenShift Extension for Docker desktop (6 days ago)
+- [redhat-developer/openshift-dd-ext](https://github.com/redhat-developer/openshift-dd-ext) - OpenShift Extension for Docker desktop (1 week ago)
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and community growth. (1 week ago)
 - [mosip/mosip](https://github.com/mosip/mosip) - Use this repo to get to know about other repos and the overall organization of the MOSIP structure (1 week ago)
 - [Atri-Labs/atrilabs-engine](https://github.com/Atri-Labs/atrilabs-engine) - Full stack web development framework to build Progressive Web Apps (PWA) faster. (2 weeks ago)
