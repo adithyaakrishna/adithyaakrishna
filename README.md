@@ -27,7 +27,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [adithyaakrishna/my-talks](https://github.com/adithyaakrishna/my-talks) -  (6 days ago)
+- [adithyaakrishna/my-talks](https://github.com/adithyaakrishna/my-talks) -  (1 week ago)
 - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (3 weeks ago)
 - [zedr/rh-ansible-workshop](https://github.com/zedr/rh-ansible-workshop) -  (4 weeks ago)
 - [rh-impact/pl-watermark](https://github.com/rh-impact/pl-watermark) - WIP - A ChRIS App Plugin To Add Watermark to Images (4 weeks ago)
@@ -43,11 +43,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
-- [JetBrains/skiko](https://github.com/JetBrains/skiko) - Kotlin MPP bindings to Skia (today)
-- [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images. (today)
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS (3 days ago)
-- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle. (3 days ago)
-- [newrelic/docs-website](https://github.com/newrelic/docs-website) - Source code and public issue backlog for @newrelic docs. We welcome feedback on the docs in GitHub issues!  (4 days ago)
+- [drifting-in-space/plane](https://github.com/drifting-in-space/plane) - Session backend orchestrator for ambitious browser-based apps. (1 day ago)
+- [JetBrains/skiko](https://github.com/JetBrains/skiko) - Kotlin MPP bindings to Skia (1 day ago)
+- [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images. (1 day ago)
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS (4 days ago)
+- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle. (4 days ago)
 
 <br> 
 
