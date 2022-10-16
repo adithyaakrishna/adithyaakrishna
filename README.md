@@ -28,26 +28,26 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
 - [adithyaakrishna/my-talks](https://github.com/adithyaakrishna/my-talks) -  (1 week ago)
-- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (3 weeks ago)
-- [zedr/rh-ansible-workshop](https://github.com/zedr/rh-ansible-workshop) -  (4 weeks ago)
-- [rh-impact/pl-watermark](https://github.com/rh-impact/pl-watermark) - WIP - A ChRIS App Plugin To Add Watermark to Images (4 weeks ago)
-- [rh-impact/pl-collage-single](https://github.com/rh-impact/pl-collage-single) - WIP - A ChRIS App Plugin To Create Collages From Many Images (4 weeks ago)
+- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (4 weeks ago)
+- [zedr/rh-ansible-workshop](https://github.com/zedr/rh-ansible-workshop) -  (1 month ago)
+- [rh-impact/pl-watermark](https://github.com/rh-impact/pl-watermark) - WIP - A ChRIS App Plugin To Add Watermark to Images (1 month ago)
+- [rh-impact/pl-collage-single](https://github.com/rh-impact/pl-collage-single) - WIP - A ChRIS App Plugin To Create Collages From Many Images (1 month ago)
 
 #### 🛠 Latest Pull Requests I have created
 
 - [Added adithyaakrishna to maintainers list](https://github.com/github/india/pull/1015) on [github/india](https://github.com/github/india) (1 week ago)
-- [Updated CI](https://github.com/rh-impact/pl-graphicsmagick/pull/3) on [rh-impact/pl-graphicsmagick](https://github.com/rh-impact/pl-graphicsmagick) (4 weeks ago)
-- [[Bug] - Fixed Broken Links](https://github.com/fluent/fluentd-docs-gitbook/pull/428) on [fluent/fluentd-docs-gitbook](https://github.com/fluent/fluentd-docs-gitbook) (4 weeks ago)
-- [[Bug]- Fixed Broken Links](https://github.com/fluent/fluentd-website/pull/240) on [fluent/fluentd-website](https://github.com/fluent/fluentd-website) (4 weeks ago)
-- [Added Adithya Krishna](https://github.com/zedr/rh-ansible-workshop/pull/7) on [zedr/rh-ansible-workshop](https://github.com/zedr/rh-ansible-workshop) (4 weeks ago)
+- [Updated CI](https://github.com/rh-impact/pl-graphicsmagick/pull/3) on [rh-impact/pl-graphicsmagick](https://github.com/rh-impact/pl-graphicsmagick) (1 month ago)
+- [[Bug] - Fixed Broken Links](https://github.com/fluent/fluentd-docs-gitbook/pull/428) on [fluent/fluentd-docs-gitbook](https://github.com/fluent/fluentd-docs-gitbook) (1 month ago)
+- [[Bug]- Fixed Broken Links](https://github.com/fluent/fluentd-website/pull/240) on [fluent/fluentd-website](https://github.com/fluent/fluentd-website) (1 month ago)
+- [Added Adithya Krishna](https://github.com/zedr/rh-ansible-workshop/pull/7) on [zedr/rh-ansible-workshop](https://github.com/zedr/rh-ansible-workshop) (1 month ago)
 
 #### ⭐ My Recent Stars
 
-- [drifting-in-space/plane](https://github.com/drifting-in-space/plane) - Session backend orchestrator for ambitious browser-based apps. (1 day ago)
-- [JetBrains/skiko](https://github.com/JetBrains/skiko) - Kotlin MPP bindings to Skia (1 day ago)
-- [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images. (1 day ago)
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS (4 days ago)
-- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle. (4 days ago)
+- [drifting-in-space/plane](https://github.com/drifting-in-space/plane) - Session backend orchestrator for ambitious browser-based apps. (2 days ago)
+- [JetBrains/skiko](https://github.com/JetBrains/skiko) - Kotlin MPP bindings to Skia (2 days ago)
+- [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images. (2 days ago)
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS (5 days ago)
+- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle. (5 days ago)
 
 <br> 
 
