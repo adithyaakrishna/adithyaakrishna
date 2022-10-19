@@ -27,27 +27,27 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
+- [techclubjit/JIT-Hack-22](https://github.com/techclubjit/JIT-Hack-22) - Official Website for JITHack 2022 (1 day ago)
+- [teamlbtc/lbtc-website-ng](https://github.com/teamlbtc/lbtc-website-ng) - LBTC Next Gen Website (1 day ago)
 - [adithyaakrishna/my-talks](https://github.com/adithyaakrishna/my-talks) -  (1 week ago)
 - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 month ago)
-- [zedr/rh-ansible-workshop](https://github.com/zedr/rh-ansible-workshop) -  (1 month ago)
-- [rh-impact/pl-watermark](https://github.com/rh-impact/pl-watermark) - WIP - A ChRIS App Plugin To Add Watermark to Images (1 month ago)
-- [rh-impact/pl-collage-single](https://github.com/rh-impact/pl-collage-single) - WIP - A ChRIS App Plugin To Create Collages From Many Images (1 month ago)
+- [rh-impact/pl-graphicsmagick](https://github.com/rh-impact/pl-graphicsmagick) - GraphicsMagick plugin for ChRIS medical imaging project (1 month ago)
 
 #### 🛠 Latest Pull Requests I have created
 
-- [MM-47301: Migrate /enterprise/system_console/about e2e tests to TypeScript ](https://github.com/mattermost/mattermost-webapp/pull/11377) on [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) (1 day ago)
-- [MM-20383: Migrate &#39;components/gif_picker/components/InfiniteScroll&#39; module and associated tests to TypeScript](https://github.com/mattermost/mattermost-webapp/pull/11376) on [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) (1 day ago)
-- [MM-47283: Migrate /enterprise/system_console/channel_moderation e2e tests to TypeScript](https://github.com/mattermost/mattermost-webapp/pull/11375) on [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) (1 day ago)
+- [MM-47301: Migrate /enterprise/system_console/about e2e tests to TypeScript ](https://github.com/mattermost/mattermost-webapp/pull/11377) on [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) (2 days ago)
+- [MM-20383: Migrate &#39;components/gif_picker/components/InfiniteScroll&#39; module and associated tests to TypeScript](https://github.com/mattermost/mattermost-webapp/pull/11376) on [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) (2 days ago)
+- [MM-47283: Migrate /enterprise/system_console/channel_moderation e2e tests to TypeScript](https://github.com/mattermost/mattermost-webapp/pull/11375) on [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) (2 days ago)
 - [Added adithyaakrishna to maintainers list](https://github.com/github/india/pull/1015) on [github/india](https://github.com/github/india) (2 weeks ago)
 - [Updated CI](https://github.com/rh-impact/pl-graphicsmagick/pull/3) on [rh-impact/pl-graphicsmagick](https://github.com/rh-impact/pl-graphicsmagick) (1 month ago)
 
 #### ⭐ My Recent Stars
 
-- [drifting-in-space/plane](https://github.com/drifting-in-space/plane) - Session backend orchestrator for ambitious browser-based apps. (4 days ago)
-- [JetBrains/skiko](https://github.com/JetBrains/skiko) - Kotlin MPP bindings to Skia (4 days ago)
-- [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images. (4 days ago)
+- [cloudinary/responsive_breakpoints_generator](https://github.com/cloudinary/responsive_breakpoints_generator) -  (1 day ago)
+- [drifting-in-space/plane](https://github.com/drifting-in-space/plane) - Session backend orchestrator for ambitious browser-based apps. (5 days ago)
+- [JetBrains/skiko](https://github.com/JetBrains/skiko) - Kotlin MPP bindings to Skia (5 days ago)
+- [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images. (5 days ago)
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS (1 week ago)
-- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle. (1 week ago)
 
 <br> 
 
