@@ -27,26 +27,26 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [techclubjit/JIT-Hack-2022](https://github.com/techclubjit/JIT-Hack-2022) - Official Website for JITHack 2022 (2 days ago)
-- [teamlbtc/lbtc-website-ng](https://github.com/teamlbtc/lbtc-website-ng) - LBTC Next Gen Website (2 days ago)
+- [techclubjit/JIT-Hack-2022](https://github.com/techclubjit/JIT-Hack-2022) - Official Website for JITHack 2022 (3 days ago)
+- [teamlbtc/lbtc-website-ng](https://github.com/teamlbtc/lbtc-website-ng) - LBTC Next Gen Website (3 days ago)
 - [adithyaakrishna/my-talks](https://github.com/adithyaakrishna/my-talks) -  (1 week ago)
 - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 month ago)
 - [rh-impact/pl-graphicsmagick](https://github.com/rh-impact/pl-graphicsmagick) - GraphicsMagick plugin for ChRIS medical imaging project (1 month ago)
 
 #### 🛠 Latest Pull Requests I have created
 
-- [MM-47301: Migrate /enterprise/system_console/about e2e tests to TypeScript ](https://github.com/mattermost/mattermost-webapp/pull/11377) on [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) (3 days ago)
-- [MM-20383: Migrate &#39;components/gif_picker/components/InfiniteScroll&#39; module and associated tests to TypeScript](https://github.com/mattermost/mattermost-webapp/pull/11376) on [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) (3 days ago)
-- [MM-47283: Migrate /enterprise/system_console/channel_moderation e2e tests to TypeScript](https://github.com/mattermost/mattermost-webapp/pull/11375) on [mattermost/mattermost-webapp](https://github.com/mattermost/mattermost-webapp) (3 days ago)
-- [Added adithyaakrishna to maintainers list](https://github.com/github/india/pull/1015) on [github/india](https://github.com/github/india) (2 weeks ago)
-- [Updated CI](https://github.com/rh-impact/pl-graphicsmagick/pull/3) on [rh-impact/pl-graphicsmagick](https://github.com/rh-impact/pl-graphicsmagick) (1 month ago)
+- [[Bug] - Fixed Broken 404 Link at Cloud Subscriptions Page](https://github.com/mattermost/docs/pull/5975) on [mattermost/docs](https://github.com/mattermost/docs) (1 day ago)
+- [[GH-5917] - Added Alt Text For Video About Organizing Convos](https://github.com/mattermost/docs/pull/5973) on [mattermost/docs](https://github.com/mattermost/docs) (1 day ago)
+- [[GH-5952] - Updated Guest Abilities in Auth Section and Welcome Section](https://github.com/mattermost/docs/pull/5972) on [mattermost/docs](https://github.com/mattermost/docs) (1 day ago)
+- [[GH-5954] - Updated Authentication Page](https://github.com/mattermost/docs/pull/5971) on [mattermost/docs](https://github.com/mattermost/docs) (1 day ago)
+- [[GH-3939] - Updated Margin for GuestBadge](https://github.com/mattermost/focalboard/pull/4058) on [mattermost/focalboard](https://github.com/mattermost/focalboard) (1 day ago)
 
 #### ⭐ My Recent Stars
 
-- [cloudinary/responsive_breakpoints_generator](https://github.com/cloudinary/responsive_breakpoints_generator) -  (2 days ago)
-- [drifting-in-space/plane](https://github.com/drifting-in-space/plane) - Session backend orchestrator for ambitious browser-based apps. (6 days ago)
-- [JetBrains/skiko](https://github.com/JetBrains/skiko) - Kotlin MPP bindings to Skia (6 days ago)
-- [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images. (6 days ago)
+- [cloudinary/responsive_breakpoints_generator](https://github.com/cloudinary/responsive_breakpoints_generator) -  (3 days ago)
+- [drifting-in-space/plane](https://github.com/drifting-in-space/plane) - Session backend orchestrator for ambitious browser-based apps. (1 week ago)
+- [JetBrains/skiko](https://github.com/JetBrains/skiko) - Kotlin MPP bindings to Skia (1 week ago)
+- [google/skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images. (1 week ago)
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - The HTML-first framework. Instant apps of any size with ~ 1kb JS (1 week ago)
 
 <br> 
