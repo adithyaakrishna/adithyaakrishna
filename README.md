@@ -27,19 +27,19 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. (1 day ago)
-- [mattermost/docs](https://github.com/mattermost/docs) - Mattermost documentation  (1 day ago)
+- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (today)
+- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. (2 days ago)
+- [mattermost/docs](https://github.com/mattermost/docs) - Mattermost documentation  (2 days ago)
 - [techclubjit/JIT-Hack-2022](https://github.com/techclubjit/JIT-Hack-2022) - Official Website for JITHack 2022 (1 week ago)
 - [teamlbtc/lbtc-website-ng](https://github.com/teamlbtc/lbtc-website-ng) - LBTC Next Gen Website (1 week ago)
-- [adithyaakrishna/my-talks](https://github.com/adithyaakrishna/my-talks) -  (2 weeks ago)
 
 #### 🛠 Latest Pull Requests I have created
 
-- [[Bug] - Fixed Broken Links in Docs](https://github.com/mattermost/docs/pull/5987) on [mattermost/docs](https://github.com/mattermost/docs) (3 days ago)
-- [[Bug] - Fixed Broken 404 Link at Cloud Subscriptions Page](https://github.com/mattermost/docs/pull/5975) on [mattermost/docs](https://github.com/mattermost/docs) (5 days ago)
-- [[GH-5917] - Added Alt Text For Video About Organizing Convos](https://github.com/mattermost/docs/pull/5973) on [mattermost/docs](https://github.com/mattermost/docs) (5 days ago)
-- [[GH-5952] - Updated Guest Abilities in Auth Section and Welcome Section](https://github.com/mattermost/docs/pull/5972) on [mattermost/docs](https://github.com/mattermost/docs) (5 days ago)
-- [[GH-5954] - Updated Authentication Page](https://github.com/mattermost/docs/pull/5971) on [mattermost/docs](https://github.com/mattermost/docs) (5 days ago)
+- [[Bug] - Fixed Broken Links in Docs](https://github.com/mattermost/docs/pull/5987) on [mattermost/docs](https://github.com/mattermost/docs) (4 days ago)
+- [[Bug] - Fixed Broken 404 Link at Cloud Subscriptions Page](https://github.com/mattermost/docs/pull/5975) on [mattermost/docs](https://github.com/mattermost/docs) (6 days ago)
+- [[GH-5917] - Added Alt Text For Video About Organizing Convos](https://github.com/mattermost/docs/pull/5973) on [mattermost/docs](https://github.com/mattermost/docs) (6 days ago)
+- [[GH-5952] - Updated Guest Abilities in Auth Section and Welcome Section](https://github.com/mattermost/docs/pull/5972) on [mattermost/docs](https://github.com/mattermost/docs) (6 days ago)
+- [[GH-5954] - Updated Authentication Page](https://github.com/mattermost/docs/pull/5971) on [mattermost/docs](https://github.com/mattermost/docs) (6 days ago)
 
 #### ⭐ My Recent Stars
 
