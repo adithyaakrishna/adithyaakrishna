@@ -27,11 +27,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 day ago)
-- [adithyaakrishna/solid-invention-js](https://github.com/adithyaakrishna/solid-invention-js) - https://github.com/adithyaakrishna/solid-invention But in JavaScript (1 day ago)
-- [adithyaakrishna/solid-invention](https://github.com/adithyaakrishna/solid-invention) - ReactFlow Demo (1 day ago)
-- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. (6 days ago)
-- [mattermost/docs](https://github.com/mattermost/docs) - Mattermost documentation  (6 days ago)
+- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 days ago)
+- [adithyaakrishna/solid-invention-js](https://github.com/adithyaakrishna/solid-invention-js) - https://github.com/adithyaakrishna/solid-invention But in JavaScript (2 days ago)
+- [adithyaakrishna/solid-invention](https://github.com/adithyaakrishna/solid-invention) - ReactFlow Demo (2 days ago)
+- [mattermost/docs](https://github.com/mattermost/docs) - Mattermost documentation  (1 week ago)
+- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. (1 week ago)
 
 #### 🛠 Latest Pull Requests I have created
 
@@ -43,7 +43,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
-- [redhat-developer/helm-backstage](https://github.com/redhat-developer/helm-backstage) - Helm Chart for Deploying Backstage (4 days ago)
+- [redhat-developer/helm-backstage](https://github.com/redhat-developer/helm-backstage) - Helm Chart for Deploying Backstage (5 days ago)
 - [cloudinary/responsive_breakpoints_generator](https://github.com/cloudinary/responsive_breakpoints_generator) -  (1 week ago)
 - [drifting-in-space/plane](https://github.com/drifting-in-space/plane) - Session backend orchestrator for ambitious browser-based apps. (2 weeks ago)
 - [JetBrains/skiko](https://github.com/JetBrains/skiko) - Kotlin MPP bindings to Skia (2 weeks ago)
