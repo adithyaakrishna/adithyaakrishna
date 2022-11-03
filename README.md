@@ -43,11 +43,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
+- [OpenDataology/website](https://github.com/OpenDataology/website) - The official website for OpenDataology (today)
 - [okd-project/okd.io](https://github.com/okd-project/okd.io) - Source files used to build the https://www.okd.io site (1 day ago)
 - [openshift-cs/commons.openshift.org](https://github.com/openshift-cs/commons.openshift.org) - Repository for OpenShift Commons Community Site (1 day ago)
 - [konveyor/website](https://github.com/konveyor/website) - Konveyor website (1 day ago)
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (1 day ago)
-- [redhat-developer/helm-backstage](https://github.com/redhat-developer/helm-backstage) - Helm Chart for Deploying Backstage (1 week ago)
 
 <br> 
 
