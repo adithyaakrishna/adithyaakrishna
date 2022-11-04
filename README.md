@@ -43,11 +43,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
+- [cello-proj/cello](https://github.com/cello-proj/cello) - Run infrastructure as code (IaC) software tools including CDK, Terraform and Cloud Formation via GitOps. (today)
 - [OpenDataology/website](https://github.com/OpenDataology/website) - The official website for OpenDataology (1 day ago)
 - [okd-project/okd.io](https://github.com/okd-project/okd.io) - Source files used to build the https://www.okd.io site (2 days ago)
 - [openshift-cs/commons.openshift.org](https://github.com/openshift-cs/commons.openshift.org) - Repository for OpenShift Commons Community Site (2 days ago)
 - [konveyor/website](https://github.com/konveyor/website) - Konveyor website (2 days ago)
-- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (2 days ago)
 
 <br> 
 
