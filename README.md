@@ -27,15 +27,15 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (6 days ago)
-- [adithyaakrishna/solid-invention-js](https://github.com/adithyaakrishna/solid-invention-js) - https://github.com/adithyaakrishna/solid-invention But in JavaScript (6 days ago)
-- [adithyaakrishna/solid-invention](https://github.com/adithyaakrishna/solid-invention) - ReactFlow Demo (6 days ago)
+- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 week ago)
+- [adithyaakrishna/solid-invention-js](https://github.com/adithyaakrishna/solid-invention-js) - https://github.com/adithyaakrishna/solid-invention But in JavaScript (1 week ago)
+- [adithyaakrishna/solid-invention](https://github.com/adithyaakrishna/solid-invention) - ReactFlow Demo (1 week ago)
 - [mattermost/docs](https://github.com/mattermost/docs) - Mattermost documentation  (1 week ago)
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. (1 week ago)
 
 #### 🛠 Latest Pull Requests I have created
 
-- [[Bug] - Fixed Broken Links in Docs](https://github.com/mattermost/docs/pull/5987) on [mattermost/docs](https://github.com/mattermost/docs) (1 week ago)
+- [[Bug] - Fixed Broken Links in Docs](https://github.com/mattermost/docs/pull/5987) on [mattermost/docs](https://github.com/mattermost/docs) (2 weeks ago)
 - [[Bug] - Fixed Broken 404 Link at Cloud Subscriptions Page](https://github.com/mattermost/docs/pull/5975) on [mattermost/docs](https://github.com/mattermost/docs) (2 weeks ago)
 - [[GH-5917] - Added Alt Text For Video About Organizing Convos](https://github.com/mattermost/docs/pull/5973) on [mattermost/docs](https://github.com/mattermost/docs) (2 weeks ago)
 - [[GH-5952] - Updated Guest Abilities in Auth Section and Welcome Section](https://github.com/mattermost/docs/pull/5972) on [mattermost/docs](https://github.com/mattermost/docs) (2 weeks ago)
@@ -43,11 +43,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
-- [cello-proj/cello](https://github.com/cello-proj/cello) - Run infrastructure as code (IaC) software tools including CDK, Terraform and Cloud Formation via GitOps. (today)
-- [OpenDataology/website](https://github.com/OpenDataology/website) - The official website for OpenDataology (1 day ago)
-- [okd-project/okd.io](https://github.com/okd-project/okd.io) - Source files used to build the https://www.okd.io site (2 days ago)
-- [openshift-cs/commons.openshift.org](https://github.com/openshift-cs/commons.openshift.org) - Repository for OpenShift Commons Community Site (2 days ago)
-- [konveyor/website](https://github.com/konveyor/website) - Konveyor website (2 days ago)
+- [cello-proj/cello](https://github.com/cello-proj/cello) - Run infrastructure as code (IaC) software tools including CDK, Terraform and Cloud Formation via GitOps. (1 day ago)
+- [OpenDataology/website](https://github.com/OpenDataology/website) - The official website for OpenDataology (2 days ago)
+- [okd-project/okd.io](https://github.com/okd-project/okd.io) - Source files used to build the https://www.okd.io site (3 days ago)
+- [openshift-cs/commons.openshift.org](https://github.com/openshift-cs/commons.openshift.org) - Repository for OpenShift Commons Community Site (3 days ago)
+- [konveyor/website](https://github.com/konveyor/website) - Konveyor website (3 days ago)
 
 <br> 
 
