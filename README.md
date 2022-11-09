@@ -27,15 +27,15 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [fluent/fluentd-website-hugo](https://github.com/fluent/fluentd-website-hugo) -  (today)
-- [mattermost/docs](https://github.com/mattermost/docs) - Mattermost documentation  (1 day ago)
+- [fluent/fluentd-website-hugo](https://github.com/fluent/fluentd-website-hugo) -  (1 day ago)
+- [mattermost/docs](https://github.com/mattermost/docs) - Mattermost documentation  (2 days ago)
 - [adithyaakrishna/solid-invention](https://github.com/adithyaakrishna/solid-invention) - ReactFlow Demo (1 week ago)
 - [adithyaakrishna/solid-invention-js](https://github.com/adithyaakrishna/solid-invention-js) - https://github.com/adithyaakrishna/solid-invention But in JavaScript (1 week ago)
 - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 week ago)
 
 #### 🛠 Latest Pull Requests I have created
 
-- [[GH-5956] - Added Note Regarding Insights for Sys Admins](https://github.com/mattermost/docs/pull/6028) on [mattermost/docs](https://github.com/mattermost/docs) (2 days ago)
+- [[GH-5956] - Added Note Regarding Insights for Sys Admins](https://github.com/mattermost/docs/pull/6028) on [mattermost/docs](https://github.com/mattermost/docs) (3 days ago)
 - [[Bug] - Fixed Broken Links in Docs](https://github.com/mattermost/docs/pull/5987) on [mattermost/docs](https://github.com/mattermost/docs) (2 weeks ago)
 - [[Bug] - Fixed Broken 404 Link at Cloud Subscriptions Page](https://github.com/mattermost/docs/pull/5975) on [mattermost/docs](https://github.com/mattermost/docs) (2 weeks ago)
 - [[GH-5917] - Added Alt Text For Video About Organizing Convos](https://github.com/mattermost/docs/pull/5973) on [mattermost/docs](https://github.com/mattermost/docs) (2 weeks ago)
@@ -43,11 +43,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
-- [cello-proj/cello](https://github.com/cello-proj/cello) - Run infrastructure as code (IaC) software tools including CDK, Terraform and Cloud Formation via GitOps. (4 days ago)
-- [OpenDataology/website](https://github.com/OpenDataology/website) - The official website for OpenDataology (5 days ago)
-- [okd-project/okd.io](https://github.com/okd-project/okd.io) - Source files used to build the https://www.okd.io site (6 days ago)
-- [openshift-cs/commons.openshift.org](https://github.com/openshift-cs/commons.openshift.org) - Repository for OpenShift Commons Community Site (6 days ago)
-- [konveyor/website](https://github.com/konveyor/website) - Konveyor website (6 days ago)
+- [cello-proj/cello](https://github.com/cello-proj/cello) - Run infrastructure as code (IaC) software tools including CDK, Terraform and Cloud Formation via GitOps. (5 days ago)
+- [OpenDataology/website](https://github.com/OpenDataology/website) - The official website for OpenDataology (6 days ago)
+- [okd-project/okd.io](https://github.com/okd-project/okd.io) - Source files used to build the https://www.okd.io site (1 week ago)
+- [openshift-cs/commons.openshift.org](https://github.com/openshift-cs/commons.openshift.org) - Repository for OpenShift Commons Community Site (1 week ago)
+- [konveyor/website](https://github.com/konveyor/website) - Konveyor website (1 week ago)
 
 <br> 
 
