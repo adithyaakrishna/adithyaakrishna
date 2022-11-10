@@ -27,10 +27,10 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
+- [adithyaakrishna/fossology-swagger-ui](https://github.com/adithyaakrishna/fossology-swagger-ui) - Fossology Rest API Doc (today)
 - [fluent/fluentd-website-hugo](https://github.com/fluent/fluentd-website-hugo) -  (2 days ago)
 - [mattermost/docs](https://github.com/mattermost/docs) - Mattermost documentation  (3 days ago)
 - [adithyaakrishna/solid-invention](https://github.com/adithyaakrishna/solid-invention) - ReactFlow Demo (1 week ago)
-- [adithyaakrishna/solid-invention-js](https://github.com/adithyaakrishna/solid-invention-js) - https://github.com/adithyaakrishna/solid-invention But in JavaScript (1 week ago)
 - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 week ago)
 
 #### 🛠 Latest Pull Requests I have created
@@ -43,11 +43,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
+- [fossology/fossology](https://github.com/fossology/fossology) - FOSSology is an open source license compliance software system and toolkit.  As a toolkit you can run license, copyright and export control scans from the command line.  As a system, a database and web ui are provided to give you a compliance workflow. License, copyright and export scanners are tools used in the workflow. (today)
+- [containers/podman-desktop](https://github.com/containers/podman-desktop) - Podman Desktop - A graphical tool for developing on containers and Kubernetes (today)
 - [cello-proj/cello](https://github.com/cello-proj/cello) - Run infrastructure as code (IaC) software tools including CDK, Terraform and Cloud Formation via GitOps. (6 days ago)
 - [OpenDataology/website](https://github.com/OpenDataology/website) - The official website for OpenDataology (1 week ago)
 - [okd-project/okd.io](https://github.com/okd-project/okd.io) - Source files used to build the https://www.okd.io site (1 week ago)
-- [openshift-cs/commons.openshift.org](https://github.com/openshift-cs/commons.openshift.org) - Repository for OpenShift Commons Community Site (1 week ago)
-- [konveyor/website](https://github.com/konveyor/website) - Konveyor website (1 week ago)
 
 <br> 
 
