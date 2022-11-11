@@ -27,25 +27,25 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [adithyaakrishna/fossology-swagger-ui](https://github.com/adithyaakrishna/fossology-swagger-ui) - Fossology Rest API Doc (today)
-- [fluent/fluentd-website-hugo](https://github.com/fluent/fluentd-website-hugo) -  (2 days ago)
-- [mattermost/docs](https://github.com/mattermost/docs) - Mattermost documentation  (3 days ago)
+- [adithyaakrishna/fossology-swagger-ui](https://github.com/adithyaakrishna/fossology-swagger-ui) - Fossology Rest API Doc (1 day ago)
+- [fluent/fluentd-website-hugo](https://github.com/fluent/fluentd-website-hugo) -  (3 days ago)
+- [mattermost/docs](https://github.com/mattermost/docs) - Mattermost documentation  (4 days ago)
 - [adithyaakrishna/solid-invention](https://github.com/adithyaakrishna/solid-invention) - ReactFlow Demo (1 week ago)
 - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 week ago)
 
 #### 🛠 Latest Pull Requests I have created
 
-- [[GH-5956] - Added Note Regarding Insights for Sys Admins](https://github.com/mattermost/docs/pull/6028) on [mattermost/docs](https://github.com/mattermost/docs) (4 days ago)
+- [Updated Eslint Config, Rules, Added Husky for Git Hooks](https://github.com/fossology/FOSSologyUI/pull/270) on [fossology/FOSSologyUI](https://github.com/fossology/FOSSologyUI) (1 day ago)
+- [[GH-5956] - Added Note Regarding Insights for Sys Admins](https://github.com/mattermost/docs/pull/6028) on [mattermost/docs](https://github.com/mattermost/docs) (5 days ago)
 - [[Bug] - Fixed Broken Links in Docs](https://github.com/mattermost/docs/pull/5987) on [mattermost/docs](https://github.com/mattermost/docs) (2 weeks ago)
 - [[Bug] - Fixed Broken 404 Link at Cloud Subscriptions Page](https://github.com/mattermost/docs/pull/5975) on [mattermost/docs](https://github.com/mattermost/docs) (3 weeks ago)
 - [[GH-5917] - Added Alt Text For Video About Organizing Convos](https://github.com/mattermost/docs/pull/5973) on [mattermost/docs](https://github.com/mattermost/docs) (3 weeks ago)
-- [[GH-5952] - Updated Guest Abilities in Auth Section and Welcome Section](https://github.com/mattermost/docs/pull/5972) on [mattermost/docs](https://github.com/mattermost/docs) (3 weeks ago)
 
 #### ⭐ My Recent Stars
 
-- [fossology/fossology](https://github.com/fossology/fossology) - FOSSology is an open source license compliance software system and toolkit.  As a toolkit you can run license, copyright and export control scans from the command line.  As a system, a database and web ui are provided to give you a compliance workflow. License, copyright and export scanners are tools used in the workflow. (today)
-- [containers/podman-desktop](https://github.com/containers/podman-desktop) - Podman Desktop - A graphical tool for developing on containers and Kubernetes (today)
-- [cello-proj/cello](https://github.com/cello-proj/cello) - Run infrastructure as code (IaC) software tools including CDK, Terraform and Cloud Formation via GitOps. (6 days ago)
+- [fossology/fossology](https://github.com/fossology/fossology) - FOSSology is an open source license compliance software system and toolkit.  As a toolkit you can run license, copyright and export control scans from the command line.  As a system, a database and web ui are provided to give you a compliance workflow. License, copyright and export scanners are tools used in the workflow. (1 day ago)
+- [containers/podman-desktop](https://github.com/containers/podman-desktop) - Podman Desktop - A graphical tool for developing on containers and Kubernetes (1 day ago)
+- [cello-proj/cello](https://github.com/cello-proj/cello) - Run infrastructure as code (IaC) software tools including CDK, Terraform and Cloud Formation via GitOps. (1 week ago)
 - [OpenDataology/website](https://github.com/OpenDataology/website) - The official website for OpenDataology (1 week ago)
 - [okd-project/okd.io](https://github.com/okd-project/okd.io) - Source files used to build the https://www.okd.io site (1 week ago)
 
