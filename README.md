@@ -43,11 +43,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
+- [kcp-dev/kcp](https://github.com/kcp-dev/kcp) - kcp is a Kubernetes-like control plane for workloads on many clusters (today)
+- [conda-forge/conda-forge.github.io](https://github.com/conda-forge/conda-forge.github.io) - The conda-forge website. (today)
 - [fossology/fossology](https://github.com/fossology/fossology) - FOSSology is an open source license compliance software system and toolkit.  As a toolkit you can run license, copyright and export control scans from the command line.  As a system, a database and web ui are provided to give you a compliance workflow. License, copyright and export scanners are tools used in the workflow. (1 day ago)
 - [containers/podman-desktop](https://github.com/containers/podman-desktop) - Podman Desktop - A graphical tool for developing on containers and Kubernetes (1 day ago)
 - [cello-proj/cello](https://github.com/cello-proj/cello) - Run infrastructure as code (IaC) software tools including CDK, Terraform and Cloud Formation via GitOps. (1 week ago)
-- [OpenDataology/website](https://github.com/OpenDataology/website) - The official website for OpenDataology (1 week ago)
-- [okd-project/okd.io](https://github.com/okd-project/okd.io) - Source files used to build the https://www.okd.io site (1 week ago)
 
 <br> 
 
