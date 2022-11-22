@@ -28,7 +28,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
 - [adithyaakrishna/fossology-swagger-ui](https://github.com/adithyaakrishna/fossology-swagger-ui) - Fossology Rest API Doc (1 week ago)
-- [fluent/fluentd-website-hugo](https://github.com/fluent/fluentd-website-hugo) -  (1 week ago)
+- [fluent/fluentd-website-hugo](https://github.com/fluent/fluentd-website-hugo) -  (2 weeks ago)
 - [mattermost/docs](https://github.com/mattermost/docs) - Mattermost documentation  (2 weeks ago)
 - [adithyaakrishna/solid-invention](https://github.com/adithyaakrishna/solid-invention) - ReactFlow Demo (3 weeks ago)
 - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (3 weeks ago)
@@ -43,7 +43,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
-- [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend. (2 days ago)
+- [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend. (3 days ago)
 - [apache/guacamole-website](https://github.com/apache/guacamole-website) - Mirror of Apache Guacamole Website (1 week ago)
 - [kcp-dev/kcp](https://github.com/kcp-dev/kcp) - kcp is a Kubernetes-like control plane for workloads on many clusters (1 week ago)
 - [conda-forge/conda-forge.github.io](https://github.com/conda-forge/conda-forge.github.io) - The conda-forge website. (1 week ago)
