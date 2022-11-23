@@ -43,7 +43,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
-- [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend. (3 days ago)
+- [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend. (4 days ago)
 - [apache/guacamole-website](https://github.com/apache/guacamole-website) - Mirror of Apache Guacamole Website (1 week ago)
 - [kcp-dev/kcp](https://github.com/kcp-dev/kcp) - kcp is a Kubernetes-like control plane for workloads on many clusters (1 week ago)
 - [conda-forge/conda-forge.github.io](https://github.com/conda-forge/conda-forge.github.io) - The conda-forge website. (1 week ago)
