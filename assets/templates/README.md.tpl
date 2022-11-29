@@ -24,6 +24,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 ![Adithya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adithyaakrishna&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 <!-- <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyaakrishna&layout=compact&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&langs_count=10&hide=jupyter%20notebook,tex,css,php&show=dart"> -->
 
+<a href="https://quine.sh/profile/adithyaakrishna"><img src="https://stats.quine.sh/adithyaakrishna/github?simple=true" alt="adithyaakrishna's GitHub stats" width="840px"></a>
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 {{range recentContributions 5}}
