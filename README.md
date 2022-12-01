@@ -29,7 +29,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
 - [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) - The T3Con Website (1 week ago)
-- [adithyaakrishna/fossology-swagger-ui](https://github.com/adithyaakrishna/fossology-swagger-ui) - Fossology Rest API Doc (2 weeks ago)
+- [adithyaakrishna/fossology-swagger-ui](https://github.com/adithyaakrishna/fossology-swagger-ui) - Fossology Rest API Doc (3 weeks ago)
 - [fluent/fluentd-website-hugo](https://github.com/fluent/fluentd-website-hugo) -  (3 weeks ago)
 - [mattermost/docs](https://github.com/mattermost/docs) - Mattermost documentation  (3 weeks ago)
 - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 month ago)
@@ -40,12 +40,12 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 - [Updated Title and T3Con Text](https://github.com/the-test-trove/the-test-trove.github.io/pull/34) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (1 week ago)
 - [Updated Size of Columns](https://github.com/the-test-trove/the-test-trove.github.io/pull/33) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (1 week ago)
 - [[Feat] - Q4 2022](https://github.com/the-test-trove/the-test-trove.github.io/pull/32) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (1 week ago)
-- [Updated Eslint Config, Rules, Added Husky for Git Hooks](https://github.com/fossology/FOSSologyUI/pull/270) on [fossology/FOSSologyUI](https://github.com/fossology/FOSSologyUI) (2 weeks ago)
+- [Updated Eslint Config, Rules, Added Husky for Git Hooks](https://github.com/fossology/FOSSologyUI/pull/270) on [fossology/FOSSologyUI](https://github.com/fossology/FOSSologyUI) (3 weeks ago)
 
 #### ⭐ My Recent Stars
 
-- [jprichardson/node-fs-extra](https://github.com/jprichardson/node-fs-extra) - Node.js: extra methods for the fs object like copy(), remove(), mkdirs() (today)
-- [vsavkin/large-monorepo](https://github.com/vsavkin/large-monorepo) - Benchmarking Nx and Turborepo (6 days ago)
+- [jprichardson/node-fs-extra](https://github.com/jprichardson/node-fs-extra) - Node.js: extra methods for the fs object like copy(), remove(), mkdirs() (1 day ago)
+- [vsavkin/large-monorepo](https://github.com/vsavkin/large-monorepo) - Benchmarking Nx and Turborepo (1 week ago)
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend. (1 week ago)
 - [apache/guacamole-website](https://github.com/apache/guacamole-website) - Mirror of Apache Guacamole Website (2 weeks ago)
 - [kcp-dev/kcp](https://github.com/kcp-dev/kcp) - kcp is a Kubernetes-like control plane for workloads on many clusters (2 weeks ago)
