@@ -30,7 +30,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 - [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) - The T3Con Website (1 week ago)
 - [adithyaakrishna/fossology-swagger-ui](https://github.com/adithyaakrishna/fossology-swagger-ui) - Fossology Rest API Doc (3 weeks ago)
-- [fluent/fluentd-website-hugo](https://github.com/fluent/fluentd-website-hugo) -  (3 weeks ago)
+- [fluent/fluentd-website-hugo](https://github.com/fluent/fluentd-website-hugo) -  (4 weeks ago)
 - [mattermost/docs](https://github.com/mattermost/docs) - Mattermost documentation  (4 weeks ago)
 - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 month ago)
 
@@ -44,11 +44,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
-- [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups (3 days ago)
-- [jprichardson/node-fs-extra](https://github.com/jprichardson/node-fs-extra) - Node.js: extra methods for the fs object like copy(), remove(), mkdirs() (5 days ago)
+- [cornell-dti/course-reviews-react-2.0](https://github.com/cornell-dti/course-reviews-react-2.0) -  (1 day ago)
+- [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups (4 days ago)
+- [jprichardson/node-fs-extra](https://github.com/jprichardson/node-fs-extra) - Node.js: extra methods for the fs object like copy(), remove(), mkdirs() (6 days ago)
 - [vsavkin/large-monorepo](https://github.com/vsavkin/large-monorepo) - Benchmarking Nx and Turborepo (1 week ago)
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend. (2 weeks ago)
-- [apache/guacamole-website](https://github.com/apache/guacamole-website) - Mirror of Apache Guacamole Website (3 weeks ago)
 
 <br> 
 
