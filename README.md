@@ -44,7 +44,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
-- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases &amp; files to warehouses &amp; lakes. (6 days ago)
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases &amp; files to warehouses &amp; lakes. (1 week ago)
 - [cornell-dti/course-reviews-react-2.0](https://github.com/cornell-dti/course-reviews-react-2.0) -  (1 week ago)
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups (1 week ago)
 - [jprichardson/node-fs-extra](https://github.com/jprichardson/node-fs-extra) - Node.js: extra methods for the fs object like copy(), remove(), mkdirs() (1 week ago)
