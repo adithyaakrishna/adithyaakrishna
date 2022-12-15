@@ -36,7 +36,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🛠 Latest Pull Requests I have created
 
-- [Added OpenShift Docker Extension](https://github.com/noseka1/cop-bazaar/pull/17) on [noseka1/cop-bazaar](https://github.com/noseka1/cop-bazaar) (1 day ago)
+- [Added OpenShift Docker Extension](https://github.com/noseka1/cop-bazaar/pull/17) on [noseka1/cop-bazaar](https://github.com/noseka1/cop-bazaar) (2 days ago)
 - [Fixed Footer](https://github.com/the-test-trove/the-test-trove.github.io/pull/35) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (3 weeks ago)
 - [Updated Title and T3Con Text](https://github.com/the-test-trove/the-test-trove.github.io/pull/34) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (3 weeks ago)
 - [Updated Size of Columns](https://github.com/the-test-trove/the-test-trove.github.io/pull/33) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (3 weeks ago)
@@ -48,7 +48,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 - [cornell-dti/course-reviews-react-2.0](https://github.com/cornell-dti/course-reviews-react-2.0) -  (1 week ago)
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups (1 week ago)
 - [jprichardson/node-fs-extra](https://github.com/jprichardson/node-fs-extra) - Node.js: extra methods for the fs object like copy(), remove(), mkdirs() (2 weeks ago)
-- [vsavkin/large-monorepo](https://github.com/vsavkin/large-monorepo) - Benchmarking Nx and Turborepo (2 weeks ago)
+- [vsavkin/large-monorepo](https://github.com/vsavkin/large-monorepo) - Benchmarking Nx and Turborepo (3 weeks ago)
 
 <br> 
 
