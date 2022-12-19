@@ -32,11 +32,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 - [adithyaakrishna/fossology-swagger-ui](https://github.com/adithyaakrishna/fossology-swagger-ui) - Fossology Rest API Doc (1 month ago)
 - [fluent/fluentd-website-hugo](https://github.com/fluent/fluentd-website-hugo) -  (1 month ago)
 - [mattermost/docs](https://github.com/mattermost/docs) - Mattermost documentation  (1 month ago)
-- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 month ago)
+- [adithyaakrishna/solid-invention-js](https://github.com/adithyaakrishna/solid-invention-js) - https://github.com/adithyaakrishna/solid-invention But in JavaScript (1 month ago)
 
 #### 🛠 Latest Pull Requests I have created
 
-- [Added OpenShift Docker Extension](https://github.com/noseka1/cop-bazaar/pull/17) on [noseka1/cop-bazaar](https://github.com/noseka1/cop-bazaar) (5 days ago)
+- [Added OpenShift Docker Extension](https://github.com/noseka1/cop-bazaar/pull/17) on [noseka1/cop-bazaar](https://github.com/noseka1/cop-bazaar) (6 days ago)
 - [Fixed Footer](https://github.com/the-test-trove/the-test-trove.github.io/pull/35) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (3 weeks ago)
 - [Updated Title and T3Con Text](https://github.com/the-test-trove/the-test-trove.github.io/pull/34) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (3 weeks ago)
 - [Updated Size of Columns](https://github.com/the-test-trove/the-test-trove.github.io/pull/33) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (3 weeks ago)
@@ -44,9 +44,9 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
-- [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework. (3 days ago)
+- [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework. (4 days ago)
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases &amp; files to warehouses &amp; lakes. (1 week ago)
-- [cornell-dti/course-reviews-react-2.0](https://github.com/cornell-dti/course-reviews-react-2.0) -  (1 week ago)
+- [cornell-dti/course-reviews-react-2.0](https://github.com/cornell-dti/course-reviews-react-2.0) -  (2 weeks ago)
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups (2 weeks ago)
 - [jprichardson/node-fs-extra](https://github.com/jprichardson/node-fs-extra) - Node.js: extra methods for the fs object like copy(), remove(), mkdirs() (2 weeks ago)
 
