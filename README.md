@@ -36,7 +36,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🛠 Latest Pull Requests I have created
 
-- [Added OpenShift Docker Extension](https://github.com/noseka1/cop-bazaar/pull/17) on [noseka1/cop-bazaar](https://github.com/noseka1/cop-bazaar) (6 days ago)
+- [Added OpenShift Docker Extension](https://github.com/noseka1/cop-bazaar/pull/17) on [noseka1/cop-bazaar](https://github.com/noseka1/cop-bazaar) (1 week ago)
 - [Fixed Footer](https://github.com/the-test-trove/the-test-trove.github.io/pull/35) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (3 weeks ago)
 - [Updated Title and T3Con Text](https://github.com/the-test-trove/the-test-trove.github.io/pull/34) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (3 weeks ago)
 - [Updated Size of Columns](https://github.com/the-test-trove/the-test-trove.github.io/pull/33) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (3 weeks ago)
@@ -44,11 +44,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
-- [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework. (4 days ago)
-- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases &amp; files to warehouses &amp; lakes. (1 week ago)
-- [cornell-dti/course-reviews-react-2.0](https://github.com/cornell-dti/course-reviews-react-2.0) -  (2 weeks ago)
-- [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups (2 weeks ago)
-- [jprichardson/node-fs-extra](https://github.com/jprichardson/node-fs-extra) - Node.js: extra methods for the fs object like copy(), remove(), mkdirs() (2 weeks ago)
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters. (1 day ago)
+- [theopensourceway/guidebook](https://github.com/theopensourceway/guidebook) - Guidebook of open source community management best practices; is somewhat opinionated. (1 day ago)
+- [nodeshift-starters/nodejs-rest-http](https://github.com/nodeshift-starters/nodejs-rest-http) - Simple HTTP Rest example using express (1 day ago)
+- [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework. (5 days ago)
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases &amp; files to warehouses &amp; lakes. (2 weeks ago)
 
 <br> 
 
