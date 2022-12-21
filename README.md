@@ -28,7 +28,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) - The T3Con Website (3 weeks ago)
+- [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) - The T3Con Website (4 weeks ago)
 - [adithyaakrishna/fossology-swagger-ui](https://github.com/adithyaakrishna/fossology-swagger-ui) - Fossology Rest API Doc (1 month ago)
 - [fluent/fluentd-website-hugo](https://github.com/fluent/fluentd-website-hugo) -  (1 month ago)
 - [mattermost/docs](https://github.com/mattermost/docs) - Mattermost documentation  (1 month ago)
@@ -37,18 +37,18 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 #### 🛠 Latest Pull Requests I have created
 
 - [Added OpenShift Docker Extension](https://github.com/noseka1/cop-bazaar/pull/17) on [noseka1/cop-bazaar](https://github.com/noseka1/cop-bazaar) (1 week ago)
-- [Fixed Footer](https://github.com/the-test-trove/the-test-trove.github.io/pull/35) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (3 weeks ago)
-- [Updated Title and T3Con Text](https://github.com/the-test-trove/the-test-trove.github.io/pull/34) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (3 weeks ago)
-- [Updated Size of Columns](https://github.com/the-test-trove/the-test-trove.github.io/pull/33) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (3 weeks ago)
-- [[Feat] - Q4 2022](https://github.com/the-test-trove/the-test-trove.github.io/pull/32) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (3 weeks ago)
+- [Fixed Footer](https://github.com/the-test-trove/the-test-trove.github.io/pull/35) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (4 weeks ago)
+- [Updated Title and T3Con Text](https://github.com/the-test-trove/the-test-trove.github.io/pull/34) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (4 weeks ago)
+- [Updated Size of Columns](https://github.com/the-test-trove/the-test-trove.github.io/pull/33) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (4 weeks ago)
+- [[Feat] - Q4 2022](https://github.com/the-test-trove/the-test-trove.github.io/pull/32) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (4 weeks ago)
 
 #### ⭐ My Recent Stars
 
-- [remotion-dev/github-unwrapped-2022](https://github.com/remotion-dev/github-unwrapped-2022) - Your coding year in review #GitHubUnwrapped (today)
-- [chakra-ui/chakra-ui-docs](https://github.com/chakra-ui/chakra-ui-docs) - Documentation website for chakra ui (today)
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters. (1 day ago)
-- [theopensourceway/guidebook](https://github.com/theopensourceway/guidebook) - Guidebook of open source community management best practices; is somewhat opinionated. (1 day ago)
-- [nodeshift-starters/nodejs-rest-http](https://github.com/nodeshift-starters/nodejs-rest-http) - Simple HTTP Rest example using express (1 day ago)
+- [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) -  DevOps Guide - Development to Production all configurations with basic notes to debug efficiently. (1 day ago)
+- [remotion-dev/github-unwrapped-2022](https://github.com/remotion-dev/github-unwrapped-2022) - Your coding year in review #GitHubUnwrapped (1 day ago)
+- [chakra-ui/chakra-ui-docs](https://github.com/chakra-ui/chakra-ui-docs) - Documentation website for chakra ui (1 day ago)
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters. (2 days ago)
+- [theopensourceway/guidebook](https://github.com/theopensourceway/guidebook) - Guidebook of open source community management best practices; is somewhat opinionated. (2 days ago)
 
 <br> 
 
