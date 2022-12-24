@@ -36,7 +36,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🛠 Latest Pull Requests I have created
 
-- [[Feat] - Added Dependabot, Removed Yarn File and Updated Lock Files](https://github.com/kruize/kruize-ui/pull/29) on [kruize/kruize-ui](https://github.com/kruize/kruize-ui) (1 day ago)
+- [[Feat] - Added Dependabot, Removed Yarn File and Updated Lock Files](https://github.com/kruize/kruize-ui/pull/29) on [kruize/kruize-ui](https://github.com/kruize/kruize-ui) (2 days ago)
 - [Added OpenShift Docker Extension](https://github.com/noseka1/cop-bazaar/pull/17) on [noseka1/cop-bazaar](https://github.com/noseka1/cop-bazaar) (1 week ago)
 - [Fixed Footer](https://github.com/the-test-trove/the-test-trove.github.io/pull/35) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (1 month ago)
 - [Updated Title and T3Con Text](https://github.com/the-test-trove/the-test-trove.github.io/pull/34) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (1 month ago)
@@ -44,11 +44,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
-- [kruize/autotune](https://github.com/kruize/autotune) - Autonomous Performance Tuning for Kubernetes ! (2 days ago)
-- [kruize/hpo](https://github.com/kruize/hpo) - Hyper Parameter Optimization (2 days ago)
-- [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) -  DevOps Guide - Development to Production all configurations with basic notes to debug efficiently. (3 days ago)
-- [remotion-dev/github-unwrapped-2022](https://github.com/remotion-dev/github-unwrapped-2022) - Your coding year in review #GitHubUnwrapped (3 days ago)
-- [chakra-ui/chakra-ui-docs](https://github.com/chakra-ui/chakra-ui-docs) - Documentation website for chakra ui (3 days ago)
+- [kruize/autotune](https://github.com/kruize/autotune) - Autonomous Performance Tuning for Kubernetes ! (3 days ago)
+- [kruize/hpo](https://github.com/kruize/hpo) - Hyper Parameter Optimization (3 days ago)
+- [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) -  DevOps Guide - Development to Production all configurations with basic notes to debug efficiently. (4 days ago)
+- [remotion-dev/github-unwrapped-2022](https://github.com/remotion-dev/github-unwrapped-2022) - Your coding year in review #GitHubUnwrapped (4 days ago)
+- [chakra-ui/chakra-ui-docs](https://github.com/chakra-ui/chakra-ui-docs) - Documentation website for chakra ui (4 days ago)
 
 <br> 
 
