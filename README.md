@@ -32,11 +32,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 - [adithyaakrishna/fossology-swagger-ui](https://github.com/adithyaakrishna/fossology-swagger-ui) - Fossology Rest API Doc (1 month ago)
 - [fluent/fluentd-website-hugo](https://github.com/fluent/fluentd-website-hugo) -  (1 month ago)
 - [mattermost/docs](https://github.com/mattermost/docs) - Mattermost documentation  (1 month ago)
-- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 month ago)
+- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 months ago)
 
 #### 🛠 Latest Pull Requests I have created
 
-- [[Feat] - Added Dependabot, Removed Yarn File and Updated Lock Files](https://github.com/kruize/kruize-ui/pull/29) on [kruize/kruize-ui](https://github.com/kruize/kruize-ui) (5 days ago)
+- [[Feat] - Added Dependabot, Removed Yarn File and Updated Lock Files](https://github.com/kruize/kruize-ui/pull/29) on [kruize/kruize-ui](https://github.com/kruize/kruize-ui) (6 days ago)
 - [Added OpenShift Docker Extension](https://github.com/noseka1/cop-bazaar/pull/17) on [noseka1/cop-bazaar](https://github.com/noseka1/cop-bazaar) (2 weeks ago)
 - [Fixed Footer](https://github.com/the-test-trove/the-test-trove.github.io/pull/35) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (1 month ago)
 - [Updated Title and T3Con Text](https://github.com/the-test-trove/the-test-trove.github.io/pull/34) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (1 month ago)
@@ -44,8 +44,8 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
-- [kruize/autotune](https://github.com/kruize/autotune) - Autonomous Performance Tuning for Kubernetes ! (6 days ago)
-- [kruize/hpo](https://github.com/kruize/hpo) - Hyper Parameter Optimization (6 days ago)
+- [kruize/autotune](https://github.com/kruize/autotune) - Autonomous Performance Tuning for Kubernetes ! (1 week ago)
+- [kruize/hpo](https://github.com/kruize/hpo) - Hyper Parameter Optimization (1 week ago)
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) -  DevOps Guide - Development to Production all configurations with basic notes to debug efficiently. (1 week ago)
 - [remotion-dev/github-unwrapped-2022](https://github.com/remotion-dev/github-unwrapped-2022) - Your coding year in review #GitHubUnwrapped (1 week ago)
 - [chakra-ui/chakra-ui-docs](https://github.com/chakra-ui/chakra-ui-docs) - Documentation website for chakra ui (1 week ago)
