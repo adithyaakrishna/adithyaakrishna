@@ -44,7 +44,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
-- [adobe/balance-text](https://github.com/adobe/balance-text) - A plugin for implementing balancing of wrapping text in a web page (1 day ago)
+- [adobe/balance-text](https://github.com/adobe/balance-text) - A plugin for implementing balancing of wrapping text in a web page (2 days ago)
 - [kruize/autotune](https://github.com/kruize/autotune) - Autonomous Performance Tuning for Kubernetes ! (1 week ago)
 - [kruize/hpo](https://github.com/kruize/hpo) - Hyper Parameter Optimization (1 week ago)
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) -  DevOps Guide - Development to Production all configurations with basic notes to debug efficiently. (1 week ago)
