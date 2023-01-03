@@ -37,15 +37,15 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 #### 🛠 Latest Pull Requests I have created
 
 - [[Feat] - Added Dependabot, Removed Yarn File and Updated Lock Files](https://github.com/kruize/kruize-ui/pull/29) on [kruize/kruize-ui](https://github.com/kruize/kruize-ui) (1 week ago)
-- [Added OpenShift Docker Extension](https://github.com/noseka1/cop-bazaar/pull/17) on [noseka1/cop-bazaar](https://github.com/noseka1/cop-bazaar) (2 weeks ago)
+- [Added OpenShift Docker Extension](https://github.com/noseka1/cop-bazaar/pull/17) on [noseka1/cop-bazaar](https://github.com/noseka1/cop-bazaar) (3 weeks ago)
 - [Fixed Footer](https://github.com/the-test-trove/the-test-trove.github.io/pull/35) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (1 month ago)
 - [Updated Title and T3Con Text](https://github.com/the-test-trove/the-test-trove.github.io/pull/34) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (1 month ago)
 
 #### ⭐ My Recent Stars
 
-- [utkarsh-pro/use](https://github.com/utkarsh-pro/use) - USE - USE Storage Engine. Playing with storage engines. (1 day ago)
-- [AnomalyInnovations/serverless-stack-com](https://github.com/AnomalyInnovations/serverless-stack-com) - An open source guide for building and deploying full-stack apps using Serverless and React on AWS. (1 day ago)
-- [adobe/balance-text](https://github.com/adobe/balance-text) - A plugin for implementing balancing of wrapping text in a web page (5 days ago)
+- [utkarsh-pro/use](https://github.com/utkarsh-pro/use) - USE - USE Storage Engine. Playing with storage engines. (2 days ago)
+- [AnomalyInnovations/serverless-stack-com](https://github.com/AnomalyInnovations/serverless-stack-com) - An open source guide for building and deploying full-stack apps using Serverless and React on AWS. (2 days ago)
+- [adobe/balance-text](https://github.com/adobe/balance-text) - A plugin for implementing balancing of wrapping text in a web page (6 days ago)
 - [kruize/autotune](https://github.com/kruize/autotune) - Autonomous Performance Tuning for Kubernetes ! (1 week ago)
 - [kruize/hpo](https://github.com/kruize/hpo) - Hyper Parameter Optimization (1 week ago)
 
