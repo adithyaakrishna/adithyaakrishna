@@ -43,11 +43,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
-- [utkarsh-pro/use](https://github.com/utkarsh-pro/use) - USE - USE Storage Engine. Playing with storage engines. (2 days ago)
-- [AnomalyInnovations/serverless-stack-com](https://github.com/AnomalyInnovations/serverless-stack-com) - An open source guide for building and deploying full-stack apps using Serverless and React on AWS. (2 days ago)
-- [adobe/balance-text](https://github.com/adobe/balance-text) - A plugin for implementing balancing of wrapping text in a web page (6 days ago)
-- [kruize/autotune](https://github.com/kruize/autotune) - Autonomous Performance Tuning for Kubernetes ! (1 week ago)
-- [kruize/hpo](https://github.com/kruize/hpo) - Hyper Parameter Optimization (1 week ago)
+- [utkarsh-pro/use](https://github.com/utkarsh-pro/use) - USE - USE Storage Engine. Playing with storage engines. (3 days ago)
+- [AnomalyInnovations/serverless-stack-com](https://github.com/AnomalyInnovations/serverless-stack-com) - An open source guide for building and deploying full-stack apps using Serverless and React on AWS. (3 days ago)
+- [adobe/balance-text](https://github.com/adobe/balance-text) - A plugin for implementing balancing of wrapping text in a web page (1 week ago)
+- [kruize/autotune](https://github.com/kruize/autotune) - Autonomous Performance Tuning for Kubernetes ! (2 weeks ago)
+- [kruize/hpo](https://github.com/kruize/hpo) - Hyper Parameter Optimization (2 weeks ago)
 
 <br> 
 
