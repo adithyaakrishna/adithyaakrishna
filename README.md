@@ -31,7 +31,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 - [adithyaakrishna/voluntarius](https://github.com/adithyaakrishna/voluntarius) - Voluntarius - Volunteer Management System (2 weeks ago)
 - [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) - The T3Con Website (1 month ago)
 - [adithyaakrishna/fossology-swagger-ui](https://github.com/adithyaakrishna/fossology-swagger-ui) - Fossology Rest API Doc (1 month ago)
-- [fluent/fluentd-website-hugo](https://github.com/fluent/fluentd-website-hugo) -  (1 month ago)
+- [fluent/fluentd-website-hugo](https://github.com/fluent/fluentd-website-hugo) -  (2 months ago)
 - [mattermost/docs](https://github.com/mattermost/docs) - Mattermost documentation  (2 months ago)
 
 #### 🛠 Latest Pull Requests I have created
@@ -43,8 +43,8 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
-- [utkarsh-pro/use](https://github.com/utkarsh-pro/use) - USE - USE Storage Engine. Playing with storage engines. (5 days ago)
-- [AnomalyInnovations/serverless-stack-com](https://github.com/AnomalyInnovations/serverless-stack-com) - An open source guide for building and deploying full-stack apps using Serverless and React on AWS. (5 days ago)
+- [utkarsh-pro/use](https://github.com/utkarsh-pro/use) - USE - USE Storage Engine. Playing with storage engines. (6 days ago)
+- [AnomalyInnovations/serverless-stack-com](https://github.com/AnomalyInnovations/serverless-stack-com) - An open source guide for building and deploying full-stack apps using Serverless and React on AWS. (6 days ago)
 - [adobe/balance-text](https://github.com/adobe/balance-text) - A plugin for implementing balancing of wrapping text in a web page (1 week ago)
 - [kruize/autotune](https://github.com/kruize/autotune) - Autonomous Performance Tuning for Kubernetes ! (2 weeks ago)
 - [kruize/hpo](https://github.com/kruize/hpo) - Hyper Parameter Optimization (2 weeks ago)
