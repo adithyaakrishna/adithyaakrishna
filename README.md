@@ -28,7 +28,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [adithyaakrishna/voluntarius](https://github.com/adithyaakrishna/voluntarius) - Voluntarius - Volunteer Management System (4 days ago)
+- [adithyaakrishna/voluntarius](https://github.com/adithyaakrishna/voluntarius) - Voluntarius - Volunteer Management System (5 days ago)
 - [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) - The T3Con Website (1 month ago)
 - [adithyaakrishna/fossology-swagger-ui](https://github.com/adithyaakrishna/fossology-swagger-ui) - Fossology Rest API Doc (2 months ago)
 - [fluent/fluentd-website-hugo](https://github.com/fluent/fluentd-website-hugo) -  (2 months ago)
@@ -36,8 +36,8 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🛠 Latest Pull Requests I have created
 
-- [[Feat] - Added Dependabot, Removed Yarn File and Updated Lock Files](https://github.com/kruize/kruize-ui/pull/29) on [kruize/kruize-ui](https://github.com/kruize/kruize-ui) (2 weeks ago)
-- [Added OpenShift Docker Extension](https://github.com/noseka1/cop-bazaar/pull/17) on [noseka1/cop-bazaar](https://github.com/noseka1/cop-bazaar) (4 weeks ago)
+- [[Feat] - Added Dependabot, Removed Yarn File and Updated Lock Files](https://github.com/kruize/kruize-ui/pull/29) on [kruize/kruize-ui](https://github.com/kruize/kruize-ui) (3 weeks ago)
+- [Added OpenShift Docker Extension](https://github.com/noseka1/cop-bazaar/pull/17) on [noseka1/cop-bazaar](https://github.com/noseka1/cop-bazaar) (1 month ago)
 - [Fixed Footer](https://github.com/the-test-trove/the-test-trove.github.io/pull/35) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (1 month ago)
 - [Updated Title and T3Con Text](https://github.com/the-test-trove/the-test-trove.github.io/pull/34) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (1 month ago)
 
