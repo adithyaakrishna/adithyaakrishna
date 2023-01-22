@@ -28,8 +28,8 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [adithyaakrishna/voluntarius](https://github.com/adithyaakrishna/voluntarius) - Voluntarius - Volunteer Management System (4 days ago)
-- [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) - The T3Con Website (1 month ago)
+- [adithyaakrishna/voluntarius](https://github.com/adithyaakrishna/voluntarius) - Voluntarius - Volunteer Management System (5 days ago)
+- [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) - The T3Con Website (2 months ago)
 - [adithyaakrishna/fossology-swagger-ui](https://github.com/adithyaakrishna/fossology-swagger-ui) - Fossology Rest API Doc (2 months ago)
 - [fluent/fluentd-website-hugo](https://github.com/fluent/fluentd-website-hugo) -  (2 months ago)
 - [mattermost/docs](https://github.com/mattermost/docs) - Mattermost documentation  (2 months ago)
@@ -38,13 +38,13 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 - [[Feat] - Added Dependabot, Removed Yarn File and Updated Lock Files](https://github.com/kruize/kruize-ui/pull/29) on [kruize/kruize-ui](https://github.com/kruize/kruize-ui) (1 month ago)
 - [Added OpenShift Docker Extension](https://github.com/noseka1/cop-bazaar/pull/17) on [noseka1/cop-bazaar](https://github.com/noseka1/cop-bazaar) (1 month ago)
-- [Fixed Footer](https://github.com/the-test-trove/the-test-trove.github.io/pull/35) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (1 month ago)
-- [Updated Title and T3Con Text](https://github.com/the-test-trove/the-test-trove.github.io/pull/34) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (1 month ago)
+- [Fixed Footer](https://github.com/the-test-trove/the-test-trove.github.io/pull/35) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (2 months ago)
+- [Updated Title and T3Con Text](https://github.com/the-test-trove/the-test-trove.github.io/pull/34) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (2 months ago)
 
 #### ⭐ My Recent Stars
 
-- [utkarsh-pro/use](https://github.com/utkarsh-pro/use) - USE - USE Storage Engine. Playing with storage engines. (2 weeks ago)
-- [AnomalyInnovations/serverless-stack-com](https://github.com/AnomalyInnovations/serverless-stack-com) - An open source guide for building and deploying full-stack apps using Serverless and React on AWS. (2 weeks ago)
+- [utkarsh-pro/use](https://github.com/utkarsh-pro/use) - USE - USE Storage Engine. Playing with storage engines. (3 weeks ago)
+- [AnomalyInnovations/serverless-stack-com](https://github.com/AnomalyInnovations/serverless-stack-com) - An open source guide for building and deploying full-stack apps using Serverless and React on AWS. (3 weeks ago)
 - [adobe/balance-text](https://github.com/adobe/balance-text) - A plugin for implementing balancing of wrapping text in a web page (3 weeks ago)
 - [kruize/autotune](https://github.com/kruize/autotune) - Autonomous Performance Tuning for Kubernetes ! (1 month ago)
 - [kruize/hpo](https://github.com/kruize/hpo) - Hyper Parameter Optimization (1 month ago)
