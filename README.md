@@ -43,7 +43,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
-- [appwrite/pink](https://github.com/appwrite/pink) - Pink. Appwrite&#39;s official framework agnostic design system 🎨 (5 days ago)
+- [appwrite/pink](https://github.com/appwrite/pink) - Pink. Appwrite&#39;s official framework agnostic design system 🎨 (6 days ago)
 - [utkarsh-pro/use](https://github.com/utkarsh-pro/use) - USE - USE Storage Engine. Playing with storage engines. (1 month ago)
 - [AnomalyInnovations/serverless-stack-com](https://github.com/AnomalyInnovations/serverless-stack-com) - An open source guide for building and deploying full-stack apps using Serverless and React on AWS. (1 month ago)
 - [adobe/balance-text](https://github.com/adobe/balance-text) - A plugin for implementing balancing of wrapping text in a web page (1 month ago)
