@@ -32,7 +32,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 - [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) - The T3Con Website (2 months ago)
 - [adithyaakrishna/fossology-swagger-ui](https://github.com/adithyaakrishna/fossology-swagger-ui) - Fossology Rest API Doc (2 months ago)
 - [fluent/fluentd-website-hugo](https://github.com/fluent/fluentd-website-hugo) -  (2 months ago)
-- [mattermost/docs](https://github.com/mattermost/docs) - Mattermost documentation  (2 months ago)
+- [mattermost/docs](https://github.com/mattermost/docs) - Mattermost documentation  (3 months ago)
 
 #### 🛠 Latest Pull Requests I have created
 
@@ -43,11 +43,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
+- [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here! (1 day ago)
+- [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉 (1 day ago)
+- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards. (1 day ago)
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources. (1 day ago)
 - [appwrite/pink](https://github.com/appwrite/pink) - Pink. Appwrite&#39;s official framework agnostic design system 🎨 (1 week ago)
-- [utkarsh-pro/use](https://github.com/utkarsh-pro/use) - USE - USE Storage Engine. Playing with storage engines. (1 month ago)
-- [AnomalyInnovations/serverless-stack-com](https://github.com/AnomalyInnovations/serverless-stack-com) - An open source guide for building and deploying full-stack apps using Serverless and React on AWS. (1 month ago)
-- [adobe/balance-text](https://github.com/adobe/balance-text) - A plugin for implementing balancing of wrapping text in a web page (1 month ago)
-- [kruize/autotune](https://github.com/kruize/autotune) - Autonomous Performance Tuning for Kubernetes ! (1 month ago)
 
 <br> 
 
