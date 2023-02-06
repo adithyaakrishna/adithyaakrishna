@@ -31,23 +31,23 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 - [adithyaakrishna/voluntarius](https://github.com/adithyaakrishna/voluntarius) - Voluntarius - Volunteer Management System (2 weeks ago)
 - [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) - The T3Con Website (2 months ago)
 - [adithyaakrishna/fossology-swagger-ui](https://github.com/adithyaakrishna/fossology-swagger-ui) - Fossology Rest API Doc (2 months ago)
-- [fluent/fluentd-website-hugo](https://github.com/fluent/fluentd-website-hugo) -  (2 months ago)
+- [fluent/fluentd-website-hugo](https://github.com/fluent/fluentd-website-hugo) -  (3 months ago)
 - [mattermost/docs](https://github.com/mattermost/docs) - Mattermost documentation  (3 months ago)
 
 #### 🛠 Latest Pull Requests I have created
 
-- [Updated Readme](https://github.com/adithyaakrishna/ksp-submission/pull/3) on [adithyaakrishna/ksp-submission](https://github.com/adithyaakrishna/ksp-submission) (today)
-- [Updated ML Scripts](https://github.com/adithyaakrishna/ksp-submission/pull/2) on [adithyaakrishna/ksp-submission](https://github.com/adithyaakrishna/ksp-submission) (today)
-- [Submission - Datazip](https://github.com/hack2skill/ksp-submission/pull/30) on [hack2skill/ksp-submission](https://github.com/hack2skill/ksp-submission) (today)
-- [Merging ML Code to Main Branch](https://github.com/adithyaakrishna/ksp-submission/pull/1) on [adithyaakrishna/ksp-submission](https://github.com/adithyaakrishna/ksp-submission) (today)
+- [Updated Readme](https://github.com/adithyaakrishna/ksp-submission/pull/3) on [adithyaakrishna/ksp-submission](https://github.com/adithyaakrishna/ksp-submission) (1 day ago)
+- [Updated ML Scripts](https://github.com/adithyaakrishna/ksp-submission/pull/2) on [adithyaakrishna/ksp-submission](https://github.com/adithyaakrishna/ksp-submission) (1 day ago)
+- [Submission - Datazip](https://github.com/hack2skill/ksp-submission/pull/30) on [hack2skill/ksp-submission](https://github.com/hack2skill/ksp-submission) (1 day ago)
+- [Merging ML Code to Main Branch](https://github.com/adithyaakrishna/ksp-submission/pull/1) on [adithyaakrishna/ksp-submission](https://github.com/adithyaakrishna/ksp-submission) (1 day ago)
 - [[Feat] - Added Dependabot, Removed Yarn File and Updated Lock Files](https://github.com/kruize/kruize-ui/pull/29) on [kruize/kruize-ui](https://github.com/kruize/kruize-ui) (1 month ago)
 
 #### ⭐ My Recent Stars
 
-- [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here! (1 day ago)
-- [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉 (1 day ago)
-- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards. (1 day ago)
-- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources. (1 day ago)
+- [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here! (2 days ago)
+- [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉 (2 days ago)
+- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards. (2 days ago)
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources. (2 days ago)
 - [appwrite/pink](https://github.com/appwrite/pink) - Pink. Appwrite&#39;s official framework agnostic design system 🎨 (1 week ago)
 
 <br> 
