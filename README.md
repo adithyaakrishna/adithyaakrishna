@@ -36,15 +36,15 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🛠 Latest Pull Requests I have created
 
-- [Updated Readme](https://github.com/adithyaakrishna/ksp-submission/pull/3) on [adithyaakrishna/ksp-submission](https://github.com/adithyaakrishna/ksp-submission) (6 days ago)
-- [Updated ML Scripts](https://github.com/adithyaakrishna/ksp-submission/pull/2) on [adithyaakrishna/ksp-submission](https://github.com/adithyaakrishna/ksp-submission) (6 days ago)
-- [Submission - Datazip](https://github.com/hack2skill/ksp-submission/pull/30) on [hack2skill/ksp-submission](https://github.com/hack2skill/ksp-submission) (6 days ago)
-- [Merging ML Code to Main Branch](https://github.com/adithyaakrishna/ksp-submission/pull/1) on [adithyaakrishna/ksp-submission](https://github.com/adithyaakrishna/ksp-submission) (6 days ago)
+- [Updated Readme](https://github.com/adithyaakrishna/ksp-submission/pull/3) on [adithyaakrishna/ksp-submission](https://github.com/adithyaakrishna/ksp-submission) (1 week ago)
+- [Updated ML Scripts](https://github.com/adithyaakrishna/ksp-submission/pull/2) on [adithyaakrishna/ksp-submission](https://github.com/adithyaakrishna/ksp-submission) (1 week ago)
+- [Submission - Datazip](https://github.com/hack2skill/ksp-submission/pull/30) on [hack2skill/ksp-submission](https://github.com/hack2skill/ksp-submission) (1 week ago)
+- [Merging ML Code to Main Branch](https://github.com/adithyaakrishna/ksp-submission/pull/1) on [adithyaakrishna/ksp-submission](https://github.com/adithyaakrishna/ksp-submission) (1 week ago)
 - [[Feat] - Added Dependabot, Removed Yarn File and Updated Lock Files](https://github.com/kruize/kruize-ui/pull/29) on [kruize/kruize-ui](https://github.com/kruize/kruize-ui) (1 month ago)
 
 #### ⭐ My Recent Stars
 
-- [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. (1 day ago)
+- [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. (2 days ago)
 - [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here! (1 week ago)
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉 (1 week ago)
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards. (1 week ago)
