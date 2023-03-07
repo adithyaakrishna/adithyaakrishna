@@ -28,7 +28,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 weeks ago)
+- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (3 weeks ago)
 - [adithyaakrishna/voluntarius](https://github.com/adithyaakrishna/voluntarius) - Voluntarius - Volunteer Management System (1 month ago)
 - [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) - The T3Con Website (3 months ago)
 - [adithyaakrishna/fossology-swagger-ui](https://github.com/adithyaakrishna/fossology-swagger-ui) - Fossology Rest API Doc (3 months ago)
@@ -36,11 +36,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🛠 Latest Pull Requests I have created
 
-- [Updated Readme](https://github.com/adithyaakrishna/ksp-submission/pull/3) on [adithyaakrishna/ksp-submission](https://github.com/adithyaakrishna/ksp-submission) (4 weeks ago)
-- [Updated ML Scripts](https://github.com/adithyaakrishna/ksp-submission/pull/2) on [adithyaakrishna/ksp-submission](https://github.com/adithyaakrishna/ksp-submission) (4 weeks ago)
-- [Submission - Datazip](https://github.com/hack2skill/ksp-submission/pull/30) on [hack2skill/ksp-submission](https://github.com/hack2skill/ksp-submission) (4 weeks ago)
-- [Merging ML Code to Main Branch](https://github.com/adithyaakrishna/ksp-submission/pull/1) on [adithyaakrishna/ksp-submission](https://github.com/adithyaakrishna/ksp-submission) (4 weeks ago)
-- [[Feat] - Added Dependabot, Removed Yarn File and Updated Lock Files](https://github.com/kruize/kruize-ui/pull/29) on [kruize/kruize-ui](https://github.com/kruize/kruize-ui) (2 months ago)
+- [[Bug] - Fixed Broken Links](https://github.com/jenkins-infra/jenkins.io/pull/6117) on [jenkins-infra/jenkins.io](https://github.com/jenkins-infra/jenkins.io) (1 day ago)
+- [Updated Readme](https://github.com/adithyaakrishna/ksp-submission/pull/3) on [adithyaakrishna/ksp-submission](https://github.com/adithyaakrishna/ksp-submission) (1 month ago)
+- [Updated ML Scripts](https://github.com/adithyaakrishna/ksp-submission/pull/2) on [adithyaakrishna/ksp-submission](https://github.com/adithyaakrishna/ksp-submission) (1 month ago)
+- [Submission - Datazip](https://github.com/hack2skill/ksp-submission/pull/30) on [hack2skill/ksp-submission](https://github.com/hack2skill/ksp-submission) (1 month ago)
+- [Merging ML Code to Main Branch](https://github.com/adithyaakrishna/ksp-submission/pull/1) on [adithyaakrishna/ksp-submission](https://github.com/adithyaakrishna/ksp-submission) (1 month ago)
 
 #### ⭐ My Recent Stars
 
