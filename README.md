@@ -28,7 +28,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [jenkins-infra/jenkins.io](https://github.com/jenkins-infra/jenkins.io) - A static site for the Jenkins automation server (3 days ago)
+- [jenkins-infra/jenkins.io](https://github.com/jenkins-infra/jenkins.io) - A static site for the Jenkins automation server (4 days ago)
 - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (3 weeks ago)
 - [adithyaakrishna/voluntarius](https://github.com/adithyaakrishna/voluntarius) - Voluntarius - Volunteer Management System (1 month ago)
 - [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) - The T3Con Website (3 months ago)
@@ -36,7 +36,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🛠 Latest Pull Requests I have created
 
-- [[Bug] - Fixed Broken Links](https://github.com/jenkins-infra/jenkins.io/pull/6117) on [jenkins-infra/jenkins.io](https://github.com/jenkins-infra/jenkins.io) (5 days ago)
+- [[Bug] - Fixed Broken Links](https://github.com/jenkins-infra/jenkins.io/pull/6117) on [jenkins-infra/jenkins.io](https://github.com/jenkins-infra/jenkins.io) (6 days ago)
 - [Updated Readme](https://github.com/adithyaakrishna/ksp-submission/pull/3) on [adithyaakrishna/ksp-submission](https://github.com/adithyaakrishna/ksp-submission) (1 month ago)
 - [Updated ML Scripts](https://github.com/adithyaakrishna/ksp-submission/pull/2) on [adithyaakrishna/ksp-submission](https://github.com/adithyaakrishna/ksp-submission) (1 month ago)
 - [Submission - Datazip](https://github.com/hack2skill/ksp-submission/pull/30) on [hack2skill/ksp-submission](https://github.com/hack2skill/ksp-submission) (1 month ago)
@@ -44,10 +44,10 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
-- [RoboTutorLLC/RoboTutor_2020](https://github.com/RoboTutorLLC/RoboTutor_2020) -  (2 days ago)
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications &amp; troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) &amp; Observability tool (3 days ago)
+- [RoboTutorLLC/RoboTutor_2020](https://github.com/RoboTutorLLC/RoboTutor_2020) -  (3 days ago)
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications &amp; troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) &amp; Observability tool (4 days ago)
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript (3 weeks ago)
-- [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. (4 weeks ago)
+- [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. (1 month ago)
 - [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here! (1 month ago)
 
 <br> 
