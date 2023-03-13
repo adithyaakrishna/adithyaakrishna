@@ -44,11 +44,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
+- [upptime/status-page](https://github.com/upptime/status-page) - ⬆️🌐 Static status page website for Upptime (today)
+- [CCI-MOC/moc-status](https://github.com/CCI-MOC/moc-status) -  (today)
+- [open-infrastructure-labs/openinfralabs-website](https://github.com/open-infrastructure-labs/openinfralabs-website) -  (today)
+- [CCI-MOC/documentation](https://github.com/CCI-MOC/documentation) - This is where we host all MOC documentation (today)
 - [RoboTutorLLC/RoboTutor_2020](https://github.com/RoboTutorLLC/RoboTutor_2020) -  (4 days ago)
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications &amp; troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) &amp; Observability tool (5 days ago)
-- [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript (3 weeks ago)
-- [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed. (1 month ago)
-- [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here! (1 month ago)
 
 <br> 
 
