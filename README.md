@@ -44,11 +44,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
+- [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The enterprise-ready webhooks service 🦀 (today)
 - [kubevirt/user-guide](https://github.com/kubevirt/user-guide) - This user guide will walk you through installation and various features. (1 day ago)
 - [upptime/status-page](https://github.com/upptime/status-page) - ⬆️🌐 Static status page website for Upptime (1 day ago)
 - [CCI-MOC/moc-status](https://github.com/CCI-MOC/moc-status) -  (1 day ago)
 - [open-infrastructure-labs/openinfralabs-website](https://github.com/open-infrastructure-labs/openinfralabs-website) -  (1 day ago)
-- [CCI-MOC/documentation](https://github.com/CCI-MOC/documentation) - This is where we host all MOC documentation (1 day ago)
 
 <br> 
 
