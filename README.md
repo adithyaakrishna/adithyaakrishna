@@ -24,31 +24,31 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 ![Adithya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adithyaakrishna&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
-<a href="https://quine.sh/profile/adithyaakrishna"><img src="https://stats.quine.sh/adithyaakrishna/github?simple=true" alt="adithyaakrishna's GitHub stats" width="250px"></a>
+<a href="https://quine.sh/profile/adithyaakrishna"><img src="https://stats.quine.sh/adithyaakrishna/github?simple=true" alt="adithyaakrishna's GitHub stats" width="840px"></a>
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [jenkins-infra/jenkins.io](https://github.com/jenkins-infra/jenkins.io) - A static site for the Jenkins automation server (5 days ago)
-- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (3 weeks ago)
+- [kubevirt/user-guide](https://github.com/kubevirt/user-guide) - This user guide will walk you through installation and various features. (1 day ago)
+- [jenkins-infra/jenkins.io](https://github.com/jenkins-infra/jenkins.io) - A static site for the Jenkins automation server (6 days ago)
+- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (4 weeks ago)
 - [adithyaakrishna/voluntarius](https://github.com/adithyaakrishna/voluntarius) - Voluntarius - Volunteer Management System (1 month ago)
 - [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) - The T3Con Website (3 months ago)
-- [adithyaakrishna/fossology-swagger-ui](https://github.com/adithyaakrishna/fossology-swagger-ui) - Fossology Rest API Doc (4 months ago)
 
 #### 🛠 Latest Pull Requests I have created
 
+- [Added Kubevirt v0.59.0 release notes](https://github.com/kubevirt/user-guide/pull/658) on [kubevirt/user-guide](https://github.com/kubevirt/user-guide) (1 day ago)
+- [Fixed broken link to contributing user guide](https://github.com/kubevirt/community/pull/214) on [kubevirt/community](https://github.com/kubevirt/community) (1 day ago)
+- [Fixed broken links in user-guide](https://github.com/kubevirt/user-guide/pull/656) on [kubevirt/user-guide](https://github.com/kubevirt/user-guide) (1 day ago)
+- [Bug - Fixed web console wizard tables](https://github.com/kubevirt/user-guide/pull/654) on [kubevirt/user-guide](https://github.com/kubevirt/user-guide) (1 day ago)
 - [[Bug] - Fixed Broken Links](https://github.com/jenkins-infra/jenkins.io/pull/6117) on [jenkins-infra/jenkins.io](https://github.com/jenkins-infra/jenkins.io) (1 week ago)
-- [Updated Readme](https://github.com/adithyaakrishna/ksp-submission/pull/3) on [adithyaakrishna/ksp-submission](https://github.com/adithyaakrishna/ksp-submission) (1 month ago)
-- [Updated ML Scripts](https://github.com/adithyaakrishna/ksp-submission/pull/2) on [adithyaakrishna/ksp-submission](https://github.com/adithyaakrishna/ksp-submission) (1 month ago)
-- [Submission - Datazip](https://github.com/hack2skill/ksp-submission/pull/30) on [hack2skill/ksp-submission](https://github.com/hack2skill/ksp-submission) (1 month ago)
-- [Merging ML Code to Main Branch](https://github.com/adithyaakrishna/ksp-submission/pull/1) on [adithyaakrishna/ksp-submission](https://github.com/adithyaakrishna/ksp-submission) (1 month ago)
 
 #### ⭐ My Recent Stars
 
-- [upptime/status-page](https://github.com/upptime/status-page) - ⬆️🌐 Static status page website for Upptime (today)
-- [CCI-MOC/moc-status](https://github.com/CCI-MOC/moc-status) -  (today)
-- [open-infrastructure-labs/openinfralabs-website](https://github.com/open-infrastructure-labs/openinfralabs-website) -  (today)
-- [CCI-MOC/documentation](https://github.com/CCI-MOC/documentation) - This is where we host all MOC documentation (today)
-- [RoboTutorLLC/RoboTutor_2020](https://github.com/RoboTutorLLC/RoboTutor_2020) -  (4 days ago)
+- [kubevirt/user-guide](https://github.com/kubevirt/user-guide) - This user guide will walk you through installation and various features. (1 day ago)
+- [upptime/status-page](https://github.com/upptime/status-page) - ⬆️🌐 Static status page website for Upptime (1 day ago)
+- [CCI-MOC/moc-status](https://github.com/CCI-MOC/moc-status) -  (1 day ago)
+- [open-infrastructure-labs/openinfralabs-website](https://github.com/open-infrastructure-labs/openinfralabs-website) -  (1 day ago)
+- [CCI-MOC/documentation](https://github.com/CCI-MOC/documentation) - This is where we host all MOC documentation (1 day ago)
 
 <br> 
 
