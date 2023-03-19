@@ -28,27 +28,27 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [kubevirt/user-guide](https://github.com/kubevirt/user-guide) - This user guide will walk you through installation and various features. (1 day ago)
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (3 days ago)
+- [kubevirt/user-guide](https://github.com/kubevirt/user-guide) - This user guide will walk you through installation and various features. (2 days ago)
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (4 days ago)
 - [jenkins-infra/jenkins.io](https://github.com/jenkins-infra/jenkins.io) - A static site for the Jenkins automation server (1 week ago)
 - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 month ago)
 - [adithyaakrishna/voluntarius](https://github.com/adithyaakrishna/voluntarius) - Voluntarius - Volunteer Management System (2 months ago)
 
 #### 🛠 Latest Pull Requests I have created
 
-- [Added Kubevirt v0.59.0 release notes](https://github.com/kubevirt/user-guide/pull/658) on [kubevirt/user-guide](https://github.com/kubevirt/user-guide) (5 days ago)
-- [Fixed broken link to contributing user guide](https://github.com/kubevirt/community/pull/214) on [kubevirt/community](https://github.com/kubevirt/community) (5 days ago)
-- [Fixed broken links in user-guide](https://github.com/kubevirt/user-guide/pull/656) on [kubevirt/user-guide](https://github.com/kubevirt/user-guide) (5 days ago)
-- [Bug - Fixed web console wizard tables](https://github.com/kubevirt/user-guide/pull/654) on [kubevirt/user-guide](https://github.com/kubevirt/user-guide) (5 days ago)
+- [Added Kubevirt v0.59.0 release notes](https://github.com/kubevirt/user-guide/pull/658) on [kubevirt/user-guide](https://github.com/kubevirt/user-guide) (6 days ago)
+- [Fixed broken link to contributing user guide](https://github.com/kubevirt/community/pull/214) on [kubevirt/community](https://github.com/kubevirt/community) (6 days ago)
+- [Fixed broken links in user-guide](https://github.com/kubevirt/user-guide/pull/656) on [kubevirt/user-guide](https://github.com/kubevirt/user-guide) (6 days ago)
+- [Bug - Fixed web console wizard tables](https://github.com/kubevirt/user-guide/pull/654) on [kubevirt/user-guide](https://github.com/kubevirt/user-guide) (6 days ago)
 - [[Bug] - Fixed Broken Links](https://github.com/jenkins-infra/jenkins.io/pull/6117) on [jenkins-infra/jenkins.io](https://github.com/jenkins-infra/jenkins.io) (1 week ago)
 
 #### ⭐ My Recent Stars
 
-- [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The enterprise-ready webhooks service 🦀 (4 days ago)
-- [kubevirt/user-guide](https://github.com/kubevirt/user-guide) - This user guide will walk you through installation and various features. (5 days ago)
-- [upptime/status-page](https://github.com/upptime/status-page) - ⬆️🌐 Static status page website for Upptime (5 days ago)
-- [CCI-MOC/moc-status](https://github.com/CCI-MOC/moc-status) -  (5 days ago)
-- [open-infrastructure-labs/openinfralabs-website](https://github.com/open-infrastructure-labs/openinfralabs-website) -  (5 days ago)
+- [railwayapp/docs](https://github.com/railwayapp/docs) - Railway documentation (1 day ago)
+- [intuit/accessibility-snippets](https://github.com/intuit/accessibility-snippets) - VSCode Snippets created to help developers write accessible code. (1 day ago)
+- [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The enterprise-ready webhooks service 🦀 (5 days ago)
+- [kubevirt/user-guide](https://github.com/kubevirt/user-guide) - This user guide will walk you through installation and various features. (6 days ago)
+- [upptime/status-page](https://github.com/upptime/status-page) - ⬆️🌐 Static status page website for Upptime (6 days ago)
 
 <br> 
 
