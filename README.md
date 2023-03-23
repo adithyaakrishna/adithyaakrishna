@@ -36,19 +36,19 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🛠 Latest Pull Requests I have created
 
+- [Added CodeQL Workflow](https://github.com/3dmol/3Dmol.js/pull/659) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (today)
+- [Testing Analysis - v2](https://github.com/adithyaakrishna/3Dmol.js/pull/2) on [adithyaakrishna/3Dmol.js](https://github.com/adithyaakrishna/3Dmol.js) (today)
+- [Feat/code ql](https://github.com/adithyaakrishna/3Dmol.js/pull/1) on [adithyaakrishna/3Dmol.js](https://github.com/adithyaakrishna/3Dmol.js) (today)
 - [Added Kubevirt v0.59.0 release notes](https://github.com/kubevirt/user-guide/pull/658) on [kubevirt/user-guide](https://github.com/kubevirt/user-guide) (1 week ago)
 - [Fixed broken link to contributing user guide](https://github.com/kubevirt/community/pull/214) on [kubevirt/community](https://github.com/kubevirt/community) (1 week ago)
-- [Fixed broken links in user-guide](https://github.com/kubevirt/user-guide/pull/656) on [kubevirt/user-guide](https://github.com/kubevirt/user-guide) (1 week ago)
-- [Bug - Fixed web console wizard tables](https://github.com/kubevirt/user-guide/pull/654) on [kubevirt/user-guide](https://github.com/kubevirt/user-guide) (1 week ago)
-- [[Bug] - Fixed Broken Links](https://github.com/jenkins-infra/jenkins.io/pull/6117) on [jenkins-infra/jenkins.io](https://github.com/jenkins-infra/jenkins.io) (2 weeks ago)
 
 #### ⭐ My Recent Stars
 
+- [deltablot/malle](https://github.com/deltablot/malle) - Edit in place javascript library (today)
 - [railwayapp/docs](https://github.com/railwayapp/docs) - Railway documentation (5 days ago)
 - [intuit/accessibility-snippets](https://github.com/intuit/accessibility-snippets) - VSCode Snippets created to help developers write accessible code. (5 days ago)
 - [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The enterprise-ready webhooks service 🦀 (1 week ago)
 - [kubevirt/user-guide](https://github.com/kubevirt/user-guide) - This user guide will walk you through installation and various features. (1 week ago)
-- [upptime/status-page](https://github.com/upptime/status-page) - ⬆️🌐 Static status page website for Upptime (1 week ago)
 
 <br> 
 
