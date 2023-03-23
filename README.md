@@ -28,8 +28,8 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [kubevirt/community](https://github.com/kubevirt/community) - Community content (2 days ago)
-- [kubevirt/user-guide](https://github.com/kubevirt/user-guide) - This user guide will walk you through installation and various features. (5 days ago)
+- [kubevirt/community](https://github.com/kubevirt/community) - Community content (3 days ago)
+- [kubevirt/user-guide](https://github.com/kubevirt/user-guide) - This user guide will walk you through installation and various features. (6 days ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (1 week ago)
 - [jenkins-infra/jenkins.io](https://github.com/jenkins-infra/jenkins.io) - A static site for the Jenkins automation server (2 weeks ago)
 - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 month ago)
@@ -44,8 +44,8 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
-- [railwayapp/docs](https://github.com/railwayapp/docs) - Railway documentation (4 days ago)
-- [intuit/accessibility-snippets](https://github.com/intuit/accessibility-snippets) - VSCode Snippets created to help developers write accessible code. (4 days ago)
+- [railwayapp/docs](https://github.com/railwayapp/docs) - Railway documentation (5 days ago)
+- [intuit/accessibility-snippets](https://github.com/intuit/accessibility-snippets) - VSCode Snippets created to help developers write accessible code. (5 days ago)
 - [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The enterprise-ready webhooks service 🦀 (1 week ago)
 - [kubevirt/user-guide](https://github.com/kubevirt/user-guide) - This user guide will walk you through installation and various features. (1 week ago)
 - [upptime/status-page](https://github.com/upptime/status-page) - ⬆️🌐 Static status page website for Upptime (1 week ago)
