@@ -28,25 +28,25 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [kubevirt/community](https://github.com/kubevirt/community) - Community content (3 days ago)
-- [kubevirt/user-guide](https://github.com/kubevirt/user-guide) - This user guide will walk you through installation and various features. (6 days ago)
+- [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (1 day ago)
+- [kubevirt/community](https://github.com/kubevirt/community) - Community content (4 days ago)
+- [kubevirt/user-guide](https://github.com/kubevirt/user-guide) - This user guide will walk you through installation and various features. (1 week ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (1 week ago)
 - [jenkins-infra/jenkins.io](https://github.com/jenkins-infra/jenkins.io) - A static site for the Jenkins automation server (2 weeks ago)
-- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 month ago)
 
 #### 🛠 Latest Pull Requests I have created
 
-- [Added CodeQL Workflow](https://github.com/3dmol/3Dmol.js/pull/659) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (today)
-- [Testing Analysis - v2](https://github.com/adithyaakrishna/3Dmol.js/pull/2) on [adithyaakrishna/3Dmol.js](https://github.com/adithyaakrishna/3Dmol.js) (today)
-- [Feat/code ql](https://github.com/adithyaakrishna/3Dmol.js/pull/1) on [adithyaakrishna/3Dmol.js](https://github.com/adithyaakrishna/3Dmol.js) (today)
+- [[Feat] - Performance Improvements to GLDraw.ts](https://github.com/3dmol/3Dmol.js/pull/662) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 day ago)
+- [Added CodeQL Workflow](https://github.com/3dmol/3Dmol.js/pull/659) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 day ago)
+- [Testing Analysis - v2](https://github.com/adithyaakrishna/3Dmol.js/pull/2) on [adithyaakrishna/3Dmol.js](https://github.com/adithyaakrishna/3Dmol.js) (1 day ago)
+- [Feat/code ql](https://github.com/adithyaakrishna/3Dmol.js/pull/1) on [adithyaakrishna/3Dmol.js](https://github.com/adithyaakrishna/3Dmol.js) (1 day ago)
 - [Added Kubevirt v0.59.0 release notes](https://github.com/kubevirt/user-guide/pull/658) on [kubevirt/user-guide](https://github.com/kubevirt/user-guide) (1 week ago)
-- [Fixed broken link to contributing user guide](https://github.com/kubevirt/community/pull/214) on [kubevirt/community](https://github.com/kubevirt/community) (1 week ago)
 
 #### ⭐ My Recent Stars
 
-- [deltablot/malle](https://github.com/deltablot/malle) - Edit in place javascript library (today)
-- [railwayapp/docs](https://github.com/railwayapp/docs) - Railway documentation (5 days ago)
-- [intuit/accessibility-snippets](https://github.com/intuit/accessibility-snippets) - VSCode Snippets created to help developers write accessible code. (5 days ago)
+- [deltablot/malle](https://github.com/deltablot/malle) - Edit in place javascript library (1 day ago)
+- [railwayapp/docs](https://github.com/railwayapp/docs) - Railway documentation (6 days ago)
+- [intuit/accessibility-snippets](https://github.com/intuit/accessibility-snippets) - VSCode Snippets created to help developers write accessible code. (6 days ago)
 - [svix/svix-webhooks](https://github.com/svix/svix-webhooks) - The enterprise-ready webhooks service 🦀 (1 week ago)
 - [kubevirt/user-guide](https://github.com/kubevirt/user-guide) - This user guide will walk you through installation and various features. (1 week ago)
 
