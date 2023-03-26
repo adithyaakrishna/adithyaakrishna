@@ -44,11 +44,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (today)
 - [DSpace/dspace-angular](https://github.com/DSpace/dspace-angular) - DSpace 7.x (and above) User Interface built on Angular.io (2 days ago)
 - [DSpace/DSpace](https://github.com/DSpace/DSpace) - (Official) The DSpace digital asset management system that powers your Institutional Repository (2 days ago)
 - [deltablot/malle](https://github.com/deltablot/malle) - Edit in place javascript library (3 days ago)
 - [railwayapp/docs](https://github.com/railwayapp/docs) - Railway documentation (1 week ago)
-- [intuit/accessibility-snippets](https://github.com/intuit/accessibility-snippets) - VSCode Snippets created to help developers write accessible code. (1 week ago)
 
 <br> 
 
