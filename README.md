@@ -36,11 +36,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🛠 Latest Pull Requests I have created
 
+- [Feat/perf improvements](https://github.com/adithyaakrishna/3Dmol.js/pull/3) on [adithyaakrishna/3Dmol.js](https://github.com/adithyaakrishna/3Dmol.js) (today)
 - [[Feat] - Performance Improvements to GLDraw.ts](https://github.com/3dmol/3Dmol.js/pull/662) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (4 days ago)
 - [Added CodeQL Workflow](https://github.com/3dmol/3Dmol.js/pull/659) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (4 days ago)
 - [Testing Analysis - v2](https://github.com/adithyaakrishna/3Dmol.js/pull/2) on [adithyaakrishna/3Dmol.js](https://github.com/adithyaakrishna/3Dmol.js) (4 days ago)
 - [Feat/code ql](https://github.com/adithyaakrishna/3Dmol.js/pull/1) on [adithyaakrishna/3Dmol.js](https://github.com/adithyaakrishna/3Dmol.js) (4 days ago)
-- [Added Kubevirt v0.59.0 release notes](https://github.com/kubevirt/user-guide/pull/658) on [kubevirt/user-guide](https://github.com/kubevirt/user-guide) (2 weeks ago)
 
 #### ⭐ My Recent Stars
 
