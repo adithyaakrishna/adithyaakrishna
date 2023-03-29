@@ -44,11 +44,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
+- [tigerbeetledb/tigerbeetle](https://github.com/tigerbeetledb/tigerbeetle) - The distributed financial accounting database designed for mission critical safety and performance. (today)
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (3 days ago)
 - [DSpace/dspace-angular](https://github.com/DSpace/dspace-angular) - DSpace 7.x (and above) User Interface built on Angular.io (5 days ago)
 - [DSpace/DSpace](https://github.com/DSpace/DSpace) - (Official) The DSpace digital asset management system that powers your Institutional Repository (5 days ago)
 - [deltablot/malle](https://github.com/deltablot/malle) - Edit in place javascript library (6 days ago)
-- [railwayapp/docs](https://github.com/railwayapp/docs) - Railway documentation (1 week ago)
 
 <br> 
 
