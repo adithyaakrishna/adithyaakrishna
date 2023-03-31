@@ -36,11 +36,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🛠 Latest Pull Requests I have created
 
+- [[Feat] - Added Jest Reporter Capability](https://github.com/3dmol/3Dmol.js/pull/669) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (today)
 - [[Feat] - Added npm Caching Capability](https://github.com/3dmol/3Dmol.js/pull/667) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (3 days ago)
 - [Feat/perf improvements](https://github.com/adithyaakrishna/3Dmol.js/pull/3) on [adithyaakrishna/3Dmol.js](https://github.com/adithyaakrishna/3Dmol.js) (4 days ago)
 - [[Feat] - Performance Improvements to GLDraw.ts](https://github.com/3dmol/3Dmol.js/pull/662) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 week ago)
 - [Added CodeQL Workflow](https://github.com/3dmol/3Dmol.js/pull/659) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 week ago)
-- [Testing Analysis - v2](https://github.com/adithyaakrishna/3Dmol.js/pull/2) on [adithyaakrishna/3Dmol.js](https://github.com/adithyaakrishna/3Dmol.js) (1 week ago)
 
 #### ⭐ My Recent Stars
 
