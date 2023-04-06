@@ -28,7 +28,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (2 days ago)
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (3 days ago)
 - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (1 week ago)
 - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 week ago)
 - [kubevirt/community](https://github.com/kubevirt/community) - Community content (2 weeks ago)
@@ -36,18 +36,18 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🛠 Latest Pull Requests I have created
 
-- [[Feat] - Update Jest Tests](https://github.com/3dmol/3Dmol.js/pull/670) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (5 days ago)
-- [[Feat] - Added Jest Reporter Capability](https://github.com/3dmol/3Dmol.js/pull/669) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (5 days ago)
+- [[Feat] - Update Jest Tests](https://github.com/3dmol/3Dmol.js/pull/670) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (6 days ago)
+- [[Feat] - Added Jest Reporter Capability](https://github.com/3dmol/3Dmol.js/pull/669) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (6 days ago)
 - [[Feat] - Added npm Caching Capability](https://github.com/3dmol/3Dmol.js/pull/667) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 week ago)
 - [Feat/perf improvements](https://github.com/adithyaakrishna/3Dmol.js/pull/3) on [adithyaakrishna/3Dmol.js](https://github.com/adithyaakrishna/3Dmol.js) (1 week ago)
-- [[Feat] - Performance Improvements to GLDraw.ts](https://github.com/3dmol/3Dmol.js/pull/662) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 week ago)
+- [[Feat] - Performance Improvements to GLDraw.ts](https://github.com/3dmol/3Dmol.js/pull/662) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (2 weeks ago)
 
 #### ⭐ My Recent Stars
 
-- [compiler-research/compiler-research.github.io](https://github.com/compiler-research/compiler-research.github.io) -  (1 day ago)
-- [benchmark-action/github-action-benchmark](https://github.com/benchmark-action/github-action-benchmark) - GitHub Action for continuous benchmarking to keep performance (2 days ago)
-- [openpgpjs/github-action-pull-request-benchmark](https://github.com/openpgpjs/github-action-pull-request-benchmark) - GitHub Action for continuous benchmarking of pull requests, to monitor performance regression (2 days ago)
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (3 days ago)
+- [compiler-research/compiler-research.github.io](https://github.com/compiler-research/compiler-research.github.io) -  (2 days ago)
+- [benchmark-action/github-action-benchmark](https://github.com/benchmark-action/github-action-benchmark) - GitHub Action for continuous benchmarking to keep performance (3 days ago)
+- [openpgpjs/github-action-pull-request-benchmark](https://github.com/openpgpjs/github-action-pull-request-benchmark) - GitHub Action for continuous benchmarking of pull requests, to monitor performance regression (3 days ago)
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (4 days ago)
 - [tigerbeetledb/tigerbeetle](https://github.com/tigerbeetledb/tigerbeetle) - The distributed financial accounting database designed for mission critical safety and performance. (1 week ago)
 
 <br> 
