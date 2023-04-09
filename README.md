@@ -28,7 +28,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (5 days ago)
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (6 days ago)
 - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (1 week ago)
 - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 week ago)
 - [kubevirt/community](https://github.com/kubevirt/community) - Community content (2 weeks ago)
@@ -44,11 +44,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
-- [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (2 days ago)
-- [compiler-research/compiler-research.github.io](https://github.com/compiler-research/compiler-research.github.io) -  (4 days ago)
-- [benchmark-action/github-action-benchmark](https://github.com/benchmark-action/github-action-benchmark) - GitHub Action for continuous benchmarking to keep performance (5 days ago)
-- [openpgpjs/github-action-pull-request-benchmark](https://github.com/openpgpjs/github-action-pull-request-benchmark) - GitHub Action for continuous benchmarking of pull requests, to monitor performance regression (5 days ago)
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (6 days ago)
+- [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (3 days ago)
+- [compiler-research/compiler-research.github.io](https://github.com/compiler-research/compiler-research.github.io) -  (5 days ago)
+- [benchmark-action/github-action-benchmark](https://github.com/benchmark-action/github-action-benchmark) - GitHub Action for continuous benchmarking to keep performance (6 days ago)
+- [openpgpjs/github-action-pull-request-benchmark](https://github.com/openpgpjs/github-action-pull-request-benchmark) - GitHub Action for continuous benchmarking of pull requests, to monitor performance regression (6 days ago)
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter&#39;s Recommendation Algorithm (1 week ago)
 
 <br> 
 
