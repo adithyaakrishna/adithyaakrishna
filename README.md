@@ -29,7 +29,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (1 week ago)
-- [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (1 week ago)
+- [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (2 weeks ago)
 - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 weeks ago)
 - [kubevirt/community](https://github.com/kubevirt/community) - Community content (3 weeks ago)
 - [kubevirt/user-guide](https://github.com/kubevirt/user-guide) - This user guide will walk you through installation and various features. (3 weeks ago)
@@ -38,15 +38,15 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 - [[Feat] - Update Jest Tests](https://github.com/3dmol/3Dmol.js/pull/670) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 week ago)
 - [[Feat] - Added Jest Reporter Capability](https://github.com/3dmol/3Dmol.js/pull/669) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 week ago)
-- [[Feat] - Added npm Caching Capability](https://github.com/3dmol/3Dmol.js/pull/667) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 week ago)
+- [[Feat] - Added npm Caching Capability](https://github.com/3dmol/3Dmol.js/pull/667) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (2 weeks ago)
 - [Feat/perf improvements](https://github.com/adithyaakrishna/3Dmol.js/pull/3) on [adithyaakrishna/3Dmol.js](https://github.com/adithyaakrishna/3Dmol.js) (2 weeks ago)
 - [[Feat] - Performance Improvements to GLDraw.ts](https://github.com/3dmol/3Dmol.js/pull/662) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (2 weeks ago)
 
 #### ⭐ My Recent Stars
 
-- [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience (1 day ago)
-- [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (4 days ago)
-- [compiler-research/compiler-research.github.io](https://github.com/compiler-research/compiler-research.github.io) -  (6 days ago)
+- [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience (2 days ago)
+- [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (5 days ago)
+- [compiler-research/compiler-research.github.io](https://github.com/compiler-research/compiler-research.github.io) -  (1 week ago)
 - [benchmark-action/github-action-benchmark](https://github.com/benchmark-action/github-action-benchmark) - GitHub Action for continuous benchmarking to keep performance (1 week ago)
 - [openpgpjs/github-action-pull-request-benchmark](https://github.com/openpgpjs/github-action-pull-request-benchmark) - GitHub Action for continuous benchmarking of pull requests, to monitor performance regression (1 week ago)
 
