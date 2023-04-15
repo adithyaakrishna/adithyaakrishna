@@ -36,16 +36,16 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🛠 Latest Pull Requests I have created
 
+- [[Bug] - Fix Broken Links and Typos](https://github.com/WasmEdge/docs/pull/16) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (today)
 - [[Feat] - Update Jest Tests](https://github.com/3dmol/3Dmol.js/pull/670) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (2 weeks ago)
 - [[Feat] - Added Jest Reporter Capability](https://github.com/3dmol/3Dmol.js/pull/669) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (2 weeks ago)
 - [[Feat] - Added npm Caching Capability](https://github.com/3dmol/3Dmol.js/pull/667) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (2 weeks ago)
 - [Feat/perf improvements](https://github.com/adithyaakrishna/3Dmol.js/pull/3) on [adithyaakrishna/3Dmol.js](https://github.com/adithyaakrishna/3Dmol.js) (2 weeks ago)
-- [[Feat] - Performance Improvements to GLDraw.ts](https://github.com/3dmol/3Dmol.js/pull/662) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (3 weeks ago)
 
 #### ⭐ My Recent Stars
 
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience (6 days ago)
-- [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (1 week ago)
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (1 week ago)
 - [compiler-research/compiler-research.github.io](https://github.com/compiler-research/compiler-research.github.io) -  (1 week ago)
 - [benchmark-action/github-action-benchmark](https://github.com/benchmark-action/github-action-benchmark) - GitHub Action for continuous benchmarking to keep performance (1 week ago)
 - [openpgpjs/github-action-pull-request-benchmark](https://github.com/openpgpjs/github-action-pull-request-benchmark) - GitHub Action for continuous benchmarking of pull requests, to monitor performance regression (1 week ago)
