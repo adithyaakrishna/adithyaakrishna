@@ -28,27 +28,27 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (1 week ago)
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (2 weeks ago)
 - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (2 weeks ago)
-- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 weeks ago)
-- [kubevirt/community](https://github.com/kubevirt/community) - Community content (3 weeks ago)
+- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (3 weeks ago)
+- [kubevirt/community](https://github.com/kubevirt/community) - Community content (4 weeks ago)
 - [kubevirt/user-guide](https://github.com/kubevirt/user-guide) - This user guide will walk you through installation and various features. (1 month ago)
 
 #### 🛠 Latest Pull Requests I have created
 
-- [[Feat] - Updated Contribution Overview](https://github.com/WasmEdge/docs/pull/19) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (today)
-- [[Feat] - Update Contributing Doc, Readme and Add Code of Conduct](https://github.com/WasmEdge/docs/pull/18) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (today)
-- [[Bug] - Fix Broken Links and Typos](https://github.com/WasmEdge/docs/pull/16) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 day ago)
+- [[Feat] - Updated Contribution Overview](https://github.com/WasmEdge/docs/pull/19) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 day ago)
+- [[Feat] - Update Contributing Doc, Readme and Add Code of Conduct](https://github.com/WasmEdge/docs/pull/18) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 day ago)
+- [[Bug] - Fix Broken Links and Typos](https://github.com/WasmEdge/docs/pull/16) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (2 days ago)
 - [[Feat] - Update Jest Tests](https://github.com/3dmol/3Dmol.js/pull/670) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (2 weeks ago)
 - [[Feat] - Added Jest Reporter Capability](https://github.com/3dmol/3Dmol.js/pull/669) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (2 weeks ago)
 
 #### ⭐ My Recent Stars
 
-- [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself. (today)
+- [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself. (1 day ago)
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience (1 week ago)
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (1 week ago)
 - [compiler-research/compiler-research.github.io](https://github.com/compiler-research/compiler-research.github.io) -  (1 week ago)
-- [benchmark-action/github-action-benchmark](https://github.com/benchmark-action/github-action-benchmark) - GitHub Action for continuous benchmarking to keep performance (1 week ago)
+- [benchmark-action/github-action-benchmark](https://github.com/benchmark-action/github-action-benchmark) - GitHub Action for continuous benchmarking to keep performance (2 weeks ago)
 
 <br> 
 
