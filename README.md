@@ -36,11 +36,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🛠 Latest Pull Requests I have created
 
+- [[Bug] - Fixed Broken Link](https://github.com/WasmEdge/WasmEdge/pull/2413) on [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) (today)
 - [[Feat] - Updated Contribution Overview](https://github.com/WasmEdge/docs/pull/19) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (2 days ago)
 - [[Feat] - Update Contributing Doc, Readme and Add Code of Conduct](https://github.com/WasmEdge/docs/pull/18) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (2 days ago)
 - [[Bug] - Fix Broken Links and Typos](https://github.com/WasmEdge/docs/pull/16) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (3 days ago)
 - [[Feat] - Update Jest Tests](https://github.com/3dmol/3Dmol.js/pull/670) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (2 weeks ago)
-- [[Feat] - Added Jest Reporter Capability](https://github.com/3dmol/3Dmol.js/pull/669) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (2 weeks ago)
 
 #### ⭐ My Recent Stars
 
