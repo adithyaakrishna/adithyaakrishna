@@ -28,24 +28,24 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (5 days ago)
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (6 days ago)
 - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (1 week ago)
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (2 weeks ago)
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (3 weeks ago)
 - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (3 weeks ago)
-- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (3 weeks ago)
+- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (4 weeks ago)
 
 #### 🛠 Latest Pull Requests I have created
 
-- [[Bug] - Fixed Caching of NPM Dependencies](https://github.com/3dmol/3Dmol.js/pull/675) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (3 days ago)
-- [[Bug] - Remove Checkbox in Release Process Docs and Update Installer Docs](https://github.com/WasmEdge/WasmEdge/pull/2416) on [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) (4 days ago)
-- [[Bug] - Fixed Broken Link](https://github.com/WasmEdge/WasmEdge/pull/2413) on [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) (5 days ago)
+- [[Bug] - Fixed Caching of NPM Dependencies](https://github.com/3dmol/3Dmol.js/pull/675) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (4 days ago)
+- [[Bug] - Remove Checkbox in Release Process Docs and Update Installer Docs](https://github.com/WasmEdge/WasmEdge/pull/2416) on [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) (5 days ago)
+- [[Bug] - Fixed Broken Link](https://github.com/WasmEdge/WasmEdge/pull/2413) on [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) (6 days ago)
 - [[Feat] - Updated Contribution Overview](https://github.com/WasmEdge/docs/pull/19) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 week ago)
 - [[Feat] - Update Contributing Doc, Readme and Add Code of Conduct](https://github.com/WasmEdge/docs/pull/18) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 week ago)
 
 #### ⭐ My Recent Stars
 
-- [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - End-to-end testing framework written in Node.js and using the W3C Webdriver API (2 days ago)
-- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (4 days ago)
+- [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - End-to-end testing framework written in Node.js and using the W3C Webdriver API (3 days ago)
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (5 days ago)
 - [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself. (1 week ago)
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience (2 weeks ago)
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (2 weeks ago)
