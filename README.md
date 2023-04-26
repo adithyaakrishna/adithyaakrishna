@@ -28,19 +28,19 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
+- [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (today)
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (1 week ago)
-- [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (1 week ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (3 weeks ago)
 - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (3 weeks ago)
 - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 month ago)
 
 #### 🛠 Latest Pull Requests I have created
 
+- [[Feat] - Updated Docusaurus to v2.4.0](https://github.com/WasmEdge/docs/pull/30) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (today)
+- [Updated Docusaurus to v2.4.0](https://github.com/WasmEdge/docs/pull/29) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (today)
 - [[Bug] - Fixed Caching of NPM Dependencies](https://github.com/3dmol/3Dmol.js/pull/675) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (6 days ago)
 - [[Bug] - Remove Checkbox in Release Process Docs and Update Installer Docs](https://github.com/WasmEdge/WasmEdge/pull/2416) on [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) (1 week ago)
 - [[Bug] - Fixed Broken Link](https://github.com/WasmEdge/WasmEdge/pull/2413) on [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) (1 week ago)
-- [[Feat] - Updated Contribution Overview](https://github.com/WasmEdge/docs/pull/19) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 week ago)
-- [[Feat] - Update Contributing Doc, Readme and Add Code of Conduct](https://github.com/WasmEdge/docs/pull/18) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 week ago)
 
 #### ⭐ My Recent Stars
 
