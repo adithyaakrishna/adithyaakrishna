@@ -28,25 +28,25 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (5 days ago)
+- [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (6 days ago)
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (2 weeks ago)
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (2 weeks ago)
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (4 weeks ago)
 - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (1 month ago)
 - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 month ago)
 
 #### 🛠 Latest Pull Requests I have created
 
-- [[Feat] - Update Notes and Code Block Languages](https://github.com/WasmEdge/docs/pull/38) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (5 days ago)
-- [[Feat] - Updated Docusaurus to v2.4.0](https://github.com/WasmEdge/docs/pull/30) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (6 days ago)
-- [Updated Docusaurus to v2.4.0](https://github.com/WasmEdge/docs/pull/29) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (6 days ago)
+- [[Feat] - Update Notes and Code Block Languages](https://github.com/WasmEdge/docs/pull/38) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (6 days ago)
+- [[Feat] - Updated Docusaurus to v2.4.0](https://github.com/WasmEdge/docs/pull/30) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 week ago)
+- [Updated Docusaurus to v2.4.0](https://github.com/WasmEdge/docs/pull/29) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 week ago)
 - [[Bug] - Fixed Caching of NPM Dependencies](https://github.com/3dmol/3Dmol.js/pull/675) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 week ago)
-- [[Bug] - Remove Checkbox in Release Process Docs and Update Installer Docs](https://github.com/WasmEdge/WasmEdge/pull/2416) on [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) (1 week ago)
+- [[Bug] - Remove Checkbox in Release Process Docs and Update Installer Docs](https://github.com/WasmEdge/WasmEdge/pull/2416) on [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) (2 weeks ago)
 
 #### ⭐ My Recent Stars
 
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies (1 week ago)
 - [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - End-to-end testing framework written in Node.js and using the W3C Webdriver API (1 week ago)
-- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (1 week ago)
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (2 weeks ago)
 - [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself. (2 weeks ago)
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience (3 weeks ago)
 
