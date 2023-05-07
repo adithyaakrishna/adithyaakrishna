@@ -36,11 +36,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🛠 Latest Pull Requests I have created
 
+- [[Feat] - Added CNCF Logo on the Homepage](https://github.com/WasmEdge/docs/pull/59) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (today)
+- [[Feat] - Added Info Admoniton for WIP Pages and Removed Sidebar Numbers](https://github.com/WasmEdge/docs/pull/58) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (today)
 - [[Feat] - Update Notes and Code Block Languages](https://github.com/WasmEdge/docs/pull/38) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 week ago)
 - [[Feat] - Updated Docusaurus to v2.4.0](https://github.com/WasmEdge/docs/pull/30) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 week ago)
 - [Updated Docusaurus to v2.4.0](https://github.com/WasmEdge/docs/pull/29) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 week ago)
-- [[Bug] - Fixed Caching of NPM Dependencies](https://github.com/3dmol/3Dmol.js/pull/675) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (2 weeks ago)
-- [[Bug] - Remove Checkbox in Release Process Docs and Update Installer Docs](https://github.com/WasmEdge/WasmEdge/pull/2416) on [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) (2 weeks ago)
 
 #### ⭐ My Recent Stars
 
