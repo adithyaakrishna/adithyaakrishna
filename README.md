@@ -28,7 +28,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (3 days ago)
+- [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (4 days ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (2 weeks ago)
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (2 weeks ago)
 - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (1 month ago)
@@ -36,8 +36,8 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🛠 Latest Pull Requests I have created
 
-- [[Feat] - Added CNCF Logo on the Homepage](https://github.com/WasmEdge/docs/pull/59) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (today)
-- [[Feat] - Added Info Admoniton for WIP Pages and Removed Sidebar Numbers](https://github.com/WasmEdge/docs/pull/58) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (today)
+- [[Feat] - Added CNCF Logo on the Homepage](https://github.com/WasmEdge/docs/pull/59) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 day ago)
+- [[Feat] - Added Info Admoniton for WIP Pages and Removed Sidebar Numbers](https://github.com/WasmEdge/docs/pull/58) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 day ago)
 - [[Feat] - Update Notes and Code Block Languages](https://github.com/WasmEdge/docs/pull/38) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 week ago)
 - [[Feat] - Updated Docusaurus to v2.4.0](https://github.com/WasmEdge/docs/pull/30) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 week ago)
 - [Updated Docusaurus to v2.4.0](https://github.com/WasmEdge/docs/pull/29) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 week ago)
