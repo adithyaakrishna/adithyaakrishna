@@ -36,19 +36,19 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🛠 Latest Pull Requests I have created
 
+- [[Feat] - Updated Link in HomePage](https://github.com/WasmEdge/docs/pull/60) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (today)
 - [[Feat] - Added CNCF Logo on the Homepage](https://github.com/WasmEdge/docs/pull/59) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (2 days ago)
 - [[Feat] - Added Info Admoniton for WIP Pages and Removed Sidebar Numbers](https://github.com/WasmEdge/docs/pull/58) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (2 days ago)
 - [[Feat] - Update Notes and Code Block Languages](https://github.com/WasmEdge/docs/pull/38) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 week ago)
 - [[Feat] - Updated Docusaurus to v2.4.0](https://github.com/WasmEdge/docs/pull/30) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 week ago)
-- [Updated Docusaurus to v2.4.0](https://github.com/WasmEdge/docs/pull/29) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 week ago)
 
 #### ⭐ My Recent Stars
 
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten (today)
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies (2 weeks ago)
 - [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - End-to-end testing framework written in Node.js and using the W3C Webdriver API (2 weeks ago)
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (2 weeks ago)
 - [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself. (3 weeks ago)
-- [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience (1 month ago)
 
 <br> 
 
