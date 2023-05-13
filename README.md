@@ -36,11 +36,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🛠 Latest Pull Requests I have created
 
+- [[Feat] - Docs Upgrade - Linting and Pre-Commit Hooks](https://github.com/WasmEdge/docs/pull/67) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (today)
+- [[Feat] - Added CodeQL Analysis Workflow](https://github.com/WasmEdge/docs/pull/66) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (today)
 - [[Feat] - Updated Link in HomePage](https://github.com/WasmEdge/docs/pull/60) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (4 days ago)
 - [[Feat] - Added CNCF Logo on the Homepage](https://github.com/WasmEdge/docs/pull/59) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (6 days ago)
 - [[Feat] - Added Info Admoniton for WIP Pages and Removed Sidebar Numbers](https://github.com/WasmEdge/docs/pull/58) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (6 days ago)
-- [[Feat] - Update Notes and Code Block Languages](https://github.com/WasmEdge/docs/pull/38) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (2 weeks ago)
-- [[Feat] - Updated Docusaurus to v2.4.0](https://github.com/WasmEdge/docs/pull/30) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (2 weeks ago)
 
 #### ⭐ My Recent Stars
 
