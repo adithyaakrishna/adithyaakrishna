@@ -28,7 +28,7 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (6 days ago)
+- [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (1 week ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (3 weeks ago)
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (3 weeks ago)
 - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (1 month ago)
@@ -36,19 +36,19 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🛠 Latest Pull Requests I have created
 
-- [[Feat] - Docs Upgrade - Linting and Pre-Commit Hooks](https://github.com/WasmEdge/docs/pull/67) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (today)
-- [[Feat] - Added CodeQL Analysis Workflow](https://github.com/WasmEdge/docs/pull/66) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (today)
-- [[Feat] - Updated Link in HomePage](https://github.com/WasmEdge/docs/pull/60) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (4 days ago)
-- [[Feat] - Added CNCF Logo on the Homepage](https://github.com/WasmEdge/docs/pull/59) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (6 days ago)
-- [[Feat] - Added Info Admoniton for WIP Pages and Removed Sidebar Numbers](https://github.com/WasmEdge/docs/pull/58) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (6 days ago)
+- [[Feat] - Docs Upgrade - Linting and Pre-Commit Hooks](https://github.com/WasmEdge/docs/pull/67) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 day ago)
+- [[Feat] - Added CodeQL Analysis Workflow](https://github.com/WasmEdge/docs/pull/66) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 day ago)
+- [[Feat] - Updated Link in HomePage](https://github.com/WasmEdge/docs/pull/60) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (5 days ago)
+- [[Feat] - Added CNCF Logo on the Homepage](https://github.com/WasmEdge/docs/pull/59) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 week ago)
+- [[Feat] - Added Info Admoniton for WIP Pages and Removed Sidebar Numbers](https://github.com/WasmEdge/docs/pull/58) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 week ago)
 
 #### ⭐ My Recent Stars
 
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten (4 days ago)
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten (5 days ago)
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies (2 weeks ago)
 - [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - End-to-end testing framework written in Node.js and using the W3C Webdriver API (3 weeks ago)
 - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (3 weeks ago)
-- [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself. (3 weeks ago)
+- [rossjrw/pr-preview-action](https://github.com/rossjrw/pr-preview-action) - GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself. (4 weeks ago)
 
 <br> 
 
