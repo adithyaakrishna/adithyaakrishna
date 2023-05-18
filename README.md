@@ -36,11 +36,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🛠 Latest Pull Requests I have created
 
+- [[Feat] - Added Ignored Paths to Deploy CI](https://github.com/WasmEdge/docs/pull/72) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (today)
+- [Fixed Typo in Readme](https://github.com/flows-network/chatgpt-github-app/pull/8) on [flows-network/chatgpt-github-app](https://github.com/flows-network/chatgpt-github-app) (today)
+- [Fixed Typo in Readme](https://github.com/flows-network/awesome-flow-functions/pull/1) on [flows-network/awesome-flow-functions](https://github.com/flows-network/awesome-flow-functions) (today)
 - [Create dependabot.yml](https://github.com/teamlbtc/lbtc-website-ng/pull/1) on [teamlbtc/lbtc-website-ng](https://github.com/teamlbtc/lbtc-website-ng) (1 day ago)
 - [[Bug] - Fixed Event Trigger Name](https://github.com/WasmEdge/docs/pull/69) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (3 days ago)
-- [[Feat] - Docs Upgrade - Linting and Pre-Commit Hooks](https://github.com/WasmEdge/docs/pull/67) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (5 days ago)
-- [[Feat] - Added CodeQL Analysis Workflow](https://github.com/WasmEdge/docs/pull/66) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (5 days ago)
-- [[Feat] - Updated Link in HomePage](https://github.com/WasmEdge/docs/pull/60) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 week ago)
 
 #### ⭐ My Recent Stars
 
