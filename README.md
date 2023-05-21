@@ -36,11 +36,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🛠 Latest Pull Requests I have created
 
+- [[Feat] - Updated http links to https](https://github.com/3dmol/3Dmol.js/pull/680) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (today)
 - [[Feat] - Format &amp; Lint .html Files](https://github.com/3dmol/3Dmol.js/pull/679) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 day ago)
 - [[Feat] - Added Ignored Paths to Deploy CI](https://github.com/WasmEdge/docs/pull/72) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (3 days ago)
 - [Fixed Typo in Readme](https://github.com/flows-network/chatgpt-github-app/pull/8) on [flows-network/chatgpt-github-app](https://github.com/flows-network/chatgpt-github-app) (3 days ago)
 - [Fixed Typo in Readme](https://github.com/flows-network/awesome-flow-functions/pull/1) on [flows-network/awesome-flow-functions](https://github.com/flows-network/awesome-flow-functions) (3 days ago)
-- [Create dependabot.yml](https://github.com/teamlbtc/lbtc-website-ng/pull/1) on [teamlbtc/lbtc-website-ng](https://github.com/teamlbtc/lbtc-website-ng) (4 days ago)
 
 #### ⭐ My Recent Stars
 
