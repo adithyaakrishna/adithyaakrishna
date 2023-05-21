@@ -28,27 +28,27 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [adithyaakrishna/rh-ts-bot](https://github.com/adithyaakrishna/rh-ts-bot) - RH Troubleshoot Bot (1 day ago)
-- [teamlbtc/lbtc-website-ng](https://github.com/teamlbtc/lbtc-website-ng) - Website for Lets Be The Change (3 days ago)
-- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (3 days ago)
-- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (6 days ago)
-- [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (1 week ago)
+- [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (1 day ago)
+- [adithyaakrishna/rh-ts-bot](https://github.com/adithyaakrishna/rh-ts-bot) - RH Troubleshoot Bot (2 days ago)
+- [teamlbtc/lbtc-website-ng](https://github.com/teamlbtc/lbtc-website-ng) - Website for Lets Be The Change (4 days ago)
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (4 days ago)
+- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 week ago)
 
 #### 🛠 Latest Pull Requests I have created
 
-- [[Feat] - Added Ignored Paths to Deploy CI](https://github.com/WasmEdge/docs/pull/72) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (2 days ago)
-- [Fixed Typo in Readme](https://github.com/flows-network/chatgpt-github-app/pull/8) on [flows-network/chatgpt-github-app](https://github.com/flows-network/chatgpt-github-app) (2 days ago)
-- [Fixed Typo in Readme](https://github.com/flows-network/awesome-flow-functions/pull/1) on [flows-network/awesome-flow-functions](https://github.com/flows-network/awesome-flow-functions) (2 days ago)
-- [Create dependabot.yml](https://github.com/teamlbtc/lbtc-website-ng/pull/1) on [teamlbtc/lbtc-website-ng](https://github.com/teamlbtc/lbtc-website-ng) (3 days ago)
-- [[Bug] - Fixed Event Trigger Name](https://github.com/WasmEdge/docs/pull/69) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (5 days ago)
+- [[Feat] - Format &amp; Lint .html Files](https://github.com/3dmol/3Dmol.js/pull/679) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 day ago)
+- [[Feat] - Added Ignored Paths to Deploy CI](https://github.com/WasmEdge/docs/pull/72) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (3 days ago)
+- [Fixed Typo in Readme](https://github.com/flows-network/chatgpt-github-app/pull/8) on [flows-network/chatgpt-github-app](https://github.com/flows-network/chatgpt-github-app) (3 days ago)
+- [Fixed Typo in Readme](https://github.com/flows-network/awesome-flow-functions/pull/1) on [flows-network/awesome-flow-functions](https://github.com/flows-network/awesome-flow-functions) (3 days ago)
+- [Create dependabot.yml](https://github.com/teamlbtc/lbtc-website-ng/pull/1) on [teamlbtc/lbtc-website-ng](https://github.com/teamlbtc/lbtc-website-ng) (4 days ago)
 
 #### ⭐ My Recent Stars
 
-- [dyte-in/docs](https://github.com/dyte-in/docs) - Dyte&#39;s documentation portal built with Docusaurus. (3 days ago)
-- [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android (4 days ago)
+- [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (1 day ago)
+- [dyte-in/docs](https://github.com/dyte-in/docs) - Dyte&#39;s documentation portal built with Docusaurus. (4 days ago)
+- [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android (5 days ago)
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten (1 week ago)
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies (3 weeks ago)
-- [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch) - End-to-end testing framework written in Node.js and using the W3C Webdriver API (4 weeks ago)
 
 <br> 
 
