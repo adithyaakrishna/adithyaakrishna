@@ -28,27 +28,27 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (1 day ago)
-- [adithyaakrishna/rh-ts-bot](https://github.com/adithyaakrishna/rh-ts-bot) - RH Troubleshoot Bot (2 days ago)
-- [teamlbtc/lbtc-website-ng](https://github.com/teamlbtc/lbtc-website-ng) - Website for Lets Be The Change (4 days ago)
-- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (4 days ago)
-- [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 week ago)
+- [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (3 days ago)
+- [adithyaakrishna/rh-ts-bot](https://github.com/adithyaakrishna/rh-ts-bot) - RH Troubleshoot Bot (4 days ago)
+- [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (5 days ago)
+- [teamlbtc/lbtc-website-ng](https://github.com/teamlbtc/lbtc-website-ng) - Website for Lets Be The Change (6 days ago)
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (6 days ago)
 
 #### 🛠 Latest Pull Requests I have created
 
-- [[Feat] - Updated http links to https](https://github.com/3dmol/3Dmol.js/pull/680) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (today)
-- [[Feat] - Format &amp; Lint .html Files](https://github.com/3dmol/3Dmol.js/pull/679) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 day ago)
-- [[Feat] - Added Ignored Paths to Deploy CI](https://github.com/WasmEdge/docs/pull/72) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (3 days ago)
-- [Fixed Typo in Readme](https://github.com/flows-network/chatgpt-github-app/pull/8) on [flows-network/chatgpt-github-app](https://github.com/flows-network/chatgpt-github-app) (3 days ago)
-- [Fixed Typo in Readme](https://github.com/flows-network/awesome-flow-functions/pull/1) on [flows-network/awesome-flow-functions](https://github.com/flows-network/awesome-flow-functions) (3 days ago)
+- [[Feat] - Updated Docusaurus to v2.4.1 &amp; Added New Workflows](https://github.com/WasmEdge/docs/pull/74) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 day ago)
+- [[Feat] - Updated http links to https](https://github.com/3dmol/3Dmol.js/pull/680) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (2 days ago)
+- [[Feat] - Format &amp; Lint .html Files](https://github.com/3dmol/3Dmol.js/pull/679) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (3 days ago)
+- [[Feat] - Added Ignored Paths to Deploy CI](https://github.com/WasmEdge/docs/pull/72) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (5 days ago)
+- [Fixed Typo in Readme](https://github.com/flows-network/chatgpt-github-app/pull/8) on [flows-network/chatgpt-github-app](https://github.com/flows-network/chatgpt-github-app) (5 days ago)
 
 #### ⭐ My Recent Stars
 
-- [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (1 day ago)
-- [dyte-in/docs](https://github.com/dyte-in/docs) - Dyte&#39;s documentation portal built with Docusaurus. (4 days ago)
-- [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android (5 days ago)
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten (1 week ago)
-- [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies (3 weeks ago)
+- [CodelyTV/pr-size-labeler](https://github.com/CodelyTV/pr-size-labeler) - 🏷 Visualize and optionally limit the size of your Pull Requests (1 day ago)
+- [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (3 days ago)
+- [dyte-in/docs](https://github.com/dyte-in/docs) - Dyte&#39;s documentation portal built with Docusaurus. (6 days ago)
+- [bluesky-social/social-app](https://github.com/bluesky-social/social-app) - The Bluesky Social application for Web, iOS, and Android (1 week ago)
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten (2 weeks ago)
 
 <br> 
 
