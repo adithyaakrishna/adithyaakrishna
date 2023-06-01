@@ -28,27 +28,27 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (today)
-- [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (6 days ago)
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (2 days ago)
+- [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (1 week ago)
 - [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) - The T3Con Website (1 week ago)
 - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (1 week ago)
 - [adithyaakrishna/rh-ts-bot](https://github.com/adithyaakrishna/rh-ts-bot) - RH Troubleshoot Bot (1 week ago)
 
 #### 🛠 Latest Pull Requests I have created
 
-- [Dummy change to verify PR Title validation](https://github.com/calcom/cal.com/pull/9194) on [calcom/cal.com](https://github.com/calcom/cal.com) (today)
-- [feat: Auto check PR titles if they follow conventional commits spec](https://github.com/calcom/cal.com/pull/9109) on [calcom/cal.com](https://github.com/calcom/cal.com) (5 days ago)
-- [[Bug] - Fixes CodeQL Workflow](https://github.com/WasmEdge/docs/pull/80) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (6 days ago)
+- [Dummy change to verify PR Title validation](https://github.com/calcom/cal.com/pull/9194) on [calcom/cal.com](https://github.com/calcom/cal.com) (2 days ago)
+- [feat: Auto check PR titles if they follow conventional commits spec](https://github.com/calcom/cal.com/pull/9109) on [calcom/cal.com](https://github.com/calcom/cal.com) (1 week ago)
+- [[Bug] - Fixes CodeQL Workflow](https://github.com/WasmEdge/docs/pull/80) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 week ago)
 - [Fix Date and Time](https://github.com/the-test-trove/the-test-trove.github.io/pull/42) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (1 week ago)
 - [[Feat] - Updated Docusaurus to v2.4.1 &amp; Added New Workflows](https://github.com/WasmEdge/docs/pull/74) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 week ago)
 
 #### ⭐ My Recent Stars
 
-- [documenso/documenso](https://github.com/documenso/documenso) - Document Signing as it should be - open and shaped by its community. (1 day ago)
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (6 days ago)
+- [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud. (1 day ago)
+- [documenso/documenso](https://github.com/documenso/documenso) - Document Signing as it should be - open and shaped by its community. (3 days ago)
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (1 week ago)
 - [CodelyTV/pr-size-labeler](https://github.com/CodelyTV/pr-size-labeler) - 🏷 Visualize and optionally limit the size of your Pull Requests (1 week ago)
 - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (1 week ago)
-- [dyte-in/docs](https://github.com/dyte-in/docs) - Dyte&#39;s documentation portal built with Docusaurus. (1 week ago)
 
 <br> 
 
