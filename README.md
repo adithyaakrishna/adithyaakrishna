@@ -44,11 +44,11 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### ⭐ My Recent Stars
 
+- [grafana/grafana-app-sdk](https://github.com/grafana/grafana-app-sdk) - An SDK for developing apps for grafana using kubernetes-like storage and operators (today)
 - [joelparkerhenderson/monorepo-vs-polyrepo](https://github.com/joelparkerhenderson/monorepo-vs-polyrepo) - Monorepo vs. polyrepo: architecture for source code management (SCM) version control systems (VCS) (2 days ago)
 - [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud. (3 days ago)
 - [documenso/documenso](https://github.com/documenso/documenso) - Document Signing as it should be - open and shaped by its community. (5 days ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (1 week ago)
-- [CodelyTV/pr-size-labeler](https://github.com/CodelyTV/pr-size-labeler) - 🏷 Visualize and optionally limit the size of your Pull Requests (1 week ago)
 
 <br> 
 
