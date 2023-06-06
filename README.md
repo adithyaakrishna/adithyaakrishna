@@ -28,27 +28,27 @@ Apart from work, I love contributing to open-source, reading blogs/newsletters r
 
 #### 🧑🏻‍💻 Check out what I'm currently working on
 
-- [adithyaakrishna/my-talks](https://github.com/adithyaakrishna/my-talks) -  (3 days ago)
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (5 days ago)
+- [adithyaakrishna/my-talks](https://github.com/adithyaakrishna/my-talks) -  (5 days ago)
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (1 week ago)
 - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (1 week ago)
-- [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) - The T3Con Website (1 week ago)
+- [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) - The T3Con Website (2 weeks ago)
 - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (2 weeks ago)
 
 #### 🛠 Latest Pull Requests I have created
 
-- [Dummy change to verify PR Title validation](https://github.com/calcom/cal.com/pull/9194) on [calcom/cal.com](https://github.com/calcom/cal.com) (5 days ago)
+- [[Feat] - Fix Puppeteer Warning](https://github.com/3dmol/glcheck/pull/1) on [3dmol/glcheck](https://github.com/3dmol/glcheck) (2 days ago)
+- [Dummy change to verify PR Title validation](https://github.com/calcom/cal.com/pull/9194) on [calcom/cal.com](https://github.com/calcom/cal.com) (1 week ago)
 - [feat: Auto check PR titles if they follow conventional commits spec](https://github.com/calcom/cal.com/pull/9109) on [calcom/cal.com](https://github.com/calcom/cal.com) (1 week ago)
 - [[Bug] - Fixes CodeQL Workflow](https://github.com/WasmEdge/docs/pull/80) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 week ago)
-- [Fix Date and Time](https://github.com/the-test-trove/the-test-trove.github.io/pull/42) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (1 week ago)
-- [[Feat] - Updated Docusaurus to v2.4.1 &amp; Added New Workflows](https://github.com/WasmEdge/docs/pull/74) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 week ago)
+- [Fix Date and Time](https://github.com/the-test-trove/the-test-trove.github.io/pull/42) on [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) (2 weeks ago)
 
 #### ⭐ My Recent Stars
 
-- [grafana/grafana-app-sdk](https://github.com/grafana/grafana-app-sdk) - An SDK for developing apps for grafana using kubernetes-like storage and operators (1 day ago)
-- [joelparkerhenderson/monorepo-vs-polyrepo](https://github.com/joelparkerhenderson/monorepo-vs-polyrepo) - Monorepo vs. polyrepo: architecture for source code management (SCM) version control systems (VCS) (3 days ago)
-- [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud. (4 days ago)
-- [documenso/documenso](https://github.com/documenso/documenso) - Document Signing as it should be - open and shaped by its community. (6 days ago)
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (1 week ago)
+- [lizrice/ebpf-beginners](https://github.com/lizrice/ebpf-beginners) - The beginner&#39;s guide to eBPF (1 day ago)
+- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web. (2 days ago)
+- [grafana/grafana-app-sdk](https://github.com/grafana/grafana-app-sdk) - An SDK for developing apps for grafana using kubernetes-like storage and operators (3 days ago)
+- [joelparkerhenderson/monorepo-vs-polyrepo](https://github.com/joelparkerhenderson/monorepo-vs-polyrepo) - Monorepo vs. polyrepo: architecture for source code management (SCM) version control systems (VCS) (5 days ago)
+- [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud. (6 days ago)
 
 <br> 
 
