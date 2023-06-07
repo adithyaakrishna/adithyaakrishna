@@ -6,13 +6,11 @@ I am also an GSoC '23 Developer at [OpenChemistry](https://openchemistry.org), w
 
 Maintainer (Docs) of [Meshery](https://github.com/meshery) (a CNCF Sandbox Project), where I contribute quite oftenly in areas of UI, GitHub Actions, docs, reviewing PRs and suggesting improvements.
 
-**Polywork Profile**: [https://poly.me/adiiikris](https://poly.me/adiiikris)
+Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 
-You can find me on,
-
-[![Twitter](https://img.shields.io/badge/-@adii_kris-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/adii_kris) &ensp;
-[![LinkedIn](https://img.shields.io/badge/-Adithya%20Krishna-%230A67C3?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/adiiikris/) &ensp;
-[![My Website](https://img.shields.io/badge/-My%20Website-%230A67C3?style=for-the-badge)](https://adithyaakrishna.github.io/)
+[![Twitter](https://img.shields.io/badge/-@adii_kris-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https:/twitter.adikris.in) &ensp;
+[![LinkedIn](https://img.shields.io/badge/-Adithya%20Krishna-%230A67C3?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://linkedin.adikris.in/) &ensp;
+[![My Website](https://img.shields.io/badge/-My%20Website-%230A67C3?style=for-the-badge)](https://adikris.in/)
 
 #### ⚡️ GitHub stats
 
