@@ -20,7 +20,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/my-talks](https://github.com/adithyaakrishna/my-talks) -  (6 days ago)
+  - [adithyaakrishna/my-talks](https://github.com/adithyaakrishna/my-talks) -  (1 week ago)
   - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (1 week ago)
   - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (2 weeks ago)
   - [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) - The T3Con Website (2 weeks ago)
@@ -30,21 +30,21 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [docs: Fix broken link in code blocks docs](https://github.com/facebook/docusaurus/pull/9044) on [facebook/docusaurus](https://github.com/facebook/docusaurus) (today)
-  - [[Feat] - Increase Code Coverage](https://github.com/3dmol/3Dmol.js/pull/683) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 day ago)
-  - [[Feat] - Fix Puppeteer Warning](https://github.com/3dmol/glcheck/pull/1) on [3dmol/glcheck](https://github.com/3dmol/glcheck) (3 days ago)
+  - [docs: Fix broken link in code blocks docs](https://github.com/facebook/docusaurus/pull/9044) on [facebook/docusaurus](https://github.com/facebook/docusaurus) (1 day ago)
+  - [[Feat] - Increase Code Coverage](https://github.com/3dmol/3Dmol.js/pull/683) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (2 days ago)
+  - [[Feat] - Fix Puppeteer Warning](https://github.com/3dmol/glcheck/pull/1) on [3dmol/glcheck](https://github.com/3dmol/glcheck) (4 days ago)
   - [Dummy change to verify PR Title validation](https://github.com/calcom/cal.com/pull/9194) on [calcom/cal.com](https://github.com/calcom/cal.com) (1 week ago)
-  - [feat: Auto check PR titles if they follow conventional commits spec](https://github.com/calcom/cal.com/pull/9109) on [calcom/cal.com](https://github.com/calcom/cal.com) (1 week ago)
+  - [feat: Auto check PR titles if they follow conventional commits spec](https://github.com/calcom/cal.com/pull/9109) on [calcom/cal.com](https://github.com/calcom/cal.com) (2 weeks ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [NextJSTemplates/startup-nextjs](https://github.com/NextJSTemplates/startup-nextjs) - Startup is free Next.js template for startups and SaaS businesses comes with all the essential pages, components, and sections you need to launch a complete business website. (today)
-  - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - The Python DataFrame for Complex Data (today)
-  - [robusta-dev/kubernetes-chatgpt-bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot) - A ChatGPT bot for Kubernetes issues. (1 day ago)
-  - [lizrice/ebpf-beginners](https://github.com/lizrice/ebpf-beginners) - The beginner&#39;s guide to eBPF (2 days ago)
-  - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web. (3 days ago)
+  - [NextJSTemplates/startup-nextjs](https://github.com/NextJSTemplates/startup-nextjs) - Startup is free Next.js template for startups and SaaS businesses comes with all the essential pages, components, and sections you need to launch a complete business website. (1 day ago)
+  - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - The Python DataFrame for Complex Data (1 day ago)
+  - [robusta-dev/kubernetes-chatgpt-bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot) - A ChatGPT bot for Kubernetes issues. (2 days ago)
+  - [lizrice/ebpf-beginners](https://github.com/lizrice/ebpf-beginners) - The beginner&#39;s guide to eBPF (3 days ago)
+  - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web. (4 days ago)
 </details>
 
 <br> 
