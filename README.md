@@ -20,17 +20,17 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>Check out what I'm currently working on</summary>
   
+  - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (today)
+  - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites. (today)
   - [adithyaakrishna/my-talks](https://github.com/adithyaakrishna/my-talks) -  (1 week ago)
   - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (1 week ago)
-  - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (2 weeks ago)
   - [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) - The T3Con Website (2 weeks ago)
-  - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (2 weeks ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [docs: Fix broken link in code blocks docs](https://github.com/facebook/docusaurus/pull/9044) on [facebook/docusaurus](https://github.com/facebook/docusaurus) (1 day ago)
+  - [docs: fix prism theme broken link in code blocks docs](https://github.com/facebook/docusaurus/pull/9044) on [facebook/docusaurus](https://github.com/facebook/docusaurus) (1 day ago)
   - [[Feat] - Increase Code Coverage](https://github.com/3dmol/3Dmol.js/pull/683) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (2 days ago)
   - [[Feat] - Fix Puppeteer Warning](https://github.com/3dmol/glcheck/pull/1) on [3dmol/glcheck](https://github.com/3dmol/glcheck) (4 days ago)
   - [Dummy change to verify PR Title validation](https://github.com/calcom/cal.com/pull/9194) on [calcom/cal.com](https://github.com/calcom/cal.com) (1 week ago)
