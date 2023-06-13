@@ -20,30 +20,30 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites. (3 days ago)
-  - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (3 days ago)
-  - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (3 days ago)
+  - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (5 days ago)
+  - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (5 days ago)
+  - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites. (5 days ago)
   - [adithyaakrishna/my-talks](https://github.com/adithyaakrishna/my-talks) -  (1 week ago)
-  - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (1 week ago)
+  - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (2 weeks ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [docs: fix prism theme broken link in code blocks docs](https://github.com/facebook/docusaurus/pull/9044) on [facebook/docusaurus](https://github.com/facebook/docusaurus) (4 days ago)
-  - [[Feat] - Increase Code Coverage](https://github.com/3dmol/3Dmol.js/pull/683) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (5 days ago)
+  - [[Bug] - Fixes Caching and CodeQL Workflows](https://github.com/3dmol/3Dmol.js/pull/684) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 day ago)
+  - [docs: fix prism theme broken link in code blocks docs](https://github.com/facebook/docusaurus/pull/9044) on [facebook/docusaurus](https://github.com/facebook/docusaurus) (6 days ago)
+  - [[Feat] - Increase Code Coverage](https://github.com/3dmol/3Dmol.js/pull/683) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 week ago)
   - [[Feat] - Fix Puppeteer Warning](https://github.com/3dmol/glcheck/pull/1) on [3dmol/glcheck](https://github.com/3dmol/glcheck) (1 week ago)
-  - [Dummy change to verify PR Title validation](https://github.com/calcom/cal.com/pull/9194) on [calcom/cal.com](https://github.com/calcom/cal.com) (1 week ago)
-  - [feat: Auto check PR titles if they follow conventional commits spec](https://github.com/calcom/cal.com/pull/9109) on [calcom/cal.com](https://github.com/calcom/cal.com) (2 weeks ago)
+  - [Dummy change to verify PR Title validation](https://github.com/calcom/cal.com/pull/9194) on [calcom/cal.com](https://github.com/calcom/cal.com) (2 weeks ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [NextJSTemplates/startup-nextjs](https://github.com/NextJSTemplates/startup-nextjs) - Startup is free Next.js template for startups and SaaS businesses comes with all the essential pages, components, and sections you need to launch a complete business website. (4 days ago)
-  - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - The Python DataFrame for Complex Data (4 days ago)
-  - [robusta-dev/kubernetes-chatgpt-bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot) - A ChatGPT bot for Kubernetes issues. (5 days ago)
-  - [lizrice/ebpf-beginners](https://github.com/lizrice/ebpf-beginners) - The beginner&#39;s guide to eBPF (6 days ago)
+  - [NextJSTemplates/startup-nextjs](https://github.com/NextJSTemplates/startup-nextjs) - Startup is free Next.js template for startups and SaaS businesses comes with all the essential pages, components, and sections you need to launch a complete business website. (6 days ago)
+  - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - The Python DataFrame for Complex Data (6 days ago)
+  - [robusta-dev/kubernetes-chatgpt-bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot) - A ChatGPT bot for Kubernetes issues. (1 week ago)
+  - [lizrice/ebpf-beginners](https://github.com/lizrice/ebpf-beginners) - The beginner&#39;s guide to eBPF (1 week ago)
   - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web. (1 week ago)
 </details>
 
