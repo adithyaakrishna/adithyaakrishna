@@ -20,9 +20,9 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>Check out what I'm currently working on</summary>
   
+  - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (today)
   - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (1 day ago)
   - [adithyaakrishna/dotfiles](https://github.com/adithyaakrishna/dotfiles) - My Personal Configuration for GH CodeSpaces (1 day ago)
-  - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (1 week ago)
   - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (1 week ago)
   - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites. (1 week ago)
 </details>
@@ -30,11 +30,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>Lately, I have worked on</summary>
   
+  - [fix: CI workflows bug and linting](https://github.com/WasmEdge/docs/pull/109) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (today)
   - [[Docs] Remove Unnecessary Docs and Reorganised Others](https://github.com/WasmEdge/WasmEdge/pull/2593) on [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) (1 day ago)
   - [[Feat] - Updated Sessions.js](https://github.com/3dmol/3Dmol.js/pull/690) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 day ago)
   - [[Feat] - Updated `.push()` to `Array.from()`](https://github.com/3dmol/3Dmol.js/pull/689) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 day ago)
   - [[Feat] - Updated `.push()` to `Array.from()`](https://github.com/3dmol/3Dmol.js/pull/688) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (2 days ago)
-  - [[Feat] - Update Scripts &amp; Workflows](https://github.com/3dmol/3Dmol.js/pull/687) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (2 days ago)
 </details>
 
 <details>
