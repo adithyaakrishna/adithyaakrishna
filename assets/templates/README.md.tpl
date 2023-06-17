@@ -2,7 +2,7 @@
   
 An Associate Software Engineer at [Red Hat](https://www.redhat.com), where I work with tools/libraries like ReactJS, NodeJS, Storybook, Patternfly(Red Hat's Design System), Lerna (monorepo manager), GitLab and it's Pipelines. I also work on AdobeXd and Figma designs to keep the creative part of me alive.
 
-I'm also a GSoC '23 Developer at [OpenChemistry](https://openchemistry.org), working on improving [3DMol.js](https://github.com/3dmol/3Dmol.js) and a GSoD '23 Writer at [WasmEdge](https://github.com/WasmEdge)
+I'm also a [Google Summer of Code - GSoC '23](https://summerofcode.withgoogle.com/) Developer at [OpenChemistry](https://openchemistry.org), working on improving [3DMol.js](https://github.com/3dmol/3Dmol.js) and a [Google Season of Docs - GSoD '23](https://developers.google.com/season-of-docs) Writer at [WasmEdge](https://github.com/WasmEdge)
 
 Maintainer (Docs) of [Meshery](https://github.com/meshery) (a CNCF Sandbox Project), where I contribute quite oftenly in areas of UI, GitHub Actions, docs, reviewing PRs and suggesting improvements.
 
