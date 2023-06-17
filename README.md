@@ -42,7 +42,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
   
   - [STEllAR-GROUP/hpx](https://github.com/STEllAR-GROUP/hpx) - The C&#43;&#43; Standard Library for Parallelism and Concurrency (1 day ago)
   - [Skyscanner/backpack](https://github.com/Skyscanner/backpack) - Backpack Design System (1 day ago)
-  - [amplication/amplication](https://github.com/amplication/amplication) - Amplication is a flexible open-source Node.js app development platform. It helps you build production-ready Node.js backend without wasting time on repetitive coding. (2 days ago)
+  - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding. (2 days ago)
   - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity. (3 days ago)
   - [NASA-AMMOS/aerie-ui](https://github.com/NASA-AMMOS/aerie-ui) - The client application for Aerie. (3 days ago)
 </details>
