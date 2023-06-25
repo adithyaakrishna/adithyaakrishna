@@ -40,11 +40,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>These are super cool</summary>
   
+  - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans. (today)
+  - [aidenybai/million](https://github.com/aidenybai/million) - The Virtual DOM Replacement for React (today)
+  - [Akhil-2001/InceptionNet-Malware-Analysis](https://github.com/Akhil-2001/InceptionNet-Malware-Analysis) - Modern malware is designed to evade signature-based detection techniques. Thus, we can use Deep Convoluted Neural Networks in order to classify malware depicted by its binary malware image. In this project, we particularly use InceptionNetV3 for classifying malware binaries. (today)
   - [arXiv/arxiv-docs](https://github.com/arXiv/arxiv-docs) - Help, about and other static pages (1 day ago)
   - [FederatedAI/KubeFATE](https://github.com/FederatedAI/KubeFATE) - Manage federated learning workload using cloud native technologies. (1 day ago)
-  - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework (2 days ago)
-  - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme (2 days ago)
-  - [swc-project/jest](https://github.com/swc-project/jest) - Super-fast alternative for babel-jest or ts-jest without type checking. Please use main repository for issues (2 days ago)
 </details>
 
 <br> 
