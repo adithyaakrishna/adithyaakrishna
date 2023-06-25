@@ -20,8 +20,8 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (4 days ago)
-  - [adithyaakrishna/dotfiles](https://github.com/adithyaakrishna/dotfiles) - My Personal Configuration for GH CodeSpaces (5 days ago)
+  - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (5 days ago)
+  - [adithyaakrishna/dotfiles](https://github.com/adithyaakrishna/dotfiles) - My Personal Configuration for GH CodeSpaces (6 days ago)
   - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (1 week ago)
   - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (2 weeks ago)
   - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites. (2 weeks ago)
@@ -40,11 +40,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>These are super cool</summary>
   
-  - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework (1 day ago)
-  - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme (1 day ago)
-  - [swc-project/jest](https://github.com/swc-project/jest) - Super-fast alternative for babel-jest or ts-jest without type checking. Please use main repository for issues (1 day ago)
-  - [themesberg/flowbite](https://github.com/themesberg/flowbite) - The most popular and open-source library of Tailwind CSS components (3 days ago)
-  - [redhat-et/wasm-demo-app](https://github.com/redhat-et/wasm-demo-app) - WebAssembly Demo App (3 days ago)
+  - [arXiv/arxiv-docs](https://github.com/arXiv/arxiv-docs) - Help, about and other static pages (1 day ago)
+  - [FederatedAI/KubeFATE](https://github.com/FederatedAI/KubeFATE) - Manage federated learning workload using cloud native technologies. (1 day ago)
+  - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework (2 days ago)
+  - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme (2 days ago)
+  - [swc-project/jest](https://github.com/swc-project/jest) - Super-fast alternative for babel-jest or ts-jest without type checking. Please use main repository for issues (2 days ago)
 </details>
 
 <br> 
