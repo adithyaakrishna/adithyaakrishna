@@ -20,8 +20,8 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (5 days ago)
-  - [adithyaakrishna/dotfiles](https://github.com/adithyaakrishna/dotfiles) - My Personal Configuration for GH CodeSpaces (6 days ago)
+  - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (1 week ago)
+  - [adithyaakrishna/dotfiles](https://github.com/adithyaakrishna/dotfiles) - My Personal Configuration for GH CodeSpaces (1 week ago)
   - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (1 week ago)
   - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (2 weeks ago)
   - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites. (2 weeks ago)
@@ -40,11 +40,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>These are super cool</summary>
   
-  - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans. (today)
-  - [aidenybai/million](https://github.com/aidenybai/million) - The Virtual DOM Replacement for React (today)
-  - [Akhil-2001/InceptionNet-Malware-Analysis](https://github.com/Akhil-2001/InceptionNet-Malware-Analysis) - Modern malware is designed to evade signature-based detection techniques. Thus, we can use Deep Convoluted Neural Networks in order to classify malware depicted by its binary malware image. In this project, we particularly use InceptionNetV3 for classifying malware binaries. (today)
-  - [arXiv/arxiv-docs](https://github.com/arXiv/arxiv-docs) - Help, about and other static pages (1 day ago)
-  - [FederatedAI/KubeFATE](https://github.com/FederatedAI/KubeFATE) - Manage federated learning workload using cloud native technologies. (1 day ago)
+  - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans. (2 days ago)
+  - [aidenybai/million](https://github.com/aidenybai/million) - The Virtual DOM Replacement for React (2 days ago)
+  - [Akhil-2001/InceptionNet-Malware-Analysis](https://github.com/Akhil-2001/InceptionNet-Malware-Analysis) - Modern malware is designed to evade signature-based detection techniques. Thus, we can use Deep Convoluted Neural Networks in order to classify malware depicted by its binary malware image. In this project, we particularly use InceptionNetV3 for classifying malware binaries. (2 days ago)
+  - [arXiv/arxiv-docs](https://github.com/arXiv/arxiv-docs) - Help, about and other static pages (3 days ago)
+  - [FederatedAI/KubeFATE](https://github.com/FederatedAI/KubeFATE) - Manage federated learning workload using cloud native technologies. (3 days ago)
 </details>
 
 <br> 
