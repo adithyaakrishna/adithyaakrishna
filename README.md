@@ -20,31 +20,31 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>Check out what I'm currently working on</summary>
   
+  - [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) - The T3Con Website (2 days ago)
   - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (1 week ago)
   - [adithyaakrishna/dotfiles](https://github.com/adithyaakrishna/dotfiles) - My Personal Configuration for GH CodeSpaces (1 week ago)
-  - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (1 week ago)
-  - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (2 weeks ago)
-  - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites. (2 weeks ago)
+  - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (2 weeks ago)
+  - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites. (3 weeks ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
+  - [[Feat] - Added and Updated Types ](https://github.com/3dmol/3Dmol.js/pull/694) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 day ago)
   - [[Feat] - Enabled Concurrency for Deploy Workflow](https://github.com/WasmEdge/docs/pull/113) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 week ago)
   - [[Chore] - Updated CI and Added Caching Feature](https://github.com/3dmol/3Dmol.js/pull/691) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 week ago)
   - [[Chore] - Enabled Concurrency for Deploy Workflow](https://github.com/WasmEdge/docs/pull/111) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 week ago)
-  - [fix: CI workflows bug and linting](https://github.com/WasmEdge/docs/pull/109) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 week ago)
-  - [[Docs] Remove Unnecessary Docs and Reorganised Others](https://github.com/WasmEdge/WasmEdge/pull/2593) on [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) (1 week ago)
+  - [fix: CI workflows bug and linting](https://github.com/WasmEdge/docs/pull/109) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (2 weeks ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans. (2 days ago)
-  - [aidenybai/million](https://github.com/aidenybai/million) - The Virtual DOM Replacement for React (2 days ago)
-  - [Akhil-2001/InceptionNet-Malware-Analysis](https://github.com/Akhil-2001/InceptionNet-Malware-Analysis) - Modern malware is designed to evade signature-based detection techniques. Thus, we can use Deep Convoluted Neural Networks in order to classify malware depicted by its binary malware image. In this project, we particularly use InceptionNetV3 for classifying malware binaries. (2 days ago)
-  - [arXiv/arxiv-docs](https://github.com/arXiv/arxiv-docs) - Help, about and other static pages (3 days ago)
-  - [FederatedAI/KubeFATE](https://github.com/FederatedAI/KubeFATE) - Manage federated learning workload using cloud native technologies. (3 days ago)
+  - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans. (4 days ago)
+  - [aidenybai/million](https://github.com/aidenybai/million) - The Virtual DOM Replacement for React (4 days ago)
+  - [Akhil-2001/InceptionNet-Malware-Analysis](https://github.com/Akhil-2001/InceptionNet-Malware-Analysis) - Modern malware is designed to evade signature-based detection techniques. Thus, we can use Deep Convoluted Neural Networks in order to classify malware depicted by its binary malware image. In this project, we particularly use InceptionNetV3 for classifying malware binaries. (4 days ago)
+  - [arXiv/arxiv-docs](https://github.com/arXiv/arxiv-docs) - Help, about and other static pages (5 days ago)
+  - [FederatedAI/KubeFATE](https://github.com/FederatedAI/KubeFATE) - Manage federated learning workload using cloud native technologies. (5 days ago)
 </details>
 
 <br> 
