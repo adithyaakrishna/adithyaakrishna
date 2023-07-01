@@ -20,11 +20,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>Check out what I'm currently working on</summary>
   
+  - [adithyaakrishna/vegapay](https://github.com/adithyaakrishna/vegapay) -  (today)
   - [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) - The T3Con Website (4 days ago)
   - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (1 week ago)
   - [adithyaakrishna/dotfiles](https://github.com/adithyaakrishna/dotfiles) - My Personal Configuration for GH CodeSpaces (1 week ago)
   - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (2 weeks ago)
-  - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites. (3 weeks ago)
 </details>
 
 <details>
