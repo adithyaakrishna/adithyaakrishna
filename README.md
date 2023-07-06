@@ -20,21 +20,21 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/vegapay](https://github.com/adithyaakrishna/vegapay) -  (3 days ago)
+  - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (1 day ago)
+  - [adithyaakrishna/vegapay](https://github.com/adithyaakrishna/vegapay) -  (5 days ago)
   - [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) - The T3Con Website (1 week ago)
   - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (2 weeks ago)
   - [adithyaakrishna/dotfiles](https://github.com/adithyaakrishna/dotfiles) - My Personal Configuration for GH CodeSpaces (2 weeks ago)
-  - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (2 weeks ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [[Bug] - Fixed Broken Link](https://github.com/WasmEdge/WasmEdge/pull/2644) on [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) (1 day ago)
-  - [[Feat] - Migration of Docs from Old Site](https://github.com/WasmEdge/docs/pull/126) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 day ago)
-  - [[Chore] - Fixed Code Block Colors](https://github.com/WasmEdge/docs/pull/125) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 day ago)
-  - [[Chore] - Fixed Markdown Lint and Removed Duplicated Code](https://github.com/WasmEdge/docs/pull/124) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 day ago)
-  - [[Feat] - Added and Updated Types ](https://github.com/3dmol/3Dmol.js/pull/694) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (6 days ago)
+  - [[Bug] - Fixed Broken Link](https://github.com/WasmEdge/WasmEdge/pull/2644) on [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) (3 days ago)
+  - [[Feat] - Migration of Docs from Old Site](https://github.com/WasmEdge/docs/pull/126) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (3 days ago)
+  - [[Chore] - Fixed Code Block Colors](https://github.com/WasmEdge/docs/pull/125) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (3 days ago)
+  - [[Chore] - Fixed Markdown Lint and Removed Duplicated Code](https://github.com/WasmEdge/docs/pull/124) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (3 days ago)
+  - [[Feat] - Added and Updated Types ](https://github.com/3dmol/3Dmol.js/pull/694) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 week ago)
 </details>
 
 <details>
