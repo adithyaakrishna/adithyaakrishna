@@ -30,11 +30,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>Lately, I have worked on</summary>
   
+  - [Added More Types for Parsers and WebGL and GL Files](https://github.com/3dmol/3Dmol.js/pull/703) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (today)
   - [Updated `substr` to `substring` method](https://github.com/3dmol/3Dmol.js/pull/702) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 day ago)
   - [Added Dependency Review Workflow](https://github.com/3dmol/3Dmol.js/pull/700) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (4 days ago)
   - [Updated Types for Parsers and Parser Utils](https://github.com/3dmol/3Dmol.js/pull/699) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (5 days ago)
   - [Updated Types for WebGL Math Utils](https://github.com/3dmol/3Dmol.js/pull/698) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (5 days ago)
-  - [Updated Types For WebGL Shaders](https://github.com/3dmol/3Dmol.js/pull/697) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (5 days ago)
 </details>
 
 <details>
