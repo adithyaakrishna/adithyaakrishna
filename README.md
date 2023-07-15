@@ -21,29 +21,29 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
   <summary>Check out what I'm currently working on</summary>
   
   - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (1 day ago)
-  - [adithyaakrishna/jss](https://github.com/adithyaakrishna/jss) - JSS - JavaScript Stuff (1 day ago)
-  - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (2 days ago)
-  - [adithyaakrishna/vegapay](https://github.com/adithyaakrishna/vegapay) -  (1 week ago)
+  - [adithyaakrishna/jss](https://github.com/adithyaakrishna/jss) - JSS - JavaScript Stuff (3 days ago)
+  - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (4 days ago)
+  - [adithyaakrishna/vegapay](https://github.com/adithyaakrishna/vegapay) -  (2 weeks ago)
   - [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) - The T3Con Website (2 weeks ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [Added Dependency Review Workflow](https://github.com/3dmol/3Dmol.js/pull/700) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (2 days ago)
-  - [Updated Types for Parsers and Parser Utils](https://github.com/3dmol/3Dmol.js/pull/699) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (3 days ago)
-  - [Updated Types for WebGL Math Utils](https://github.com/3dmol/3Dmol.js/pull/698) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (3 days ago)
-  - [Updated Types For WebGL Shaders](https://github.com/3dmol/3Dmol.js/pull/697) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (3 days ago)
-  - [Updated Webpack Config Files &amp; Add Citation File](https://github.com/3dmol/3Dmol.js/pull/695) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (4 days ago)
+  - [Updated `substr` to `substring` method](https://github.com/3dmol/3Dmol.js/pull/702) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 day ago)
+  - [Added Dependency Review Workflow](https://github.com/3dmol/3Dmol.js/pull/700) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (4 days ago)
+  - [Updated Types for Parsers and Parser Utils](https://github.com/3dmol/3Dmol.js/pull/699) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (5 days ago)
+  - [Updated Types for WebGL Math Utils](https://github.com/3dmol/3Dmol.js/pull/698) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (5 days ago)
+  - [Updated Types For WebGL Shaders](https://github.com/3dmol/3Dmol.js/pull/697) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (5 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [deepchem/deepchem](https://github.com/deepchem/deepchem) - Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology (today)
-  - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API (2 days ago)
-  - [KhronosGroup/WebGL](https://github.com/KhronosGroup/WebGL) - The Official Khronos WebGL Repository (4 days ago)
-  - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple (6 days ago)
+  - [deepchem/deepchem](https://github.com/deepchem/deepchem) - Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology (2 days ago)
+  - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API (4 days ago)
+  - [KhronosGroup/WebGL](https://github.com/KhronosGroup/WebGL) - The Official Khronos WebGL Repository (6 days ago)
+  - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple (1 week ago)
   - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans. (2 weeks ago)
 </details>
 
