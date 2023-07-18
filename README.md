@@ -20,30 +20,30 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (2 days ago)
-  - [adithyaakrishna/jss](https://github.com/adithyaakrishna/jss) - JSS - JavaScript Stuff (4 days ago)
-  - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (5 days ago)
+  - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (4 days ago)
+  - [adithyaakrishna/jss](https://github.com/adithyaakrishna/jss) - JSS - JavaScript Stuff (6 days ago)
+  - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (1 week ago)
   - [adithyaakrishna/vegapay](https://github.com/adithyaakrishna/vegapay) -  (2 weeks ago)
-  - [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) - The T3Con Website (2 weeks ago)
+  - [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) - The T3Con Website (3 weeks ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [Added More Types for Parsers and WebGL and GL Files](https://github.com/3dmol/3Dmol.js/pull/703) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 day ago)
-  - [Updated `substr` to `substring` method](https://github.com/3dmol/3Dmol.js/pull/702) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (2 days ago)
-  - [Added Dependency Review Workflow](https://github.com/3dmol/3Dmol.js/pull/700) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (5 days ago)
-  - [Updated Types for Parsers and Parser Utils](https://github.com/3dmol/3Dmol.js/pull/699) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (6 days ago)
-  - [Updated Types for WebGL Math Utils](https://github.com/3dmol/3Dmol.js/pull/698) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (6 days ago)
+  - [Added More Types for Parsers and WebGL and GL Files](https://github.com/3dmol/3Dmol.js/pull/703) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (3 days ago)
+  - [Updated `substr` to `substring` method](https://github.com/3dmol/3Dmol.js/pull/702) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (4 days ago)
+  - [Added Dependency Review Workflow](https://github.com/3dmol/3Dmol.js/pull/700) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 week ago)
+  - [Updated Types for Parsers and Parser Utils](https://github.com/3dmol/3Dmol.js/pull/699) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 week ago)
+  - [Updated Types for WebGL Math Utils](https://github.com/3dmol/3Dmol.js/pull/698) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 week ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [freshworks/crayons](https://github.com/freshworks/crayons) - 🖍️ Crayons - A UI Kit comprising of web components for building Freshworks Apps! (today)
-  - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit (1 day ago)
-  - [deepchem/deepchem](https://github.com/deepchem/deepchem) - Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology (3 days ago)
-  - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API (5 days ago)
+  - [freshworks/crayons](https://github.com/freshworks/crayons) - 🖍️ Crayons - A UI Kit comprising of web components for building Freshworks Apps! (2 days ago)
+  - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit (3 days ago)
+  - [deepchem/deepchem](https://github.com/deepchem/deepchem) - Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology (5 days ago)
+  - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API (1 week ago)
   - [KhronosGroup/WebGL](https://github.com/KhronosGroup/WebGL) - The Official Khronos WebGL Repository (1 week ago)
 </details>
 
