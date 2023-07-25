@@ -20,9 +20,9 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>Check out what I'm currently working on</summary>
   
+  - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (today)
   - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (1 week ago)
   - [adithyaakrishna/jss](https://github.com/adithyaakrishna/jss) - JSS - JavaScript Stuff (1 week ago)
-  - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (2 weeks ago)
   - [adithyaakrishna/vegapay](https://github.com/adithyaakrishna/vegapay) -  (3 weeks ago)
   - [the-test-trove/the-test-trove.github.io](https://github.com/the-test-trove/the-test-trove.github.io) - The T3Con Website (4 weeks ago)
 </details>
