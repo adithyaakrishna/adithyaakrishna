@@ -20,7 +20,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (2 days ago)
+  - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (today)
   - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (1 week ago)
   - [adithyaakrishna/jss](https://github.com/adithyaakrishna/jss) - JSS - JavaScript Stuff (2 weeks ago)
   - [adithyaakrishna/vegapay](https://github.com/adithyaakrishna/vegapay) -  (3 weeks ago)
@@ -30,11 +30,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>Lately, I have worked on</summary>
   
+  - [[Chore] - Removed `zh-tw`  Docs](https://github.com/WasmEdge/WasmEdge/pull/2693) on [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) (today)
+  - [[Feat] - Removed `zh-tw` locale](https://github.com/WasmEdge/docs/pull/142) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (today)
   - [[Feat] - Optimize Images](https://github.com/3dmol/3Dmol.js/pull/706) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (2 days ago)
   - [Optimized Images](https://github.com/adithyaakrishna/3Dmol.js/pull/4) on [adithyaakrishna/3Dmol.js](https://github.com/adithyaakrishna/3Dmol.js) (2 days ago)
   - [[Feat] - Optimize Images, Update Admonitions](https://github.com/WasmEdge/docs/pull/141) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (2 days ago)
-  - [Added More Types for Parsers and WebGL and GL Files](https://github.com/3dmol/3Dmol.js/pull/703) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 week ago)
-  - [Updated `substr` to `substring` method](https://github.com/3dmol/3Dmol.js/pull/702) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 week ago)
 </details>
 
 <details>
