@@ -20,8 +20,8 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (1 day ago)
-  - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (2 days ago)
+  - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (2 days ago)
+  - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (3 days ago)
   - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (2 weeks ago)
   - [adithyaakrishna/jss](https://github.com/adithyaakrishna/jss) - JSS - JavaScript Stuff (2 weeks ago)
   - [adithyaakrishna/vegapay](https://github.com/adithyaakrishna/vegapay) -  (4 weeks ago)
@@ -30,18 +30,18 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [[Chore] - Removed `zh-tw`  Docs](https://github.com/WasmEdge/WasmEdge/pull/2693) on [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) (2 days ago)
-  - [[Feat] - Removed `zh-tw` locale](https://github.com/WasmEdge/docs/pull/142) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (2 days ago)
-  - [[Feat] - Optimize Images](https://github.com/3dmol/3Dmol.js/pull/706) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (4 days ago)
-  - [Optimized Images](https://github.com/adithyaakrishna/3Dmol.js/pull/4) on [adithyaakrishna/3Dmol.js](https://github.com/adithyaakrishna/3Dmol.js) (4 days ago)
-  - [[Feat] - Optimize Images, Update Admonitions](https://github.com/WasmEdge/docs/pull/141) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (4 days ago)
+  - [[Chore] - Removed `zh-tw`  Docs](https://github.com/WasmEdge/WasmEdge/pull/2693) on [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) (3 days ago)
+  - [[Feat] - Removed `zh-tw` locale](https://github.com/WasmEdge/docs/pull/142) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (3 days ago)
+  - [[Feat] - Optimize Images](https://github.com/3dmol/3Dmol.js/pull/706) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (5 days ago)
+  - [Optimized Images](https://github.com/adithyaakrishna/3Dmol.js/pull/4) on [adithyaakrishna/3Dmol.js](https://github.com/adithyaakrishna/3Dmol.js) (5 days ago)
+  - [[Feat] - Optimize Images, Update Admonitions](https://github.com/WasmEdge/docs/pull/141) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (5 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
   - [patternfly/pf-codemods](https://github.com/patternfly/pf-codemods) - Codemods for upgrading from react-core@4.x.x to react-core@5.x.x. Uses eslint. (1 week ago)
-  - [freshworks/crayons](https://github.com/freshworks/crayons) - 🖍️ Crayons - A UI Kit comprising of web components for building Freshworks Apps! (1 week ago)
+  - [freshworks/crayons](https://github.com/freshworks/crayons) - 🖍️ Crayons - A UI Kit comprising of web components for building Freshworks Apps! (2 weeks ago)
   - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit (2 weeks ago)
   - [deepchem/deepchem](https://github.com/deepchem/deepchem) - Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology (2 weeks ago)
   - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API (2 weeks ago)
