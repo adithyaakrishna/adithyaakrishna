@@ -20,7 +20,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (5 days ago)
+  - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (1 week ago)
   - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (1 week ago)
   - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (3 weeks ago)
   - [adithyaakrishna/jss](https://github.com/adithyaakrishna/jss) - JSS - JavaScript Stuff (3 weeks ago)
@@ -30,9 +30,9 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [[Feat] - Making Library TypeSafe - Refactoring](https://github.com/cheminfo/netcdfjs/pull/26) on [cheminfo/netcdfjs](https://github.com/cheminfo/netcdfjs) (4 days ago)
-  - [[Chore] - Removed Chinese Docs](https://github.com/WasmEdge/WasmEdge/pull/2709) on [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) (5 days ago)
-  - [[Feat] - Remove Old English and Chinese Docs](https://github.com/WasmEdge/WasmEdge/pull/2708) on [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) (5 days ago)
+  - [[Feat] - Making Library TypeSafe - Refactoring](https://github.com/cheminfo/netcdfjs/pull/26) on [cheminfo/netcdfjs](https://github.com/cheminfo/netcdfjs) (6 days ago)
+  - [[Chore] - Removed Chinese Docs](https://github.com/WasmEdge/WasmEdge/pull/2709) on [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) (1 week ago)
+  - [[Feat] - Remove Old English and Chinese Docs](https://github.com/WasmEdge/WasmEdge/pull/2708) on [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) (1 week ago)
   - [[Chore] - Removed `zh-tw`  Docs](https://github.com/WasmEdge/WasmEdge/pull/2693) on [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) (1 week ago)
   - [[Feat] - Removed `zh-tw` locale](https://github.com/WasmEdge/docs/pull/142) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 week ago)
 </details>
@@ -44,7 +44,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
   - [freshworks/crayons](https://github.com/freshworks/crayons) - 🖍️ Crayons - A UI Kit comprising of web components for building Freshworks Apps! (3 weeks ago)
   - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit (3 weeks ago)
   - [deepchem/deepchem](https://github.com/deepchem/deepchem) - Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology (3 weeks ago)
-  - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API (3 weeks ago)
+  - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API (4 weeks ago)
 </details>
 
 <br> 
