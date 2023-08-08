@@ -20,21 +20,21 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>Check out what I'm currently working on</summary>
   
+  - [adithyaakrishna/rh-ts-bot](https://github.com/adithyaakrishna/rh-ts-bot) - RH Troubleshoot Bot (today)
+  - [cheminfo/netcdfjs](https://github.com/cheminfo/netcdfjs) - Read and explore NetCDF files (today)
   - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (1 week ago)
   - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (1 week ago)
   - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (3 weeks ago)
-  - [adithyaakrishna/jss](https://github.com/adithyaakrishna/jss) - JSS - JavaScript Stuff (3 weeks ago)
-  - [adithyaakrishna/vegapay](https://github.com/adithyaakrishna/vegapay) -  (1 month ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
+  - [[Feat] - Added New Docs](https://github.com/WasmEdge/docs/pull/145) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (today)
+  - [[Chore] - Added Redirection Notes](https://github.com/WasmEdge/WasmEdge/pull/2727) on [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) (today)
   - [[Feat] - Making Library TypeSafe - Refactoring](https://github.com/cheminfo/netcdfjs/pull/26) on [cheminfo/netcdfjs](https://github.com/cheminfo/netcdfjs) (6 days ago)
   - [[Chore] - Removed Chinese Docs](https://github.com/WasmEdge/WasmEdge/pull/2709) on [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) (1 week ago)
   - [[Feat] - Remove Old English and Chinese Docs](https://github.com/WasmEdge/WasmEdge/pull/2708) on [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) (1 week ago)
-  - [[Chore] - Removed `zh-tw`  Docs](https://github.com/WasmEdge/WasmEdge/pull/2693) on [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) (1 week ago)
-  - [[Feat] - Removed `zh-tw` locale](https://github.com/WasmEdge/docs/pull/142) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 week ago)
 </details>
 
 <details>
