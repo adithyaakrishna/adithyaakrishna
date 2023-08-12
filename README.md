@@ -20,18 +20,18 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/rh-ts-bot](https://github.com/adithyaakrishna/rh-ts-bot) - RH Troubleshoot Bot (2 days ago)
-  - [cheminfo/netcdfjs](https://github.com/cheminfo/netcdfjs) - Read and explore NetCDF files (2 days ago)
+  - [adithyaakrishna/rh-ts-bot](https://github.com/adithyaakrishna/rh-ts-bot) - RH Troubleshoot Bot (4 days ago)
+  - [cheminfo/netcdfjs](https://github.com/cheminfo/netcdfjs) - Read and explore NetCDF files (4 days ago)
   - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (1 week ago)
   - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (2 weeks ago)
-  - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (3 weeks ago)
+  - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (4 weeks ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [[Feat] - Added New Docs](https://github.com/WasmEdge/docs/pull/145) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (2 days ago)
-  - [[Chore] - Added Redirection Notes](https://github.com/WasmEdge/WasmEdge/pull/2727) on [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) (2 days ago)
+  - [[Feat] - Added New Docs](https://github.com/WasmEdge/docs/pull/145) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (4 days ago)
+  - [[Chore] - Added Redirection Notes](https://github.com/WasmEdge/WasmEdge/pull/2727) on [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) (4 days ago)
   - [[Feat] - Making Library TypeSafe - Refactoring](https://github.com/cheminfo/netcdfjs/pull/26) on [cheminfo/netcdfjs](https://github.com/cheminfo/netcdfjs) (1 week ago)
   - [[Chore] - Removed Chinese Docs](https://github.com/WasmEdge/WasmEdge/pull/2709) on [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) (1 week ago)
   - [[Feat] - Remove Old English and Chinese Docs](https://github.com/WasmEdge/WasmEdge/pull/2708) on [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) (1 week ago)
@@ -40,11 +40,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>These are super cool</summary>
   
-  - [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript. (1 day ago)
+  - [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript. (3 days ago)
   - [patternfly/pf-codemods](https://github.com/patternfly/pf-codemods) - Codemods for upgrading from react-core@4.x.x to react-core@5.x.x. Uses eslint. (3 weeks ago)
   - [freshworks/crayons](https://github.com/freshworks/crayons) - 🖍️ Crayons - A UI Kit comprising of web components for building Freshworks Apps! (3 weeks ago)
-  - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit (3 weeks ago)
-  - [deepchem/deepchem](https://github.com/deepchem/deepchem) - Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology (4 weeks ago)
+  - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit (4 weeks ago)
+  - [deepchem/deepchem](https://github.com/deepchem/deepchem) - Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology (1 month ago)
 </details>
 
 <br> 
