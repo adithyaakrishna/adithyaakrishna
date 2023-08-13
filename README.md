@@ -17,11 +17,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 ![Adithya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adithyaakrishna&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
-<details>
+<details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/rh-ts-bot](https://github.com/adithyaakrishna/rh-ts-bot) - RH Troubleshoot Bot (5 days ago)
   - [cheminfo/netcdfjs](https://github.com/cheminfo/netcdfjs) - Read and explore NetCDF files (5 days ago)
+  - [adithyaakrishna/rh-ts-bot](https://github.com/adithyaakrishna/rh-ts-bot) - RH Troubleshoot Bot (5 days ago)
   - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (1 week ago)
   - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (2 weeks ago)
   - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (1 month ago)
@@ -40,11 +40,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>These are super cool</summary>
   
+  - [livecycle/preevy](https://github.com/livecycle/preevy) - Quickly deploy preview environments to the cloud! (today)
   - [srikumarks/codecanvas](https://github.com/srikumarks/codecanvas) -  (today)
   - [cncf/toc](https://github.com/cncf/toc) - ⚖️Technical Oversight Committee (TOC) (1 day ago)
   - [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript. (4 days ago)
   - [patternfly/pf-codemods](https://github.com/patternfly/pf-codemods) - Codemods for upgrading from react-core@4.x.x to react-core@5.x.x. Uses eslint. (3 weeks ago)
-  - [freshworks/crayons](https://github.com/freshworks/crayons) - 🖍️ Crayons - A UI Kit comprising of web components for building Freshworks Apps! (4 weeks ago)
 </details>
 
 <br> 
