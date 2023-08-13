@@ -17,7 +17,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 ![Adithya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adithyaakrishna&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 <!-- <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyaakrishna&layout=compact&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&langs_count=10&hide=jupyter%20notebook,tex,css,php&show=dart"> -->
 
-<details>
+<details open="true">
   <summary>Check out what I'm currently working on</summary>
   {{range recentContributions 5}}
   - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
