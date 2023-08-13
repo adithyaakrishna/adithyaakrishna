@@ -12,7 +12,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 [![LinkedIn](https://img.shields.io/badge/-Adithya%20Krishna-%230A67C3?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://linkedin.adikris.in/) &ensp;
 [![My Website](https://img.shields.io/badge/-My%20Website-%230A67C3?style=for-the-badge)](https://adikris.in/)
 
-#### ⚡️ GitHub stats
+<!-- #### ⚡️ GitHub stats -->
 
 ![Adithya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adithyaakrishna&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 <!-- <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyaakrishna&layout=compact&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&langs_count=10&hide=jupyter%20notebook,tex,css,php&show=dart"> -->
