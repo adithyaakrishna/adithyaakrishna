@@ -1,4 +1,4 @@
-### Hi there! 👋🏻
+### ನಮಸ್ಕಾರ! 🙏🏼
   
 An Associate Software Engineer at [Red Hat](https://www.redhat.com), where I work with tools/libraries like ReactJS, NodeJS, Storybook, Patternfly(Red Hat's Design System), Lerna (monorepo manager), GitLab and it's Pipelines. I also work on AdobeXd and Figma designs to keep the creative part of me alive.
 
@@ -40,11 +40,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>These are super cool</summary>
   
+  - [srikumarks/codecanvas](https://github.com/srikumarks/codecanvas) -  (today)
   - [cncf/toc](https://github.com/cncf/toc) - ⚖️Technical Oversight Committee (TOC) (1 day ago)
   - [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript. (4 days ago)
   - [patternfly/pf-codemods](https://github.com/patternfly/pf-codemods) - Codemods for upgrading from react-core@4.x.x to react-core@5.x.x. Uses eslint. (3 weeks ago)
   - [freshworks/crayons](https://github.com/freshworks/crayons) - 🖍️ Crayons - A UI Kit comprising of web components for building Freshworks Apps! (4 weeks ago)
-  - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit (4 weeks ago)
 </details>
 
 <br> 
