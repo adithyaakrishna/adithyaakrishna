@@ -40,11 +40,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>These are super cool</summary>
   
+  - [vbuch/node-signpdf](https://github.com/vbuch/node-signpdf) - Simple signing of PDFs in node. (today)
   - [gnina/gnina](https://github.com/gnina/gnina) - A deep learning framework for molecular docking (4 days ago)
   - [ankitskvmdam/clean-jsdoc-theme](https://github.com/ankitskvmdam/clean-jsdoc-theme) - A beautifully crafted theme / template for JSDoc 3. https://ankdev.me/clean-jsdoc-theme/v4 (5 days ago)
   - [TarekRaafat/autoComplete.js](https://github.com/TarekRaafat/autoComplete.js) - Simple autocomplete pure vanilla Javascript library. (5 days ago)
   - [pliang279/awesome-phd-advice](https://github.com/pliang279/awesome-phd-advice) - Collection of advice for prospective and current PhD students (5 days ago)
-  - [illinois/queue](https://github.com/illinois/queue) - A microservice queue for holding open office hours (5 days ago)
 </details>
 
 <br> 
