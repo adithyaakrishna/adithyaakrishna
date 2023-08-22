@@ -30,21 +30,21 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>Lately, I have worked on</summary>
   
+  - [fix: fixed build command in codeql workflow](https://github.com/documenso/documenso/pull/289) on [documenso/documenso](https://github.com/documenso/documenso) (today)
   - [feat: added codeql and dependabot workflows](https://github.com/documenso/documenso/pull/284) on [documenso/documenso](https://github.com/documenso/documenso) (1 day ago)
   - [refactor: Updated JS files to TS](https://github.com/documenso/documenso/pull/282) on [documenso/documenso](https://github.com/documenso/documenso) (3 days ago)
   - [[Feat] - Added Search Feature and Updated Theme](https://github.com/3dmol/3Dmol.js/pull/711) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 week ago)
   - [[Feat] - Added New Docs](https://github.com/WasmEdge/docs/pull/145) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (2 weeks ago)
-  - [[Chore] - Added Redirection Notes](https://github.com/WasmEdge/WasmEdge/pull/2727) on [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) (2 weeks ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
+  - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers! (today)
+  - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify alternative. (today)
   - [superfly/docs](https://github.com/superfly/docs) -  (1 day ago)
   - [resendlabs/resend-node](https://github.com/resendlabs/resend-node) - resend&#39;s node.js sdk (1 day ago)
   - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.  (1 day ago)
-  - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks. (1 day ago)
-  - [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall (1 day ago)
 </details>
 
 <br> 
