@@ -20,31 +20,31 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 day ago)
-  - [adithyaakrishna/Analyze-CMS](https://github.com/adithyaakrishna/Analyze-CMS) - Analysis of Different Types of CMS (1 day ago)
-  - [adithyaakrishna/rh-ts-bot](https://github.com/adithyaakrishna/rh-ts-bot) - RH Troubleshoot Bot (2 days ago)
-  - [cheminfo/netcdfjs](https://github.com/cheminfo/netcdfjs) - Read and explore NetCDF files (1 week ago)
-  - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (2 weeks ago)
+  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (3 days ago)
+  - [adithyaakrishna/Analyze-CMS](https://github.com/adithyaakrishna/Analyze-CMS) - Analysis of Different Types of CMS (3 days ago)
+  - [adithyaakrishna/rh-ts-bot](https://github.com/adithyaakrishna/rh-ts-bot) - RH Troubleshoot Bot (4 days ago)
+  - [cheminfo/netcdfjs](https://github.com/cheminfo/netcdfjs) - Read and explore NetCDF files (2 weeks ago)
+  - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (3 weeks ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [refactor: Updated JS files to TS](https://github.com/documenso/documenso/pull/282) on [documenso/documenso](https://github.com/documenso/documenso) (1 day ago)
-  - [[Feat] - Added Search Feature and Updated Theme](https://github.com/3dmol/3Dmol.js/pull/711) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (5 days ago)
-  - [[Feat] - Added New Docs](https://github.com/WasmEdge/docs/pull/145) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 week ago)
-  - [[Chore] - Added Redirection Notes](https://github.com/WasmEdge/WasmEdge/pull/2727) on [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) (1 week ago)
-  - [[Feat] - Making Library TypeSafe - Refactoring](https://github.com/cheminfo/netcdfjs/pull/26) on [cheminfo/netcdfjs](https://github.com/cheminfo/netcdfjs) (2 weeks ago)
+  - [feat: added codeql and dependabot workflows](https://github.com/documenso/documenso/pull/284) on [documenso/documenso](https://github.com/documenso/documenso) (1 day ago)
+  - [refactor: Updated JS files to TS](https://github.com/documenso/documenso/pull/282) on [documenso/documenso](https://github.com/documenso/documenso) (3 days ago)
+  - [[Feat] - Added Search Feature and Updated Theme](https://github.com/3dmol/3Dmol.js/pull/711) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 week ago)
+  - [[Feat] - Added New Docs](https://github.com/WasmEdge/docs/pull/145) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (2 weeks ago)
+  - [[Chore] - Added Redirection Notes](https://github.com/WasmEdge/WasmEdge/pull/2727) on [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) (2 weeks ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [vbuch/node-signpdf](https://github.com/vbuch/node-signpdf) - Simple signing of PDFs in node. (today)
-  - [gnina/gnina](https://github.com/gnina/gnina) - A deep learning framework for molecular docking (4 days ago)
-  - [ankitskvmdam/clean-jsdoc-theme](https://github.com/ankitskvmdam/clean-jsdoc-theme) - A beautifully crafted theme / template for JSDoc 3. https://ankdev.me/clean-jsdoc-theme/v4 (5 days ago)
-  - [TarekRaafat/autoComplete.js](https://github.com/TarekRaafat/autoComplete.js) - Simple autocomplete pure vanilla Javascript library. (5 days ago)
-  - [pliang279/awesome-phd-advice](https://github.com/pliang279/awesome-phd-advice) - Collection of advice for prospective and current PhD students (5 days ago)
+  - [superfly/docs](https://github.com/superfly/docs) -  (1 day ago)
+  - [resendlabs/resend-node](https://github.com/resendlabs/resend-node) - resend&#39;s node.js sdk (1 day ago)
+  - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.  (1 day ago)
+  - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks. (1 day ago)
+  - [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall (1 day ago)
 </details>
 
 <br> 
