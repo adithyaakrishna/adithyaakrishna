@@ -30,21 +30,21 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>Lately, I have worked on</summary>
   
+  - [fix: dependabot workflow](https://github.com/documenso/documenso/pull/298) on [documenso/documenso](https://github.com/documenso/documenso) (today)
+  - [feat: improved accessibility of buttons and updated eslint config](https://github.com/documenso/documenso/pull/297) on [documenso/documenso](https://github.com/documenso/documenso) (today)
   - [feat: enable GitHub Codespaces config](https://github.com/3dmol/3Dmol.js/pull/715) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 day ago)
   - [feat: added citation file](https://github.com/gnina/gnina/pull/218) on [gnina/gnina](https://github.com/gnina/gnina) (1 day ago)
   - [fix: fixed Deps Review Workflow](https://github.com/3dmol/3Dmol.js/pull/714) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 day ago)
-  - [feat: added dependabot, husky and lint-staged](https://github.com/openstatusHQ/openstatus/pull/227) on [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) (1 day ago)
-  - [chore: Removed Unused Variables](https://github.com/3dmol/3Dmol.js/pull/712) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (2 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
+  - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS. (today)
+  - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons. (today)
   - [blenderskool/blaze](https://github.com/blenderskool/blaze) - ⚡ File sharing progressive web app built using WebTorrent and WebSockets (1 day ago)
   - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - The open-source monitoring service (2 days ago)
   - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers! (2 days ago)
-  - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify alternative. (2 days ago)
-  - [superfly/docs](https://github.com/superfly/docs) -  (3 days ago)
 </details>
 
 <br> 
