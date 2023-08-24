@@ -20,31 +20,31 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (3 days ago)
-  - [adithyaakrishna/Analyze-CMS](https://github.com/adithyaakrishna/Analyze-CMS) - Analysis of Different Types of CMS (3 days ago)
-  - [adithyaakrishna/rh-ts-bot](https://github.com/adithyaakrishna/rh-ts-bot) - RH Troubleshoot Bot (4 days ago)
+  - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (1 day ago)
+  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (5 days ago)
+  - [adithyaakrishna/Analyze-CMS](https://github.com/adithyaakrishna/Analyze-CMS) - Analysis of Different Types of CMS (5 days ago)
+  - [adithyaakrishna/rh-ts-bot](https://github.com/adithyaakrishna/rh-ts-bot) - RH Troubleshoot Bot (6 days ago)
   - [cheminfo/netcdfjs](https://github.com/cheminfo/netcdfjs) - Read and explore NetCDF files (2 weeks ago)
-  - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (3 weeks ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [fix: fixed build command in codeql workflow](https://github.com/documenso/documenso/pull/289) on [documenso/documenso](https://github.com/documenso/documenso) (today)
-  - [feat: added codeql and dependabot workflows](https://github.com/documenso/documenso/pull/284) on [documenso/documenso](https://github.com/documenso/documenso) (1 day ago)
-  - [refactor: Updated JS files to TS](https://github.com/documenso/documenso/pull/282) on [documenso/documenso](https://github.com/documenso/documenso) (3 days ago)
-  - [[Feat] - Added Search Feature and Updated Theme](https://github.com/3dmol/3Dmol.js/pull/711) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 week ago)
-  - [[Feat] - Added New Docs](https://github.com/WasmEdge/docs/pull/145) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (2 weeks ago)
+  - [feat: enable GitHub Codespaces config](https://github.com/3dmol/3Dmol.js/pull/715) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 day ago)
+  - [feat: added citation file](https://github.com/gnina/gnina/pull/218) on [gnina/gnina](https://github.com/gnina/gnina) (1 day ago)
+  - [fix: fixed Deps Review Workflow](https://github.com/3dmol/3Dmol.js/pull/714) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 day ago)
+  - [feat: added dependabot, husky and lint-staged](https://github.com/openstatusHQ/openstatus/pull/227) on [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) (1 day ago)
+  - [chore: Removed Unused Variables](https://github.com/3dmol/3Dmol.js/pull/712) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (2 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers! (today)
-  - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify alternative. (today)
-  - [superfly/docs](https://github.com/superfly/docs) -  (1 day ago)
-  - [resendlabs/resend-node](https://github.com/resendlabs/resend-node) - resend&#39;s node.js sdk (1 day ago)
-  - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.  (1 day ago)
+  - [blenderskool/blaze](https://github.com/blenderskool/blaze) - ⚡ File sharing progressive web app built using WebTorrent and WebSockets (1 day ago)
+  - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - The open-source monitoring service (2 days ago)
+  - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers! (2 days ago)
+  - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify alternative. (2 days ago)
+  - [superfly/docs](https://github.com/superfly/docs) -  (3 days ago)
 </details>
 
 <br> 
