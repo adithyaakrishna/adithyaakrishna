@@ -20,21 +20,21 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
+  - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (today)
   - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (3 days ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 week ago)
   - [adithyaakrishna/Analyze-CMS](https://github.com/adithyaakrishna/Analyze-CMS) - Analysis of Different Types of CMS (1 week ago)
   - [adithyaakrishna/rh-ts-bot](https://github.com/adithyaakrishna/rh-ts-bot) - RH Troubleshoot Bot (1 week ago)
-  - [cheminfo/netcdfjs](https://github.com/cheminfo/netcdfjs) - Read and explore NetCDF files (2 weeks ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
+  - [feat: pr title validator workflow](https://github.com/documenso/documenso/pull/308) on [documenso/documenso](https://github.com/documenso/documenso) (today)
+  - [chore: optimize images](https://github.com/documenso/documenso/pull/307) on [documenso/documenso](https://github.com/documenso/documenso) (today)
+  - [feat: added feature to show/hide password](https://github.com/documenso/documenso/pull/306) on [documenso/documenso](https://github.com/documenso/documenso) (today)
   - [fix: dependabot workflow](https://github.com/documenso/documenso/pull/298) on [documenso/documenso](https://github.com/documenso/documenso) (2 days ago)
   - [feat: improved accessibility and updated eslint config](https://github.com/documenso/documenso/pull/297) on [documenso/documenso](https://github.com/documenso/documenso) (2 days ago)
-  - [feat: enable GitHub Codespaces config](https://github.com/3dmol/3Dmol.js/pull/715) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (3 days ago)
-  - [feat: added citation file](https://github.com/gnina/gnina/pull/218) on [gnina/gnina](https://github.com/gnina/gnina) (3 days ago)
-  - [fix: fixed Deps Review Workflow](https://github.com/3dmol/3Dmol.js/pull/714) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (3 days ago)
 </details>
 
 <details>
