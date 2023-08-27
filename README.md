@@ -30,11 +30,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>Lately, I have worked on</summary>
   
+  - [feat: improve readability and rendering of some components](https://github.com/documenso/documenso/pull/313) on [documenso/documenso](https://github.com/documenso/documenso) (today)
   - [feat: added sharp package for NextJS13 image optimizations](https://github.com/documenso/documenso/pull/310) on [documenso/documenso](https://github.com/documenso/documenso) (1 day ago)
   - [feat: pr title validator workflow](https://github.com/documenso/documenso/pull/308) on [documenso/documenso](https://github.com/documenso/documenso) (1 day ago)
   - [chore: optimize images](https://github.com/documenso/documenso/pull/307) on [documenso/documenso](https://github.com/documenso/documenso) (1 day ago)
   - [feat: added feature to show/hide password](https://github.com/documenso/documenso/pull/306) on [documenso/documenso](https://github.com/documenso/documenso) (1 day ago)
-  - [fix: dependabot workflow](https://github.com/documenso/documenso/pull/298) on [documenso/documenso](https://github.com/documenso/documenso) (3 days ago)
 </details>
 
 <details>
