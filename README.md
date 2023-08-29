@@ -20,31 +20,31 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (1 day ago)
-  - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (4 days ago)
-  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 week ago)
+  - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (3 days ago)
+  - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (6 days ago)
   - [adithyaakrishna/Analyze-CMS](https://github.com/adithyaakrishna/Analyze-CMS) - Analysis of Different Types of CMS (1 week ago)
+  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 week ago)
   - [adithyaakrishna/rh-ts-bot](https://github.com/adithyaakrishna/rh-ts-bot) - RH Troubleshoot Bot (1 week ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat: improve readability and rendering of some components](https://github.com/documenso/documenso/pull/313) on [documenso/documenso](https://github.com/documenso/documenso) (today)
-  - [feat: added sharp package for NextJS13 image optimizations](https://github.com/documenso/documenso/pull/310) on [documenso/documenso](https://github.com/documenso/documenso) (1 day ago)
-  - [feat: pr title validator workflow](https://github.com/documenso/documenso/pull/308) on [documenso/documenso](https://github.com/documenso/documenso) (1 day ago)
-  - [chore: optimize images](https://github.com/documenso/documenso/pull/307) on [documenso/documenso](https://github.com/documenso/documenso) (1 day ago)
-  - [feat: added feature to show/hide password](https://github.com/documenso/documenso/pull/306) on [documenso/documenso](https://github.com/documenso/documenso) (1 day ago)
+  - [fix: background image on signin/signup loads slower than the components](https://github.com/documenso/documenso/pull/320) on [documenso/documenso](https://github.com/documenso/documenso) (1 day ago)
+  - [feat: added eslint rules to handle promises](https://github.com/documenso/documenso/pull/316) on [documenso/documenso](https://github.com/documenso/documenso) (1 day ago)
+  - [fix: removed unnecessary whitespace before className](https://github.com/documenso/documenso/pull/314) on [documenso/documenso](https://github.com/documenso/documenso) (2 days ago)
+  - [feat: improve readability and rendering of some components](https://github.com/documenso/documenso/pull/313) on [documenso/documenso](https://github.com/documenso/documenso) (2 days ago)
+  - [feat: added sharp package for NextJS13 image optimizations](https://github.com/documenso/documenso/pull/310) on [documenso/documenso](https://github.com/documenso/documenso) (3 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [dchest/tweetnacl-js](https://github.com/dchest/tweetnacl-js) - Port of TweetNaCl cryptographic library to JavaScript (1 day ago)
-  - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (2 days ago)
-  - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in (2 days ago)
-  - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics &#43; free custom domains. (2 days ago)
-  - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built with Radix UI and Tailwind CSS. (3 days ago)
+  - [resonatehq/durable-promise](https://github.com/resonatehq/durable-promise) - Durable Promise Specification (1 day ago)
+  - [antfu/taze](https://github.com/antfu/taze) - 🥦 A modern cli tool that keeps your deps fresh (1 day ago)
+  - [dchest/tweetnacl-js](https://github.com/dchest/tweetnacl-js) - Port of TweetNaCl cryptographic library to JavaScript (3 days ago)
+  - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (4 days ago)
+  - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in (4 days ago)
 </details>
 
 <br> 
