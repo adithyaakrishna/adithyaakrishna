@@ -30,11 +30,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>Lately, I have worked on</summary>
   
+  - [fix: prevent GitHub apis from being cached](https://github.com/documenso/documenso/pull/324) on [documenso/documenso](https://github.com/documenso/documenso) (today)
   - [fix: background image on signin/signup loads slower than the components](https://github.com/documenso/documenso/pull/320) on [documenso/documenso](https://github.com/documenso/documenso) (1 day ago)
   - [feat: added eslint rules to handle promises](https://github.com/documenso/documenso/pull/316) on [documenso/documenso](https://github.com/documenso/documenso) (1 day ago)
   - [fix: removed unnecessary whitespace before className](https://github.com/documenso/documenso/pull/314) on [documenso/documenso](https://github.com/documenso/documenso) (2 days ago)
   - [feat: improve readability and rendering of some components](https://github.com/documenso/documenso/pull/313) on [documenso/documenso](https://github.com/documenso/documenso) (2 days ago)
-  - [feat: added sharp package for NextJS13 image optimizations](https://github.com/documenso/documenso/pull/310) on [documenso/documenso](https://github.com/documenso/documenso) (3 days ago)
 </details>
 
 <details>
