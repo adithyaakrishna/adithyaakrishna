@@ -40,11 +40,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>These are super cool</summary>
   
+  - [QuiiBz/next-international](https://github.com/QuiiBz/next-international) - Type-safe internationalization (i18n) for Next.js (today)
   - [neat-run/wrapped](https://github.com/neat-run/wrapped) - GitHub Wrapped, inspired by Spotify Wrapped (1 day ago)
   - [shaily99/advice](https://github.com/shaily99/advice) - A repository of links with advice related to grad school applications, research, phd etc (1 day ago)
   - [fullstack-build/tslog](https://github.com/fullstack-build/tslog) - 📝 tslog - Universal Logger for TypeScript and JavaScript (1 day ago)
   - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger (1 day ago)
-  - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals (2 days ago)
 </details>
 
 <br> 
