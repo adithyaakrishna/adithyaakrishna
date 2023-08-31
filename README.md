@@ -20,8 +20,8 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (3 days ago)
-  - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (6 days ago)
+  - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (1 day ago)
+  - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (5 days ago)
   - [adithyaakrishna/Analyze-CMS](https://github.com/adithyaakrishna/Analyze-CMS) - Analysis of Different Types of CMS (1 week ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 week ago)
   - [adithyaakrishna/rh-ts-bot](https://github.com/adithyaakrishna/rh-ts-bot) - RH Troubleshoot Bot (1 week ago)
@@ -30,21 +30,21 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [fix: prevent GitHub apis from being cached](https://github.com/documenso/documenso/pull/324) on [documenso/documenso](https://github.com/documenso/documenso) (today)
-  - [fix: background image on signin/signup loads slower than the components](https://github.com/documenso/documenso/pull/320) on [documenso/documenso](https://github.com/documenso/documenso) (1 day ago)
-  - [feat: added eslint rules to handle promises](https://github.com/documenso/documenso/pull/316) on [documenso/documenso](https://github.com/documenso/documenso) (1 day ago)
-  - [fix: removed unnecessary whitespace before className](https://github.com/documenso/documenso/pull/314) on [documenso/documenso](https://github.com/documenso/documenso) (2 days ago)
-  - [feat: improve readability and rendering of some components](https://github.com/documenso/documenso/pull/313) on [documenso/documenso](https://github.com/documenso/documenso) (2 days ago)
+  - [chore: removed unnecessary `console.log`](https://github.com/documenso/documenso/pull/335) on [documenso/documenso](https://github.com/documenso/documenso) (1 day ago)
+  - [fix: prevent GitHub apis from being cached](https://github.com/documenso/documenso/pull/324) on [documenso/documenso](https://github.com/documenso/documenso) (2 days ago)
+  - [fix: background image on signin/signup loads slower than the components](https://github.com/documenso/documenso/pull/320) on [documenso/documenso](https://github.com/documenso/documenso) (3 days ago)
+  - [feat: added eslint rules to handle promises](https://github.com/documenso/documenso/pull/316) on [documenso/documenso](https://github.com/documenso/documenso) (3 days ago)
+  - [fix: removed unnecessary whitespace before className](https://github.com/documenso/documenso/pull/314) on [documenso/documenso](https://github.com/documenso/documenso) (4 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [resonatehq/durable-promise](https://github.com/resonatehq/durable-promise) - Durable Promise Specification (1 day ago)
-  - [antfu/taze](https://github.com/antfu/taze) - 🥦 A modern cli tool that keeps your deps fresh (1 day ago)
-  - [dchest/tweetnacl-js](https://github.com/dchest/tweetnacl-js) - Port of TweetNaCl cryptographic library to JavaScript (3 days ago)
-  - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (4 days ago)
-  - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in (4 days ago)
+  - [neat-run/wrapped](https://github.com/neat-run/wrapped) - GitHub Wrapped, inspired by Spotify Wrapped (1 day ago)
+  - [shaily99/advice](https://github.com/shaily99/advice) - A repository of links with advice related to grad school applications, research, phd etc (1 day ago)
+  - [fullstack-build/tslog](https://github.com/fullstack-build/tslog) - 📝 tslog - Universal Logger for TypeScript and JavaScript (1 day ago)
+  - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger (1 day ago)
+  - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals (2 days ago)
 </details>
 
 <br> 
