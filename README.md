@@ -20,7 +20,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 day ago)
+  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (today)
   - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (3 days ago)
   - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (1 week ago)
   - [gnina/gnina](https://github.com/gnina/gnina) - A deep learning framework for molecular docking (1 week ago)
@@ -30,11 +30,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>Lately, I have worked on</summary>
   
+  - [[Feat] - Added More Types for Parsers and WebGL and GL Files](https://github.com/3dmol/3Dmol.js/pull/719) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (today)
+  - [[Feat] - Added More Types for Parsers and WebGL and GL Files](https://github.com/3dmol/3Dmol.js/pull/718) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (today)
+  - [[Feat] - Updated Types](https://github.com/3dmol/3Dmol.js/pull/717) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (today)
   - [Revert &#34;Added More Types for Parsers and WebGL and GL Files&#34;](https://github.com/3dmol/3Dmol.js/pull/716) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (3 days ago)
   - [chore: removed unnecessary `console.log`](https://github.com/documenso/documenso/pull/335) on [documenso/documenso](https://github.com/documenso/documenso) (4 days ago)
-  - [fix: prevent GitHub apis from being cached](https://github.com/documenso/documenso/pull/324) on [documenso/documenso](https://github.com/documenso/documenso) (5 days ago)
-  - [fix: background image on signin/signup loads slower than the components](https://github.com/documenso/documenso/pull/320) on [documenso/documenso](https://github.com/documenso/documenso) (6 days ago)
-  - [feat: added eslint rules to handle promises](https://github.com/documenso/documenso/pull/316) on [documenso/documenso](https://github.com/documenso/documenso) (6 days ago)
 </details>
 
 <details>
