@@ -40,11 +40,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>These are super cool</summary>
   
+  - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. (today)
+  - [adithyaakrishna/GSoC-23](https://github.com/adithyaakrishna/GSoC-23) - All my details regarding GSoC 2023 (today)
+  - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed (today)
+  - [rigdev/rig](https://github.com/rigdev/rig) - Rig.dev offers an open-source application platform for Kubernetes. We empower developers with our developer-friendly deployment engine that simplifies the process of rolling out, managing, debugging and scaling applications. On top, we provide foundational APIs for user management, authentication, storage, and database integrations. (today)
   - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference (1 day ago)
-  - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains. (1 day ago)
-  - [nasa/openmct](https://github.com/nasa/openmct) - A web based mission control framework.  (1 day ago)
-  - [QuiiBz/next-international](https://github.com/QuiiBz/next-international) - Type-safe internationalization (i18n) for Next.js (5 days ago)
-  - [neat-run/wrapped](https://github.com/neat-run/wrapped) - GitHub Wrapped, inspired by Spotify Wrapped (6 days ago)
 </details>
 
 <br> 
