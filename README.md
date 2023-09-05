@@ -20,31 +20,31 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (today)
-  - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (3 days ago)
+  - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (1 day ago)
+  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 days ago)
+  - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (2 days ago)
   - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (1 week ago)
   - [gnina/gnina](https://github.com/gnina/gnina) - A deep learning framework for molecular docking (1 week ago)
-  - [adithyaakrishna/Analyze-CMS](https://github.com/adithyaakrishna/Analyze-CMS) - Analysis of Different Types of CMS (2 weeks ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [[Feat] - Added More Types for Parsers and WebGL and GL Files](https://github.com/3dmol/3Dmol.js/pull/719) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (today)
-  - [[Feat] - Added More Types for Parsers and WebGL and GL Files](https://github.com/3dmol/3Dmol.js/pull/718) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (today)
-  - [[Feat] - Updated Types](https://github.com/3dmol/3Dmol.js/pull/717) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (today)
-  - [Revert &#34;Added More Types for Parsers and WebGL and GL Files&#34;](https://github.com/3dmol/3Dmol.js/pull/716) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (3 days ago)
-  - [chore: removed unnecessary `console.log`](https://github.com/documenso/documenso/pull/335) on [documenso/documenso](https://github.com/documenso/documenso) (4 days ago)
+  - [feat: added custom `not-found` or 404 pages](https://github.com/documenso/documenso/pull/343) on [documenso/documenso](https://github.com/documenso/documenso) (2 days ago)
+  - [[Feat] - Added More Types for Parsers and WebGL and GL Files](https://github.com/3dmol/3Dmol.js/pull/719) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (2 days ago)
+  - [[Feat] - Added More Types for Parsers and WebGL and GL Files](https://github.com/3dmol/3Dmol.js/pull/718) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (2 days ago)
+  - [[Feat] - Updated Types](https://github.com/3dmol/3Dmol.js/pull/717) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (2 days ago)
+  - [Revert &#34;Added More Types for Parsers and WebGL and GL Files&#34;](https://github.com/3dmol/3Dmol.js/pull/716) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (5 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [QuiiBz/next-international](https://github.com/QuiiBz/next-international) - Type-safe internationalization (i18n) for Next.js (3 days ago)
-  - [neat-run/wrapped](https://github.com/neat-run/wrapped) - GitHub Wrapped, inspired by Spotify Wrapped (4 days ago)
-  - [shaily99/advice](https://github.com/shaily99/advice) - A repository of links with advice related to grad school applications, research, phd etc (4 days ago)
-  - [fullstack-build/tslog](https://github.com/fullstack-build/tslog) - 📝 tslog - Universal Logger for TypeScript and JavaScript (4 days ago)
-  - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger (4 days ago)
+  - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference (1 day ago)
+  - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains. (1 day ago)
+  - [nasa/openmct](https://github.com/nasa/openmct) - A web based mission control framework.  (1 day ago)
+  - [QuiiBz/next-international](https://github.com/QuiiBz/next-international) - Type-safe internationalization (i18n) for Next.js (5 days ago)
+  - [neat-run/wrapped](https://github.com/neat-run/wrapped) - GitHub Wrapped, inspired by Spotify Wrapped (6 days ago)
 </details>
 
 <br> 
