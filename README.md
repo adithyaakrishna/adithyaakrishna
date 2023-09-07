@@ -20,31 +20,31 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (1 day ago)
-  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 days ago)
-  - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (2 days ago)
+  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 day ago)
+  - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (3 days ago)
+  - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (4 days ago)
   - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (1 week ago)
-  - [gnina/gnina](https://github.com/gnina/gnina) - A deep learning framework for molecular docking (1 week ago)
+  - [gnina/gnina](https://github.com/gnina/gnina) - A deep learning framework for molecular docking (2 weeks ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat: added custom `not-found` or 404 pages](https://github.com/documenso/documenso/pull/343) on [documenso/documenso](https://github.com/documenso/documenso) (2 days ago)
-  - [[Feat] - Added More Types for Parsers and WebGL and GL Files](https://github.com/3dmol/3Dmol.js/pull/719) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (2 days ago)
-  - [[Feat] - Added More Types for Parsers and WebGL and GL Files](https://github.com/3dmol/3Dmol.js/pull/718) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (2 days ago)
-  - [[Feat] - Updated Types](https://github.com/3dmol/3Dmol.js/pull/717) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (2 days ago)
-  - [Revert &#34;Added More Types for Parsers and WebGL and GL Files&#34;](https://github.com/3dmol/3Dmol.js/pull/716) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (5 days ago)
+  - [[Feat] - Updated Types - v2](https://github.com/3dmol/3Dmol.js/pull/720) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 day ago)
+  - [feat: added custom `not-found` or 404 pages](https://github.com/documenso/documenso/pull/343) on [documenso/documenso](https://github.com/documenso/documenso) (4 days ago)
+  - [[Feat] - Added More Types for Parsers and WebGL and GL Files](https://github.com/3dmol/3Dmol.js/pull/719) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (4 days ago)
+  - [[Feat] - Added More Types for Parsers and WebGL and GL Files](https://github.com/3dmol/3Dmol.js/pull/718) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (4 days ago)
+  - [[Feat] - Updated Types](https://github.com/3dmol/3Dmol.js/pull/717) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (4 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. (today)
-  - [adithyaakrishna/GSoC-23](https://github.com/adithyaakrishna/GSoC-23) - All my details regarding GSoC 2023 (today)
-  - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed (today)
-  - [rigdev/rig](https://github.com/rigdev/rig) - Rig.dev offers an open-source application platform for Kubernetes. We empower developers with our developer-friendly deployment engine that simplifies the process of rolling out, managing, debugging and scaling applications. On top, we provide foundational APIs for user management, authentication, storage, and database integrations. (today)
-  - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference (1 day ago)
+  - [chapter-three/next-drupal](https://github.com/chapter-three/next-drupal) - Next.js for Drupal has everything you need to build a next-generation front-end for your Drupal site: SSG, SSR, and ISR, Multi-site, Authentication, Webforms, Search API, I18n and Preview mode (works with JSON:API and GraphQL). (1 day ago)
+  - [mit-pdos/sigmaos](https://github.com/mit-pdos/sigmaos) -  (1 day ago)
+  - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ... (1 day ago)
+  - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone. (1 day ago)
+  - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. (2 days ago)
 </details>
 
 <br> 
