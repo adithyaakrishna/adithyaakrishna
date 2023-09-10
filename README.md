@@ -20,9 +20,9 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (today)
-  - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (5 days ago)
-  - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (6 days ago)
+  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 day ago)
+  - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (6 days ago)
+  - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (1 week ago)
   - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (2 weeks ago)
   - [gnina/gnina](https://github.com/gnina/gnina) - A deep learning framework for molecular docking (2 weeks ago)
 </details>
@@ -30,21 +30,21 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [[Feat] - Added Sitemap](https://github.com/WasmEdge/www/pull/24) on [WasmEdge/www](https://github.com/WasmEdge/www) (1 day ago)
-  - [[Feat] - Add Sitemap Feature for the Docs](https://github.com/WasmEdge/docs/pull/170) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 day ago)
-  - [[Feat] - Updated Types - v2](https://github.com/3dmol/3Dmol.js/pull/720) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (3 days ago)
-  - [feat: added custom `not-found` or 404 pages](https://github.com/documenso/documenso/pull/343) on [documenso/documenso](https://github.com/documenso/documenso) (6 days ago)
-  - [[Feat] - Added More Types for Parsers and WebGL and GL Files](https://github.com/3dmol/3Dmol.js/pull/719) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (6 days ago)
+  - [[Feat] - Added Sitemap](https://github.com/WasmEdge/www/pull/24) on [WasmEdge/www](https://github.com/WasmEdge/www) (2 days ago)
+  - [[Feat] - Add Sitemap Feature for the Docs](https://github.com/WasmEdge/docs/pull/170) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (2 days ago)
+  - [[Feat] - Updated Types - v2](https://github.com/3dmol/3Dmol.js/pull/720) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (4 days ago)
+  - [feat: added custom `not-found` or 404 pages](https://github.com/documenso/documenso/pull/343) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
+  - [[Feat] - Added More Types for Parsers and WebGL and GL Files](https://github.com/3dmol/3Dmol.js/pull/719) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 week ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. (today)
-  - [opentffoundation/opentf](https://github.com/opentffoundation/opentf) - OpenTF lets you declaratively manage your cloud infrastructure. (today)
-  - [chronark/chronark.com](https://github.com/chronark/chronark.com) -  (today)
-  - [DaviLacerda/davilacerda.com](https://github.com/DaviLacerda/davilacerda.com) - My portfolio built with Next.js, TypeScript, Tailwind CSS and shadcn/ui. (today)
-  - [batuhanbilginn/nextjs-portfolio-bento-style](https://github.com/batuhanbilginn/nextjs-portfolio-bento-style) -  (today)
+  - [vitormalencar/vitormalencar](https://github.com/vitormalencar/vitormalencar) - v2 my personal website (1 day ago)
+  - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. (1 day ago)
+  - [opentffoundation/opentf](https://github.com/opentffoundation/opentf) - OpenTF lets you declaratively manage your cloud infrastructure. (1 day ago)
+  - [chronark/chronark.com](https://github.com/chronark/chronark.com) -  (1 day ago)
+  - [DaviLacerda/davilacerda.com](https://github.com/DaviLacerda/davilacerda.com) - My portfolio built with Next.js, TypeScript, Tailwind CSS and shadcn/ui. (1 day ago)
 </details>
 
 <br> 
