@@ -20,11 +20,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
+  - [adithyaakrishna/vino](https://github.com/adithyaakrishna/vino) - VINO: VIN number and Odometer Recognition (today)
+  - [adithyaakrishna/DragonBall-VSC-Theme](https://github.com/adithyaakrishna/DragonBall-VSC-Theme) - A VS-Code Theme Inspired By Dragon Ball Super (today)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 day ago)
   - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (6 days ago)
   - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (1 week ago)
-  - [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices. (2 weeks ago)
-  - [gnina/gnina](https://github.com/gnina/gnina) - A deep learning framework for molecular docking (2 weeks ago)
 </details>
 
 <details>
