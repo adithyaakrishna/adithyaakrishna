@@ -20,19 +20,19 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/vino](https://github.com/adithyaakrishna/vino) - VINO: VIN number and Odometer Recognition (today)
-  - [adithyaakrishna/DragonBall-VSC-Theme](https://github.com/adithyaakrishna/DragonBall-VSC-Theme) - A VS-Code Theme Inspired By Dragon Ball Super (today)
-  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 day ago)
-  - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (6 days ago)
+  - [adithyaakrishna/vino](https://github.com/adithyaakrishna/vino) - VINO: VIN number and Odometer Recognition (2 days ago)
+  - [adithyaakrishna/DragonBall-VSC-Theme](https://github.com/adithyaakrishna/DragonBall-VSC-Theme) - A VS-Code Theme Inspired By Dragon Ball Super (2 days ago)
+  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (3 days ago)
+  - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (1 week ago)
   - [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) - WebGL accelerated JavaScript molecular graphics library (1 week ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [[Feat] - Added Sitemap](https://github.com/WasmEdge/www/pull/24) on [WasmEdge/www](https://github.com/WasmEdge/www) (2 days ago)
-  - [[Feat] - Add Sitemap Feature for the Docs](https://github.com/WasmEdge/docs/pull/170) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (2 days ago)
-  - [[Feat] - Updated Types - v2](https://github.com/3dmol/3Dmol.js/pull/720) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (4 days ago)
+  - [[Feat] - Added Sitemap](https://github.com/WasmEdge/www/pull/24) on [WasmEdge/www](https://github.com/WasmEdge/www) (4 days ago)
+  - [[Feat] - Add Sitemap Feature for the Docs](https://github.com/WasmEdge/docs/pull/170) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (4 days ago)
+  - [[Feat] - Updated Types - v2](https://github.com/3dmol/3Dmol.js/pull/720) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (6 days ago)
   - [feat: added custom `not-found` or 404 pages](https://github.com/documenso/documenso/pull/343) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
   - [[Feat] - Added More Types for Parsers and WebGL and GL Files](https://github.com/3dmol/3Dmol.js/pull/719) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 week ago)
 </details>
@@ -40,11 +40,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>These are super cool</summary>
   
-  - [vitormalencar/vitormalencar](https://github.com/vitormalencar/vitormalencar) - v2 my personal website (1 day ago)
-  - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. (1 day ago)
-  - [opentffoundation/opentf](https://github.com/opentffoundation/opentf) - OpenTF lets you declaratively manage your cloud infrastructure. (1 day ago)
-  - [chronark/chronark.com](https://github.com/chronark/chronark.com) -  (1 day ago)
-  - [DaviLacerda/davilacerda.com](https://github.com/DaviLacerda/davilacerda.com) - My portfolio built with Next.js, TypeScript, Tailwind CSS and shadcn/ui. (1 day ago)
+  - [dwyl/start-here](https://github.com/dwyl/start-here) - :bulb: A Quick-start Guide for People who want to dwyl :heart: :white_check_mark: (1 day ago)
+  - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular &#43; NestJS &#43; Prisma &#43; Nx &#43; TypeScript 🤍 (1 day ago)
+  - [gitwonk/gitwonk](https://github.com/gitwonk/gitwonk) - The open source GitBook, Confluence, and Archbee alternative. Write technical docs like never before 🐙 (1 day ago)
+  - [boxyhq/jackson](https://github.com/boxyhq/jackson) - An Enterprise SAML single sign-on service designed as an OAuth 2.0 flow. Integrate SAML and OIDC SSO with just a few lines of code. (1 day ago)
+  - [fayazara/logspot](https://github.com/fayazara/logspot) - Logspot is a lightweight, free and open source template for your changelog made with Vue, Nuxt and Tailwindcss. (2 days ago)
 </details>
 
 <br> 
