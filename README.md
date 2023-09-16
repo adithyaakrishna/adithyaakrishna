@@ -20,31 +20,31 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/rh-ts-bot](https://github.com/adithyaakrishna/rh-ts-bot) - RH Troubleshoot Bot (today)
-  - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (1 day ago)
-  - [adithyaakrishna/vino](https://github.com/adithyaakrishna/vino) - VINO: VIN number and Odometer Recognition (4 days ago)
-  - [adithyaakrishna/DragonBall-VSC-Theme](https://github.com/adithyaakrishna/DragonBall-VSC-Theme) - A VS-Code Theme Inspired By Dragon Ball Super (4 days ago)
-  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (5 days ago)
+  - [adithyaakrishna/rh-ts-bot](https://github.com/adithyaakrishna/rh-ts-bot) - RH Troubleshoot Bot (2 days ago)
+  - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (3 days ago)
+  - [adithyaakrishna/vino](https://github.com/adithyaakrishna/vino) - VINO: VIN number and Odometer Recognition (6 days ago)
+  - [adithyaakrishna/DragonBall-VSC-Theme](https://github.com/adithyaakrishna/DragonBall-VSC-Theme) - A VS-Code Theme Inspired By Dragon Ball Super (6 days ago)
+  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 week ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [[Feat] - Added Sitemap](https://github.com/WasmEdge/www/pull/24) on [WasmEdge/www](https://github.com/WasmEdge/www) (6 days ago)
-  - [[Feat] - Add Sitemap Feature for the Docs](https://github.com/WasmEdge/docs/pull/170) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (6 days ago)
+  - [feat: added dependabot for auto deps version updates](https://github.com/fayazara/feedbackjar/pull/19) on [fayazara/feedbackjar](https://github.com/fayazara/feedbackjar) (1 day ago)
+  - [feat: added linters for the project](https://github.com/fayazara/feedbackjar/pull/18) on [fayazara/feedbackjar](https://github.com/fayazara/feedbackjar) (1 day ago)
+  - [[Feat] - Added Sitemap](https://github.com/WasmEdge/www/pull/24) on [WasmEdge/www](https://github.com/WasmEdge/www) (1 week ago)
+  - [[Feat] - Add Sitemap Feature for the Docs](https://github.com/WasmEdge/docs/pull/170) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 week ago)
   - [[Feat] - Updated Types - v2](https://github.com/3dmol/3Dmol.js/pull/720) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 week ago)
-  - [feat: added custom `not-found` or 404 pages](https://github.com/documenso/documenso/pull/343) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
-  - [[Feat] - Added More Types for Parsers and WebGL and GL Files](https://github.com/3dmol/3Dmol.js/pull/719) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 week ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [adriancooney/console.image](https://github.com/adriancooney/console.image) - The one thing Chrome Dev Tools didn&#39;t need. (1 day ago)
-  - [drogonframework/drogon](https://github.com/drogonframework/drogon) - Drogon: A C&#43;&#43;14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows (1 day ago)
-  - [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project (1 day ago)
-  - [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate) - A tool to help migrate JavaScript code quickly and conveniently to TypeScript (2 days ago)
-  - [Query-Fuse/query-fuse](https://github.com/Query-Fuse/query-fuse) - Query Fuse is a lightweight and opinionated GraphQL proxy. Easily create and customize GraphQL APIs with this powerful, ready-to-use solution. (2 days ago)
+  - [ceph/ceph-csi](https://github.com/ceph/ceph-csi) - CSI driver for Ceph (1 day ago)
+  - [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate (1 day ago)
+  - [sst/open-next](https://github.com/sst/open-next) - Open source Next.js serverless adapter (1 day ago)
+  - [adriancooney/console.image](https://github.com/adriancooney/console.image) - The one thing Chrome Dev Tools didn&#39;t need. (3 days ago)
+  - [drogonframework/drogon](https://github.com/drogonframework/drogon) - Drogon: A C&#43;&#43;14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows (3 days ago)
 </details>
 
 <br> 
