@@ -20,18 +20,18 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/rh-ts-bot](https://github.com/adithyaakrishna/rh-ts-bot) - RH Troubleshoot Bot (2 days ago)
-  - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (3 days ago)
-  - [adithyaakrishna/vino](https://github.com/adithyaakrishna/vino) - VINO: VIN number and Odometer Recognition (6 days ago)
-  - [adithyaakrishna/DragonBall-VSC-Theme](https://github.com/adithyaakrishna/DragonBall-VSC-Theme) - A VS-Code Theme Inspired By Dragon Ball Super (6 days ago)
+  - [adithyaakrishna/rh-ts-bot](https://github.com/adithyaakrishna/rh-ts-bot) - RH Troubleshoot Bot (3 days ago)
+  - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (4 days ago)
+  - [adithyaakrishna/vino](https://github.com/adithyaakrishna/vino) - VINO: VIN number and Odometer Recognition (1 week ago)
+  - [adithyaakrishna/DragonBall-VSC-Theme](https://github.com/adithyaakrishna/DragonBall-VSC-Theme) - A VS-Code Theme Inspired By Dragon Ball Super (1 week ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 week ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat: added dependabot for auto deps version updates](https://github.com/fayazara/feedbackjar/pull/19) on [fayazara/feedbackjar](https://github.com/fayazara/feedbackjar) (1 day ago)
-  - [feat: added linters for the project](https://github.com/fayazara/feedbackjar/pull/18) on [fayazara/feedbackjar](https://github.com/fayazara/feedbackjar) (1 day ago)
+  - [feat: added dependabot for auto deps version updates](https://github.com/fayazara/feedbackjar/pull/19) on [fayazara/feedbackjar](https://github.com/fayazara/feedbackjar) (2 days ago)
+  - [feat: added linters for the project](https://github.com/fayazara/feedbackjar/pull/18) on [fayazara/feedbackjar](https://github.com/fayazara/feedbackjar) (2 days ago)
   - [[Feat] - Added Sitemap](https://github.com/WasmEdge/www/pull/24) on [WasmEdge/www](https://github.com/WasmEdge/www) (1 week ago)
   - [[Feat] - Add Sitemap Feature for the Docs](https://github.com/WasmEdge/docs/pull/170) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 week ago)
   - [[Feat] - Updated Types - v2](https://github.com/3dmol/3Dmol.js/pull/720) on [3dmol/3Dmol.js](https://github.com/3dmol/3Dmol.js) (1 week ago)
@@ -40,11 +40,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>These are super cool</summary>
   
-  - [ceph/ceph-csi](https://github.com/ceph/ceph-csi) - CSI driver for Ceph (1 day ago)
-  - [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate (1 day ago)
-  - [sst/open-next](https://github.com/sst/open-next) - Open source Next.js serverless adapter (1 day ago)
-  - [adriancooney/console.image](https://github.com/adriancooney/console.image) - The one thing Chrome Dev Tools didn&#39;t need. (3 days ago)
-  - [drogonframework/drogon](https://github.com/drogonframework/drogon) - Drogon: A C&#43;&#43;14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows (3 days ago)
+  - [ceph/ceph-csi](https://github.com/ceph/ceph-csi) - CSI driver for Ceph (2 days ago)
+  - [boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) - Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate (2 days ago)
+  - [sst/open-next](https://github.com/sst/open-next) - Open source Next.js serverless adapter (2 days ago)
+  - [adriancooney/console.image](https://github.com/adriancooney/console.image) - The one thing Chrome Dev Tools didn&#39;t need. (4 days ago)
+  - [drogonframework/drogon](https://github.com/drogonframework/drogon) - Drogon: A C&#43;&#43;14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows (4 days ago)
 </details>
 
 <br> 
