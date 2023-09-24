@@ -23,8 +23,8 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
   - [adithyaakrishna/rh-ts-bot](https://github.com/adithyaakrishna/rh-ts-bot) - RH Troubleshoot Bot (4 days ago)
   - [fayazara/feedbackjar](https://github.com/fayazara/feedbackjar) - Feedbackjar empowers product teams to effortlessly gather feedback, track issues, and seamlessly manage them with public roadmaps and provide updates via changelogs. (1 week ago)
   - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (1 week ago)
+  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (1 week ago)
   - [adithyaakrishna/vino](https://github.com/adithyaakrishna/vino) - VINO: VIN number and Odometer Recognition (2 weeks ago)
-  - [adithyaakrishna/DragonBall-VSC-Theme](https://github.com/adithyaakrishna/DragonBall-VSC-Theme) - A VS-Code Theme Inspired By Dragon Ball Super (2 weeks ago)
 </details>
 
 <details>
