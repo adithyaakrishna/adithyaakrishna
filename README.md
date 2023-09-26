@@ -20,7 +20,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/rh-ts-bot](https://github.com/adithyaakrishna/rh-ts-bot) - RH Troubleshoot Bot (4 days ago)
+  - [adithyaakrishna/rh-ts-bot](https://github.com/adithyaakrishna/rh-ts-bot) - RH Troubleshoot Bot (6 days ago)
   - [fayazara/feedbackjar](https://github.com/fayazara/feedbackjar) - Feedbackjar empowers product teams to effortlessly gather feedback, track issues, and seamlessly manage them with public roadmaps and provide updates via changelogs. (1 week ago)
   - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (1 week ago)
   - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (1 week ago)
@@ -40,10 +40,10 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>These are super cool</summary>
   
-  - [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery. (2 days ago)
-  - [akitasoftware/akita-cli](https://github.com/akitasoftware/akita-cli) - The Akita CLI helps you make sense of API traffic. Passively watch API traffic with apidump. Model API behavior with apispec. Compare API behavior with apidiff. (4 days ago)
-  - [ucsd-creativitylab/graphologue](https://github.com/ucsd-creativitylab/graphologue) - Use GPT-4 to stream diagrams, instead of tokens, in real-time! (UIST 2023 Paper) (5 days ago)
-  - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc) (6 days ago)
+  - [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery. (4 days ago)
+  - [akitasoftware/akita-cli](https://github.com/akitasoftware/akita-cli) - The Akita CLI helps you make sense of API traffic. Passively watch API traffic with apidump. Model API behavior with apispec. Compare API behavior with apidiff. (6 days ago)
+  - [ucsd-creativitylab/graphologue](https://github.com/ucsd-creativitylab/graphologue) - Use GPT-4 to stream diagrams, instead of tokens, in real-time! (UIST 2023 Paper) (1 week ago)
+  - [tpn/pdfs](https://github.com/tpn/pdfs) - Technically-oriented PDF Collection (Papers, Specs, Decks, Manuals, etc) (1 week ago)
   - [ceph/ceph-csi](https://github.com/ceph/ceph-csi) - CSI driver for Ceph (1 week ago)
 </details>
 
