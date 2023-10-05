@@ -2,9 +2,9 @@
   
 An Associate Software Engineer at [Red Hat](https://www.redhat.com), where I work with tools/libraries like ReactJS, NodeJS, Storybook, Patternfly(Red Hat's Design System), Lerna (monorepo manager), GitLab and it's Pipelines. I also work on AdobeXd and Figma designs to keep the creative part of me alive.
 
-I'm also a [Google Summer of Code - GSoC '23](https://summerofcode.withgoogle.com/) Developer at [OpenChemistry](https://openchemistry.org), working on improving [3DMol.js](https://github.com/3dmol/3Dmol.js) and a [Google Season of Docs - GSoD '23](https://developers.google.com/season-of-docs) Writer at [WasmEdge](https://github.com/WasmEdge)
+I was a [Google Summer of Code - GSoC '23](https://summerofcode.withgoogle.com/) Developer at [OpenChemistry](https://openchemistry.org), and I worked on improving [3DMol.js](https://github.com/3dmol/3Dmol.js). Also, I am a [Google Season of Docs - GSoD '23](https://developers.google.com/season-of-docs) Writer at [WasmEdge](https://github.com/WasmEdge) working towards improving the Documentation of the project and onboarding contributors
 
-Maintainer (Docs) of [Meshery](https://github.com/meshery) (a CNCF Sandbox Project), where I contribute quite oftenly in areas of UI, GitHub Actions, docs, reviewing PRs and suggesting improvements.
+Maintainer (Docs) of [Meshery](https://github.com/meshery) (a CNCF Sandbox Project), where I contribute quite often in areas of UI, GitHub Actions, docs, reviewing PRs and suggesting improvements.
 
 Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 
@@ -30,11 +30,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>Lately, I have worked on</summary>
   
+  - [feat: added sitemap and updated links](https://github.com/tigerbeetle/docs/pull/32) on [tigerbeetle/docs](https://github.com/tigerbeetle/docs) (today)
   - [chore: combined buttons, simplified formatters and mappers](https://github.com/documenso/documenso/pull/529) on [documenso/documenso](https://github.com/documenso/documenso) (today)
   - [fix: typo in `dx` script](https://github.com/documenso/documenso/pull/474) on [documenso/documenso](https://github.com/documenso/documenso) (6 days ago)
   - [feat: added password validation](https://github.com/documenso/documenso/pull/469) on [documenso/documenso](https://github.com/documenso/documenso) (6 days ago)
   - [fix: sharp corners of signing card](https://github.com/documenso/documenso/pull/462) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
-  - [fix: hiding of action buttons](https://github.com/documenso/documenso/pull/460) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
 </details>
 
 <details>
