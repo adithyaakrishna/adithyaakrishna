@@ -30,11 +30,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>Lately, I have worked on</summary>
   
+  - [chore: combined buttons, simplified formatters and mappers](https://github.com/documenso/documenso/pull/529) on [documenso/documenso](https://github.com/documenso/documenso) (today)
   - [fix: typo in `dx` script](https://github.com/documenso/documenso/pull/474) on [documenso/documenso](https://github.com/documenso/documenso) (6 days ago)
   - [feat: added password validation](https://github.com/documenso/documenso/pull/469) on [documenso/documenso](https://github.com/documenso/documenso) (6 days ago)
   - [fix: sharp corners of signing card](https://github.com/documenso/documenso/pull/462) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
   - [fix: hiding of action buttons](https://github.com/documenso/documenso/pull/460) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
-  - [feat: added dependabot for auto deps version updates](https://github.com/fayazara/feedbackjar/pull/19) on [fayazara/feedbackjar](https://github.com/fayazara/feedbackjar) (2 weeks ago)
 </details>
 
 <details>
