@@ -20,9 +20,9 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (5 days ago)
+  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (1 week ago)
   - [adithyaakrishna/rh-ts-bot](https://github.com/adithyaakrishna/rh-ts-bot) - RH Troubleshoot Bot (2 weeks ago)
-  - [fayazara/feedbackjar](https://github.com/fayazara/feedbackjar) - Feedbackjar empowers product teams to effortlessly gather feedback, track issues, and seamlessly manage them with public roadmaps and provide updates via changelogs. (2 weeks ago)
+  - [fayazara/feedbackjar](https://github.com/fayazara/feedbackjar) - Feedbackjar empowers product teams to effortlessly gather feedback, track issues, and seamlessly manage them with public roadmaps and provide updates via changelogs. (3 weeks ago)
   - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (3 weeks ago)
   - [adithyaakrishna/vino](https://github.com/adithyaakrishna/vino) - VINO: VIN number and Odometer Recognition (3 weeks ago)
 </details>
@@ -30,19 +30,19 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat: added sitemap and updated links](https://github.com/tigerbeetle/docs/pull/32) on [tigerbeetle/docs](https://github.com/tigerbeetle/docs) (today)
-  - [chore: combined buttons, simplified formatters and mappers](https://github.com/documenso/documenso/pull/529) on [documenso/documenso](https://github.com/documenso/documenso) (today)
-  - [fix: typo in `dx` script](https://github.com/documenso/documenso/pull/474) on [documenso/documenso](https://github.com/documenso/documenso) (6 days ago)
-  - [feat: added password validation](https://github.com/documenso/documenso/pull/469) on [documenso/documenso](https://github.com/documenso/documenso) (6 days ago)
+  - [feat: added sitemap and updated links](https://github.com/tigerbeetle/docs/pull/32) on [tigerbeetle/docs](https://github.com/tigerbeetle/docs) (2 days ago)
+  - [chore: combined buttons, simplified formatters and mappers](https://github.com/documenso/documenso/pull/529) on [documenso/documenso](https://github.com/documenso/documenso) (2 days ago)
+  - [fix: typo in `dx` script](https://github.com/documenso/documenso/pull/474) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
+  - [feat: added password validation](https://github.com/documenso/documenso/pull/469) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
   - [fix: sharp corners of signing card](https://github.com/documenso/documenso/pull/462) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [otterize/docs](https://github.com/otterize/docs) -  (6 days ago)
+  - [otterize/docs](https://github.com/otterize/docs) -  (1 week ago)
   - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. (1 week ago)
-  - [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery. (1 week ago)
+  - [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery. (2 weeks ago)
   - [akitasoftware/akita-cli](https://github.com/akitasoftware/akita-cli) - The Akita CLI helps you make sense of API traffic. Passively watch API traffic with apidump. Model API behavior with apispec. Compare API behavior with apidiff. (2 weeks ago)
   - [ucsd-creativitylab/graphologue](https://github.com/ucsd-creativitylab/graphologue) - Use GPT-4 to stream diagrams, instead of tokens, in real-time! (UIST 2023 Paper) (2 weeks ago)
 </details>
