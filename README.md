@@ -20,11 +20,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://poly.adikris.in)
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 day ago)
+  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (today)
+  - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Astro Blog (today)
   - [adithyaakrishna/cases-downloader](https://github.com/adithyaakrishna/cases-downloader) -  (1 day ago)
   - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (1 week ago)
   - [adithyaakrishna/rh-ts-bot](https://github.com/adithyaakrishna/rh-ts-bot) - RH Troubleshoot Bot (3 weeks ago)
-  - [fayazara/feedbackjar](https://github.com/fayazara/feedbackjar) - Feedbackjar empowers product teams to effortlessly gather feedback, track issues, and seamlessly manage them with public roadmaps and provide updates via changelogs. (3 weeks ago)
 </details>
 
 <details>
