@@ -1,8 +1,10 @@
 ### ನಮಸ್ಕಾರ 🙏🏼
   
-A Software Engineer at [Red Hat](https://www.redhat.com), where I work with tools/libraries like ReactJS, NodeJS, Storybook, Patternfly(Red Hat's Design System), Lerna (monorepo manager), GitLab and it's Pipelines. I also work on AdobeXd and Figma designs to keep the creative part of me alive.
+A Software Engineer at [Red Hat](https://www.redhat.com), where I work with tools/libraries like ReactJS, NodeJS, Patternfly(Red Hat's Design System), Monorepos, GitLab and it's Pipelines. I also work on AdobeXd and Figma designs oftenly to keep the creative part of me alive
 
-I was a [Google Summer of Code - GSoC '23](https://summerofcode.withgoogle.com/) Developer at [OpenChemistry](https://openchemistry.org), and I worked on improving [3DMol.js](https://github.com/3dmol/3Dmol.js). Also, I am a [Google Season of Docs - GSoD '23](https://developers.google.com/season-of-docs) Writer at [WasmEdge](https://github.com/WasmEdge) working towards improving the Documentation of the project and onboarding contributors
+I am a [Google Season of Docs - GSoD '23](https://developers.google.com/season-of-docs) Technical Writer at [WasmEdge](https://github.com/WasmEdge) working towards improving the Documentation of the project and onboarding contributors
+
+I was also a [Google Summer of Code - GSoC '23](https://summerofcode.withgoogle.com/) Developer at [OpenChemistry](https://openchemistry.org), and I worked on improving [3DMol.js](https://github.com/3dmol/3Dmol.js)
 
 Maintainer (Docs) of [Meshery](https://github.com/meshery) (a CNCF Sandbox Project), where I contribute quite often in areas of UI, GitHub Actions, docs, reviewing PRs and suggesting improvements.
 
