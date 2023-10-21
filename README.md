@@ -22,7 +22,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 day ago)
+  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (today)
   - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (2 days ago)
   - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Astro Blog (1 week ago)
   - [adithyaakrishna/cases-downloader](https://github.com/adithyaakrishna/cases-downloader) -  (1 week ago)
@@ -32,11 +32,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Lately, I have worked on</summary>
   
+  - [feat: added contents for testing of wasmedge apps](https://github.com/WasmEdge/docs/pull/177) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (today)
   - [feat: migrated to signpdf from node-signpdf](https://github.com/documenso/documenso/pull/581) on [documenso/documenso](https://github.com/documenso/documenso) (2 days ago)
   - [[Feat] - Add Contributors Page, Updated Docusaurus, Fix Linters](https://github.com/WasmEdge/docs/pull/175) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (5 days ago)
   - [chore: update zod to 3.22.4](https://github.com/documenso/documenso/pull/563) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
   - [Try FIx](https://github.com/adithyaakrishna/adithyaakrishna.github.io/pull/204) on [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) (1 week ago)
-  - [feat: added sitemap and updated links](https://github.com/tigerbeetle/docs/pull/32) on [tigerbeetle/docs](https://github.com/tigerbeetle/docs) (2 weeks ago)
 </details>
 
 <details>
