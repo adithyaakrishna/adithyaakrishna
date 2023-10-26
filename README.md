@@ -32,11 +32,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Lately, I have worked on</summary>
   
+  - [chore: updated slack to discord links](https://github.com/documenso/documenso/pull/595) on [documenso/documenso](https://github.com/documenso/documenso) (today)
   - [feat: add wasmedge-ebpf and wasmedge-rusttls](https://github.com/WasmEdge/docs/pull/179) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (5 days ago)
   - [feat: added contents for testing of wasmedge apps](https://github.com/WasmEdge/docs/pull/177) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (5 days ago)
   - [feat: migrated to signpdf from node-signpdf](https://github.com/documenso/documenso/pull/581) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
   - [[Feat] - Add Contributors Page, Updated Docusaurus, Fix Linters](https://github.com/WasmEdge/docs/pull/175) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 week ago)
-  - [chore: update zod to 3.22.4](https://github.com/documenso/documenso/pull/563) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
 </details>
 
 <details>
