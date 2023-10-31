@@ -1,12 +1,30 @@
 ### ನಮಸ್ಕಾರ 🙏🏼
   
-A Software Engineer at [Red Hat](https://www.redhat.com), where I work with tools/libraries like ReactJS, NodeJS, Patternfly(Red Hat's Design System), Monorepos, GitLab and it's Pipelines. I also work on AdobeXd and Figma designs oftenly to keep the creative part of me alive
+A Software Engineer at [Red Hat](https://www.redhat.com). I am a Frontend guy by day and a Distributed Systems fanboy by Night. I also work on AdobeXd and Figma designs often to keep the creative part of me alive :)
 
 I am a [Google Season of Docs - GSoD '23](https://developers.google.com/season-of-docs) Technical Writer at [WasmEdge](https://github.com/WasmEdge) working towards improving the Documentation of the project and onboarding contributors
 
 I was also a [Google Summer of Code - GSoC '23](https://summerofcode.withgoogle.com/) Developer at [OpenChemistry](https://openchemistry.org), and I worked on improving [3DMol.js](https://github.com/3dmol/3Dmol.js)
 
-Maintainer (Docs) of [Meshery](https://github.com/meshery) (a CNCF Sandbox Project), where I contribute quite often in areas of UI, GitHub Actions, docs, reviewing PRs and suggesting improvements.
+Maintainer of [Meshery](https://github.com/meshery) (a CNCF Sandbox Project), where I contribute quite often in areas of UI, GitHub Actions, docs, reviewing PRs and suggesting improvements.
+
+A non-exhaustive list of things I like,
+
+- ReactJS
+- NextJS
+- GoLang
+- Zig (lately)
+- Ceph (storage system)
+- Databases
+  - MongoDB
+  - PostgreSQL
+  - DragonFly
+  - Tigerbeetle (lately)
+- Kubernetes (Plus, OpenShift)
+- Docker
+- Meshery
+- Istio (service mesh)
+- Argo CI (huge fan of Akuity or as I call it, A Cutie :P)
 
 Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris)
 
