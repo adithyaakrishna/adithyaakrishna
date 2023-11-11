@@ -60,11 +60,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
+  - [opensourcediversity/opensourcediversity.org](https://github.com/opensourcediversity/opensourcediversity.org) - 🌼 Code of https://opensourcediversity.org (today)
   - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (4 days ago)
   - [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) - Your open-source LLM evaluation toolkit. Get scores for factual accuracy, context retrieval quality, tonality, and many more to understand the quality of your LLM applications (1 week ago)
   - [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge) - A production-grade boilerplate for modern Next.js apps. (1 week ago)
   - [muxinc/next-video](https://github.com/muxinc/next-video) - The easiest way to add video in your Nextjs app. (1 week ago)
-  - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO&#39;s Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams (2 weeks ago)
 </details>
 
 <br> 
