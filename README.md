@@ -40,31 +40,31 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/lengthy-sherlock](https://github.com/adithyaakrishna/lengthy-sherlock) - Lengthy Sentence Finder (1 day ago)
-  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 day ago)
+  - [adithyaakrishna/lengthy-sherlock](https://github.com/adithyaakrishna/lengthy-sherlock) - Lengthy Sentence Finder (3 days ago)
+  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (3 days ago)
   - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (1 week ago)
-  - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (1 week ago)
-  - [adithyaakrishna/cases-downloader](https://github.com/adithyaakrishna/cases-downloader) -  (1 week ago)
+  - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (2 weeks ago)
+  - [adithyaakrishna/cases-downloader](https://github.com/adithyaakrishna/cases-downloader) -  (2 weeks ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
+  - [feat: added contents for testing of wasmedge](https://github.com/WasmEdge/docs/pull/197) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 day ago)
   - [feat: add docs for fuzzing](https://github.com/WasmEdge/docs/pull/181) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (2 weeks ago)
-  - [chore: updated slack to discord links](https://github.com/documenso/documenso/pull/595) on [documenso/documenso](https://github.com/documenso/documenso) (2 weeks ago)
+  - [chore: updated slack to discord links](https://github.com/documenso/documenso/pull/595) on [documenso/documenso](https://github.com/documenso/documenso) (3 weeks ago)
   - [feat: add wasmedge-ebpf and wasmedge-rusttls](https://github.com/WasmEdge/docs/pull/179) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (3 weeks ago)
   - [feat: added contents for testing of wasmedge apps](https://github.com/WasmEdge/docs/pull/177) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (3 weeks ago)
-  - [feat: migrated to signpdf from node-signpdf](https://github.com/documenso/documenso/pull/581) on [documenso/documenso](https://github.com/documenso/documenso) (3 weeks ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [opensourcediversity/opensourcediversity.org](https://github.com/opensourcediversity/opensourcediversity.org) - 🌼 Code of https://opensourcediversity.org (3 days ago)
+  - [unkeyed/unkey](https://github.com/unkeyed/unkey) - Open Source API Key Management (2 days ago)
+  - [opensourcediversity/opensourcediversity.org](https://github.com/opensourcediversity/opensourcediversity.org) - 🌼 Code of https://opensourcediversity.org (5 days ago)
   - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (1 week ago)
-  - [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) - Your open-source LLM evaluation toolkit. Get scores for factual accuracy, context retrieval quality, tonality, and many more to understand the quality of your LLM applications (1 week ago)
+  - [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) - Your open-source LLM evaluation toolkit. Get scores for factual accuracy, context retrieval quality, tonality, and many more to understand the quality of your LLM applications (2 weeks ago)
   - [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge) - A production-grade boilerplate for modern Next.js apps. (2 weeks ago)
-  - [muxinc/next-video](https://github.com/muxinc/next-video) - The easiest way to add video in your Nextjs app. (2 weeks ago)
 </details>
 
 <br> 
