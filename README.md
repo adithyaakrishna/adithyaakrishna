@@ -61,7 +61,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   <summary>These are super cool</summary>
   
   - [prestodb/presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data (3 days ago)
-  - [unkeyed/unkey](https://github.com/unkeyed/unkey) - Open Source API Key Management (5 days ago)
+  - [unkeyed/unkey](https://github.com/unkeyed/unkey) - Open source API authentication and authorization (5 days ago)
   - [opensourcediversity/opensourcediversity.org](https://github.com/opensourcediversity/opensourcediversity.org) - 🌼 Code of https://opensourcediversity.org (1 week ago)
   - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (1 week ago)
   - [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) - Your open-source LLM evaluation toolkit. Get scores for factual accuracy, context retrieval quality, tonality, and many more to understand the quality of your LLM applications (2 weeks ago)
