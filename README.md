@@ -40,7 +40,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/NyayaNidhi](https://github.com/adithyaakrishna/NyayaNidhi) -  (4 days ago)
+  - [adithyaakrishna/NyayaNidhi](https://github.com/adithyaakrishna/NyayaNidhi) -  (5 days ago)
   - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (1 week ago)
   - [adithyaakrishna/lengthy-sherlock](https://github.com/adithyaakrishna/lengthy-sherlock) - Lengthy Sentence Finder (1 week ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 week ago)
@@ -51,7 +51,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   <summary>Lately, I have worked on</summary>
   
   - [feat: added contents for testing of wasmedge](https://github.com/WasmEdge/docs/pull/197) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 week ago)
-  - [feat: add docs for fuzzing](https://github.com/WasmEdge/docs/pull/181) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (4 weeks ago)
+  - [feat: add docs for fuzzing](https://github.com/WasmEdge/docs/pull/181) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 month ago)
   - [chore: updated slack to discord links](https://github.com/documenso/documenso/pull/595) on [documenso/documenso](https://github.com/documenso/documenso) (1 month ago)
   - [feat: add wasmedge-ebpf and wasmedge-rusttls](https://github.com/WasmEdge/docs/pull/179) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 month ago)
   - [feat: added contents for testing of wasmedge apps](https://github.com/WasmEdge/docs/pull/177) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 month ago)
