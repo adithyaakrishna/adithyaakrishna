@@ -41,10 +41,10 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   <summary>Check out what I'm currently working on</summary>
   
   - [adithyaakrishna/NyayaNidhi](https://github.com/adithyaakrishna/NyayaNidhi) -  (1 week ago)
-  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (1 week ago)
+  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (2 weeks ago)
   - [adithyaakrishna/lengthy-sherlock](https://github.com/adithyaakrishna/lengthy-sherlock) - Lengthy Sentence Finder (2 weeks ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 weeks ago)
-  - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (4 weeks ago)
+  - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (1 month ago)
 </details>
 
 <details>
@@ -62,9 +62,9 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   
   - [prestodb/presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data (2 weeks ago)
   - [unkeyed/unkey](https://github.com/unkeyed/unkey) - Open source API authentication and authorization (2 weeks ago)
-  - [opensourcediversity/opensourcediversity.org](https://github.com/opensourcediversity/opensourcediversity.org) - 🌼 Code of https://opensourcediversity.org (2 weeks ago)
+  - [opensourcediversity/opensourcediversity.org](https://github.com/opensourcediversity/opensourcediversity.org) - 🌼 Code of https://opensourcediversity.org (3 weeks ago)
   - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (3 weeks ago)
-  - [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) - Your open-source LLM evaluation toolkit. Get scores for factual accuracy, context retrieval quality, tonality, and many more to understand the quality of your LLM applications (4 weeks ago)
+  - [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) - Your open-source LLM evaluation toolkit. Get scores for factual accuracy, context retrieval quality, tonality, and many more to understand the quality of your LLM applications (1 month ago)
 </details>
 
 <br> 
