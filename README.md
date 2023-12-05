@@ -40,31 +40,31 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/NyayaNidhi](https://github.com/adithyaakrishna/NyayaNidhi) -  (1 week ago)
+  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 day ago)
+  - [adithyaakrishna/NyayaNidhi](https://github.com/adithyaakrishna/NyayaNidhi) -  (2 weeks ago)
   - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (2 weeks ago)
-  - [adithyaakrishna/lengthy-sherlock](https://github.com/adithyaakrishna/lengthy-sherlock) - Lengthy Sentence Finder (2 weeks ago)
-  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 weeks ago)
+  - [adithyaakrishna/lengthy-sherlock](https://github.com/adithyaakrishna/lengthy-sherlock) - Lengthy Sentence Finder (3 weeks ago)
   - [WasmEdge/docs](https://github.com/WasmEdge/docs) -  (1 month ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
+  - [feat: github repo management improvement](https://github.com/documenso/documenso/pull/728) on [documenso/documenso](https://github.com/documenso/documenso) (1 day ago)
   - [feat: added contents for testing of wasmedge](https://github.com/WasmEdge/docs/pull/197) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (2 weeks ago)
   - [feat: add docs for fuzzing](https://github.com/WasmEdge/docs/pull/181) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 month ago)
   - [chore: updated slack to discord links](https://github.com/documenso/documenso/pull/595) on [documenso/documenso](https://github.com/documenso/documenso) (1 month ago)
   - [feat: add wasmedge-ebpf and wasmedge-rusttls](https://github.com/WasmEdge/docs/pull/179) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 month ago)
-  - [feat: added contents for testing of wasmedge apps](https://github.com/WasmEdge/docs/pull/177) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 month ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
+  - [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - ⚡️ The developer data platform to centralize community, product, and customer data (2 days ago)
   - [prestodb/presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data (2 weeks ago)
-  - [unkeyed/unkey](https://github.com/unkeyed/unkey) - Open source API authentication and authorization (2 weeks ago)
+  - [unkeyed/unkey](https://github.com/unkeyed/unkey) - Open source API authentication and authorization (3 weeks ago)
   - [opensourcediversity/opensourcediversity.org](https://github.com/opensourcediversity/opensourcediversity.org) - 🌼 Code of https://opensourcediversity.org (3 weeks ago)
-  - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (3 weeks ago)
-  - [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain) - Your open-source LLM evaluation toolkit. Get scores for factual accuracy, context retrieval quality, tonality, and many more to understand the quality of your LLM applications (1 month ago)
+  - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (4 weeks ago)
 </details>
 
 <br> 
