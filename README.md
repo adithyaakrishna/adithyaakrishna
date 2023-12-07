@@ -2,8 +2,6 @@
   
 A Software Engineer at [Red Hat](https://www.redhat.com). I am a Frontend guy by day and a Distributed Systems fanboy by Night. I also work on AdobeXd and Figma designs often to keep the creative part of me alive :)
 
-<!-- Test -->
-
 I am a [Google Season of Docs - GSoD '23](https://developers.google.com/season-of-docs) Technical Writer at [WasmEdge](https://github.com/WasmEdge) working towards improving the Documentation of the project and onboarding contributors
 
 I was also a [Google Summer of Code - GSoC '23](https://summerofcode.withgoogle.com/) Developer at [OpenChemistry](https://openchemistry.org), and I worked on improving [3DMol.js](https://github.com/3dmol/3Dmol.js)
