@@ -40,7 +40,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (5 days ago)
+  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (6 days ago)
   - [adithyaakrishna/NyayaNidhi](https://github.com/adithyaakrishna/NyayaNidhi) -  (2 weeks ago)
   - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (3 weeks ago)
   - [adithyaakrishna/lengthy-sherlock](https://github.com/adithyaakrishna/lengthy-sherlock) - Lengthy Sentence Finder (3 weeks ago)
@@ -50,7 +50,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat: github repo management improvement](https://github.com/documenso/documenso/pull/728) on [documenso/documenso](https://github.com/documenso/documenso) (5 days ago)
+  - [feat: github repo management improvement](https://github.com/documenso/documenso/pull/728) on [documenso/documenso](https://github.com/documenso/documenso) (6 days ago)
   - [feat: added contents for testing of wasmedge](https://github.com/WasmEdge/docs/pull/197) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (3 weeks ago)
   - [feat: add docs for fuzzing](https://github.com/WasmEdge/docs/pull/181) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 month ago)
   - [chore: updated slack to discord links](https://github.com/documenso/documenso/pull/595) on [documenso/documenso](https://github.com/documenso/documenso) (1 month ago)
@@ -60,11 +60,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - ⚡️ The developer data platform to centralize community, product, and customer data (6 days ago)
+  - [delta-io/delta](https://github.com/delta-io/delta) - An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs (1 day ago)
+  - [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - ⚡️ The developer data platform to centralize community, product, and customer data (1 week ago)
   - [prestodb/presto](https://github.com/prestodb/presto) - The official home of the Presto distributed SQL query engine for big data (3 weeks ago)
   - [unkeyed/unkey](https://github.com/unkeyed/unkey) - Open source API authentication and authorization (3 weeks ago)
   - [opensourcediversity/opensourcediversity.org](https://github.com/opensourcediversity/opensourcediversity.org) - 🌼 Code of https://opensourcediversity.org (4 weeks ago)
-  - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (1 month ago)
 </details>
 
 <br> 
