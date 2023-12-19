@@ -50,11 +50,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Lately, I have worked on</summary>
   
+  - [feat: updated one-click deploys](https://github.com/documenso/documenso/pull/770) on [documenso/documenso](https://github.com/documenso/documenso) (today)
   - [chore: fix workflows and update package.json file](https://github.com/documenso/documenso/pull/758) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
   - [feat: github repo management improvement](https://github.com/documenso/documenso/pull/728) on [documenso/documenso](https://github.com/documenso/documenso) (2 weeks ago)
   - [feat: added contents for testing of wasmedge](https://github.com/WasmEdge/docs/pull/197) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 month ago)
   - [feat: add docs for fuzzing](https://github.com/WasmEdge/docs/pull/181) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 month ago)
-  - [chore: updated slack to discord links](https://github.com/documenso/documenso/pull/595) on [documenso/documenso](https://github.com/documenso/documenso) (1 month ago)
 </details>
 
 <details>
