@@ -60,11 +60,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
+  - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2023) (today)
   - [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu) - shelf is open source Asset Management Infrastructure for absolutely everyone. (3 days ago)
   - [velocitatem/garlic](https://github.com/velocitatem/garlic) - 🧄🧛  protect your website from being scraped by bots. (1 week ago)
   - [mistralai/client-js](https://github.com/mistralai/client-js) - JS Client library for Mistral AI platform (1 week ago)
   - [mistralai/mistral-src](https://github.com/mistralai/mistral-src) - Reference implementation of Mistral AI 7B v0.1 model. (1 week ago)
-  - [delta-io/delta](https://github.com/delta-io/delta) - An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs (2 weeks ago)
 </details>
 
 <br> 
