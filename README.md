@@ -40,8 +40,8 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/altcase](https://github.com/adithyaakrishna/altcase) -  (1 week ago)
-  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 weeks ago)
+  - [adithyaakrishna/altcase](https://github.com/adithyaakrishna/altcase) -  (2 weeks ago)
+  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (3 weeks ago)
   - [adithyaakrishna/NyayaNidhi](https://github.com/adithyaakrishna/NyayaNidhi) -  (1 month ago)
   - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (1 month ago)
   - [adithyaakrishna/lengthy-sherlock](https://github.com/adithyaakrishna/lengthy-sherlock) - Lengthy Sentence Finder (1 month ago)
@@ -50,21 +50,21 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat: show document title for delete dialog - [DOC-387]](https://github.com/documenso/documenso/pull/772) on [documenso/documenso](https://github.com/documenso/documenso) (5 days ago)
-  - [feat: updated one-click deploys](https://github.com/documenso/documenso/pull/770) on [documenso/documenso](https://github.com/documenso/documenso) (5 days ago)
-  - [chore: fix workflows and update package.json file](https://github.com/documenso/documenso/pull/758) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
-  - [feat: github repo management improvement](https://github.com/documenso/documenso/pull/728) on [documenso/documenso](https://github.com/documenso/documenso) (2 weeks ago)
+  - [feat: show document title for delete dialog - [DOC-387]](https://github.com/documenso/documenso/pull/772) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
+  - [feat: updated one-click deploys](https://github.com/documenso/documenso/pull/770) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
+  - [chore: fix workflows and update package.json file](https://github.com/documenso/documenso/pull/758) on [documenso/documenso](https://github.com/documenso/documenso) (2 weeks ago)
+  - [feat: github repo management improvement](https://github.com/documenso/documenso/pull/728) on [documenso/documenso](https://github.com/documenso/documenso) (3 weeks ago)
   - [feat: added contents for testing of wasmedge](https://github.com/WasmEdge/docs/pull/197) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 month ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2023) (today)
-  - [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu) - shelf is open source Asset Management Infrastructure for absolutely everyone. (3 days ago)
+  - [arhankundu99/profanity-filter](https://github.com/arhankundu99/profanity-filter) - A fast profanity filter for text and images (1 day ago)
+  - [shreyas-sreedhar/whatsapp-Cloudapi-aws-s3](https://github.com/shreyas-sreedhar/whatsapp-Cloudapi-aws-s3) -  (1 day ago)
+  - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2023) (2 days ago)
+  - [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu) - shelf is open source Asset Management Infrastructure for absolutely everyone. (5 days ago)
   - [velocitatem/garlic](https://github.com/velocitatem/garlic) - 🧄🧛  protect your website from being scraped by bots. (1 week ago)
-  - [mistralai/client-js](https://github.com/mistralai/client-js) - JS Client library for Mistral AI platform (1 week ago)
-  - [mistralai/mistral-src](https://github.com/mistralai/mistral-src) - Reference implementation of Mistral AI 7B v0.1 model. (1 week ago)
 </details>
 
 <br> 
