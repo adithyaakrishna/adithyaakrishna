@@ -50,20 +50,20 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Lately, I have worked on</summary>
   
+  - [chore: slugify team urls and add profanity filter](https://github.com/documenso/documenso/pull/789) on [documenso/documenso](https://github.com/documenso/documenso) (1 day ago)
   - [feat: show document title for delete dialog - [DOC-387]](https://github.com/documenso/documenso/pull/772) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
   - [feat: updated one-click deploys](https://github.com/documenso/documenso/pull/770) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
   - [chore: fix workflows and update package.json file](https://github.com/documenso/documenso/pull/758) on [documenso/documenso](https://github.com/documenso/documenso) (2 weeks ago)
   - [feat: github repo management improvement](https://github.com/documenso/documenso/pull/728) on [documenso/documenso](https://github.com/documenso/documenso) (3 weeks ago)
-  - [feat: added contents for testing of wasmedge](https://github.com/WasmEdge/docs/pull/197) on [WasmEdge/docs](https://github.com/WasmEdge/docs) (1 month ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [arhankundu99/profanity-filter](https://github.com/arhankundu99/profanity-filter) - A fast profanity filter for text and images (1 day ago)
-  - [shreyas-sreedhar/whatsapp-Cloudapi-aws-s3](https://github.com/shreyas-sreedhar/whatsapp-Cloudapi-aws-s3) -  (1 day ago)
-  - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2023) (2 days ago)
-  - [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu) - shelf is open source Asset Management Infrastructure for absolutely everyone. (5 days ago)
+  - [arhankundu99/profanity-filter](https://github.com/arhankundu99/profanity-filter) - A fast profanity filter for text and images (3 days ago)
+  - [shreyas-sreedhar/whatsapp-Cloudapi-aws-s3](https://github.com/shreyas-sreedhar/whatsapp-Cloudapi-aws-s3) -  (3 days ago)
+  - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2023) (4 days ago)
+  - [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu) - shelf is open source Asset Management Infrastructure for absolutely everyone. (1 week ago)
   - [velocitatem/garlic](https://github.com/velocitatem/garlic) - 🧄🧛  protect your website from being scraped by bots. (1 week ago)
 </details>
 
