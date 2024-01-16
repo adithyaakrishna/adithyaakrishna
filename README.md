@@ -40,7 +40,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (1 week ago)
+  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (1 day ago)
   - [adithyaakrishna/altcase](https://github.com/adithyaakrishna/altcase) -  (1 month ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 month ago)
   - [adithyaakrishna/NyayaNidhi](https://github.com/adithyaakrishna/NyayaNidhi) -  (1 month ago)
@@ -53,16 +53,16 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   - [chore: fix color for light mode icon](https://github.com/documenso/documenso/pull/806) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
   - [chore: fix package vulnerabilities](https://github.com/documenso/documenso/pull/802) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
   - [chore: slugify team urls and add profanity filter](https://github.com/documenso/documenso/pull/789) on [documenso/documenso](https://github.com/documenso/documenso) (2 weeks ago)
-  - [feat: show document title for delete dialog - [DOC-387]](https://github.com/documenso/documenso/pull/772) on [documenso/documenso](https://github.com/documenso/documenso) (3 weeks ago)
-  - [feat: updated one-click deploys](https://github.com/documenso/documenso/pull/770) on [documenso/documenso](https://github.com/documenso/documenso) (3 weeks ago)
+  - [feat: show document title for delete dialog - [DOC-387]](https://github.com/documenso/documenso/pull/772) on [documenso/documenso](https://github.com/documenso/documenso) (4 weeks ago)
+  - [feat: updated one-click deploys](https://github.com/documenso/documenso/pull/770) on [documenso/documenso](https://github.com/documenso/documenso) (4 weeks ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
   - [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys. (1 week ago)
-  - [arhankundu99/profanity-filter](https://github.com/arhankundu99/profanity-filter) - A fast profanity filter for text and images (2 weeks ago)
-  - [shreyas-sreedhar/whatsapp-Cloudapi-aws-s3](https://github.com/shreyas-sreedhar/whatsapp-Cloudapi-aws-s3) -  (2 weeks ago)
+  - [arhankundu99/profanity-filter](https://github.com/arhankundu99/profanity-filter) - A fast profanity filter for text and images (3 weeks ago)
+  - [shreyas-sreedhar/whatsapp-Cloudapi-aws-s3](https://github.com/shreyas-sreedhar/whatsapp-Cloudapi-aws-s3) -  (3 weeks ago)
   - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2023) (3 weeks ago)
   - [Shelf-nu/shelf.nu](https://github.com/Shelf-nu/shelf.nu) - shelf is open source Asset Management Infrastructure for absolutely everyone. (3 weeks ago)
 </details>
