@@ -40,11 +40,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
+  - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (today)
   - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (1 day ago)
   - [adithyaakrishna/altcase](https://github.com/adithyaakrishna/altcase) -  (2 months ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 months ago)
   - [adithyaakrishna/NyayaNidhi](https://github.com/adithyaakrishna/NyayaNidhi) -  (2 months ago)
-  - [adithyaakrishna/lengthy-sherlock](https://github.com/adithyaakrishna/lengthy-sherlock) - Lengthy Sentence Finder (2 months ago)
 </details>
 
 <details>
