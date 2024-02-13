@@ -40,9 +40,9 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [nyayanidhi/nyayanidhi-app](https://github.com/nyayanidhi/nyayanidhi-app) -  (today)
-  - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (1 day ago)
-  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (2 days ago)
+  - [nyayanidhi/nyayanidhi-app](https://github.com/nyayanidhi/nyayanidhi-app) -  (2 days ago)
+  - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (3 days ago)
+  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (4 days ago)
   - [adithyaakrishna/altcase](https://github.com/adithyaakrishna/altcase) -  (2 months ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 months ago)
 </details>
@@ -60,8 +60,8 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [prajwalkulkarni/react.dev](https://github.com/prajwalkulkarni/react.dev) - The React documentation website (6 days ago)
-  - [revertinc/revert](https://github.com/revertinc/revert) - Revert makes it incredibly easy to build integrations with any third party API (1 week ago)
+  - [prajwalkulkarni/react.dev](https://github.com/prajwalkulkarni/react.dev) - The React documentation website (1 week ago)
+  - [revertinc/revert](https://github.com/revertinc/revert) - Revert makes it incredibly easy to build integrations with any third party API (2 weeks ago)
   - [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys. (1 month ago)
   - [arhankundu99/profanity-filter](https://github.com/arhankundu99/profanity-filter) - A fast profanity filter for text and images (1 month ago)
   - [shreyas-sreedhar/whatsapp-Cloudapi-aws-s3](https://github.com/shreyas-sreedhar/whatsapp-Cloudapi-aws-s3) -  (1 month ago)
