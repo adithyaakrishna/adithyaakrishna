@@ -40,9 +40,9 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (today)
-  - [nyayanidhi/nyayanidhi-app](https://github.com/nyayanidhi/nyayanidhi-app) -  (4 days ago)
-  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (6 days ago)
+  - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (2 days ago)
+  - [nyayanidhi/nyayanidhi-app](https://github.com/nyayanidhi/nyayanidhi-app) -  (6 days ago)
+  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (1 week ago)
   - [adithyaakrishna/altcase](https://github.com/adithyaakrishna/altcase) -  (2 months ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 months ago)
 </details>
@@ -50,11 +50,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Lately, I have worked on</summary>
   
+  - [feat: username claim flow](https://github.com/documenso/documenso/pull/940) on [documenso/documenso](https://github.com/documenso/documenso) (1 day ago)
   - [feat: redirect users upon signing completion](https://github.com/documenso/documenso/pull/888) on [documenso/documenso](https://github.com/documenso/documenso) (2 weeks ago)
   - [chore: fix color for light mode icon](https://github.com/documenso/documenso/pull/806) on [documenso/documenso](https://github.com/documenso/documenso) (1 month ago)
   - [chore: fix package vulnerabilities](https://github.com/documenso/documenso/pull/802) on [documenso/documenso](https://github.com/documenso/documenso) (1 month ago)
   - [chore: slugify team urls and add profanity filter](https://github.com/documenso/documenso/pull/789) on [documenso/documenso](https://github.com/documenso/documenso) (1 month ago)
-  - [feat: show document title for delete dialog - [DOC-387]](https://github.com/documenso/documenso/pull/772) on [documenso/documenso](https://github.com/documenso/documenso) (1 month ago)
 </details>
 
 <details>
