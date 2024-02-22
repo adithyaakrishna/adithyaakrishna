@@ -40,7 +40,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (5 days ago)
+  - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (1 week ago)
   - [nyayanidhi/nyayanidhi-app](https://github.com/nyayanidhi/nyayanidhi-app) -  (1 week ago)
   - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (1 week ago)
   - [adithyaakrishna/altcase](https://github.com/adithyaakrishna/altcase) -  (2 months ago)
@@ -50,8 +50,8 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat: username claim flow](https://github.com/documenso/documenso/pull/940) on [documenso/documenso](https://github.com/documenso/documenso) (4 days ago)
-  - [feat: redirect users upon signing completion](https://github.com/documenso/documenso/pull/888) on [documenso/documenso](https://github.com/documenso/documenso) (2 weeks ago)
+  - [feat: username claim flow](https://github.com/documenso/documenso/pull/940) on [documenso/documenso](https://github.com/documenso/documenso) (6 days ago)
+  - [feat: redirect users upon signing completion](https://github.com/documenso/documenso/pull/888) on [documenso/documenso](https://github.com/documenso/documenso) (3 weeks ago)
   - [chore: fix color for light mode icon](https://github.com/documenso/documenso/pull/806) on [documenso/documenso](https://github.com/documenso/documenso) (1 month ago)
   - [chore: fix package vulnerabilities](https://github.com/documenso/documenso/pull/802) on [documenso/documenso](https://github.com/documenso/documenso) (1 month ago)
   - [chore: slugify team urls and add profanity filter](https://github.com/documenso/documenso/pull/789) on [documenso/documenso](https://github.com/documenso/documenso) (1 month ago)
@@ -60,7 +60,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥 The open-source reverse ETL, data activation platform for modern data teams. (today)
+  - [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥 The open-source reverse ETL, data activation platform for modern data teams. (2 days ago)
   - [prajwalkulkarni/react.dev](https://github.com/prajwalkulkarni/react.dev) - The React documentation website (2 weeks ago)
   - [revertinc/revert](https://github.com/revertinc/revert) - Revert makes it incredibly easy to build integrations with any third party API (3 weeks ago)
   - [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys. (1 month ago)
