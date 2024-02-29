@@ -40,7 +40,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (1 week ago)
+  - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (2 weeks ago)
   - [nyayanidhi/nyayanidhi-app](https://github.com/nyayanidhi/nyayanidhi-app) -  (2 weeks ago)
   - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (2 weeks ago)
   - [adithyaakrishna/altcase](https://github.com/adithyaakrishna/altcase) -  (2 months ago)
@@ -51,7 +51,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   <summary>Lately, I have worked on</summary>
   
   - [feat: username claim flow](https://github.com/documenso/documenso/pull/940) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
-  - [feat: redirect users upon signing completion](https://github.com/documenso/documenso/pull/888) on [documenso/documenso](https://github.com/documenso/documenso) (3 weeks ago)
+  - [feat: redirect users upon signing completion](https://github.com/documenso/documenso/pull/888) on [documenso/documenso](https://github.com/documenso/documenso) (4 weeks ago)
   - [chore: fix color for light mode icon](https://github.com/documenso/documenso/pull/806) on [documenso/documenso](https://github.com/documenso/documenso) (1 month ago)
   - [chore: fix package vulnerabilities](https://github.com/documenso/documenso/pull/802) on [documenso/documenso](https://github.com/documenso/documenso) (1 month ago)
   - [chore: slugify team urls and add profanity filter](https://github.com/documenso/documenso/pull/789) on [documenso/documenso](https://github.com/documenso/documenso) (2 months ago)
@@ -60,11 +60,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
+  - [un/inbox](https://github.com/un/inbox) - Modern email for teams and professionals. A replacement for outdated email technology and tools. Alt to hey.com, front.com, missiveapp.com (1 day ago)
   - [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥 The open-source reverse ETL, data activation platform for modern data teams. (1 week ago)
   - [prajwalkulkarni/react.dev](https://github.com/prajwalkulkarni/react.dev) - The React documentation website (3 weeks ago)
-  - [revertinc/revert](https://github.com/revertinc/revert) - Revert makes it incredibly easy to build integrations with any third party API (4 weeks ago)
+  - [revertinc/revert](https://github.com/revertinc/revert) - Revert makes it incredibly easy to build integrations with any third party API (1 month ago)
   - [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys. (1 month ago)
-  - [arhankundu99/profanity-filter](https://github.com/arhankundu99/profanity-filter) - A fast profanity filter for text and images (2 months ago)
 </details>
 
 <br> 
