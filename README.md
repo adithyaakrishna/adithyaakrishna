@@ -43,8 +43,8 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (1 day ago)
   - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (2 weeks ago)
   - [nyayanidhi/nyayanidhi-app](https://github.com/nyayanidhi/nyayanidhi-app) -  (2 weeks ago)
+  - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (1 month ago)
   - [adithyaakrishna/altcase](https://github.com/adithyaakrishna/altcase) -  (2 months ago)
-  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 months ago)
 </details>
 
 <details>
