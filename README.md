@@ -40,9 +40,9 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (1 day ago)
+  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (2 days ago)
   - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (2 weeks ago)
-  - [nyayanidhi/nyayanidhi-app](https://github.com/nyayanidhi/nyayanidhi-app) -  (2 weeks ago)
+  - [nyayanidhi/nyayanidhi-app](https://github.com/nyayanidhi/nyayanidhi-app) -  (3 weeks ago)
   - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (1 month ago)
   - [adithyaakrishna/altcase](https://github.com/adithyaakrishna/altcase) -  (2 months ago)
 </details>
@@ -50,8 +50,8 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [chore: update profile claim dialog and modal](https://github.com/documenso/documenso/pull/983) on [documenso/documenso](https://github.com/documenso/documenso) (1 day ago)
-  - [feat: add typefully card to open page](https://github.com/documenso/documenso/pull/979) on [documenso/documenso](https://github.com/documenso/documenso) (1 day ago)
+  - [chore: update profile claim dialog and modal](https://github.com/documenso/documenso/pull/983) on [documenso/documenso](https://github.com/documenso/documenso) (2 days ago)
+  - [feat: add typefully card to open page](https://github.com/documenso/documenso/pull/979) on [documenso/documenso](https://github.com/documenso/documenso) (2 days ago)
   - [feat: username claim flow](https://github.com/documenso/documenso/pull/940) on [documenso/documenso](https://github.com/documenso/documenso) (2 weeks ago)
   - [feat: redirect users upon signing completion](https://github.com/documenso/documenso/pull/888) on [documenso/documenso](https://github.com/documenso/documenso) (1 month ago)
   - [chore: fix color for light mode icon](https://github.com/documenso/documenso/pull/806) on [documenso/documenso](https://github.com/documenso/documenso) (1 month ago)
@@ -60,7 +60,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [un/inbox](https://github.com/un/inbox) - Modern email for teams and professionals. A replacement for outdated email technology and tools. Alt to hey.com, front.com, missiveapp.com (3 days ago)
+  - [un/inbox](https://github.com/un/inbox) - Modern email for teams and professionals. A replacement for outdated email technology and tools. Alt to hey.com, front.com, missiveapp.com (4 days ago)
   - [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥 The open-source reverse ETL, data activation platform for modern data teams. (1 week ago)
   - [prajwalkulkarni/react.dev](https://github.com/prajwalkulkarni/react.dev) - The React documentation website (3 weeks ago)
   - [revertinc/revert](https://github.com/revertinc/revert) - Revert makes it incredibly easy to build integrations with any third party API (1 month ago)
