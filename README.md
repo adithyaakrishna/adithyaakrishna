@@ -40,11 +40,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [adi-lhs/nyayanidhi](https://github.com/adi-lhs/nyayanidhi) - webapp mvp (2 days ago)
   - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (4 days ago)
   - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (2 weeks ago)
   - [nyayanidhi/nyayanidhi-app](https://github.com/nyayanidhi/nyayanidhi-app) -  (3 weeks ago)
   - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (1 month ago)
+  - [adithyaakrishna/altcase](https://github.com/adithyaakrishna/altcase) -  (2 months ago)
 </details>
 
 <details>
