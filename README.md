@@ -40,29 +40,29 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (2 days ago)
-  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (2 days ago)
+  - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (4 days ago)
+  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (4 days ago)
   - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (3 weeks ago)
-  - [nyayanidhi/nyayanidhi-app](https://github.com/nyayanidhi/nyayanidhi-app) -  (4 weeks ago)
+  - [nyayanidhi/nyayanidhi-app](https://github.com/nyayanidhi/nyayanidhi-app) -  (1 month ago)
   - [adithyaakrishna/altcase](https://github.com/adithyaakrishna/altcase) -  (3 months ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat: updated mobile header](https://github.com/documenso/documenso/pull/1004) on [documenso/documenso](https://github.com/documenso/documenso) (2 days ago)
-  - [chore: updated code of conduct link](https://github.com/documenso/documenso/pull/999) on [documenso/documenso](https://github.com/documenso/documenso) (3 days ago)
-  - [feat: improved ui of document dropzone for max quota state](https://github.com/documenso/documenso/pull/997) on [documenso/documenso](https://github.com/documenso/documenso) (3 days ago)
+  - [chore: updated url regex](https://github.com/documenso/documenso/pull/1017) on [documenso/documenso](https://github.com/documenso/documenso) (1 day ago)
+  - [feat: updated mobile header](https://github.com/documenso/documenso/pull/1004) on [documenso/documenso](https://github.com/documenso/documenso) (4 days ago)
+  - [chore: updated code of conduct link](https://github.com/documenso/documenso/pull/999) on [documenso/documenso](https://github.com/documenso/documenso) (5 days ago)
+  - [feat: improved ui of document dropzone for max quota state](https://github.com/documenso/documenso/pull/997) on [documenso/documenso](https://github.com/documenso/documenso) (5 days ago)
   - [chore: update profile claim dialog and modal](https://github.com/documenso/documenso/pull/983) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
-  - [feat: add typefully card to open page](https://github.com/documenso/documenso/pull/979) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [adamcohenhillel/ADeus](https://github.com/adamcohenhillel/ADeus) - An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will have all the right context about what you want to talk about - a truly personalized, personal AI. (6 days ago)
+  - [adamcohenhillel/ADeus](https://github.com/adamcohenhillel/ADeus) - An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will have all the right context about what you want to talk about - a truly personalized, personal AI. (1 week ago)
   - [un/inbox](https://github.com/un/inbox) - Modern email for teams and professionals. A replacement for outdated email technology and tools. Alt to hey.com, front.com, missiveapp.com (1 week ago)
-  - [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥 🔥 Open Source Warehouse Native Customer Data Platform (CDP) (2 weeks ago)
+  - [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open Source Salesforce CDP Alternative (3 weeks ago)
   - [prajwalkulkarni/react.dev](https://github.com/prajwalkulkarni/react.dev) - The React documentation website (1 month ago)
   - [revertinc/revert](https://github.com/revertinc/revert) - Revert makes it incredibly easy to build integrations with any third party API (1 month ago)
 </details>
