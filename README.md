@@ -60,11 +60,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
+  - [CERT-Polska/Artemis](https://github.com/CERT-Polska/Artemis) - A modular vulnerability scanner with automatic report generation capabilities. (today)
   - [adamcohenhillel/ADeus](https://github.com/adamcohenhillel/ADeus) - An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will have all the right context about what you want to talk about - a truly personalized, personal AI. (1 week ago)
   - [un/inbox](https://github.com/un/inbox) - Modern email for teams and professionals. A replacement for outdated email technology and tools. Alt to hey.com, front.com, missiveapp.com (2 weeks ago)
   - [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open Source Salesforce CDP Alternative (3 weeks ago)
   - [prajwalkulkarni/react.dev](https://github.com/prajwalkulkarni/react.dev) - The React documentation website (1 month ago)
-  - [revertinc/revert](https://github.com/revertinc/revert) - Revert makes it incredibly easy to build integrations with any third party API (1 month ago)
 </details>
 
 <br> 
