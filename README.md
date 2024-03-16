@@ -40,9 +40,9 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (3 days ago)
-  - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (6 days ago)
-  - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (4 weeks ago)
+  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (5 days ago)
+  - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (1 week ago)
+  - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (1 month ago)
   - [nyayanidhi/nyayanidhi-app](https://github.com/nyayanidhi/nyayanidhi-app) -  (1 month ago)
   - [adithyaakrishna/altcase](https://github.com/adithyaakrishna/altcase) -  (3 months ago)
 </details>
@@ -50,20 +50,20 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat: added custom dark mode styling for swagger ui](https://github.com/documenso/documenso/pull/1022) on [documenso/documenso](https://github.com/documenso/documenso) (1 day ago)
-  - [chore: updated url regex](https://github.com/documenso/documenso/pull/1017) on [documenso/documenso](https://github.com/documenso/documenso) (3 days ago)
-  - [feat: updated mobile header](https://github.com/documenso/documenso/pull/1004) on [documenso/documenso](https://github.com/documenso/documenso) (6 days ago)
+  - [chore: send email to document owner](https://github.com/documenso/documenso/pull/1031) on [documenso/documenso](https://github.com/documenso/documenso) (1 day ago)
+  - [feat: added custom dark mode styling for swagger ui](https://github.com/documenso/documenso/pull/1022) on [documenso/documenso](https://github.com/documenso/documenso) (3 days ago)
+  - [chore: updated url regex](https://github.com/documenso/documenso/pull/1017) on [documenso/documenso](https://github.com/documenso/documenso) (5 days ago)
+  - [feat: updated mobile header](https://github.com/documenso/documenso/pull/1004) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
   - [chore: updated code of conduct link](https://github.com/documenso/documenso/pull/999) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
-  - [feat: improved ui of document dropzone for max quota state](https://github.com/documenso/documenso/pull/997) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [CERT-Polska/Artemis](https://github.com/CERT-Polska/Artemis) - A modular vulnerability scanner with automatic report generation capabilities. (today)
+  - [CERT-Polska/Artemis](https://github.com/CERT-Polska/Artemis) - A modular vulnerability scanner with automatic report generation capabilities. (2 days ago)
   - [adamcohenhillel/ADeus](https://github.com/adamcohenhillel/ADeus) - An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will have all the right context about what you want to talk about - a truly personalized, personal AI. (1 week ago)
   - [un/inbox](https://github.com/un/inbox) - Modern email for teams and professionals. A replacement for outdated email technology and tools. Alt to hey.com, front.com, missiveapp.com (2 weeks ago)
-  - [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥🔥🔥 Open Source Salesforce CDP Alternative (3 weeks ago)
+  - [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥 Open Source Reverse ETL and Customer Data Platform (CDP). An open-source alternative to tools like Hightouch, Census, and RudderStack. (3 weeks ago)
   - [prajwalkulkarni/react.dev](https://github.com/prajwalkulkarni/react.dev) - The React documentation website (1 month ago)
 </details>
 
