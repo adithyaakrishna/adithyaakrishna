@@ -52,7 +52,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   
   - [chore: send email to document owner](https://github.com/documenso/documenso/pull/1031) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
   - [feat: added custom dark mode styling for swagger ui](https://github.com/documenso/documenso/pull/1022) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
-  - [chore: updated url regex](https://github.com/documenso/documenso/pull/1017) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
+  - [chore: updated url regex](https://github.com/documenso/documenso/pull/1017) on [documenso/documenso](https://github.com/documenso/documenso) (2 weeks ago)
   - [feat: updated mobile header](https://github.com/documenso/documenso/pull/1004) on [documenso/documenso](https://github.com/documenso/documenso) (2 weeks ago)
   - [chore: updated code of conduct link](https://github.com/documenso/documenso/pull/999) on [documenso/documenso](https://github.com/documenso/documenso) (2 weeks ago)
 </details>
@@ -61,7 +61,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   <summary>These are super cool</summary>
   
   - [CERT-Polska/Artemis](https://github.com/CERT-Polska/Artemis) - A modular vulnerability scanner with automatic report generation capabilities. (1 week ago)
-  - [adamcohenhillel/ADeus](https://github.com/adamcohenhillel/ADeus) - An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will have all the right context about what you want to talk about - a truly personalized, personal AI. (2 weeks ago)
+  - [adamcohenhillel/ADeus](https://github.com/adamcohenhillel/ADeus) - An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will have all the right context about what you want to talk about - a truly personalized, personal AI. (3 weeks ago)
   - [un/inbox](https://github.com/un/inbox) - Modern email for teams and professionals. A replacement for outdated email technology and tools. Alt to hey.com, front.com, missiveapp.com (3 weeks ago)
   - [Multiwoven/multiwoven](https://github.com/Multiwoven/multiwoven) - 🔥 Open Source Reverse ETL and Customer Data Platform (CDP). An open-source alternative to tools like Hightouch, Census, and RudderStack. (1 month ago)
   - [prajwalkulkarni/react.dev](https://github.com/prajwalkulkarni/react.dev) - The React documentation website (1 month ago)
