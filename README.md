@@ -40,8 +40,8 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (today)
-  - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (3 weeks ago)
+  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (2 days ago)
+  - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (4 weeks ago)
   - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (1 month ago)
   - [nyayanidhi/nyayanidhi-app](https://github.com/nyayanidhi/nyayanidhi-app) -  (1 month ago)
   - [adithyaakrishna/altcase](https://github.com/adithyaakrishna/altcase) -  (3 months ago)
@@ -50,9 +50,9 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [chore: remove duplicate env vars](https://github.com/documenso/documenso/pull/1075) on [documenso/documenso](https://github.com/documenso/documenso) (today)
-  - [chore: remove coming soon](https://github.com/documenso/documenso/pull/1074) on [documenso/documenso](https://github.com/documenso/documenso) (2 days ago)
-  - [chore: send email to document owner](https://github.com/documenso/documenso/pull/1031) on [documenso/documenso](https://github.com/documenso/documenso) (2 weeks ago)
+  - [chore: remove duplicate env vars](https://github.com/documenso/documenso/pull/1075) on [documenso/documenso](https://github.com/documenso/documenso) (2 days ago)
+  - [chore: remove coming soon](https://github.com/documenso/documenso/pull/1074) on [documenso/documenso](https://github.com/documenso/documenso) (4 days ago)
+  - [chore: send email to document owner](https://github.com/documenso/documenso/pull/1031) on [documenso/documenso](https://github.com/documenso/documenso) (3 weeks ago)
   - [feat: added custom dark mode styling for swagger ui](https://github.com/documenso/documenso/pull/1022) on [documenso/documenso](https://github.com/documenso/documenso) (3 weeks ago)
   - [chore: updated url regex](https://github.com/documenso/documenso/pull/1017) on [documenso/documenso](https://github.com/documenso/documenso) (3 weeks ago)
 </details>
