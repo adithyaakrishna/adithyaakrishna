@@ -40,21 +40,21 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (3 days ago)
+  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (5 days ago)
   - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (1 month ago)
   - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (1 month ago)
   - [nyayanidhi/nyayanidhi-app](https://github.com/nyayanidhi/nyayanidhi-app) -  (1 month ago)
-  - [adithyaakrishna/altcase](https://github.com/adithyaakrishna/altcase) -  (3 months ago)
+  - [adithyaakrishna/altcase](https://github.com/adithyaakrishna/altcase) -  (4 months ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [chore: remove duplicate env vars](https://github.com/documenso/documenso/pull/1075) on [documenso/documenso](https://github.com/documenso/documenso) (3 days ago)
-  - [chore: remove coming soon](https://github.com/documenso/documenso/pull/1074) on [documenso/documenso](https://github.com/documenso/documenso) (5 days ago)
+  - [chore: update github actions](https://github.com/documenso/documenso/pull/1085) on [documenso/documenso](https://github.com/documenso/documenso) (1 day ago)
+  - [chore: add @documenso/pdf-sign to the tech stack](https://github.com/documenso/documenso/pull/1084) on [documenso/documenso](https://github.com/documenso/documenso) (1 day ago)
+  - [chore: remove duplicate env vars](https://github.com/documenso/documenso/pull/1075) on [documenso/documenso](https://github.com/documenso/documenso) (5 days ago)
+  - [chore: remove coming soon](https://github.com/documenso/documenso/pull/1074) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
   - [chore: send email to document owner](https://github.com/documenso/documenso/pull/1031) on [documenso/documenso](https://github.com/documenso/documenso) (3 weeks ago)
-  - [feat: added custom dark mode styling for swagger ui](https://github.com/documenso/documenso/pull/1022) on [documenso/documenso](https://github.com/documenso/documenso) (3 weeks ago)
-  - [chore: updated url regex](https://github.com/documenso/documenso/pull/1017) on [documenso/documenso](https://github.com/documenso/documenso) (3 weeks ago)
 </details>
 
 <details>
