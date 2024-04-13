@@ -40,7 +40,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (1 day ago)
+  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (3 days ago)
   - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (1 month ago)
   - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (1 month ago)
   - [nyayanidhi/nyayanidhi-app](https://github.com/nyayanidhi/nyayanidhi-app) -  (2 months ago)
@@ -50,11 +50,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [chore: update github actions](https://github.com/documenso/documenso/pull/1085) on [documenso/documenso](https://github.com/documenso/documenso) (3 days ago)
-  - [chore: add @documenso/pdf-sign to the tech stack](https://github.com/documenso/documenso/pull/1084) on [documenso/documenso](https://github.com/documenso/documenso) (3 days ago)
+  - [chore: update github actions](https://github.com/documenso/documenso/pull/1085) on [documenso/documenso](https://github.com/documenso/documenso) (5 days ago)
+  - [chore: add @documenso/pdf-sign to the tech stack](https://github.com/documenso/documenso/pull/1084) on [documenso/documenso](https://github.com/documenso/documenso) (5 days ago)
   - [chore: remove duplicate env vars](https://github.com/documenso/documenso/pull/1075) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
   - [chore: remove coming soon](https://github.com/documenso/documenso/pull/1074) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
-  - [chore: send email to document owner](https://github.com/documenso/documenso/pull/1031) on [documenso/documenso](https://github.com/documenso/documenso) (3 weeks ago)
+  - [chore: send email to document owner](https://github.com/documenso/documenso/pull/1031) on [documenso/documenso](https://github.com/documenso/documenso) (4 weeks ago)
 </details>
 
 <details>
@@ -63,7 +63,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   - [documenso/pdf-sign](https://github.com/documenso/pdf-sign) -  (2 weeks ago)
   - [midday-ai/midday](https://github.com/midday-ai/midday) - Run your business smarter 🪄 (2 weeks ago)
   - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning (2 weeks ago)
-  - [CERT-Polska/Artemis](https://github.com/CERT-Polska/Artemis) - A modular vulnerability scanner with automatic report generation capabilities. (4 weeks ago)
+  - [CERT-Polska/Artemis](https://github.com/CERT-Polska/Artemis) - A modular vulnerability scanner with automatic report generation capabilities. (1 month ago)
   - [adamcohenhillel/ADeus](https://github.com/adamcohenhillel/ADeus) - An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will have all the right context about what you want to talk about - a truly personalized, personal AI. (1 month ago)
 </details>
 
