@@ -40,7 +40,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (3 days ago)
+  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (4 days ago)
   - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (1 month ago)
   - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (1 month ago)
   - [nyayanidhi/nyayanidhi-app](https://github.com/nyayanidhi/nyayanidhi-app) -  (2 months ago)
@@ -50,11 +50,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [chore: update github actions](https://github.com/documenso/documenso/pull/1085) on [documenso/documenso](https://github.com/documenso/documenso) (5 days ago)
-  - [chore: add @documenso/pdf-sign to the tech stack](https://github.com/documenso/documenso/pull/1084) on [documenso/documenso](https://github.com/documenso/documenso) (5 days ago)
+  - [chore: update github actions](https://github.com/documenso/documenso/pull/1085) on [documenso/documenso](https://github.com/documenso/documenso) (6 days ago)
+  - [chore: add @documenso/pdf-sign to the tech stack](https://github.com/documenso/documenso/pull/1084) on [documenso/documenso](https://github.com/documenso/documenso) (6 days ago)
   - [chore: remove duplicate env vars](https://github.com/documenso/documenso/pull/1075) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
   - [chore: remove coming soon](https://github.com/documenso/documenso/pull/1074) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
-  - [chore: send email to document owner](https://github.com/documenso/documenso/pull/1031) on [documenso/documenso](https://github.com/documenso/documenso) (4 weeks ago)
+  - [chore: send email to document owner](https://github.com/documenso/documenso/pull/1031) on [documenso/documenso](https://github.com/documenso/documenso) (1 month ago)
 </details>
 
 <details>
