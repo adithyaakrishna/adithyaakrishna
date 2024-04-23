@@ -40,7 +40,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (4 days ago)
+  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (6 days ago)
   - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (1 week ago)
   - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (1 month ago)
   - [adithyaakrishna/altcase](https://github.com/adithyaakrishna/altcase) -  (4 months ago)
@@ -50,10 +50,10 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [chore: fix text padding](https://github.com/documenso/documenso/pull/1107) on [documenso/documenso](https://github.com/documenso/documenso) (5 days ago)
-  - [chore: added filename extension check](https://github.com/documenso/documenso/pull/1106) on [documenso/documenso](https://github.com/documenso/documenso) (5 days ago)
-  - [chore: update github actions](https://github.com/documenso/documenso/pull/1085) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
-  - [chore: add @documenso/pdf-sign to the tech stack](https://github.com/documenso/documenso/pull/1084) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
+  - [chore: fix text padding](https://github.com/documenso/documenso/pull/1107) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
+  - [chore: added filename extension check](https://github.com/documenso/documenso/pull/1106) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
+  - [chore: update github actions](https://github.com/documenso/documenso/pull/1085) on [documenso/documenso](https://github.com/documenso/documenso) (2 weeks ago)
+  - [chore: add @documenso/pdf-sign to the tech stack](https://github.com/documenso/documenso/pull/1084) on [documenso/documenso](https://github.com/documenso/documenso) (2 weeks ago)
   - [chore: remove duplicate env vars](https://github.com/documenso/documenso/pull/1075) on [documenso/documenso](https://github.com/documenso/documenso) (2 weeks ago)
 </details>
 
