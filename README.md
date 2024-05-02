@@ -40,21 +40,21 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (today)
+  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (2 days ago)
   - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (2 weeks ago)
   - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (1 month ago)
   - [adithyaakrishna/altcase](https://github.com/adithyaakrishna/altcase) -  (4 months ago)
-  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (4 months ago)
+  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (5 months ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [chore: updated dark mode text](https://github.com/documenso/documenso/pull/1129) on [documenso/documenso](https://github.com/documenso/documenso) (today)
-  - [feat: remove the existing empty signer if its the only one](https://github.com/documenso/documenso/pull/1127) on [documenso/documenso](https://github.com/documenso/documenso) (1 day ago)
-  - [chore: update logic for resending emails](https://github.com/documenso/documenso/pull/1126) on [documenso/documenso](https://github.com/documenso/documenso) (1 day ago)
-  - [chore: send document onUpdate](https://github.com/documenso/documenso/pull/1125) on [documenso/documenso](https://github.com/documenso/documenso) (1 day ago)
-  - [chore: fix text padding](https://github.com/documenso/documenso/pull/1107) on [documenso/documenso](https://github.com/documenso/documenso) (2 weeks ago)
+  - [chore: fix button styling](https://github.com/documenso/documenso/pull/1132) on [documenso/documenso](https://github.com/documenso/documenso) (2 days ago)
+  - [chore: updated dark mode text](https://github.com/documenso/documenso/pull/1129) on [documenso/documenso](https://github.com/documenso/documenso) (2 days ago)
+  - [feat: remove the existing empty signer if its the only one](https://github.com/documenso/documenso/pull/1127) on [documenso/documenso](https://github.com/documenso/documenso) (3 days ago)
+  - [chore: update logic for resending emails](https://github.com/documenso/documenso/pull/1126) on [documenso/documenso](https://github.com/documenso/documenso) (3 days ago)
+  - [chore: send document onUpdate](https://github.com/documenso/documenso/pull/1125) on [documenso/documenso](https://github.com/documenso/documenso) (3 days ago)
 </details>
 
 <details>
