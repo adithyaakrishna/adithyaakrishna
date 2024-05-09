@@ -40,21 +40,21 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (1 week ago)
+  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (1 day ago)
   - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (3 weeks ago)
   - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (2 months ago)
-  - [adithyaakrishna/altcase](https://github.com/adithyaakrishna/altcase) -  (4 months ago)
+  - [adithyaakrishna/altcase](https://github.com/adithyaakrishna/altcase) -  (5 months ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (5 months ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat: add template settings to create template flow](https://github.com/documenso/documenso/pull/1146) on [documenso/documenso](https://github.com/documenso/documenso) (1 day ago)
+  - [chore: updated triage label](https://github.com/documenso/documenso/pull/1152) on [documenso/documenso](https://github.com/documenso/documenso) (1 day ago)
+  - [feat: add template settings to create template flow](https://github.com/documenso/documenso/pull/1146) on [documenso/documenso](https://github.com/documenso/documenso) (3 days ago)
   - [chore: fix button styling](https://github.com/documenso/documenso/pull/1132) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
   - [chore: updated dark mode text](https://github.com/documenso/documenso/pull/1129) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
   - [feat: remove the existing empty signer if its the only one](https://github.com/documenso/documenso/pull/1127) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
-  - [chore: update logic for resending emails](https://github.com/documenso/documenso/pull/1126) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
 </details>
 
 <details>
