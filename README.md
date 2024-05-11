@@ -40,18 +40,18 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (1 day ago)
+  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 day ago)
+  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (3 days ago)
   - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (3 weeks ago)
   - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (2 months ago)
   - [adithyaakrishna/altcase](https://github.com/adithyaakrishna/altcase) -  (5 months ago)
-  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (5 months ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [chore: updated triage label](https://github.com/documenso/documenso/pull/1152) on [documenso/documenso](https://github.com/documenso/documenso) (1 day ago)
-  - [feat: add template settings to create template flow](https://github.com/documenso/documenso/pull/1146) on [documenso/documenso](https://github.com/documenso/documenso) (3 days ago)
+  - [chore: updated triage label](https://github.com/documenso/documenso/pull/1152) on [documenso/documenso](https://github.com/documenso/documenso) (3 days ago)
+  - [feat: add template settings to create template flow](https://github.com/documenso/documenso/pull/1146) on [documenso/documenso](https://github.com/documenso/documenso) (5 days ago)
   - [chore: fix button styling](https://github.com/documenso/documenso/pull/1132) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
   - [chore: updated dark mode text](https://github.com/documenso/documenso/pull/1129) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
   - [feat: remove the existing empty signer if its the only one](https://github.com/documenso/documenso/pull/1127) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
@@ -60,11 +60,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
+  - [stacklok/minder](https://github.com/stacklok/minder) - Software Supply Chain Security Platform (1 day ago)
+  - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (1 day ago)
+  - [captableinc/captable](https://github.com/captableinc/captable) - #1 Open-Source Captable, an alternative to Carta, Pully, Angelist and others. (2 days ago)
   - [documenso/pdf-sign](https://github.com/documenso/pdf-sign) -  (1 month ago)
   - [midday-ai/midday](https://github.com/midday-ai/midday) - Run your business smarter 🪄 (1 month ago)
-  - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning (1 month ago)
-  - [CERT-Polska/Artemis](https://github.com/CERT-Polska/Artemis) - A modular vulnerability scanner with automatic report generation capabilities. (1 month ago)
-  - [adamcohenhillel/ADeus](https://github.com/adamcohenhillel/ADeus) - An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will have all the right context about what you want to talk about - a truly personalized, personal AI. (2 months ago)
 </details>
 
 <br> 
