@@ -40,31 +40,31 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
+  - [hydradatabase/docs](https://github.com/hydradatabase/docs) - Synced with GitBook (1 day ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 week ago)
-  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (1 week ago)
+  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (2 weeks ago)
   - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (1 month ago)
   - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (2 months ago)
-  - [adithyaakrishna/altcase](https://github.com/adithyaakrishna/altcase) -  (5 months ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [chore: updated triage label](https://github.com/documenso/documenso/pull/1152) on [documenso/documenso](https://github.com/documenso/documenso) (1 week ago)
+  - [chore: update images in the docs](https://github.com/hydradatabase/docs/pull/45) on [hydradatabase/docs](https://github.com/hydradatabase/docs) (2 days ago)
+  - [chore: updated triage label](https://github.com/documenso/documenso/pull/1152) on [documenso/documenso](https://github.com/documenso/documenso) (2 weeks ago)
   - [feat: add template settings to create template flow](https://github.com/documenso/documenso/pull/1146) on [documenso/documenso](https://github.com/documenso/documenso) (2 weeks ago)
   - [chore: fix button styling](https://github.com/documenso/documenso/pull/1132) on [documenso/documenso](https://github.com/documenso/documenso) (3 weeks ago)
   - [chore: updated dark mode text](https://github.com/documenso/documenso/pull/1129) on [documenso/documenso](https://github.com/documenso/documenso) (3 weeks ago)
-  - [feat: remove the existing empty signer if its the only one](https://github.com/documenso/documenso/pull/1127) on [documenso/documenso](https://github.com/documenso/documenso) (3 weeks ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
+  - [hydradatabase/docs](https://github.com/hydradatabase/docs) - Synced with GitBook (2 days ago)
+  - [SuperteamDAO/earn](https://github.com/SuperteamDAO/earn) - An open source platform connecting crypto founders with elite talent to create bounties, and accelerate project completion (2 days ago)
   - [stacklok/minder](https://github.com/stacklok/minder) - Software Supply Chain Security Platform (1 week ago)
   - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (1 week ago)
-  - [captableinc/captable](https://github.com/captableinc/captable) - #1 Open-Source Captable, an alternative to Carta, Pully, Angelist and others. (1 week ago)
-  - [documenso/pdf-sign](https://github.com/documenso/pdf-sign) -  (1 month ago)
-  - [midday-ai/midday](https://github.com/midday-ai/midday) - Run your business smarter 🪄 (1 month ago)
+  - [captableinc/captable](https://github.com/captableinc/captable) - #1 Open-Source Captable, an alternative to Carta, Pully, Angelist and others. (2 weeks ago)
 </details>
 
 <br> 
