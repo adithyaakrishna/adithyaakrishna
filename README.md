@@ -1,10 +1,8 @@
 ### ನಮಸ್ಕಾರ 🙏🏼
   
-A Software Engineer at [Red Hat](https://www.redhat.com). I am a Frontend guy by day and a Distributed Systems fanboy by Night. I also work on AdobeXd and Figma designs often to keep the creative part of me alive :)
+I work as a SWE-II [Documenso](https://documenso.com). I'm a Full-stack developer by day and a framework tinkerer by Night. Prior to this, I worked at [Red Hat](https://redhat.com) for ~2.5yrs wherein I worked with the Customer Portal team [https://access.redhat.com](https://access.redhat.com)
 
-I am a [Google Season of Docs - GSoD '23](https://developers.google.com/season-of-docs) Technical Writer at [WasmEdge](https://github.com/WasmEdge) working towards improving the Documentation of the project and onboarding contributors
-
-I was also a [Google Summer of Code - GSoC '23](https://summerofcode.withgoogle.com/) Developer at [OpenChemistry](https://openchemistry.org), and I worked on improving [3DMol.js](https://github.com/3dmol/3Dmol.js)
+I was also a [Google Season of Docs - GSoD '23](https://developers.google.com/season-of-docs) Technical Writer at [WasmEdge](https://github.com/WasmEdge) working towards improving the Documentation of the project and onboarding contributors. And a [Google Summer of Code - GSoC '23](https://summerofcode.withgoogle.com/) Developer at [OpenChemistry](https://openchemistry.org), and I worked on improving [3DMol.js](https://github.com/3dmol/3Dmol.js)
 
 Maintainer of [Meshery](https://github.com/meshery) (a CNCF Sandbox Project), where I contribute quite often in areas of UI, GitHub Actions, docs, reviewing PRs and suggesting improvements.
 
@@ -12,7 +10,7 @@ A non-exhaustive list of things I like,
 
 - ReactJS
 - NextJS
-- GoLang
+- Prisma
 - Zig (lately)
 - Ceph (storage system)
 - Databases
@@ -31,7 +29,6 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 [![Twitter](https://img.shields.io/badge/-@adii_kris-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https:/twitter.adikris.in) &ensp;
 [![LinkedIn](https://img.shields.io/badge/-Adithya%20Krishna-%230A67C3?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://linkedin.adikris.in/) &ensp;
 [![My Website](https://img.shields.io/badge/-My%20Website-%230A67C3?style=for-the-badge)](https://adikris.in/)
-
 
 
 ![Adithya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adithyaakrishna&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
