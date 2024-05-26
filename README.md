@@ -38,8 +38,8 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 day ago)
-  - [hydradatabase/docs](https://github.com/hydradatabase/docs) - Synced with GitBook (3 days ago)
+  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 days ago)
+  - [hydradatabase/docs](https://github.com/hydradatabase/docs) - Synced with GitBook (4 days ago)
   - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (2 weeks ago)
   - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (1 month ago)
   - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (2 months ago)
@@ -48,7 +48,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [chore: update images in the docs](https://github.com/hydradatabase/docs/pull/45) on [hydradatabase/docs](https://github.com/hydradatabase/docs) (4 days ago)
+  - [chore: update images in the docs](https://github.com/hydradatabase/docs/pull/45) on [hydradatabase/docs](https://github.com/hydradatabase/docs) (5 days ago)
   - [chore: updated triage label](https://github.com/documenso/documenso/pull/1152) on [documenso/documenso](https://github.com/documenso/documenso) (2 weeks ago)
   - [feat: add template settings to create template flow](https://github.com/documenso/documenso/pull/1146) on [documenso/documenso](https://github.com/documenso/documenso) (2 weeks ago)
   - [chore: fix button styling](https://github.com/documenso/documenso/pull/1132) on [documenso/documenso](https://github.com/documenso/documenso) (3 weeks ago)
@@ -58,11 +58,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍 (1 day ago)
-  - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer (1 day ago)
-  - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito  (1 day ago)
-  - [datocms/new-website](https://github.com/datocms/new-website) - Next.js project powering our marketing page! (1 day ago)
-  - [datocms/plugins-sdk](https://github.com/datocms/plugins-sdk) - An SDK to customize the functionality of the DatoCMS webapp. (1 day ago)
+  - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍 (2 days ago)
+  - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer (2 days ago)
+  - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito  (2 days ago)
+  - [datocms/new-website](https://github.com/datocms/new-website) - Next.js project powering our marketing page! (2 days ago)
+  - [datocms/plugins-sdk](https://github.com/datocms/plugins-sdk) - An SDK to customize the functionality of the DatoCMS webapp. (2 days ago)
 </details>
 
 <br> 
