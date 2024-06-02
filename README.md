@@ -58,11 +58,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime and indexing and structured extraction engine for Unstructured Data to build Generative AI Applications (1 day ago)
-  - [stochasticai/xTuring](https://github.com/stochasticai/xTuring) - Build, customize and control you own LLMs. From data pre-processing to fine-tuning, xTuring provides an easy way to personalize open-source LLMs. Join our discord community: https://discord.gg/TgHXuSJEk6 (3 days ago)
-  - [TileDB-Inc/TileDB](https://github.com/TileDB-Inc/TileDB) - The Universal Storage Engine (3 days ago)
-  - [lightninglabs/lightning-terminal](https://github.com/lightninglabs/lightning-terminal) - Lightning Terminal: Your Home for Lightning Liquidity (3 days ago)
-  - [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) - Lightning Network Daemon ⚡️ (3 days ago)
+  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime and indexing and structured extraction engine for Unstructured Data to build Generative AI Applications (2 days ago)
+  - [stochasticai/xTuring](https://github.com/stochasticai/xTuring) - Build, customize and control you own LLMs. From data pre-processing to fine-tuning, xTuring provides an easy way to personalize open-source LLMs. Join our discord community: https://discord.gg/TgHXuSJEk6 (4 days ago)
+  - [TileDB-Inc/TileDB](https://github.com/TileDB-Inc/TileDB) - The Universal Storage Engine (4 days ago)
+  - [lightninglabs/lightning-terminal](https://github.com/lightninglabs/lightning-terminal) - Lightning Terminal: Your Home for Lightning Liquidity (4 days ago)
+  - [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) - Lightning Network Daemon ⚡️ (4 days ago)
 </details>
 
 <br> 
