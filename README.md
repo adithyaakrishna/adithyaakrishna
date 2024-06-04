@@ -58,11 +58,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
+  - [hydradatabase/hydra](https://github.com/hydradatabase/hydra) - Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes. (today)
+  - [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries (today)
+  - [blinksh/docs](https://github.com/blinksh/docs) - Blink Shell Documentation (today)
   - [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) -  (1 day ago)
   - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances (1 day ago)
-  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime and indexing and structured extraction engine for Unstructured Data to build Generative AI Applications (4 days ago)
-  - [stochasticai/xTuring](https://github.com/stochasticai/xTuring) - Build, customize and control you own LLMs. From data pre-processing to fine-tuning, xTuring provides an easy way to personalize open-source LLMs. Join our discord community: https://discord.gg/TgHXuSJEk6 (6 days ago)
-  - [TileDB-Inc/TileDB](https://github.com/TileDB-Inc/TileDB) - The Universal Storage Engine (6 days ago)
 </details>
 
 <br> 
