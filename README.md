@@ -38,19 +38,19 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
+  - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (2 days ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 week ago)
-  - [hydradatabase/docs](https://github.com/hydradatabase/docs) - Synced with GitBook (1 week ago)
-  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (3 weeks ago)
-  - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (1 month ago)
-  - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (2 months ago)
+  - [hydradatabase/docs](https://github.com/hydradatabase/docs) - Synced with GitBook (2 weeks ago)
+  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (4 weeks ago)
+  - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (3 months ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
   - [chore: update images in the docs](https://github.com/hydradatabase/docs/pull/45) on [hydradatabase/docs](https://github.com/hydradatabase/docs) (2 weeks ago)
-  - [chore: updated triage label](https://github.com/documenso/documenso/pull/1152) on [documenso/documenso](https://github.com/documenso/documenso) (3 weeks ago)
-  - [feat: add template settings to create template flow](https://github.com/documenso/documenso/pull/1146) on [documenso/documenso](https://github.com/documenso/documenso) (4 weeks ago)
+  - [chore: updated triage label](https://github.com/documenso/documenso/pull/1152) on [documenso/documenso](https://github.com/documenso/documenso) (4 weeks ago)
+  - [feat: add template settings to create template flow](https://github.com/documenso/documenso/pull/1146) on [documenso/documenso](https://github.com/documenso/documenso) (1 month ago)
   - [chore: fix button styling](https://github.com/documenso/documenso/pull/1132) on [documenso/documenso](https://github.com/documenso/documenso) (1 month ago)
   - [chore: updated dark mode text](https://github.com/documenso/documenso/pull/1129) on [documenso/documenso](https://github.com/documenso/documenso) (1 month ago)
 </details>
@@ -58,11 +58,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [hydradatabase/hydra](https://github.com/hydradatabase/hydra) - Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes. (today)
-  - [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries (today)
-  - [blinksh/docs](https://github.com/blinksh/docs) - Blink Shell Documentation (today)
-  - [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) -  (1 day ago)
-  - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances (1 day ago)
+  - [gator-labs/chomp](https://github.com/gator-labs/chomp) -  (1 day ago)
+  - [hydradatabase/hydra](https://github.com/hydradatabase/hydra) - Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes. (2 days ago)
+  - [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries (2 days ago)
+  - [blinksh/docs](https://github.com/blinksh/docs) - Blink Shell Documentation (2 days ago)
+  - [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) -  (3 days ago)
 </details>
 
 <br> 
