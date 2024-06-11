@@ -38,31 +38,31 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (5 days ago)
+  - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (1 week ago)
+  - [tensorlakeai/rerank-ts](https://github.com/tensorlakeai/rerank-ts) - rerank library for easy reranking of results (1 week ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 weeks ago)
   - [hydradatabase/docs](https://github.com/hydradatabase/docs) - Synced with GitBook (2 weeks ago)
   - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (1 month ago)
-  - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (3 months ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat: minor ui fixes and updates](https://github.com/gator-labs/chomp/pull/256) on [gator-labs/chomp](https://github.com/gator-labs/chomp) (1 day ago)
-  - [chore: update images in the docs](https://github.com/hydradatabase/docs/pull/45) on [hydradatabase/docs](https://github.com/hydradatabase/docs) (2 weeks ago)
+  - [feat: minor ui fixes and updates](https://github.com/gator-labs/chomp/pull/256) on [gator-labs/chomp](https://github.com/gator-labs/chomp) (3 days ago)
+  - [feat: update loops and add publish workflows](https://github.com/tensorlakeai/rerank-ts/pull/2) on [tensorlakeai/rerank-ts](https://github.com/tensorlakeai/rerank-ts) (1 week ago)
+  - [chore: update images in the docs](https://github.com/hydradatabase/docs/pull/45) on [hydradatabase/docs](https://github.com/hydradatabase/docs) (3 weeks ago)
   - [chore: updated triage label](https://github.com/documenso/documenso/pull/1152) on [documenso/documenso](https://github.com/documenso/documenso) (1 month ago)
   - [feat: add template settings to create template flow](https://github.com/documenso/documenso/pull/1146) on [documenso/documenso](https://github.com/documenso/documenso) (1 month ago)
-  - [chore: fix button styling](https://github.com/documenso/documenso/pull/1132) on [documenso/documenso](https://github.com/documenso/documenso) (1 month ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [block-mesh/block-mesh-monorepo](https://github.com/block-mesh/block-mesh-monorepo) - BlockMesh, is an innovative, open and secure network that allows you to easily monetize your excess bandwidth. Giving you a great opportunity to passively profit and participate in the frontline of AI data layer, online privacy, open source and blockchain industries. (2 days ago)
-  - [switchboard-xyz/switchboard](https://github.com/switchboard-xyz/switchboard) - 🔌 Libraries, SDKs, and Docs for interacting with the Switchboard deployments (2 days ago)
-  - [gator-labs/chomp](https://github.com/gator-labs/chomp) -  (4 days ago)
-  - [hydradatabase/hydra](https://github.com/hydradatabase/hydra) - Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes. (5 days ago)
-  - [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries (5 days ago)
+  - [block-mesh/block-mesh-monorepo](https://github.com/block-mesh/block-mesh-monorepo) - BlockMesh, is an innovative, open and secure network that allows you to easily monetize your excess bandwidth. Giving you a great opportunity to passively profit and participate in the frontline of AI data layer, online privacy, open source and blockchain industries. (4 days ago)
+  - [switchboard-xyz/switchboard](https://github.com/switchboard-xyz/switchboard) - 🔌 Libraries, SDKs, and Docs for interacting with the Switchboard deployments (4 days ago)
+  - [gator-labs/chomp](https://github.com/gator-labs/chomp) -  (6 days ago)
+  - [hydradatabase/hydra](https://github.com/hydradatabase/hydra) - Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes. (1 week ago)
+  - [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries (1 week ago)
 </details>
 
 <br> 
