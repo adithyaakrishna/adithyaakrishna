@@ -41,14 +41,14 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (1 week ago)
   - [tensorlakeai/rerank-ts](https://github.com/tensorlakeai/rerank-ts) - rerank library for easy reranking of results (1 week ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 weeks ago)
-  - [hydradatabase/docs](https://github.com/hydradatabase/docs) - Synced with GitBook (2 weeks ago)
+  - [hydradatabase/docs](https://github.com/hydradatabase/docs) - Synced with GitBook (3 weeks ago)
   - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (1 month ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat: minor ui fixes and updates](https://github.com/gator-labs/chomp/pull/256) on [gator-labs/chomp](https://github.com/gator-labs/chomp) (3 days ago)
+  - [feat: minor ui fixes and updates](https://github.com/gator-labs/chomp/pull/256) on [gator-labs/chomp](https://github.com/gator-labs/chomp) (5 days ago)
   - [feat: update loops and add publish workflows](https://github.com/tensorlakeai/rerank-ts/pull/2) on [tensorlakeai/rerank-ts](https://github.com/tensorlakeai/rerank-ts) (1 week ago)
   - [chore: update images in the docs](https://github.com/hydradatabase/docs/pull/45) on [hydradatabase/docs](https://github.com/hydradatabase/docs) (3 weeks ago)
   - [chore: updated triage label](https://github.com/documenso/documenso/pull/1152) on [documenso/documenso](https://github.com/documenso/documenso) (1 month ago)
@@ -58,11 +58,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [block-mesh/block-mesh-monorepo](https://github.com/block-mesh/block-mesh-monorepo) - BlockMesh, is an innovative, open and secure network that allows you to easily monetize your excess bandwidth. Giving you a great opportunity to passively profit and participate in the frontline of AI data layer, online privacy, open source and blockchain industries. (4 days ago)
-  - [switchboard-xyz/switchboard](https://github.com/switchboard-xyz/switchboard) - 🔌 Libraries, SDKs, and Docs for interacting with the Switchboard deployments (4 days ago)
-  - [gator-labs/chomp](https://github.com/gator-labs/chomp) -  (6 days ago)
+  - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews (1 day ago)
+  - [block-mesh/block-mesh-monorepo](https://github.com/block-mesh/block-mesh-monorepo) - BlockMesh, is an innovative, open and secure network that allows you to easily monetize your excess bandwidth. Giving you a great opportunity to passively profit and participate in the frontline of AI data layer, online privacy, open source and blockchain industries. (6 days ago)
+  - [switchboard-xyz/switchboard](https://github.com/switchboard-xyz/switchboard) - 🔌 Libraries, SDKs, and Docs for interacting with the Switchboard deployments (6 days ago)
+  - [gator-labs/chomp](https://github.com/gator-labs/chomp) -  (1 week ago)
   - [hydradatabase/hydra](https://github.com/hydradatabase/hydra) - Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes. (1 week ago)
-  - [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries (1 week ago)
 </details>
 
 <br> 
