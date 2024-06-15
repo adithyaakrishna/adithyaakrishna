@@ -58,11 +58,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
+  - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React (today)
+  - [leoMirandaa/shadcn-landing-page](https://github.com/leoMirandaa/shadcn-landing-page) - Free Landing page template using Shadcn, React, Typescript and Tailwind (today)
+  - [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page) - New design 🎉 Nextjs &#43; Shadcn &#43; TypeScript &#43; Tailwind. Landing page template ease-to-use (today)
+  - [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Admin Dashboard Starter with Nextjs14 and shadcn ui (today)
   - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui. (1 day ago)
-  - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews (3 days ago)
-  - [block-mesh/block-mesh-monorepo](https://github.com/block-mesh/block-mesh-monorepo) - BlockMesh, is an innovative, open and secure network that allows you to easily monetize your excess bandwidth. Giving you a great opportunity to passively profit and participate in the frontline of AI data layer, online privacy, open source and blockchain industries. (1 week ago)
-  - [switchboard-xyz/switchboard](https://github.com/switchboard-xyz/switchboard) - 🔌 Libraries, SDKs, and Docs for interacting with the Switchboard deployments (1 week ago)
-  - [gator-labs/chomp](https://github.com/gator-labs/chomp) -  (1 week ago)
 </details>
 
 <br> 
