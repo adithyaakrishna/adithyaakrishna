@@ -38,8 +38,8 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (1 week ago)
-  - [tensorlakeai/rerank-ts](https://github.com/tensorlakeai/rerank-ts) - rerank library for easy reranking of results (1 week ago)
+  - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (2 weeks ago)
+  - [tensorlakeai/rerank-ts](https://github.com/tensorlakeai/rerank-ts) - rerank library for easy reranking of results (2 weeks ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (3 weeks ago)
   - [hydradatabase/docs](https://github.com/hydradatabase/docs) - Synced with GitBook (3 weeks ago)
   - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (1 month ago)
@@ -49,20 +49,18 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   <summary>Lately, I have worked on</summary>
   
   - [feat: minor ui fixes and updates](https://github.com/gator-labs/chomp/pull/256) on [gator-labs/chomp](https://github.com/gator-labs/chomp) (1 week ago)
-  - [feat: update loops and add publish workflows](https://github.com/tensorlakeai/rerank-ts/pull/2) on [tensorlakeai/rerank-ts](https://github.com/tensorlakeai/rerank-ts) (1 week ago)
-  - [chore: update images in the docs](https://github.com/hydradatabase/docs/pull/45) on [hydradatabase/docs](https://github.com/hydradatabase/docs) (3 weeks ago)
-  - [chore: updated triage label](https://github.com/documenso/documenso/pull/1152) on [documenso/documenso](https://github.com/documenso/documenso) (1 month ago)
-  - [feat: add template settings to create template flow](https://github.com/documenso/documenso/pull/1146) on [documenso/documenso](https://github.com/documenso/documenso) (1 month ago)
+  - [feat: update loops and add publish workflows](https://github.com/tensorlakeai/rerank-ts/pull/2) on [tensorlakeai/rerank-ts](https://github.com/tensorlakeai/rerank-ts) (2 weeks ago)
+  - [chore: update images in the docs](https://github.com/hydradatabase/docs/pull/45) on [hydradatabase/docs](https://github.com/hydradatabase/docs) (4 weeks ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React (1 day ago)
-  - [leoMirandaa/shadcn-landing-page](https://github.com/leoMirandaa/shadcn-landing-page) - Free Landing page template using Shadcn, React, Typescript and Tailwind (1 day ago)
-  - [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page) - New design 🎉 Nextjs &#43; Shadcn &#43; TypeScript &#43; Tailwind. Landing page template ease-to-use (1 day ago)
-  - [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Admin Dashboard Starter with Nextjs14 and shadcn ui (1 day ago)
-  - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui. (2 days ago)
+  - [basehub-ai/docs-template](https://github.com/basehub-ai/docs-template) - Fully featured documentation website, powered by Next.js, Radix Themes, and BaseHub. (1 day ago)
+  - [basehub-ai/marketing-website-template](https://github.com/basehub-ai/marketing-website-template) - A sleek, modern, and fully customizable website template for your next marketing website. (1 day ago)
+  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime and indexing and structured extraction engine for Unstructured Data to build Generative AI Applications (1 day ago)
+  - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React (3 days ago)
+  - [leoMirandaa/shadcn-landing-page](https://github.com/leoMirandaa/shadcn-landing-page) - Free Landing page template using Shadcn, React, Typescript and Tailwind (3 days ago)
 </details>
 
 <br> 
