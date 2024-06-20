@@ -48,6 +48,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Lately, I have worked on</summary>
   
+  - [feat: update ui of extractors page](https://github.com/tensorlakeai/indexify/pull/665) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (today)
   - [chore: fix icon border issue](https://github.com/tensorlakeai/indexify/pull/664) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
   - [feat: update navbar icons and styling](https://github.com/tensorlakeai/indexify/pull/663) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
 </details>
