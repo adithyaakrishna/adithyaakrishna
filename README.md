@@ -38,29 +38,28 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
+  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime and indexing and structured extraction engine for Unstructured Data to build Generative AI Applications (today)
   - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (2 weeks ago)
   - [tensorlakeai/rerank-ts](https://github.com/tensorlakeai/rerank-ts) - rerank library for easy reranking of results (2 weeks ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (3 weeks ago)
-  - [hydradatabase/docs](https://github.com/hydradatabase/docs) - Synced with GitBook (3 weeks ago)
-  - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative. (1 month ago)
+  - [hydradatabase/docs](https://github.com/hydradatabase/docs) - Synced with GitBook (4 weeks ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat: minor ui fixes and updates](https://github.com/gator-labs/chomp/pull/256) on [gator-labs/chomp](https://github.com/gator-labs/chomp) (1 week ago)
-  - [feat: update loops and add publish workflows](https://github.com/tensorlakeai/rerank-ts/pull/2) on [tensorlakeai/rerank-ts](https://github.com/tensorlakeai/rerank-ts) (2 weeks ago)
-  - [chore: update images in the docs](https://github.com/hydradatabase/docs/pull/45) on [hydradatabase/docs](https://github.com/hydradatabase/docs) (4 weeks ago)
+  - [chore: fix icon border issue](https://github.com/tensorlakeai/indexify/pull/664) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
+  - [feat: update navbar icons and styling](https://github.com/tensorlakeai/indexify/pull/663) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [basehub-ai/docs-template](https://github.com/basehub-ai/docs-template) - Fully featured documentation website, powered by Next.js, Radix Themes, and BaseHub. (1 day ago)
-  - [basehub-ai/marketing-website-template](https://github.com/basehub-ai/marketing-website-template) - A sleek, modern, and fully customizable website template for your next marketing website. (1 day ago)
-  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime and indexing and structured extraction engine for Unstructured Data to build Generative AI Applications (1 day ago)
-  - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React (3 days ago)
-  - [leoMirandaa/shadcn-landing-page](https://github.com/leoMirandaa/shadcn-landing-page) - Free Landing page template using Shadcn, React, Typescript and Tailwind (3 days ago)
+  - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps! (1 day ago)
+  - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub. (2 days ago)
+  - [basehub-ai/docs-template](https://github.com/basehub-ai/docs-template) - Fully featured documentation website, powered by Next.js, Radix Themes, and BaseHub. (3 days ago)
+  - [basehub-ai/marketing-website-template](https://github.com/basehub-ai/marketing-website-template) - A sleek, modern, and fully customizable website template for your next marketing website. (3 days ago)
+  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime and indexing and structured extraction engine for Unstructured Data to build Generative AI Applications (3 days ago)
 </details>
 
 <br> 
