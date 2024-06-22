@@ -41,26 +41,27 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime and indexing and structured extraction engine for Unstructured Data to build Generative AI Applications (today)
   - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (2 weeks ago)
   - [tensorlakeai/rerank-ts](https://github.com/tensorlakeai/rerank-ts) - rerank library for easy reranking of results (2 weeks ago)
-  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (3 weeks ago)
-  - [hydradatabase/docs](https://github.com/hydradatabase/docs) - Synced with GitBook (4 weeks ago)
+  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (4 weeks ago)
+  - [hydradatabase/docs](https://github.com/hydradatabase/docs) - Hydra Docs (1 month ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat: update ui of extractors page](https://github.com/tensorlakeai/indexify/pull/665) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (today)
-  - [chore: fix icon border issue](https://github.com/tensorlakeai/indexify/pull/664) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
-  - [feat: update navbar icons and styling](https://github.com/tensorlakeai/indexify/pull/663) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
+  - [feat: updated indexes and content page](https://github.com/tensorlakeai/indexify/pull/666) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (2 days ago)
+  - [feat: update ui of extractors page](https://github.com/tensorlakeai/indexify/pull/665) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (2 days ago)
+  - [chore: fix icon border issue](https://github.com/tensorlakeai/indexify/pull/664) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (3 days ago)
+  - [feat: update navbar icons and styling](https://github.com/tensorlakeai/indexify/pull/663) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (3 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps! (1 day ago)
-  - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub. (2 days ago)
-  - [basehub-ai/docs-template](https://github.com/basehub-ai/docs-template) - Fully featured documentation website, powered by Next.js, Radix Themes, and BaseHub. (3 days ago)
-  - [basehub-ai/marketing-website-template](https://github.com/basehub-ai/marketing-website-template) - A sleek, modern, and fully customizable website template for your next marketing website. (3 days ago)
-  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime and indexing and structured extraction engine for Unstructured Data to build Generative AI Applications (3 days ago)
+  - [eight-labs/formbase](https://github.com/eight-labs/formbase) - Open Source Form Backend (2 days ago)
+  - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps! (3 days ago)
+  - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub. (4 days ago)
+  - [basehub-ai/docs-template](https://github.com/basehub-ai/docs-template) - Fully featured documentation website, powered by Next.js, Radix Themes, and BaseHub. (5 days ago)
+  - [basehub-ai/marketing-website-template](https://github.com/basehub-ai/marketing-website-template) - A sleek, modern, and fully customizable website template for your next marketing website. (5 days ago)
 </details>
 
 <br> 
