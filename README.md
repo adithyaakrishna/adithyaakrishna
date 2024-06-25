@@ -48,11 +48,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Lately, I have worked on</summary>
   
+  - [chore: add infobox for contents ](https://github.com/tensorlakeai/indexify/pull/684) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (today)
+  - [chore: get and push releases to the tensorlake/hub](https://github.com/tensorlakeai/indexify/pull/683) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (today)
   - [feat: reorganized pages and updated imports](https://github.com/tensorlakeai/indexify/pull/680) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
   - [feat: updated search index page and sub content pages](https://github.com/tensorlakeai/indexify/pull/679) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
   - [feat: update table and modal designs according to designs](https://github.com/tensorlakeai/indexify/pull/676) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (3 days ago)
-  - [feat: updated indexes and content page](https://github.com/tensorlakeai/indexify/pull/666) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (5 days ago)
-  - [feat: update ui of extractors page](https://github.com/tensorlakeai/indexify/pull/665) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (5 days ago)
 </details>
 
 <details>
