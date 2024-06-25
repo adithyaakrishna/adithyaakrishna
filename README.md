@@ -39,30 +39,30 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   <summary>Check out what I'm currently working on</summary>
   
   - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime and indexing and structured extraction engine for Unstructured Data to build Generative AI Applications (1 day ago)
-  - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (2 weeks ago)
-  - [tensorlakeai/rerank-ts](https://github.com/tensorlakeai/rerank-ts) - rerank library for easy reranking of results (2 weeks ago)
+  - [adithyaakrishna/dotfiles](https://github.com/adithyaakrishna/dotfiles) - My Personal Configuration for Everything (1 day ago)
+  - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (3 weeks ago)
+  - [tensorlakeai/rerank-ts](https://github.com/tensorlakeai/rerank-ts) - rerank library for easy reranking of results (3 weeks ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 month ago)
-  - [hydradatabase/docs](https://github.com/hydradatabase/docs) - Hydra Docs (1 month ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat: update table and modal designs according to designs](https://github.com/tensorlakeai/indexify/pull/676) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
-  - [feat: updated indexes and content page](https://github.com/tensorlakeai/indexify/pull/666) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (3 days ago)
-  - [feat: update ui of extractors page](https://github.com/tensorlakeai/indexify/pull/665) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (3 days ago)
-  - [chore: fix icon border issue](https://github.com/tensorlakeai/indexify/pull/664) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (4 days ago)
-  - [feat: update navbar icons and styling](https://github.com/tensorlakeai/indexify/pull/663) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (4 days ago)
+  - [feat: reorganized pages and updated imports](https://github.com/tensorlakeai/indexify/pull/680) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
+  - [feat: updated search index page and sub content pages](https://github.com/tensorlakeai/indexify/pull/679) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
+  - [feat: update table and modal designs according to designs](https://github.com/tensorlakeai/indexify/pull/676) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (3 days ago)
+  - [feat: updated indexes and content page](https://github.com/tensorlakeai/indexify/pull/666) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (5 days ago)
+  - [feat: update ui of extractors page](https://github.com/tensorlakeai/indexify/pull/665) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (5 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [eight-labs/formbase](https://github.com/eight-labs/formbase) - Open Source Form Backend (3 days ago)
-  - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps! (4 days ago)
-  - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub. (5 days ago)
-  - [basehub-ai/docs-template](https://github.com/basehub-ai/docs-template) - Fully featured documentation website, powered by Next.js, Radix Themes, and BaseHub. (6 days ago)
-  - [basehub-ai/marketing-website-template](https://github.com/basehub-ai/marketing-website-template) - A sleek, modern, and fully customizable website template for your next marketing website. (6 days ago)
+  - [tensorlakeai/gif-search-demo](https://github.com/tensorlakeai/gif-search-demo) -  (1 day ago)
+  - [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model (2 days ago)
+  - [eight-labs/formbase](https://github.com/eight-labs/formbase) - Open Source Form Backend (5 days ago)
+  - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps! (6 days ago)
+  - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub. (1 week ago)
 </details>
 
 <br> 
