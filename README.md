@@ -38,8 +38,8 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime and indexing and structured extraction engine for Unstructured Data to build Generative AI Applications (today)
-  - [adithyaakrishna/dotfiles](https://github.com/adithyaakrishna/dotfiles) - My Personal Configuration for Everything (3 days ago)
+  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime and indexing and structured extraction engine for Unstructured Data to build Generative AI Applications (2 days ago)
+  - [adithyaakrishna/dotfiles](https://github.com/adithyaakrishna/dotfiles) - My Personal Configuration for Everything (5 days ago)
   - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (3 weeks ago)
   - [tensorlakeai/rerank-ts](https://github.com/tensorlakeai/rerank-ts) - rerank library for easy reranking of results (3 weeks ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 month ago)
@@ -48,21 +48,21 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [chore: update imports to commonjs](https://github.com/tensorlakeai/indexify/pull/697) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
-  - [chore: move js file for actions](https://github.com/tensorlakeai/indexify/pull/696) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
-  - [feat: add infobox for text and updated table stylings](https://github.com/tensorlakeai/indexify/pull/684) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (2 days ago)
-  - [chore: get and push releases to the tensorlake/hub](https://github.com/tensorlakeai/indexify/pull/683) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (2 days ago)
-  - [feat: reorganized pages and updated imports](https://github.com/tensorlakeai/indexify/pull/680) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (3 days ago)
+  - [chore: update imports to commonjs](https://github.com/tensorlakeai/indexify/pull/697) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (3 days ago)
+  - [chore: move js file for actions](https://github.com/tensorlakeai/indexify/pull/696) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (3 days ago)
+  - [feat: add infobox for text and updated table stylings](https://github.com/tensorlakeai/indexify/pull/684) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (4 days ago)
+  - [chore: get and push releases to the tensorlake/hub](https://github.com/tensorlakeai/indexify/pull/683) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (4 days ago)
+  - [feat: reorganized pages and updated imports](https://github.com/tensorlakeai/indexify/pull/680) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (5 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [tensorlakeai/indexify-extractors](https://github.com/tensorlakeai/indexify-extractors) - Production ready extractors for transformation, extracting embedding or structured data from unstructured data sources.  (1 day ago)
-  - [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager. (2 days ago)
-  - [tensorlakeai/gif-search-demo](https://github.com/tensorlakeai/gif-search-demo) -  (3 days ago)
-  - [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model (4 days ago)
-  - [eight-labs/formbase](https://github.com/eight-labs/formbase) - Open Source Form Backend (1 week ago)
+  - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - R2R is a prod-ready RAG (Retrieval-Augmented Generation) engine with a RESTful API. R2R includes hybrid search, knowledge graphs, and more. (2 days ago)
+  - [tensorlakeai/indexify-extractors](https://github.com/tensorlakeai/indexify-extractors) - Production ready extractors for transformation, extracting embedding or structured data from unstructured data sources.  (3 days ago)
+  - [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager. (4 days ago)
+  - [tensorlakeai/gif-search-demo](https://github.com/tensorlakeai/gif-search-demo) -  (5 days ago)
+  - [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model (6 days ago)
 </details>
 
 <br> 
