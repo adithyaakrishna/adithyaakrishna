@@ -39,10 +39,10 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   <summary>Check out what I'm currently working on</summary>
   
   - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime and indexing and structured extraction engine for Unstructured Data to build Generative AI Applications (today)
+  - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Astro Blog (today)
+  - [adithyaakrishna/mintlify-docs](https://github.com/adithyaakrishna/mintlify-docs) -  (today)
   - [adithyaakrishna/dotfiles](https://github.com/adithyaakrishna/dotfiles) - My Personal Configuration for Everything (1 week ago)
   - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (4 weeks ago)
-  - [tensorlakeai/rerank-ts](https://github.com/tensorlakeai/rerank-ts) - rerank library for easy reranking of results (4 weeks ago)
-  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 month ago)
 </details>
 
 <details>
