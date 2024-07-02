@@ -38,30 +38,30 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime and indexing and structured extraction engine for Unstructured Data to build Generative AI Applications (3 days ago)
-  - [adithyaakrishna/dotfiles](https://github.com/adithyaakrishna/dotfiles) - My Personal Configuration for Everything (6 days ago)
-  - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (3 weeks ago)
-  - [tensorlakeai/rerank-ts](https://github.com/tensorlakeai/rerank-ts) - rerank library for easy reranking of results (3 weeks ago)
+  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime and indexing and structured extraction engine for Unstructured Data to build Generative AI Applications (today)
+  - [adithyaakrishna/dotfiles](https://github.com/adithyaakrishna/dotfiles) - My Personal Configuration for Everything (1 week ago)
+  - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (4 weeks ago)
+  - [tensorlakeai/rerank-ts](https://github.com/tensorlakeai/rerank-ts) - rerank library for easy reranking of results (4 weeks ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 month ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [chore: fix labels and textbox issues](https://github.com/tensorlakeai/indexify/pull/704) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
-  - [chore: update imports to commonjs](https://github.com/tensorlakeai/indexify/pull/697) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (4 days ago)
-  - [chore: move js file for actions](https://github.com/tensorlakeai/indexify/pull/696) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (4 days ago)
-  - [feat: add infobox for text and updated table stylings](https://github.com/tensorlakeai/indexify/pull/684) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (5 days ago)
-  - [chore: get and push releases to the tensorlake/hub](https://github.com/tensorlakeai/indexify/pull/683) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (5 days ago)
+  - [feat: update extractors page ui and fix rendering of data](https://github.com/tensorlakeai/indexify/pull/704) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (3 days ago)
+  - [chore: update imports to commonjs](https://github.com/tensorlakeai/indexify/pull/697) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (6 days ago)
+  - [chore: move js file for actions](https://github.com/tensorlakeai/indexify/pull/696) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (6 days ago)
+  - [feat: add infobox for text and updated table stylings](https://github.com/tensorlakeai/indexify/pull/684) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 week ago)
+  - [chore: get and push releases to the tensorlake/hub](https://github.com/tensorlakeai/indexify/pull/683) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 week ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - R2R is a prod-ready RAG (Retrieval-Augmented Generation) engine with a RESTful API. R2R includes hybrid search, knowledge graphs, and more. (3 days ago)
-  - [tensorlakeai/indexify-extractors](https://github.com/tensorlakeai/indexify-extractors) - Production ready extractors for transformation, extracting embedding or structured data from unstructured data sources.  (4 days ago)
-  - [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager. (5 days ago)
-  - [tensorlakeai/gif-search-demo](https://github.com/tensorlakeai/gif-search-demo) -  (6 days ago)
+  - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - R2R is a prod-ready RAG (Retrieval-Augmented Generation) engine with a RESTful API. R2R includes hybrid search, knowledge graphs, and more. (5 days ago)
+  - [tensorlakeai/indexify-extractors](https://github.com/tensorlakeai/indexify-extractors) - Production ready extractors for transformation, extracting embedding or structured data from unstructured data sources.  (6 days ago)
+  - [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager. (1 week ago)
+  - [tensorlakeai/gif-search-demo](https://github.com/tensorlakeai/gif-search-demo) -  (1 week ago)
   - [vikhyat/moondream](https://github.com/vikhyat/moondream) - tiny vision language model (1 week ago)
 </details>
 
