@@ -38,9 +38,9 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Astro Blog (3 days ago)
-  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime and indexing and structured extraction engine for Unstructured Data to build Generative AI Applications (4 days ago)
-  - [adithyaakrishna/mintlify-docs](https://github.com/adithyaakrishna/mintlify-docs) -  (4 days ago)
+  - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Astro Blog (4 days ago)
+  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime and indexing and structured extraction engine for Unstructured Data to build Generative AI Applications (5 days ago)
+  - [adithyaakrishna/mintlify-docs](https://github.com/adithyaakrishna/mintlify-docs) -  (5 days ago)
   - [adithyaakrishna/dotfiles](https://github.com/adithyaakrishna/dotfiles) - My Personal Configuration for Everything (1 week ago)
   - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (1 month ago)
 </details>
@@ -48,7 +48,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat: extraction graph and sub extraction graph pages](https://github.com/tensorlakeai/indexify/pull/711) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (4 days ago)
+  - [feat: extraction graph and sub extraction graph pages](https://github.com/tensorlakeai/indexify/pull/711) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (5 days ago)
   - [feat: update extractors page ui and fix rendering of data](https://github.com/tensorlakeai/indexify/pull/704) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 week ago)
   - [chore: update imports to commonjs](https://github.com/tensorlakeai/indexify/pull/697) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 week ago)
   - [chore: move js file for actions](https://github.com/tensorlakeai/indexify/pull/696) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 week ago)
@@ -58,9 +58,9 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python &amp; JS/TS SDK for adding code interpreting to your AI app  (2 days ago)
-  - [joswayski/averagedatabase](https://github.com/joswayski/averagedatabase) - The only database built from the ground up for the average developer. (2 days ago)
-  - [ZeroThreshold/oraapp](https://github.com/ZeroThreshold/oraapp) - The frontend for offroad academies (3 days ago)
+  - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python &amp; JS/TS SDK for adding code interpreting to your AI app  (3 days ago)
+  - [joswayski/averagedatabase](https://github.com/joswayski/averagedatabase) - The only database built from the ground up for the average developer. (3 days ago)
+  - [ZeroThreshold/oraapp](https://github.com/ZeroThreshold/oraapp) - The frontend for offroad academies (4 days ago)
   - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - production-ready RAG engine with a sh*t ton of features. (1 week ago)
   - [tensorlakeai/indexify-extractors](https://github.com/tensorlakeai/indexify-extractors) - Production ready extractors for transformation, extracting embedding or structured data from unstructured data sources.  (1 week ago)
 </details>
