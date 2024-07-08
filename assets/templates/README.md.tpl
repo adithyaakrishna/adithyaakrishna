@@ -1,4 +1,4 @@
-### ನಮಸ್ಕಾರ 🙏🏼
+### Hey! I'm Adithya Krishna 👋
   
 I work as a SWE-II [Documenso](https://documenso.com). I'm a Full-stack developer by day and a framework tinkerer by Night. Prior to this, I worked at [Red Hat](https://redhat.com) for ~2.5yrs wherein I worked with the Customer Portal team [https://access.redhat.com](https://access.redhat.com)
 
