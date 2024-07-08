@@ -2,7 +2,7 @@
   
 I work as a SWE-II [Documenso](https://documenso.com). I'm a Full-stack developer by day and a framework tinkerer by Night. Prior to this, I worked at [Red Hat](https://redhat.com) for ~2.5yrs wherein I worked with the Customer Portal team [https://access.redhat.com](https://access.redhat.com)
 
-I was also a [Google Season of Docs - GSoD '23](https://developers.google.com/season-of-docs) Technical Writer at [WasmEdge](https://github.com/WasmEdge) were I worked towards improving the Documentation of the project and onboarding contributors. And I was also a [Google Summer of Code - GSoC '23](https://summerofcode.withgoogle.com/) Developer at [OpenChemistry](https://openchemistry.org), and I worked on improving [3DMol.js](https://github.com/3dmol/3Dmol.js)
+I was also a [Google Season of Docs - GSoD '23](https://developers.google.com/season-of-docs) Technical Writer at [WasmEdge](https://github.com/WasmEdge) were I worked towards improving the Documentation of the project and onboarding contributors. And I was also a [Google Summer of Code - GSoC '23](https://summerofcode.withgoogle.com/) Developer at [OpenChemistry](https://openchemistry.org), where I worked on improving [3DMol.js](https://github.com/3dmol/3Dmol.js) library
 
 Maintainer of [Meshery](https://github.com/meshery) (a CNCF Sandbox Project), where I contribute quite often in areas of UI, GitHub Actions, docs, reviewing PRs and suggesting improvements.
 
