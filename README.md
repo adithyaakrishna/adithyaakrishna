@@ -38,27 +38,28 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime and indexing and structured extraction engine for Unstructured Data to build Generative AI Applications (3 days ago)
+  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime and indexing and structured extraction engine for Unstructured Data to build Generative AI Applications (today)
+  - [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) -  (today)
   - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Astro Blog (1 week ago)
   - [adithyaakrishna/mintlify-docs](https://github.com/adithyaakrishna/mintlify-docs) -  (1 week ago)
   - [adithyaakrishna/dotfiles](https://github.com/adithyaakrishna/dotfiles) - My Personal Configuration for Everything (2 weeks ago)
-  - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (1 month ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat: updated searchIndex, uploadFile APIs](https://github.com/tensorlakeai/indexify-typescript-client/pull/40) on [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) (2 days ago)
-  - [feat: refactor individual content pages](https://github.com/tensorlakeai/indexify/pull/725) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (2 days ago)
-  - [feat: update to new docs](https://github.com/tensorlakeai/indexify/pull/724) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (2 days ago)
-  - [feat: update to new documentation site](https://github.com/tensorlakeai/indexify/pull/723) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (2 days ago)
+  - [feat: updated UI to align API changes](https://github.com/tensorlakeai/indexify/pull/729) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
+  - [feat: updated searchIndex, uploadFile APIs](https://github.com/tensorlakeai/indexify-typescript-client/pull/40) on [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) (3 days ago)
+  - [feat: refactor individual content pages](https://github.com/tensorlakeai/indexify/pull/725) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (3 days ago)
+  - [feat: update to new docs](https://github.com/tensorlakeai/indexify/pull/724) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (3 days ago)
+  - [feat: update to new documentation site](https://github.com/tensorlakeai/indexify/pull/723) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (3 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [vercel/swr-site](https://github.com/vercel/swr-site) - The official website for SWR. (3 days ago)
-  - [jla524/fromthetensor](https://github.com/jla524/fromthetensor) - From the Tensor to Stable Diffusion, a rough outline for a 9 week course. (5 days ago)
+  - [vercel/swr-site](https://github.com/vercel/swr-site) - The official website for SWR. (4 days ago)
+  - [jla524/fromthetensor](https://github.com/jla524/fromthetensor) - From the Tensor to Stable Diffusion, a rough outline for a 9 week course. (6 days ago)
   - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python &amp; JS/TS SDK for adding code interpreting to your AI app  (1 week ago)
   - [joswayski/averagedatabase](https://github.com/joswayski/averagedatabase) - The only database built from the ground up for the average developer. (1 week ago)
   - [ZeroThreshold/oraapp](https://github.com/ZeroThreshold/oraapp) - The frontend for offroad academies (1 week ago)
