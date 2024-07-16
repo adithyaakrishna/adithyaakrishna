@@ -39,27 +39,27 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   <summary>Check out what I'm currently working on</summary>
   
   - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime and indexing and structured extraction engine for Unstructured Data to build Generative AI Applications (today)
-  - [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) -  (today)
+  - [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) -  (1 day ago)
+  - [nyayanidhi/judi](https://github.com/nyayanidhi/judi) -  (1 day ago)
   - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Astro Blog (1 week ago)
-  - [adithyaakrishna/mintlify-docs](https://github.com/adithyaakrishna/mintlify-docs) -  (1 week ago)
-  - [adithyaakrishna/dotfiles](https://github.com/adithyaakrishna/dotfiles) - My Personal Configuration for Everything (2 weeks ago)
+  - [adithyaakrishna/mintlify-docs](https://github.com/adithyaakrishna/mintlify-docs) -  (2 weeks ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat: updated UI to align API changes](https://github.com/tensorlakeai/indexify/pull/729) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
-  - [feat: updated searchIndex, uploadFile APIs](https://github.com/tensorlakeai/indexify-typescript-client/pull/40) on [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) (3 days ago)
-  - [feat: refactor individual content pages](https://github.com/tensorlakeai/indexify/pull/725) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (3 days ago)
-  - [feat: update to new docs](https://github.com/tensorlakeai/indexify/pull/724) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (3 days ago)
-  - [feat: update to new documentation site](https://github.com/tensorlakeai/indexify/pull/723) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (3 days ago)
+  - [chore: update filtering of content data](https://github.com/tensorlakeai/indexify/pull/744) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
+  - [chore: added ingested source filter](https://github.com/tensorlakeai/indexify/pull/742) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
+  - [chore: api filters for listContent](https://github.com/tensorlakeai/indexify-typescript-client/pull/42) on [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) (1 day ago)
+  - [chore: update release to v0.0.53](https://github.com/tensorlakeai/indexify-typescript-client/pull/41) on [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) (1 day ago)
+  - [feat: added getTasks feature and stateChanges Page](https://github.com/tensorlakeai/indexify/pull/739) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [vercel/swr-site](https://github.com/vercel/swr-site) - The official website for SWR. (4 days ago)
-  - [jla524/fromthetensor](https://github.com/jla524/fromthetensor) - From the Tensor to Stable Diffusion, a rough outline for a 9 week course. (6 days ago)
+  - [vercel/swr-site](https://github.com/vercel/swr-site) - The official website for SWR. (6 days ago)
+  - [jla524/fromthetensor](https://github.com/jla524/fromthetensor) - From the Tensor to Stable Diffusion, a rough outline for a 9 week course. (1 week ago)
   - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python &amp; JS/TS SDK for adding code interpreting to your AI app  (1 week ago)
   - [joswayski/averagedatabase](https://github.com/joswayski/averagedatabase) - The only database built from the ground up for the average developer. (1 week ago)
   - [ZeroThreshold/oraapp](https://github.com/ZeroThreshold/oraapp) - The frontend for offroad academies (1 week ago)
