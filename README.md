@@ -39,8 +39,8 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   <summary>Check out what I'm currently working on</summary>
   
   - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime and indexing and structured extraction engine for Unstructured Data to build Generative AI Applications (today)
-  - [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) -  (today)
-  - [nyayanidhi/judi](https://github.com/nyayanidhi/judi) -  (5 days ago)
+  - [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) -  (1 day ago)
+  - [nyayanidhi/judi](https://github.com/nyayanidhi/judi) -  (6 days ago)
   - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Astro Blog (2 weeks ago)
   - [adithyaakrishna/mintlify-docs](https://github.com/adithyaakrishna/mintlify-docs) -  (2 weeks ago)
 </details>
@@ -48,18 +48,18 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat: updated tasks and added delete content option](https://github.com/tensorlakeai/indexify/pull/767) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
-  - [chore: disable pagination for no content](https://github.com/tensorlakeai/indexify/pull/765) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (2 days ago)
-  - [feat: add new extraction policies content page](https://github.com/tensorlakeai/indexify/pull/761) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (3 days ago)
-  - [chore: disable buttons for pagination](https://github.com/tensorlakeai/indexify/pull/760) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (3 days ago)
-  - [chore: fix pagination](https://github.com/tensorlakeai/indexify/pull/757) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (4 days ago)
+  - [chore: fix redirection issue, update content drawer for onClick and update extractionPolicy table](https://github.com/tensorlakeai/indexify/pull/768) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
+  - [feat: updated tasks and added delete content option](https://github.com/tensorlakeai/indexify/pull/767) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (2 days ago)
+  - [chore: disable pagination for no content](https://github.com/tensorlakeai/indexify/pull/765) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (3 days ago)
+  - [feat: add new extraction policies content page](https://github.com/tensorlakeai/indexify/pull/761) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (4 days ago)
+  - [chore: disable buttons for pagination](https://github.com/tensorlakeai/indexify/pull/760) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (4 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library. (3 days ago)
-  - [reclaimprotocol/reclaim-docs](https://github.com/reclaimprotocol/reclaim-docs) - Reclaim docs (3 days ago)
+  - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library. (4 days ago)
+  - [reclaimprotocol/reclaim-docs](https://github.com/reclaimprotocol/reclaim-docs) - Reclaim docs (4 days ago)
   - [vercel/swr-site](https://github.com/vercel/swr-site) - The official website for SWR. (1 week ago)
   - [jla524/fromthetensor](https://github.com/jla524/fromthetensor) - From the Tensor to Stable Diffusion, a rough outline for a 9 week course. (1 week ago)
   - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter) - Python &amp; JS/TS SDK for adding code interpreting to your AI app  (2 weeks ago)
