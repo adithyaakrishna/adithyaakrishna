@@ -39,9 +39,9 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [hexclanlabs/reclaim-blog](https://github.com/hexclanlabs/reclaim-blog) -  (today)
-  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime and indexing and structured extraction engine for Unstructured Data to build Generative AI Applications (today)
-  - [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) -  (2 days ago)
+  - [hexclanlabs/reclaim-blog](https://github.com/hexclanlabs/reclaim-blog) -  (1 day ago)
+  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime and indexing and structured extraction engine for Unstructured Data to build Generative AI Applications (1 day ago)
+  - [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) -  (3 days ago)
   - [nyayanidhi/judi](https://github.com/nyayanidhi/judi) -  (1 week ago)
   - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Astro Blog (2 weeks ago)
 </details>
@@ -49,21 +49,21 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [chore: pdf rendering fix](https://github.com/tensorlakeai/indexify/pull/776) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (today)
-  - [chore: cleanup of ui codebase](https://github.com/tensorlakeai/indexify/pull/772) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
-  - [feat: reorganize tasks page, group tasks](https://github.com/tensorlakeai/indexify/pull/771) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
-  - [chore: fix redirection issue, update content drawer for onClick and update extractionPolicy table](https://github.com/tensorlakeai/indexify/pull/768) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (2 days ago)
-  - [feat: updated tasks and added delete content option](https://github.com/tensorlakeai/indexify/pull/767) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (3 days ago)
+  - [chore: pdf rendering fix](https://github.com/tensorlakeai/indexify/pull/776) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
+  - [chore: cleanup of ui codebase](https://github.com/tensorlakeai/indexify/pull/772) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (2 days ago)
+  - [feat: reorganize tasks page, group tasks](https://github.com/tensorlakeai/indexify/pull/771) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (2 days ago)
+  - [chore: fix redirection issue, update content drawer for onClick and update extractionPolicy table](https://github.com/tensorlakeai/indexify/pull/768) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (3 days ago)
+  - [feat: updated tasks and added delete content option](https://github.com/tensorlakeai/indexify/pull/767) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (4 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from OpenAPI/Swagger files ✨ (today)
-  - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library. (5 days ago)
-  - [reclaimprotocol/reclaim-docs](https://github.com/reclaimprotocol/reclaim-docs) - Reclaim docs (5 days ago)
+  - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic&#39;s Claude-3.5-Sonnet model to assist with software development tasks. This tool combines the capabilities of a large language model with practical file system operations and web search functionality. (1 day ago)
+  - [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from OpenAPI/Swagger files ✨ (1 day ago)
+  - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library. (6 days ago)
+  - [reclaimprotocol/reclaim-docs](https://github.com/reclaimprotocol/reclaim-docs) - Reclaim docs (6 days ago)
   - [vercel/swr-site](https://github.com/vercel/swr-site) - The official website for SWR. (1 week ago)
-  - [jla524/fromthetensor](https://github.com/jla524/fromthetensor) - From the Tensor to Stable Diffusion, a rough outline for a 9 week course. (2 weeks ago)
 </details>
 
 <br> 
