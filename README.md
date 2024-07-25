@@ -49,11 +49,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Lately, I have worked on</summary>
   
+  - [chore: conditional run for tests and lint workflows](https://github.com/tensorlakeai/indexify/pull/784) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (today)
+  - [chore: updated tabs](https://github.com/tensorlakeai/indexify/pull/783) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (today)
   - [chore: enforce top nav](https://github.com/tensorlakeai/indexify/pull/782) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
   - [chore: add feedback support](https://github.com/tensorlakeai/indexify/pull/781) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
   - [chore: fix images and links](https://github.com/tensorlakeai/indexify/pull/780) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
-  - [feat: updated blog](https://github.com/reclaimprotocol/blog/pull/5) on [reclaimprotocol/blog](https://github.com/reclaimprotocol/blog) (1 day ago)
-  - [chore: pdf rendering fix](https://github.com/tensorlakeai/indexify/pull/776) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (3 days ago)
 </details>
 
 <details>
