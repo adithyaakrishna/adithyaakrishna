@@ -39,31 +39,31 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime and indexing and structured extraction engine for Unstructured Data to build Generative AI Applications (today)
-  - [nyayanidhi/nyayanidhi](https://github.com/nyayanidhi/nyayanidhi) -  (today)
-  - [reclaimprotocol/blog](https://github.com/reclaimprotocol/blog) -  (today)
-  - [adithyaakrishna/mintlify-docs](https://github.com/adithyaakrishna/mintlify-docs) -  (1 day ago)
-  - [hexclanlabs/reclaim-blog](https://github.com/hexclanlabs/reclaim-blog) -  (3 days ago)
+  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime and indexing and structured extraction engine for Unstructured Data to build Generative AI Applications (1 day ago)
+  - [reclaimprotocol/blog](https://github.com/reclaimprotocol/blog) -  (2 days ago)
+  - [nyayanidhi/nyayanidhi](https://github.com/nyayanidhi/nyayanidhi) -  (2 days ago)
+  - [adithyaakrishna/mintlify-docs](https://github.com/adithyaakrishna/mintlify-docs) -  (3 days ago)
+  - [hexclanlabs/reclaim-blog](https://github.com/hexclanlabs/reclaim-blog) -  (5 days ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [chore: conditional run for tests and lint workflows](https://github.com/tensorlakeai/indexify/pull/784) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (today)
-  - [chore: updated tabs](https://github.com/tensorlakeai/indexify/pull/783) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (today)
-  - [chore: enforce top nav](https://github.com/tensorlakeai/indexify/pull/782) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
-  - [chore: add feedback support](https://github.com/tensorlakeai/indexify/pull/781) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
-  - [chore: fix images and links](https://github.com/tensorlakeai/indexify/pull/780) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
+  - [feat: batch api calls together - performance improvement](https://github.com/tensorlakeai/indexify/pull/794) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
+  - [feat: optimize and update typescript client](https://github.com/tensorlakeai/indexify-typescript-client/pull/45) on [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) (2 days ago)
+  - [chore: fix codeblock rendering](https://github.com/tensorlakeai/indexify/pull/791) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (2 days ago)
+  - [chore: update source for content and policy tables](https://github.com/tensorlakeai/indexify/pull/790) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (2 days ago)
+  - [chore: updated headings, masked api keys and fixed date rendering](https://github.com/tensorlakeai/indexify/pull/789) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (2 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic&#39;s Claude-3.5-Sonnet model to assist with software development tasks. This tool combines the capabilities of a large language model with practical file system operations and web search functionality. (3 days ago)
-  - [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from OpenAPI/Swagger files ✨ (3 days ago)
+  - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (2 days ago)
+  - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic&#39;s Claude-3.5-Sonnet model to assist with software development tasks. This tool combines the capabilities of a large language model with practical file system operations and web search functionality. (5 days ago)
+  - [scalar/scalar](https://github.com/scalar/scalar) - Beautiful API references from OpenAPI/Swagger files ✨ (5 days ago)
   - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library. (1 week ago)
   - [reclaimprotocol/reclaim-docs](https://github.com/reclaimprotocol/reclaim-docs) - Reclaim docs (1 week ago)
-  - [vercel/swr-site](https://github.com/vercel/swr-site) - The official website for SWR. (2 weeks ago)
 </details>
 
 <br> 
