@@ -39,11 +39,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
+  - [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) -  (today)
   - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime and indexing and structured extraction engine for Unstructured Data to build Generative AI Applications (1 day ago)
   - [reclaimprotocol/blog](https://github.com/reclaimprotocol/blog) -  (2 days ago)
   - [nyayanidhi/nyayanidhi](https://github.com/nyayanidhi/nyayanidhi) -  (2 days ago)
   - [adithyaakrishna/mintlify-docs](https://github.com/adithyaakrishna/mintlify-docs) -  (3 days ago)
-  - [hexclanlabs/reclaim-blog](https://github.com/hexclanlabs/reclaim-blog) -  (5 days ago)
 </details>
 
 <details>
