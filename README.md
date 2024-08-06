@@ -39,31 +39,31 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [nyayanidhi/v2](https://github.com/nyayanidhi/v2) -  (today)
-  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime and indexing and structured extraction engine for Unstructured Data to build Generative AI Applications (1 day ago)
-  - [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) -  (1 day ago)
-  - [reclaimprotocol/blog](https://github.com/reclaimprotocol/blog) -  (5 days ago)
-  - [reclaimprotocol/.github](https://github.com/reclaimprotocol/.github) -  (5 days ago)
+  - [reclaimprotocol/.github](https://github.com/reclaimprotocol/.github) -  (2 days ago)
+  - [nyayanidhi/v2](https://github.com/nyayanidhi/v2) -  (2 days ago)
+  - [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) -  (3 days ago)
+  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime and indexing and structured extraction engine for Unstructured Data to build Generative AI Applications (3 days ago)
+  - [reclaimprotocol/blog](https://github.com/reclaimprotocol/blog) -  (1 week ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [chore: fix pagination](https://github.com/tensorlakeai/indexify/pull/816) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (2 days ago)
-  - [chore: fix image rendering](https://github.com/tensorlakeai/indexify/pull/814) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (2 days ago)
-  - [feat: add typescript examples](https://github.com/tensorlakeai/indexify/pull/812) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (2 days ago)
-  - [feat: updated upload endpoint](https://github.com/tensorlakeai/indexify-typescript-client/pull/50) on [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) (2 days ago)
-  - [feat: updated return type](https://github.com/tensorlakeai/indexify-typescript-client/pull/49) on [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) (2 days ago)
+  - [chore: fix pagination](https://github.com/tensorlakeai/indexify/pull/816) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (4 days ago)
+  - [chore: fix image rendering](https://github.com/tensorlakeai/indexify/pull/814) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (4 days ago)
+  - [feat: add typescript examples](https://github.com/tensorlakeai/indexify/pull/812) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (4 days ago)
+  - [feat: updated upload endpoint](https://github.com/tensorlakeai/indexify-typescript-client/pull/50) on [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) (4 days ago)
+  - [feat: updated return type](https://github.com/tensorlakeai/indexify-typescript-client/pull/49) on [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) (4 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [BasedHardware/Friend](https://github.com/BasedHardware/Friend) - AI wearable necklace (4 days ago)
-  - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform (4 days ago)
-  - [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, line detection in 90&#43; languages (5 days ago)
+  - [BasedHardware/Friend](https://github.com/BasedHardware/Friend) - AI wearable necklace (6 days ago)
+  - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform (6 days ago)
+  - [VikParuchuri/surya](https://github.com/VikParuchuri/surya) - OCR, layout analysis, reading order, line detection in 90&#43; languages (1 week ago)
   - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (1 week ago)
-  - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic&#39;s Claude-3.5-Sonnet model to assist with software development tasks. This tool combines the capabilities of a large language model with practical file system operations and web search functionality. (1 week ago)
+  - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic&#39;s Claude-3.5-Sonnet model to assist with software development tasks. This tool combines the capabilities of a large language model with practical file system operations and web search functionality. (2 weeks ago)
 </details>
 
 <br> 
