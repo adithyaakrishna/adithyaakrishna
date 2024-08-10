@@ -39,11 +39,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
+  - [reclaimprotocol/snarkjs](https://github.com/reclaimprotocol/snarkjs) -  (today)
   - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime and indexing and structured extraction engine for Unstructured Data to build Generative AI Applications (1 day ago)
   - [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) -  (3 days ago)
-  - [reclaimprotocol/.github](https://github.com/reclaimprotocol/.github) -  (6 days ago)
   - [nyayanidhi/v2](https://github.com/nyayanidhi/v2) -  (6 days ago)
-  - [reclaimprotocol/blog](https://github.com/reclaimprotocol/blog) -  (1 week ago)
+  - [reclaimprotocol/.github](https://github.com/reclaimprotocol/.github) -  (6 days ago)
 </details>
 
 <details>
