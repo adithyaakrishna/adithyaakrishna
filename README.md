@@ -39,17 +39,17 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime and indexing and structured extraction engine for Unstructured Data to build Generative AI Applications (6 days ago)
+  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime and indexing and structured extraction engine for Unstructured Data to build Generative AI Applications (1 week ago)
   - [reclaimprotocol/snarkjs](https://github.com/reclaimprotocol/snarkjs) -  (1 week ago)
   - [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) -  (1 week ago)
-  - [reclaimprotocol/.github](https://github.com/reclaimprotocol/.github) -  (2 weeks ago)
   - [nyayanidhi/v2](https://github.com/nyayanidhi/v2) -  (2 weeks ago)
+  - [reclaimprotocol/.github](https://github.com/reclaimprotocol/.github) -  (2 weeks ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat: refactor drawer into accordion](https://github.com/tensorlakeai/indexify/pull/832) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (6 days ago)
+  - [feat: refactor drawer into accordion](https://github.com/tensorlakeai/indexify/pull/832) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 week ago)
   - [chore: fixed typo in api](https://github.com/tensorlakeai/indexify-typescript-client/pull/52) on [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) (1 week ago)
   - [feat: delete extraction graph feature, fix tasks and link bugs](https://github.com/tensorlakeai/indexify/pull/824) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 week ago)
   - [feat: add delete extractionGraph API](https://github.com/tensorlakeai/indexify-typescript-client/pull/51) on [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) (1 week ago)
@@ -59,11 +59,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [probably-nothing-labs/denormalized](https://github.com/probably-nothing-labs/denormalized) - Embeddable stream processing engine based on Apache DataFusion (2 days ago)
-  - [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP) (4 days ago)
-  - [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - JAILBREAK PROMPTS FOR ALL MAJOR AI MODELS (4 days ago)
+  - [probably-nothing-labs/denormalized](https://github.com/probably-nothing-labs/denormalized) - Embeddable stream processing engine based on Apache DataFusion (4 days ago)
+  - [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP) (6 days ago)
+  - [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - JAILBREAK PROMPTS FOR ALL MAJOR AI MODELS (6 days ago)
   - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. (1 week ago)
-  - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework. (1 week ago)
+  - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework. (2 weeks ago)
 </details>
 
 <br> 
