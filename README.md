@@ -39,27 +39,27 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime and indexing and structured extraction engine for Unstructured Data to build Generative AI Applications (1 day ago)
+  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime and indexing and structured extraction engine for Unstructured Data to build Generative AI Applications (3 days ago)
   - [reclaimprotocol/snarkjs](https://github.com/reclaimprotocol/snarkjs) -  (2 weeks ago)
   - [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) -  (2 weeks ago)
-  - [nyayanidhi/v2](https://github.com/nyayanidhi/v2) -  (3 weeks ago)
   - [reclaimprotocol/.github](https://github.com/reclaimprotocol/.github) -  (3 weeks ago)
+  - [nyayanidhi/v2](https://github.com/nyayanidhi/v2) -  (3 weeks ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat: added version display component](https://github.com/tensorlakeai/indexify/pull/846) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (4 days ago)
-  - [feat: refactor drawer into accordion](https://github.com/tensorlakeai/indexify/pull/832) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 week ago)
+  - [feat: added extracted metadata](https://github.com/tensorlakeai/indexify/pull/849) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
+  - [feat: added version display component](https://github.com/tensorlakeai/indexify/pull/846) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (6 days ago)
+  - [feat: refactor drawer into accordion](https://github.com/tensorlakeai/indexify/pull/832) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (2 weeks ago)
   - [chore: fixed typo in api](https://github.com/tensorlakeai/indexify-typescript-client/pull/52) on [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) (2 weeks ago)
-  - [feat: delete extraction graph feature, fix tasks and link bugs](https://github.com/tensorlakeai/indexify/pull/824) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (2 weeks ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (4 days ago)
-  - [vercel/little-date](https://github.com/vercel/little-date) - A friendly formatter to make date ranges small &amp; sweet (5 days ago)
+  - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (6 days ago)
+  - [vercel/little-date](https://github.com/vercel/little-date) - A friendly formatter to make date ranges small &amp; sweet (1 week ago)
   - [probably-nothing-labs/denormalized](https://github.com/probably-nothing-labs/denormalized) - Embeddable stream processing engine based on Apache DataFusion (1 week ago)
   - [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP) (1 week ago)
   - [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - JAILBREAK PROMPTS FOR ALL MAJOR AI MODELS (1 week ago)
