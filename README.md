@@ -39,10 +39,10 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details open="true">
   <summary>Check out what I'm currently working on</summary>
   
-  - [reclaimprotocol/zk-symmetric-crypto](https://github.com/reclaimprotocol/zk-symmetric-crypto) - A circom library for zero-knowledge proofs of symmetric encryption key ownership without key revelation. (today)
-  - [reclaimprotocol/reclaim-js-sdk](https://github.com/reclaimprotocol/reclaim-js-sdk) - JavaScript SDK for easy integration of Reclaim Protocol that enables authenticated web data export via HTTPS and zero-knowledge proofs (1 day ago)
-  - [reclaimprotocol/tls](https://github.com/reclaimprotocol/tls) - A TLS client implementation in typescript (1 day ago)
+  - [reclaimprotocol/circom-symmetric-crypto](https://github.com/reclaimprotocol/circom-symmetric-crypto) - A circom library for zero-knowledge proofs of symmetric encryption key ownership without key revelation. (today)
+  - [reclaimprotocol/tls](https://github.com/reclaimprotocol/tls) - A TLS client implementation in typescript (today)
   - [reclaimprotocol/.github](https://github.com/reclaimprotocol/.github) -  (1 day ago)
+  - [reclaimprotocol/reclaim-js-sdk](https://github.com/reclaimprotocol/reclaim-js-sdk) - JavaScript SDK for easy integration of Reclaim Protocol that enables authenticated web data export via HTTPS and zero-knowledge proofs (1 day ago)
   - [reclaimprotocol/witness-sdk](https://github.com/reclaimprotocol/witness-sdk) - The witness server securely intermediates internet data exchange, using TLS and zero-knowledge proofs to verify and sign user claims with minimal information disclosure. (1 day ago)
 </details>
 
