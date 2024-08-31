@@ -39,18 +39,18 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime and indexing and structured extraction engine for Unstructured Data to build Generative AI Applications (today)
-  - [reclaimprotocol/tls](https://github.com/reclaimprotocol/tls) - A TLS client implementation in typescript (1 day ago)
-  - [reclaimprotocol/circom-symmetric-crypto](https://github.com/reclaimprotocol/circom-symmetric-crypto) - A circom library for zero-knowledge proofs of symmetric encryption key ownership without key revelation. (1 day ago)
-  - [reclaimprotocol/witness-sdk](https://github.com/reclaimprotocol/witness-sdk) - The witness server securely intermediates internet data exchange, using TLS and zero-knowledge proofs to verify and sign user claims with minimal information disclosure. (2 days ago)
-  - [reclaimprotocol/reclaim-js-sdk](https://github.com/reclaimprotocol/reclaim-js-sdk) - JavaScript SDK for easy integration of Reclaim Protocol that enables authenticated web data export via HTTPS and zero-knowledge proofs (2 days ago)
+  - [reclaimprotocol/blog](https://github.com/reclaimprotocol/blog) -  (today)
+  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime and indexing and structured extraction engine for Unstructured Data to build Generative AI Applications (1 day ago)
+  - [reclaimprotocol/tls](https://github.com/reclaimprotocol/tls) - A TLS client implementation in typescript (2 days ago)
+  - [reclaimprotocol/circom-symmetric-crypto](https://github.com/reclaimprotocol/circom-symmetric-crypto) - A circom library for zero-knowledge proofs of symmetric encryption key ownership without key revelation. (2 days ago)
+  - [reclaimprotocol/.github](https://github.com/reclaimprotocol/.github) -  (3 days ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [chore: fix mintlify deployment](https://github.com/tensorlakeai/indexify/pull/854) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
-  - [feat: added extracted metadata](https://github.com/tensorlakeai/indexify/pull/849) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (4 days ago)
+  - [chore: fix mintlify deployment](https://github.com/tensorlakeai/indexify/pull/854) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (2 days ago)
+  - [feat: added extracted metadata](https://github.com/tensorlakeai/indexify/pull/849) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (5 days ago)
   - [feat: added version display component](https://github.com/tensorlakeai/indexify/pull/846) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 week ago)
   - [feat: refactor drawer into accordion](https://github.com/tensorlakeai/indexify/pull/832) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (2 weeks ago)
 </details>
@@ -58,9 +58,9 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [kshitijk4poor/GSoC-report](https://github.com/kshitijk4poor/GSoC-report) - this repo contains the gist of my contributions during GSoC&#39;24 @Honeynet (today)
-  - [finternet-io/specs](https://github.com/finternet-io/specs) - Open Schema and API Specifications (1 day ago)
-  - [reclaimprotocol/reclaim-js-sdk](https://github.com/reclaimprotocol/reclaim-js-sdk) - JavaScript SDK for easy integration of Reclaim Protocol that enables authenticated web data export via HTTPS and zero-knowledge proofs (3 days ago)
+  - [kshitijk4poor/GSoC-report](https://github.com/kshitijk4poor/GSoC-report) - this repo contains the gist of my contributions during GSoC&#39;24 @Honeynet (1 day ago)
+  - [finternet-io/specs](https://github.com/finternet-io/specs) - Open Schema and API Specifications (2 days ago)
+  - [reclaimprotocol/reclaim-js-sdk](https://github.com/reclaimprotocol/reclaim-js-sdk) - JavaScript SDK for easy integration of Reclaim Protocol that enables authenticated web data export via HTTPS and zero-knowledge proofs (4 days ago)
   - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (1 week ago)
   - [vercel/little-date](https://github.com/vercel/little-date) - A friendly formatter to make date ranges small &amp; sweet (1 week ago)
 </details>
