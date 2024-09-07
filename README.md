@@ -39,27 +39,28 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) - Documentation for Reclaim Protocol (today)
-  - [reclaimprotocol/blog](https://github.com/reclaimprotocol/blog) -  (5 days ago)
-  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime and indexing and structured extraction engine for Unstructured Data to build Generative AI Applications (6 days ago)
-  - [reclaimprotocol/tls](https://github.com/reclaimprotocol/tls) - A TLS client implementation in typescript (1 week ago)
-  - [reclaimprotocol/circom-symmetric-crypto](https://github.com/reclaimprotocol/circom-symmetric-crypto) - A circom library for zero-knowledge proofs of symmetric encryption key ownership without key revelation. (1 week ago)
+  - [reclaimprotocol/reclaim-light-sdk](https://github.com/reclaimprotocol/reclaim-light-sdk) -  (1 day ago)
+  - [reclaimprotocol/reclaim-starknet-sdk](https://github.com/reclaimprotocol/reclaim-starknet-sdk) -  (1 day ago)
+  - [reclaimprotocol/reclaim-solana-sdk](https://github.com/reclaimprotocol/reclaim-solana-sdk) -  (1 day ago)
+  - [reclaimprotocol/reclaim-pluts-sdk](https://github.com/reclaimprotocol/reclaim-pluts-sdk) -  (1 day ago)
+  - [reclaimprotocol/reclaim-nibiru-sdk](https://github.com/reclaimprotocol/reclaim-nibiru-sdk) -  (1 day ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [chore: added extracted metadata](https://github.com/tensorlakeai/indexify-typescript-client/pull/53) on [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) (3 days ago)
+  - [feat: prepare ui for new API](https://github.com/tensorlakeai/indexify/pull/860) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
+  - [feat: rewrite of typescript client for new API](https://github.com/tensorlakeai/indexify-typescript-client/pull/54) on [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) (1 day ago)
+  - [chore: added extracted metadata](https://github.com/tensorlakeai/indexify-typescript-client/pull/53) on [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) (5 days ago)
   - [chore: fix mintlify deployment](https://github.com/tensorlakeai/indexify/pull/854) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 week ago)
   - [feat: added extracted metadata](https://github.com/tensorlakeai/indexify/pull/849) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 week ago)
-  - [feat: added version display component](https://github.com/tensorlakeai/indexify/pull/846) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (2 weeks ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [niledatabase/niledatabase](https://github.com/niledatabase/niledatabase) - Serverless Postgres for modern SaaS (4 days ago)
-  - [kshitijk4poor/GSoC-report](https://github.com/kshitijk4poor/GSoC-report) - this repo contains the gist of my contributions during GSoC&#39;24 @Honeynet (6 days ago)
+  - [niledatabase/niledatabase](https://github.com/niledatabase/niledatabase) - Serverless Postgres for modern SaaS (6 days ago)
+  - [kshitijk4poor/GSoC-report](https://github.com/kshitijk4poor/GSoC-report) - this repo contains the gist of my contributions during GSoC&#39;24 @Honeynet (1 week ago)
   - [finternet-io/specs](https://github.com/finternet-io/specs) - Open Schema and API Specifications (1 week ago)
   - [reclaimprotocol/reclaim-js-sdk](https://github.com/reclaimprotocol/reclaim-js-sdk) - JavaScript SDK for easy integration of Reclaim Protocol that enables authenticated web data export via HTTPS and zero-knowledge proofs (1 week ago)
   - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (2 weeks ago)
