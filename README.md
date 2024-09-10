@@ -39,31 +39,31 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [reclaimprotocol/reclaim-light-sdk](https://github.com/reclaimprotocol/reclaim-light-sdk) -  (2 days ago)
-  - [reclaimprotocol/reclaim-starknet-sdk](https://github.com/reclaimprotocol/reclaim-starknet-sdk) -  (2 days ago)
-  - [reclaimprotocol/reclaim-solana-sdk](https://github.com/reclaimprotocol/reclaim-solana-sdk) -  (2 days ago)
-  - [reclaimprotocol/reclaim-pluts-sdk](https://github.com/reclaimprotocol/reclaim-pluts-sdk) -  (2 days ago)
-  - [reclaimprotocol/reclaim-nibiru-sdk](https://github.com/reclaimprotocol/reclaim-nibiru-sdk) -  (2 days ago)
+  - [reclaimprotocol/reclaim-neutronterra-sdk](https://github.com/reclaimprotocol/reclaim-neutronterra-sdk) -  (1 day ago)
+  - [reclaimprotocol/reclaim-stellar-sdk](https://github.com/reclaimprotocol/reclaim-stellar-sdk) -  (1 day ago)
+  - [reclaimprotocol/reclaim-secret-sdk](https://github.com/reclaimprotocol/reclaim-secret-sdk) -  (1 day ago)
+  - [reclaimprotocol/reclaim-near-sdk](https://github.com/reclaimprotocol/reclaim-near-sdk) -  (1 day ago)
+  - [reclaimprotocol/reclaim-solidity-sdk](https://github.com/reclaimprotocol/reclaim-solidity-sdk) -  (1 day ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat: prepare ui for new API](https://github.com/tensorlakeai/indexify/pull/860) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (2 days ago)
-  - [feat: rewrite of typescript client for new API](https://github.com/tensorlakeai/indexify-typescript-client/pull/54) on [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) (2 days ago)
-  - [chore: added extracted metadata](https://github.com/tensorlakeai/indexify-typescript-client/pull/53) on [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) (6 days ago)
+  - [feat: prepare ui for new API](https://github.com/tensorlakeai/indexify/pull/860) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (4 days ago)
+  - [feat: rewrite of typescript client for new API](https://github.com/tensorlakeai/indexify-typescript-client/pull/54) on [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) (4 days ago)
+  - [chore: added extracted metadata](https://github.com/tensorlakeai/indexify-typescript-client/pull/53) on [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) (1 week ago)
   - [chore: fix mintlify deployment](https://github.com/tensorlakeai/indexify/pull/854) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 week ago)
-  - [feat: added extracted metadata](https://github.com/tensorlakeai/indexify/pull/849) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 week ago)
+  - [feat: added extracted metadata](https://github.com/tensorlakeai/indexify/pull/849) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (2 weeks ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
+  - [tommyjepsen/twblocks](https://github.com/tommyjepsen/twblocks) - Website blocks to copy/paste - based on shadcn &amp; Radix using Tailwind and NextJS (1 day ago)
   - [niledatabase/niledatabase](https://github.com/niledatabase/niledatabase) - Serverless Postgres for modern SaaS (1 week ago)
   - [kshitijk4poor/GSoC-report](https://github.com/kshitijk4poor/GSoC-report) - this repo contains the gist of my contributions during GSoC&#39;24 @Honeynet (1 week ago)
   - [finternet-io/specs](https://github.com/finternet-io/specs) - Open Schema and API Specifications (1 week ago)
-  - [reclaimprotocol/reclaim-js-sdk](https://github.com/reclaimprotocol/reclaim-js-sdk) - JavaScript SDK for easy integration of Reclaim Protocol that enables authenticated web data export via HTTPS and zero-knowledge proofs (1 week ago)
-  - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (2 weeks ago)
+  - [reclaimprotocol/reclaim-js-sdk](https://github.com/reclaimprotocol/reclaim-js-sdk) - JavaScript SDK for easy integration of Reclaim Protocol that enables authenticated web data export via HTTPS and zero-knowledge proofs (2 weeks ago)
 </details>
 
 <br> 
