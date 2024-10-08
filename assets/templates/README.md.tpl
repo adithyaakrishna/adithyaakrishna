@@ -7,24 +7,6 @@ I was also a [Google Season of Docs - GSoD '23](https://developers.google.com/se
 
 Maintainer of [Meshery](https://github.com/meshery) (a CNCF Sandbox Project), where I contribute quite often in areas of UI, GitHub Actions, docs, reviewing PRs and suggesting improvements.
 
-A non-exhaustive list of things I like,
-
-- ReactJS
-- NextJS
-- Prisma
-- Zig (lately)
-- Ceph (storage system)
-- Databases
-  - MongoDB
-  - PostgreSQL
-  - DragonFly
-  - Tigerbeetle (lately)
-- Kubernetes (Plus, OpenShift)
-- Docker
-- Meshery
-- Istio (service mesh)
-- Argo CI (huge fan of Akuity or as I call it, A Cutie :P)
-
 Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris)
 
 [![Twitter](https://img.shields.io/badge/-@adii_kris-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https:/twitter.adikris.in) &ensp;
