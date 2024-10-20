@@ -7,24 +7,6 @@ I was also a [Google Season of Docs - GSoD '23](https://developers.google.com/se
 
 Maintainer of [Meshery](https://github.com/meshery) (a CNCF Sandbox Project), where I contribute quite often in areas of UI, GitHub Actions, docs, reviewing PRs and suggesting improvements.
 
-A non-exhaustive list of things I like,
-
-- ReactJS
-- NextJS
-- Prisma
-- Zig (lately)
-- Ceph (storage system)
-- Databases
-  - MongoDB
-  - PostgreSQL
-  - DragonFly
-  - Tigerbeetle (lately)
-- Kubernetes (Plus, OpenShift)
-- Docker
-- Meshery
-- Istio (service mesh)
-- Argo CI (huge fan of Akuity or as I call it, A Cutie :P)
-
 Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris)
 
 [![Twitter](https://img.shields.io/badge/-@adii_kris-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https:/twitter.adikris.in) &ensp;
@@ -39,31 +21,27 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [reclaimprotocol/.github](https://github.com/reclaimprotocol/.github) -  (2 days ago)
-  - [reclaimprotocol/reclaim-lukso-sdk](https://github.com/reclaimprotocol/reclaim-lukso-sdk) -  (3 days ago)
-  - [reclaimprotocol/reclaim-neutronterra-sdk](https://github.com/reclaimprotocol/reclaim-neutronterra-sdk) -  (3 days ago)
+  - [adithyaakrishna/devdas](https://github.com/adithyaakrishna/devdas) - A VSCode extension to remind you to reply and like your girl&#39;s tweets (today)
+  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (2 days ago)
+  - [reclaimprotocol/reclaim-move-sdk](https://github.com/reclaimprotocol/reclaim-move-sdk) -  (3 days ago)
+  - [reclaimprotocol/reclaim-flutter-sdk](https://github.com/reclaimprotocol/reclaim-flutter-sdk) - Flutter SDK for easy integration of Reclaim Protocol that enables authenticated web data export via HTTPS and zero-knowledge proofs (3 days ago)
   - [reclaimprotocol/reclaim-secret-sdk](https://github.com/reclaimprotocol/reclaim-secret-sdk) -  (3 days ago)
-  - [reclaimprotocol/reclaim-solidity-sdk](https://github.com/reclaimprotocol/reclaim-solidity-sdk) -  (3 days ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat: prepare ui for new API](https://github.com/tensorlakeai/indexify/pull/860) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (6 days ago)
-  - [feat: rewrite of typescript client for new API](https://github.com/tensorlakeai/indexify-typescript-client/pull/54) on [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) (6 days ago)
-  - [chore: added extracted metadata](https://github.com/tensorlakeai/indexify-typescript-client/pull/53) on [tensorlakeai/indexify-typescript-client](https://github.com/tensorlakeai/indexify-typescript-client) (1 week ago)
-  - [chore: fix mintlify deployment](https://github.com/tensorlakeai/indexify/pull/854) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (2 weeks ago)
-  - [feat: added extracted metadata](https://github.com/tensorlakeai/indexify/pull/849) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (2 weeks ago)
+  - [chore: updated ui docs for indexify](https://github.com/tensorlakeai/indexify/pull/949) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 week ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service (2 days ago)
-  - [tommyjepsen/twblocks](https://github.com/tommyjepsen/twblocks) - Website blocks to copy/paste - based on shadcn &amp; Radix using Tailwind and NextJS (3 days ago)
-  - [niledatabase/niledatabase](https://github.com/niledatabase/niledatabase) - Serverless Postgres for modern SaaS (1 week ago)
-  - [kshitijk4poor/GSoC-report](https://github.com/kshitijk4poor/GSoC-report) - this repo contains the gist of my contributions during GSoC&#39;24 @Honeynet (1 week ago)
-  - [finternet-io/specs](https://github.com/finternet-io/specs) - Open Schema and API Specifications (2 weeks ago)
+  - [imnz730/LUTs](https://github.com/imnz730/LUTs) - Look Up Table (LUT) informations that you may need for color managements when editing. (6 days ago)
+  - [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database. (1 week ago)
+  - [janishar/nodejs-backend-architecture-typescript](https://github.com/janishar/nodejs-backend-architecture-typescript) - Node.js Backend Architecture Typescript - Learn to build a backend server for production ready blogging platform like Medium and FreeCodeCamp. Main Features: Role based, Express.js, Mongoose, Redis, Mongodb, Joi, Docker, JWT, Unit Tests, Integration Tests. (1 week ago)
+  - [tensorlakeai/inkwell](https://github.com/tensorlakeai/inkwell) - Modular Python library for PDF information extraction using state-of-the-art Vision Language Models and layout understanding. Customizable pipelines for diverse document layouts. (1 week ago)
+  - [piyushsingariya/relec](https://github.com/piyushsingariya/relec) - Go Utilities to be used in your project (1 week ago)
 </details>
 
 <br> 
