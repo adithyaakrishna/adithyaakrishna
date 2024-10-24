@@ -22,26 +22,27 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   <summary>Check out what I'm currently working on</summary>
   
   - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (today)
-  - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Memoirs (1 day ago)
-  - [adithyaakrishna/devdas](https://github.com/adithyaakrishna/devdas) - A VSCode extension to remind you to reply and like your girl&#39;s tweets (2 days ago)
-  - [reclaimprotocol/reclaim-secret-sdk](https://github.com/reclaimprotocol/reclaim-secret-sdk) -  (5 days ago)
-  - [reclaimprotocol/reclaim-lukso-sdk](https://github.com/reclaimprotocol/reclaim-lukso-sdk) -  (5 days ago)
+  - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Memoirs (3 days ago)
+  - [adithyaakrishna/devdas](https://github.com/adithyaakrishna/devdas) - A VSCode extension to remind you to reply and like your girl&#39;s tweets (4 days ago)
+  - [reclaimprotocol/reclaim-substrate-sdk](https://github.com/reclaimprotocol/reclaim-substrate-sdk) -  (1 week ago)
+  - [reclaimprotocol/reclaim-flutter-sdk](https://github.com/reclaimprotocol/reclaim-flutter-sdk) - Flutter SDK for easy integration of Reclaim Protocol that enables authenticated web data export via HTTPS and zero-knowledge proofs (1 week ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat: fix typo and update gif to use lazy load](https://github.com/tensorlakeai/indexify/pull/965) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
+  - [feat: added ui for the task logs](https://github.com/tensorlakeai/indexify/pull/970) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
+  - [feat: fix typo and update gif to use lazy load](https://github.com/tensorlakeai/indexify/pull/965) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (3 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
+  - [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript (1 day ago)
   - [imnz730/LUTs](https://github.com/imnz730/LUTs) - Look Up Table (LUT) informations that you may need for color managements when editing. (1 week ago)
-  - [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database. (1 week ago)
-  - [janishar/nodejs-backend-architecture-typescript](https://github.com/janishar/nodejs-backend-architecture-typescript) - Node.js Backend Architecture Typescript - Learn to build a backend server for production ready blogging platform like Medium and FreeCodeCamp. Main Features: Role based, Express.js, Mongoose, Redis, Mongodb, Joi, Docker, JWT, Unit Tests, Integration Tests. (1 week ago)
-  - [tensorlakeai/inkwell](https://github.com/tensorlakeai/inkwell) - Modular Python library for PDF information extraction using state-of-the-art Vision Language Models and layout understanding. Customizable pipelines for diverse document layouts. (1 week ago)
-  - [piyushsingariya/relec](https://github.com/piyushsingariya/relec) - Go Utilities to be used in your project (2 weeks ago)
+  - [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database. (2 weeks ago)
+  - [janishar/nodejs-backend-architecture-typescript](https://github.com/janishar/nodejs-backend-architecture-typescript) - Node.js Backend Architecture Typescript - Learn to build a backend server for production ready blogging platform like Medium and FreeCodeCamp. Main Features: Role based, Express.js, Mongoose, Redis, Mongodb, Joi, Docker, JWT, Unit Tests, Integration Tests. (2 weeks ago)
+  - [tensorlakeai/inkwell](https://github.com/tensorlakeai/inkwell) - Modular Python library for PDF information extraction using state-of-the-art Vision Language Models and layout understanding. Customizable pipelines for diverse document layouts. (2 weeks ago)
 </details>
 
 <br> 
