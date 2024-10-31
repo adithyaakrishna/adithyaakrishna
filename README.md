@@ -21,30 +21,30 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (1 day ago)
-  - [nyayanidhi/v2](https://github.com/nyayanidhi/v2) -  (1 day ago)
-  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (3 days ago)
-  - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Memoirs (1 week ago)
+  - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Memoirs (today)
+  - [nyayanidhi/v2](https://github.com/nyayanidhi/v2) -  (3 days ago)
+  - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (3 days ago)
+  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (5 days ago)
   - [adithyaakrishna/devdas](https://github.com/adithyaakrishna/devdas) - A VSCode extension to remind you to reply and like your girl&#39;s tweets (1 week ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [indexify-server 0.2.6 (new-formula)](https://github.com/Homebrew/homebrew-core/pull/195789) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (1 day ago)
-  - [feat: updated ui to support multiple namespaces](https://github.com/tensorlakeai/indexify/pull/980) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (5 days ago)
-  - [feat: added ui for the task logs](https://github.com/tensorlakeai/indexify/pull/970) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (6 days ago)
+  - [indexify-server 0.2.6 (new-formula)](https://github.com/Homebrew/homebrew-core/pull/195789) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (3 days ago)
+  - [feat: updated ui to support multiple namespaces](https://github.com/tensorlakeai/indexify/pull/980) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 week ago)
+  - [feat: added ui for the task logs](https://github.com/tensorlakeai/indexify/pull/970) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 week ago)
   - [feat: fix typo and update gif to use lazy load](https://github.com/tensorlakeai/indexify/pull/965) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 week ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux) (1 day ago)
-  - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust (1 day ago)
-  - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. (1 day ago)
-  - [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript (6 days ago)
-  - [imnz730/LUTs](https://github.com/imnz730/LUTs) - Look Up Table (LUT) informations that you may need for color managements when editing. (2 weeks ago)
+  - [miragejs/miragejs](https://github.com/miragejs/miragejs) - A client-side server to build, test and share your JavaScript app (1 day ago)
+  - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage. (2 days ago)
+  - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux) (3 days ago)
+  - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust (3 days ago)
+  - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. (3 days ago)
 </details>
 
 <br> 
