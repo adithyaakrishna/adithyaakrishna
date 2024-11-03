@@ -21,11 +21,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
+  - [reclaimprotocol/zk-symmetric-crypto](https://github.com/reclaimprotocol/zk-symmetric-crypto) - A circom library for zero-knowledge proofs of symmetric encryption key ownership without key revelation. (today)
   - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (3 days ago)
   - [nyayanidhi/v2](https://github.com/nyayanidhi/v2) -  (3 days ago)
   - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Memoirs (3 days ago)
   - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (6 days ago)
-  - [adithyaakrishna/devdas](https://github.com/adithyaakrishna/devdas) - A VSCode extension to remind you to reply and like your girl&#39;s tweets (2 weeks ago)
 </details>
 
 <details>
