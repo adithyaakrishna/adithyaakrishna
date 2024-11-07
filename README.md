@@ -21,31 +21,31 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [reclaimprotocol/zk-symmetric-crypto](https://github.com/reclaimprotocol/zk-symmetric-crypto) - A circom library for zero-knowledge proofs of symmetric encryption key ownership without key revelation. (2 days ago)
-  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (5 days ago)
-  - [nyayanidhi/v2](https://github.com/nyayanidhi/v2) -  (5 days ago)
-  - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Memoirs (5 days ago)
-  - [nyayanidhi/www](https://github.com/nyayanidhi/www) -  (1 week ago)
+  - [reclaimprotocol/attestor-core](https://github.com/reclaimprotocol/attestor-core) - The attestor-core (aka witness server) securely intermediates internet data exchange, using TLS and zero-knowledge proofs to verify and sign user claims with minimal information disclosure. (today)
+  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (1 day ago)
+  - [reclaimprotocol/.github](https://github.com/reclaimprotocol/.github) -  (1 day ago)
+  - [reclaimprotocol/zk-symmetric-crypto](https://github.com/reclaimprotocol/zk-symmetric-crypto) - A circom library for zero-knowledge proofs of symmetric encryption key ownership without key revelation. (4 days ago)
+  - [nyayanidhi/v2](https://github.com/nyayanidhi/v2) -  (1 week ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [chore: styled labels and added version to main card](https://github.com/tensorlakeai/indexify/pull/997) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (5 days ago)
-  - [feat: add created_at to invocation and version to ui](https://github.com/tensorlakeai/indexify/pull/995) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (5 days ago)
+  - [feat: cleanup and remove other namespaces support except default](https://github.com/tensorlakeai/indexify/pull/1008) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
+  - [chore: made requested changes for the UI](https://github.com/tensorlakeai/indexify/pull/1005) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (2 days ago)
+  - [chore: styled labels and added version to main card](https://github.com/tensorlakeai/indexify/pull/997) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 week ago)
+  - [feat: add created_at to invocation and version to ui](https://github.com/tensorlakeai/indexify/pull/995) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 week ago)
   - [indexify-server 0.2.6 (new-formula)](https://github.com/Homebrew/homebrew-core/pull/195789) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (1 week ago)
-  - [feat: updated ui to support multiple namespaces](https://github.com/tensorlakeai/indexify/pull/980) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 week ago)
-  - [feat: added ui for the task logs](https://github.com/tensorlakeai/indexify/pull/970) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 week ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [miragejs/miragejs](https://github.com/miragejs/miragejs) - A client-side server to build, test and share your JavaScript app (6 days ago)
+  - [AazimAnish/ProoForm](https://github.com/AazimAnish/ProoForm) - A customizable form platform that verifies user data using Reclaim Protocol for secure, proof-based submissions. (1 day ago)
+  - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 htop on steroids (2 days ago)
+  - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files (2 days ago)
+  - [miragejs/miragejs](https://github.com/miragejs/miragejs) - A client-side server to build, test and share your JavaScript app (1 week ago)
   - [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage. (1 week ago)
-  - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux) (1 week ago)
-  - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust (1 week ago)
-  - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo. (1 week ago)
 </details>
 
 <br> 
