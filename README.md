@@ -21,18 +21,18 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (1 day ago)
-  - [reclaimprotocol/attestor-core](https://github.com/reclaimprotocol/attestor-core) - The attestor-core (aka witness server) securely intermediates internet data exchange, using TLS and zero-knowledge proofs to verify and sign user claims with minimal information disclosure. (2 days ago)
-  - [reclaimprotocol/.github](https://github.com/reclaimprotocol/.github) -  (3 days ago)
-  - [reclaimprotocol/zk-symmetric-crypto](https://github.com/reclaimprotocol/zk-symmetric-crypto) - A circom library for zero-knowledge proofs of symmetric encryption key ownership without key revelation. (6 days ago)
+  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (2 days ago)
+  - [reclaimprotocol/attestor-core](https://github.com/reclaimprotocol/attestor-core) - The attestor-core (aka witness server) securely intermediates internet data exchange, using TLS and zero-knowledge proofs to verify and sign user claims with minimal information disclosure. (3 days ago)
+  - [reclaimprotocol/.github](https://github.com/reclaimprotocol/.github) -  (4 days ago)
+  - [reclaimprotocol/zk-symmetric-crypto](https://github.com/reclaimprotocol/zk-symmetric-crypto) - A circom library for zero-knowledge proofs of symmetric encryption key ownership without key revelation. (1 week ago)
   - [nyayanidhi/v2](https://github.com/nyayanidhi/v2) -  (1 week ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat: cleanup and remove other namespaces support except default](https://github.com/tensorlakeai/indexify/pull/1008) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (3 days ago)
-  - [chore: made requested changes for the UI](https://github.com/tensorlakeai/indexify/pull/1005) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (4 days ago)
+  - [feat: cleanup and remove other namespaces support except default](https://github.com/tensorlakeai/indexify/pull/1008) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (4 days ago)
+  - [chore: made requested changes for the UI](https://github.com/tensorlakeai/indexify/pull/1005) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (5 days ago)
   - [chore: styled labels and added version to main card](https://github.com/tensorlakeai/indexify/pull/997) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 week ago)
   - [feat: add created_at to invocation and version to ui](https://github.com/tensorlakeai/indexify/pull/995) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 week ago)
   - [indexify-server 0.2.6 (new-formula)](https://github.com/Homebrew/homebrew-core/pull/195789) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (1 week ago)
@@ -41,10 +41,10 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [inngest/inngest-js](https://github.com/inngest/inngest-js) - The developer platform for easily building reliable workflows with zero infrastructure for TypeScript &amp; JavaScript (2 days ago)
-  - [AazimAnish/ProoForm](https://github.com/AazimAnish/ProoForm) - A customizable form platform that verifies user data using Reclaim Protocol for secure, proof-based submissions. (3 days ago)
-  - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 htop on steroids (4 days ago)
-  - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files (4 days ago)
+  - [inngest/inngest-js](https://github.com/inngest/inngest-js) - The developer platform for easily building reliable workflows with zero infrastructure for TypeScript &amp; JavaScript (3 days ago)
+  - [AazimAnish/ProoForm](https://github.com/AazimAnish/ProoForm) - A customizable form platform that verifies user data using Reclaim Protocol for secure, proof-based submissions. (4 days ago)
+  - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 htop on steroids (5 days ago)
+  - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files (5 days ago)
   - [miragejs/miragejs](https://github.com/miragejs/miragejs) - A client-side server to build, test and share your JavaScript app (1 week ago)
 </details>
 
