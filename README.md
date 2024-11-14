@@ -34,8 +34,6 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   - [feat: add default page to server](https://github.com/tensorlakeai/indexify/pull/1024) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
   - [feat: cleanup and remove other namespaces support except default](https://github.com/tensorlakeai/indexify/pull/1008) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 week ago)
   - [chore: made requested changes for the UI](https://github.com/tensorlakeai/indexify/pull/1005) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 week ago)
-  - [chore: styled labels and added version to main card](https://github.com/tensorlakeai/indexify/pull/997) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (2 weeks ago)
-  - [feat: add created_at to invocation and version to ui](https://github.com/tensorlakeai/indexify/pull/995) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (2 weeks ago)
 </details>
 
 <details>
