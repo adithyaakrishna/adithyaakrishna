@@ -21,29 +21,29 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (4 days ago)
-  - [reclaimprotocol/attestor-core](https://github.com/reclaimprotocol/attestor-core) - The attestor-core (aka witness server) securely intermediates internet data exchange, using TLS and zero-knowledge proofs to verify and sign user claims with minimal information disclosure. (5 days ago)
-  - [reclaimprotocol/.github](https://github.com/reclaimprotocol/.github) -  (6 days ago)
+  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (1 day ago)
+  - [reclaimprotocol/attestor-core](https://github.com/reclaimprotocol/attestor-core) - The attestor-core (aka witness server) securely intermediates internet data exchange, using TLS and zero-knowledge proofs to verify and sign user claims with minimal information disclosure. (1 week ago)
+  - [reclaimprotocol/.github](https://github.com/reclaimprotocol/.github) -  (1 week ago)
   - [reclaimprotocol/zk-symmetric-crypto](https://github.com/reclaimprotocol/zk-symmetric-crypto) - A circom library for zero-knowledge proofs of symmetric encryption key ownership without key revelation. (1 week ago)
-  - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Memoirs (1 week ago)
+  - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Memoirs (2 weeks ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat: cleanup and remove other namespaces support except default](https://github.com/tensorlakeai/indexify/pull/1008) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (6 days ago)
+  - [feat: add default page to server](https://github.com/tensorlakeai/indexify/pull/1024) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
+  - [feat: cleanup and remove other namespaces support except default](https://github.com/tensorlakeai/indexify/pull/1008) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 week ago)
   - [chore: made requested changes for the UI](https://github.com/tensorlakeai/indexify/pull/1005) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 week ago)
-  - [chore: styled labels and added version to main card](https://github.com/tensorlakeai/indexify/pull/997) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 week ago)
-  - [feat: add created_at to invocation and version to ui](https://github.com/tensorlakeai/indexify/pull/995) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 week ago)
-  - [indexify-server 0.2.6 (new-formula)](https://github.com/Homebrew/homebrew-core/pull/195789) on [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) (2 weeks ago)
+  - [chore: styled labels and added version to main card](https://github.com/tensorlakeai/indexify/pull/997) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (2 weeks ago)
+  - [feat: add created_at to invocation and version to ui](https://github.com/tensorlakeai/indexify/pull/995) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (2 weeks ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container. (today)
-  - [inngest/inngest-js](https://github.com/inngest/inngest-js) - The developer platform for easily building reliable workflows with zero infrastructure for TypeScript &amp; JavaScript (5 days ago)
-  - [AazimAnish/ProoForm](https://github.com/AazimAnish/ProoForm) - A customizable form platform that verifies user data using Reclaim Protocol for secure, proof-based submissions. (6 days ago)
+  - [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container. (2 days ago)
+  - [inngest/inngest-js](https://github.com/inngest/inngest-js) - The developer platform for easily building reliable workflows with zero infrastructure for TypeScript &amp; JavaScript (1 week ago)
+  - [AazimAnish/ProoForm](https://github.com/AazimAnish/ProoForm) - A customizable form platform that verifies user data using Reclaim Protocol for secure, proof-based submissions. (1 week ago)
   - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 htop on steroids (1 week ago)
   - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files (1 week ago)
 </details>
