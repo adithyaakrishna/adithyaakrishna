@@ -21,25 +21,24 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (3 days ago)
+  - [adithyaakrishna/moondream-ts](https://github.com/adithyaakrishna/moondream-ts) - Moondream TS Client (today)
+  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (4 days ago)
   - [reclaimprotocol/attestor-core](https://github.com/reclaimprotocol/attestor-core) - The attestor-core (aka witness server) securely intermediates internet data exchange, using TLS and zero-knowledge proofs to verify and sign user claims with minimal information disclosure. (1 week ago)
   - [reclaimprotocol/.github](https://github.com/reclaimprotocol/.github) -  (1 week ago)
-  - [reclaimprotocol/zk-symmetric-crypto](https://github.com/reclaimprotocol/zk-symmetric-crypto) - A circom library for zero-knowledge proofs of symmetric encryption key ownership without key revelation. (1 week ago)
-  - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Memoirs (2 weeks ago)
+  - [reclaimprotocol/zk-symmetric-crypto](https://github.com/reclaimprotocol/zk-symmetric-crypto) - A circom library for zero-knowledge proofs of symmetric encryption key ownership without key revelation. (2 weeks ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat: add default page to server](https://github.com/tensorlakeai/indexify/pull/1024) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (3 days ago)
-  - [feat: cleanup and remove other namespaces support except default](https://github.com/tensorlakeai/indexify/pull/1008) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 week ago)
+  - [feat: add default page to server](https://github.com/tensorlakeai/indexify/pull/1024) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (4 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🚀 The OpenAPI to TypeScript codegen. Generate clients, SDKs, validators, and more. Support: @mrlubos (1 day ago)
-  - [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container. (4 days ago)
+  - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🚀 The OpenAPI to TypeScript codegen. Generate clients, SDKs, validators, and more. Support: @mrlubos (2 days ago)
+  - [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container. (5 days ago)
   - [inngest/inngest-js](https://github.com/inngest/inngest-js) - The developer platform for easily building reliable workflows with zero infrastructure for TypeScript &amp; JavaScript (1 week ago)
   - [AazimAnish/ProoForm](https://github.com/AazimAnish/ProoForm) - A customizable form platform that verifies user data using Reclaim Protocol for secure, proof-based submissions. (1 week ago)
   - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 htop on steroids (1 week ago)
