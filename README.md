@@ -31,7 +31,6 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat: add default page to server](https://github.com/tensorlakeai/indexify/pull/1024) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (6 days ago)
 </details>
 
 <details>
