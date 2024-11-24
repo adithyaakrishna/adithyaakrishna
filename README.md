@@ -21,11 +21,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/moondream-ts](https://github.com/adithyaakrishna/moondream-ts) - Moondream TS Client (6 days ago)
+  - [adithyaakrishna/moondream-ts](https://github.com/adithyaakrishna/moondream-ts) - Moondream TS Client (1 week ago)
   - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (1 week ago)
   - [reclaimprotocol/attestor-core](https://github.com/reclaimprotocol/attestor-core) - The attestor-core (aka witness server) securely intermediates internet data exchange, using TLS and zero-knowledge proofs to verify and sign user claims with minimal information disclosure. (2 weeks ago)
   - [reclaimprotocol/.github](https://github.com/reclaimprotocol/.github) -  (2 weeks ago)
-  - [reclaimprotocol/zk-symmetric-crypto](https://github.com/reclaimprotocol/zk-symmetric-crypto) - A circom library for zero-knowledge proofs of symmetric encryption key ownership without key revelation. (2 weeks ago)
+  - [reclaimprotocol/zk-symmetric-crypto](https://github.com/reclaimprotocol/zk-symmetric-crypto) - A circom library for zero-knowledge proofs of symmetric encryption key ownership without key revelation. (3 weeks ago)
 </details>
 
 <details>
@@ -36,7 +36,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js. Alternative to Nextra (2 days ago)
+  - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js. Alternative to Nextra (3 days ago)
   - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🚀 The OpenAPI to TypeScript codegen. Generate clients, SDKs, validators, and more. Support: @mrlubos (1 week ago)
   - [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container. (1 week ago)
   - [inngest/inngest-js](https://github.com/inngest/inngest-js) - The developer platform for easily building reliable workflows with zero infrastructure for TypeScript &amp; JavaScript (2 weeks ago)
