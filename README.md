@@ -36,9 +36,9 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js. Alternative to Nextra (3 days ago)
+  - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js. Alternative to Nextra (5 days ago)
   - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🚀 The OpenAPI to TypeScript codegen. Generate clients, SDKs, validators, and more. Support: @mrlubos (1 week ago)
-  - [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container. (1 week ago)
+  - [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container. (2 weeks ago)
   - [inngest/inngest-js](https://github.com/inngest/inngest-js) - The developer platform for easily building reliable workflows with zero infrastructure for TypeScript &amp; JavaScript (2 weeks ago)
   - [AazimAnish/ProoForm](https://github.com/AazimAnish/ProoForm) - A customizable form platform that verifies user data using Reclaim Protocol for secure, proof-based submissions. (2 weeks ago)
 </details>
