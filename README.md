@@ -21,17 +21,17 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/moondream-ts](https://github.com/adithyaakrishna/moondream-ts) - Moondream TS Client (1 week ago)
+  - [adithyaakrishna/moondream-ts](https://github.com/adithyaakrishna/moondream-ts) - Moondream TS Client (2 weeks ago)
   - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (2 weeks ago)
   - [reclaimprotocol/attestor-core](https://github.com/reclaimprotocol/attestor-core) - The attestor-core (aka witness server) securely intermediates internet data exchange, using TLS and zero-knowledge proofs to verify and sign user claims with minimal information disclosure. (3 weeks ago)
   - [reclaimprotocol/.github](https://github.com/reclaimprotocol/.github) -  (3 weeks ago)
-  - [reclaimprotocol/zk-symmetric-crypto](https://github.com/reclaimprotocol/zk-symmetric-crypto) - A circom library for zero-knowledge proofs of symmetric encryption key ownership without key revelation. (3 weeks ago)
+  - [reclaimprotocol/zk-symmetric-crypto](https://github.com/reclaimprotocol/zk-symmetric-crypto) - A circom library for zero-knowledge proofs of symmetric encryption key ownership without key revelation. (4 weeks ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [chore: update docs](https://github.com/reclaimprotocol/docs/pull/30) on [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) (2 days ago)
+  - [chore: update docs](https://github.com/reclaimprotocol/docs/pull/30) on [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) (3 days ago)
 </details>
 
 <details>
