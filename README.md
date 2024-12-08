@@ -21,10 +21,10 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Memoirs (2 days ago)
-  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (5 days ago)
-  - [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) - Documentation for Reclaim Protocol (5 days ago)
-  - [adithyaakrishna/moondream-ts](https://github.com/adithyaakrishna/moondream-ts) - Moondream TS Client (2 weeks ago)
+  - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Memoirs (3 days ago)
+  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (6 days ago)
+  - [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) - Documentation for Reclaim Protocol (6 days ago)
+  - [adithyaakrishna/moondream-ts](https://github.com/adithyaakrishna/moondream-ts) - Moondream TS Client (3 weeks ago)
   - [reclaimprotocol/attestor-core](https://github.com/reclaimprotocol/attestor-core) - The attestor-core (aka witness server) securely intermediates internet data exchange, using TLS and zero-knowledge proofs to verify and sign user claims with minimal information disclosure. (1 month ago)
 </details>
 
