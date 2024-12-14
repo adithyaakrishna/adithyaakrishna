@@ -36,11 +36,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
+  - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform (today)
   - [slai-labs/get-beam](https://github.com/slai-labs/get-beam) - Run GPU inference and training jobs on serverless infrastructure that scales with you. (1 day ago)
   - [VapiAI/client-sdk-web](https://github.com/VapiAI/client-sdk-web) - This package lets you start Vapi calls directly in your webapp. (2 days ago)
   - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js. Alternative to Nextra (3 weeks ago)
   - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🚀 The OpenAPI to TypeScript codegen. Generate clients, SDKs, validators, and more. Support: @mrlubos (4 weeks ago)
-  - [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container. (1 month ago)
 </details>
 
 <br> 
