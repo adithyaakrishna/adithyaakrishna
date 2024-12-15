@@ -21,10 +21,10 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (3 days ago)
+  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (4 days ago)
   - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Memoirs (1 week ago)
   - [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) - Documentation for Reclaim Protocol (1 week ago)
-  - [adithyaakrishna/moondream-ts](https://github.com/adithyaakrishna/moondream-ts) - Moondream TS Client (3 weeks ago)
+  - [adithyaakrishna/moondream-ts](https://github.com/adithyaakrishna/moondream-ts) - Moondream TS Client (4 weeks ago)
   - [reclaimprotocol/attestor-core](https://github.com/reclaimprotocol/attestor-core) - The attestor-core (aka witness server) securely intermediates internet data exchange, using TLS and zero-knowledge proofs to verify and sign user claims with minimal information disclosure. (1 month ago)
 </details>
 
@@ -36,11 +36,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform (today)
-  - [slai-labs/get-beam](https://github.com/slai-labs/get-beam) - Run GPU inference and training jobs on serverless infrastructure that scales with you. (1 day ago)
-  - [VapiAI/client-sdk-web](https://github.com/VapiAI/client-sdk-web) - This package lets you start Vapi calls directly in your webapp. (2 days ago)
+  - [anti-work/shortest](https://github.com/anti-work/shortest) - QA via natural language AI tests (1 day ago)
+  - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform (1 day ago)
+  - [slai-labs/get-beam](https://github.com/slai-labs/get-beam) - Run GPU inference and training jobs on serverless infrastructure that scales with you. (2 days ago)
+  - [VapiAI/client-sdk-web](https://github.com/VapiAI/client-sdk-web) - This package lets you start Vapi calls directly in your webapp. (3 days ago)
   - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js. Alternative to Nextra (3 weeks ago)
-  - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🚀 The OpenAPI to TypeScript codegen. Generate clients, SDKs, validators, and more. Support: @mrlubos (4 weeks ago)
 </details>
 
 <br> 
