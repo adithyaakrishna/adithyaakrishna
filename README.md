@@ -21,11 +21,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (4 days ago)
+  - [reclaimprotocol/fumadocs](https://github.com/reclaimprotocol/fumadocs) -  (1 day ago)
+  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (6 days ago)
   - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Memoirs (1 week ago)
-  - [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) - Documentation for Reclaim Protocol (1 week ago)
-  - [adithyaakrishna/moondream-ts](https://github.com/adithyaakrishna/moondream-ts) - Moondream TS Client (4 weeks ago)
-  - [reclaimprotocol/attestor-core](https://github.com/reclaimprotocol/attestor-core) - The attestor-core (aka witness server) securely intermediates internet data exchange, using TLS and zero-knowledge proofs to verify and sign user claims with minimal information disclosure. (1 month ago)
+  - [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) - Documentation for Reclaim Protocol (2 weeks ago)
+  - [adithyaakrishna/moondream-ts](https://github.com/adithyaakrishna/moondream-ts) - Moondream TS Client (1 month ago)
 </details>
 
 <details>
@@ -36,11 +36,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [anti-work/shortest](https://github.com/anti-work/shortest) - QA via natural language AI tests (1 day ago)
-  - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform (1 day ago)
-  - [slai-labs/get-beam](https://github.com/slai-labs/get-beam) - Run GPU inference and training jobs on serverless infrastructure that scales with you. (2 days ago)
-  - [VapiAI/client-sdk-web](https://github.com/VapiAI/client-sdk-web) - This package lets you start Vapi calls directly in your webapp. (3 days ago)
-  - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js. Alternative to Nextra (3 weeks ago)
+  - [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (1 day ago)
+  - [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book) - [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025) (1 day ago)
+  - [anti-work/shortest](https://github.com/anti-work/shortest) - QA via natural language AI tests (3 days ago)
+  - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform (3 days ago)
+  - [slai-labs/get-beam](https://github.com/slai-labs/get-beam) - Run GPU inference and training jobs on serverless infrastructure that scales with you. (4 days ago)
 </details>
 
 <br> 
