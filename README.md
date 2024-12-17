@@ -36,11 +36,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
+  - [ai16z/eliza](https://github.com/ai16z/eliza) - Autonomous agents for everyone (today)
   - [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (1 day ago)
   - [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book) - [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025) (1 day ago)
   - [anti-work/shortest](https://github.com/anti-work/shortest) - QA via natural language AI tests (3 days ago)
   - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform (3 days ago)
-  - [slai-labs/get-beam](https://github.com/slai-labs/get-beam) - Run GPU inference and training jobs on serverless infrastructure that scales with you. (4 days ago)
 </details>
 
 <br> 
