@@ -21,9 +21,9 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [reclaimprotocol/fumadocs](https://github.com/reclaimprotocol/fumadocs) -  (1 day ago)
-  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (6 days ago)
-  - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Memoirs (1 week ago)
+  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (today)
+  - [reclaimprotocol/fumadocs](https://github.com/reclaimprotocol/fumadocs) -  (3 days ago)
+  - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Memoirs (2 weeks ago)
   - [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) - Documentation for Reclaim Protocol (2 weeks ago)
   - [adithyaakrishna/moondream-ts](https://github.com/adithyaakrishna/moondream-ts) - Moondream TS Client (1 month ago)
 </details>
@@ -31,16 +31,17 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Lately, I have worked on</summary>
   
+  - [chore: popover for copy on breadcrumbs](https://github.com/tensorlakeai/indexify/pull/1115) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [ai16z/eliza](https://github.com/ai16z/eliza) - Autonomous agents for everyone (today)
-  - [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (1 day ago)
-  - [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book) - [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025) (1 day ago)
-  - [anti-work/shortest](https://github.com/anti-work/shortest) - QA via natural language AI tests (3 days ago)
-  - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform (3 days ago)
+  - [ai16z/eliza](https://github.com/ai16z/eliza) - Autonomous agents for everyone (2 days ago)
+  - [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (3 days ago)
+  - [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book) - [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025) (3 days ago)
+  - [anti-work/shortest](https://github.com/anti-work/shortest) - QA via natural language AI tests (5 days ago)
+  - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform (5 days ago)
 </details>
 
 <br> 
