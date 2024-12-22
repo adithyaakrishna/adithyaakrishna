@@ -38,7 +38,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [ai16z/eliza](https://github.com/ai16z/eliza) - Autonomous agents for everyone (5 days ago)
+  - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone (5 days ago)
   - [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (6 days ago)
   - [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book) - [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025) (6 days ago)
   - [anti-work/shortest](https://github.com/anti-work/shortest) - QA via natural language AI tests (1 week ago)
