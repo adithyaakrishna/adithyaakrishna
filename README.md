@@ -21,28 +21,27 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (3 days ago)
-  - [reclaimprotocol/fumadocs](https://github.com/reclaimprotocol/fumadocs) -  (6 days ago)
+  - [reclaimprotocol/fumadocs](https://github.com/reclaimprotocol/fumadocs) -  (1 day ago)
+  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (5 days ago)
   - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Memoirs (2 weeks ago)
-  - [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) - Documentation for Reclaim Protocol (2 weeks ago)
+  - [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) - Documentation for Reclaim Protocol (3 weeks ago)
   - [adithyaakrishna/moondream-ts](https://github.com/adithyaakrishna/moondream-ts) - Moondream TS Client (1 month ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [chore: popover for copy on breadcrumbs](https://github.com/tensorlakeai/indexify/pull/1115) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (4 days ago)
-  - [chore: update docs](https://github.com/reclaimprotocol/docs/pull/30) on [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) (3 weeks ago)
+  - [chore: popover for copy on breadcrumbs](https://github.com/tensorlakeai/indexify/pull/1115) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (6 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone (5 days ago)
-  - [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (6 days ago)
-  - [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book) - [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025) (6 days ago)
+  - [harshxraj/saas-landing-nextjs](https://github.com/harshxraj/saas-landing-nextjs) - SaaS Landing Page, built with React, Next.js, TailwindCSS, and Framer Motion. It aims to provide a visually appealing and highly performant landing page for SaaS products. (1 day ago)
+  - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone (1 week ago)
+  - [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (1 week ago)
+  - [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book) - [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025) (1 week ago)
   - [anti-work/shortest](https://github.com/anti-work/shortest) - QA via natural language AI tests (1 week ago)
-  - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform (1 week ago)
 </details>
 
 <br> 
