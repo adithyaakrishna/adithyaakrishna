@@ -21,9 +21,9 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [reclaimprotocol/fumadocs](https://github.com/reclaimprotocol/fumadocs) -  (today)
-  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (5 days ago)
-  - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Memoirs (2 weeks ago)
+  - [reclaimprotocol/fumadocs](https://github.com/reclaimprotocol/fumadocs) -  (2 days ago)
+  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (1 week ago)
+  - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Memoirs (3 weeks ago)
   - [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) - Documentation for Reclaim Protocol (3 weeks ago)
   - [adithyaakrishna/moondream-ts](https://github.com/adithyaakrishna/moondream-ts) - Moondream TS Client (1 month ago)
 </details>
@@ -31,17 +31,17 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [chore: popover for copy on breadcrumbs](https://github.com/tensorlakeai/indexify/pull/1115) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (6 days ago)
+  - [chore: popover for copy on breadcrumbs](https://github.com/tensorlakeai/indexify/pull/1115) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 week ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system (today)
-  - [thegreenwebfoundation/co2.js](https://github.com/thegreenwebfoundation/co2.js) - An npm module for accessing the green web API, and estimating the carbon emissions from using digital services (today)
-  - [harshxraj/saas-landing-nextjs](https://github.com/harshxraj/saas-landing-nextjs) - SaaS Landing Page, built with React, Next.js, TailwindCSS, and Framer Motion. It aims to provide a visually appealing and highly performant landing page for SaaS products. (1 day ago)
-  - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone (1 week ago)
-  - [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (1 week ago)
+  - [LayerZero-Labs/LayerZero-v2](https://github.com/LayerZero-Labs/LayerZero-v2) -  (2 days ago)
+  - [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat &amp; pretrained large language model proposed by Alibaba Cloud. (2 days ago)
+  - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system (2 days ago)
+  - [thegreenwebfoundation/co2.js](https://github.com/thegreenwebfoundation/co2.js) - An npm module for accessing the green web API, and estimating the carbon emissions from using digital services (2 days ago)
+  - [harshxraj/saas-landing-nextjs](https://github.com/harshxraj/saas-landing-nextjs) - SaaS Landing Page, built with React, Next.js, TailwindCSS, and Framer Motion. It aims to provide a visually appealing and highly performant landing page for SaaS products. (3 days ago)
 </details>
 
 <br> 
