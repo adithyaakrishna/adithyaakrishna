@@ -21,7 +21,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [reclaimprotocol/fumadocs](https://github.com/reclaimprotocol/fumadocs) -  (2 days ago)
+  - [reclaimprotocol/fumadocs](https://github.com/reclaimprotocol/fumadocs) -  (1 day ago)
   - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (1 week ago)
   - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Memoirs (3 weeks ago)
   - [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) - Documentation for Reclaim Protocol (3 weeks ago)
@@ -37,11 +37,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [LayerZero-Labs/LayerZero-v2](https://github.com/LayerZero-Labs/LayerZero-v2) -  (2 days ago)
-  - [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat &amp; pretrained large language model proposed by Alibaba Cloud. (2 days ago)
-  - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system (2 days ago)
-  - [thegreenwebfoundation/co2.js](https://github.com/thegreenwebfoundation/co2.js) - An npm module for accessing the green web API, and estimating the carbon emissions from using digital services (2 days ago)
-  - [harshxraj/saas-landing-nextjs](https://github.com/harshxraj/saas-landing-nextjs) - SaaS Landing Page, built with React, Next.js, TailwindCSS, and Framer Motion. It aims to provide a visually appealing and highly performant landing page for SaaS products. (3 days ago)
+  - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool. (1 day ago)
+  - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2&#43; (1 day ago)
+  - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 day ago)
+  - [ghostty-org/website](https://github.com/ghostty-org/website) - Ghostty website. For the source to the Ghostty project, please see https://github.com/ghostty-org/ghostty (1 day ago)
+  - [LayerZero-Labs/LayerZero-v2](https://github.com/LayerZero-Labs/LayerZero-v2) -  (4 days ago)
 </details>
 
 <br> 
