@@ -21,11 +21,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [reclaimprotocol/fumadocs](https://github.com/reclaimprotocol/fumadocs) -  (6 days ago)
+  - [adithyaakrishna/blr-purity-test](https://github.com/adithyaakrishna/blr-purity-test) - Are you a Deep Deep Bangalorean? (1 day ago)
+  - [reclaimprotocol/fumadocs](https://github.com/reclaimprotocol/fumadocs) -  (1 week ago)
   - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (2 weeks ago)
-  - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Memoirs (4 weeks ago)
+  - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Memoirs (1 month ago)
   - [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) - Documentation for Reclaim Protocol (1 month ago)
-  - [adithyaakrishna/moondream-ts](https://github.com/adithyaakrishna/moondream-ts) - Moondream TS Client (1 month ago)
 </details>
 
 <details>
@@ -36,11 +36,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool. (6 days ago)
-  - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2&#43; (6 days ago)
-  - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (6 days ago)
-  - [ghostty-org/website](https://github.com/ghostty-org/website) - Ghostty website. For the source to the Ghostty project, please see https://github.com/ghostty-org/ghostty (6 days ago)
-  - [LayerZero-Labs/LayerZero-v2](https://github.com/LayerZero-Labs/LayerZero-v2) -  (1 week ago)
+  - [svix/svix-docs](https://github.com/svix/svix-docs) - Documentation for the Svix libraries and CLI (1 day ago)
+  - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool. (1 week ago)
+  - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2&#43; (1 week ago)
+  - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 week ago)
+  - [ghostty-org/website](https://github.com/ghostty-org/website) - Ghostty website. For the source to the Ghostty project, please see https://github.com/ghostty-org/ghostty (1 week ago)
 </details>
 
 <br> 
