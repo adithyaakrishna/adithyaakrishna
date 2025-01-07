@@ -21,7 +21,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/blr-purity-test](https://github.com/adithyaakrishna/blr-purity-test) - Are you a Deep Deep Bangalorean? (2 days ago)
+  - [adithyaakrishna/blr-purity-test](https://github.com/adithyaakrishna/blr-purity-test) - Are you a Deep Deep Bangalorean? (4 days ago)
   - [reclaimprotocol/fumadocs](https://github.com/reclaimprotocol/fumadocs) -  (1 week ago)
   - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (2 weeks ago)
   - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Memoirs (1 month ago)
@@ -31,17 +31,17 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat: added animated upload icon](https://github.com/pqoqubbw/icons/pull/92) on [pqoqubbw/icons](https://github.com/pqoqubbw/icons) (1 day ago)
+  - [feat: added animated upload icon](https://github.com/pqoqubbw/icons/pull/92) on [pqoqubbw/icons](https://github.com/pqoqubbw/icons) (3 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons (1 day ago)
-  - [svix/svix-docs](https://github.com/svix/svix-docs) - Documentation for the Svix libraries and CLI (2 days ago)
-  - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool. (1 week ago)
-  - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2&#43; (1 week ago)
-  - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 week ago)
+  - [linkarzu/dotfiles-latest](https://github.com/linkarzu/dotfiles-latest) - My most up to date dotfiles (1 day ago)
+  - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot) - SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 12&#43; clouds). Get unified execution, cost savings, and high GPU availability via a simple interface. (1 day ago)
+  - [beam-cloud/beta9](https://github.com/beam-cloud/beta9) - Run serverless GPU workloads with fast cold starts on bare-metal servers, anywhere in the world (1 day ago)
+  - [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails) - Adding guardrails to large language models. (1 day ago)
+  - [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons (3 days ago)
 </details>
 
 <br> 
