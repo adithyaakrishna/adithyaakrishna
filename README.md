@@ -21,16 +21,17 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
+  - [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) - Documentation for Reclaim Protocol (today)
   - [adithyaakrishna/blr-purity-test](https://github.com/adithyaakrishna/blr-purity-test) - Are you a Deep Deep Bangalorean? (6 days ago)
-  - [reclaimprotocol/fumadocs](https://github.com/reclaimprotocol/fumadocs) -  (1 week ago)
   - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (3 weeks ago)
   - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Memoirs (1 month ago)
-  - [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) - Documentation for Reclaim Protocol (1 month ago)
+  - [adithyaakrishna/moondream-ts](https://github.com/adithyaakrishna/moondream-ts) - Moondream TS Client (1 month ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
+  - [feat: new docs for reclaim-protocol](https://github.com/reclaimprotocol/docs/pull/31) on [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) (today)
 </details>
 
 <details>
