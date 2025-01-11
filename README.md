@@ -31,7 +31,6 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat: new docs for reclaim-protocol](https://github.com/reclaimprotocol/docs/pull/31) on [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) (2 days ago)
 </details>
 
 <details>
