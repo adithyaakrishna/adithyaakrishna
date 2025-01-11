@@ -21,27 +21,27 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) - Documentation for Reclaim Protocol (today)
-  - [adithyaakrishna/blr-purity-test](https://github.com/adithyaakrishna/blr-purity-test) - Are you a Deep Deep Bangalorean? (6 days ago)
+  - [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) - Documentation for Reclaim Protocol (1 day ago)
+  - [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons (1 week ago)
+  - [adithyaakrishna/blr-purity-test](https://github.com/adithyaakrishna/blr-purity-test) - Are you a Deep Deep Bangalorean? (1 week ago)
   - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (3 weeks ago)
   - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Memoirs (1 month ago)
-  - [adithyaakrishna/moondream-ts](https://github.com/adithyaakrishna/moondream-ts) - Moondream TS Client (1 month ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat: new docs for reclaim-protocol](https://github.com/reclaimprotocol/docs/pull/31) on [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) (today)
+  - [feat: new docs for reclaim-protocol](https://github.com/reclaimprotocol/docs/pull/31) on [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) (2 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [phantom/blocklist](https://github.com/phantom/blocklist) -  (1 day ago)
-  - [phantom/wallet-sdk](https://github.com/phantom/wallet-sdk) - Embedded Wallet SDK (1 day ago)
-  - [akash-network/console](https://github.com/akash-network/console) - Deploy docker containers on the Akash Network (1 day ago)
-  - [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling (1 day ago)
-  - [linkarzu/dotfiles-latest](https://github.com/linkarzu/dotfiles-latest) - My most up to date dotfiles (3 days ago)
+  - [phantom/blocklist](https://github.com/phantom/blocklist) -  (3 days ago)
+  - [phantom/wallet-sdk](https://github.com/phantom/wallet-sdk) - Embedded Wallet SDK (3 days ago)
+  - [akash-network/console](https://github.com/akash-network/console) - Deploy docker containers on the Akash Network (3 days ago)
+  - [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling (3 days ago)
+  - [linkarzu/dotfiles-latest](https://github.com/linkarzu/dotfiles-latest) - My most up to date dotfiles (5 days ago)
 </details>
 
 <br> 
