@@ -36,7 +36,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [rorkai/21st](https://github.com/rorkai/21st) - npm for design engineers: curated collection of best shadcn ui style react tailwind components, blocks and hooks (1 day ago)
+  - [rorkai/21st](https://github.com/rorkai/21st) - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks (1 day ago)
   - [phantom/blocklist](https://github.com/phantom/blocklist) -  (4 days ago)
   - [phantom/wallet-sdk](https://github.com/phantom/wallet-sdk) - Embedded Wallet SDK (4 days ago)
   - [akash-network/console](https://github.com/akash-network/console) - Deploy docker containers on the Akash Network (4 days ago)
