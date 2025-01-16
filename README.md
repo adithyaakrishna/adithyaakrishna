@@ -21,10 +21,10 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) - Documentation for Reclaim Protocol (4 days ago)
+  - [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) - Documentation for Reclaim Protocol (6 days ago)
   - [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons (1 week ago)
   - [adithyaakrishna/blr-purity-test](https://github.com/adithyaakrishna/blr-purity-test) - Are you a Deep Deep Bangalorean? (1 week ago)
-  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (3 weeks ago)
+  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (4 weeks ago)
   - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Memoirs (1 month ago)
 </details>
 
@@ -36,11 +36,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [opensource-emr/hospital-management-emr](https://github.com/opensource-emr/hospital-management-emr) - A complete open source for electronic healthcare record management in Hospitals, Clinics and Pharmacy. (1 day ago)
-  - [rorkai/21st](https://github.com/rorkai/21st) - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks (3 days ago)
-  - [phantom/blocklist](https://github.com/phantom/blocklist) -  (6 days ago)
-  - [phantom/wallet-sdk](https://github.com/phantom/wallet-sdk) - Embedded Wallet SDK (6 days ago)
-  - [akash-network/console](https://github.com/akash-network/console) - Deploy docker containers on the Akash Network (6 days ago)
+  - [opensource-emr/hospital-management-emr](https://github.com/opensource-emr/hospital-management-emr) - A complete open source for electronic healthcare record management in Hospitals, Clinics and Pharmacy. (3 days ago)
+  - [rorkai/21st](https://github.com/rorkai/21st) - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks (5 days ago)
+  - [phantom/blocklist](https://github.com/phantom/blocklist) -  (1 week ago)
+  - [phantom/wallet-sdk](https://github.com/phantom/wallet-sdk) - Embedded Wallet SDK (1 week ago)
+  - [akash-network/console](https://github.com/akash-network/console) - Deploy docker containers on the Akash Network (1 week ago)
 </details>
 
 <br> 
