@@ -36,11 +36,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
+  - [langwatch/langwatch](https://github.com/langwatch/langwatch) - The ultimate LLM Ops platform - Monitoring, Analytics, Evaluations, Datasets and Prompt Optimization ✨ (today)
   - [opensource-emr/hospital-management-emr](https://github.com/opensource-emr/hospital-management-emr) - A complete open source for electronic healthcare record management in Hospitals, Clinics and Pharmacy. (5 days ago)
   - [serafimcloud/21st](https://github.com/serafimcloud/21st) - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks (1 week ago)
   - [phantom/blocklist](https://github.com/phantom/blocklist) -  (1 week ago)
   - [phantom/wallet-sdk](https://github.com/phantom/wallet-sdk) - Embedded Wallet SDK (1 week ago)
-  - [akash-network/console](https://github.com/akash-network/console) - Deploy docker containers on the Akash Network (1 week ago)
 </details>
 
 <br> 
