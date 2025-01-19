@@ -31,16 +31,17 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Lately, I have worked on</summary>
   
+  - [chore: fix responsiveness of organization screens](https://github.com/langwatch/langwatch/pull/87) on [langwatch/langwatch](https://github.com/langwatch/langwatch) (1 day ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [langwatch/langwatch](https://github.com/langwatch/langwatch) - The ultimate LLM Ops platform - Monitoring, Analytics, Evaluations, Datasets and Prompt Optimization ✨ (today)
-  - [opensource-emr/hospital-management-emr](https://github.com/opensource-emr/hospital-management-emr) - A complete open source for electronic healthcare record management in Hospitals, Clinics and Pharmacy. (5 days ago)
+  - [QuivrHQ/MegaParse](https://github.com/QuivrHQ/MegaParse) - File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.  (1 day ago)
+  - [langwatch/langwatch](https://github.com/langwatch/langwatch) - The ultimate LLM Ops platform - Monitoring, Analytics, Evaluations, Datasets and Prompt Optimization ✨ (1 day ago)
+  - [opensource-emr/hospital-management-emr](https://github.com/opensource-emr/hospital-management-emr) - A complete open source for electronic healthcare record management in Hospitals, Clinics and Pharmacy. (6 days ago)
   - [serafimcloud/21st](https://github.com/serafimcloud/21st) - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks (1 week ago)
   - [phantom/blocklist](https://github.com/phantom/blocklist) -  (1 week ago)
-  - [phantom/wallet-sdk](https://github.com/phantom/wallet-sdk) - Embedded Wallet SDK (1 week ago)
 </details>
 
 <br> 
