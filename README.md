@@ -21,7 +21,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) - Documentation for Reclaim Protocol (1 week ago)
+  - [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) - Documentation for Reclaim Protocol (today)
   - [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons (2 weeks ago)
   - [adithyaakrishna/blr-purity-test](https://github.com/adithyaakrishna/blr-purity-test) - Are you a Deep Deep Bangalorean? (2 weeks ago)
   - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (1 month ago)
@@ -38,11 +38,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
+  - [NiazMorshed2007/shadcn-tour](https://github.com/NiazMorshed2007/shadcn-tour) -  (today)
   - [QuivrHQ/MegaParse](https://github.com/QuivrHQ/MegaParse) - File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.  (3 days ago)
   - [langwatch/langwatch](https://github.com/langwatch/langwatch) - The ultimate LLM Ops platform - Monitoring, Analytics, Evaluations, Datasets and Prompt Optimization ✨ (3 days ago)
   - [opensource-emr/hospital-management-emr](https://github.com/opensource-emr/hospital-management-emr) - A complete open source for electronic healthcare record management in Hospitals, Clinics and Pharmacy. (1 week ago)
   - [serafimcloud/21st](https://github.com/serafimcloud/21st) - npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks (1 week ago)
-  - [phantom/blocklist](https://github.com/phantom/blocklist) -  (1 week ago)
 </details>
 
 <br> 
