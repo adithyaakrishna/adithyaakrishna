@@ -21,28 +21,27 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) - Documentation for Reclaim Protocol (2 days ago)
-  - [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons (2 weeks ago)
-  - [adithyaakrishna/blr-purity-test](https://github.com/adithyaakrishna/blr-purity-test) - Are you a Deep Deep Bangalorean? (2 weeks ago)
+  - [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) - Documentation for Reclaim Protocol (1 day ago)
+  - [reclaimprotocol/blog](https://github.com/reclaimprotocol/blog) -  (1 day ago)
+  - [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons (3 weeks ago)
+  - [adithyaakrishna/blr-purity-test](https://github.com/adithyaakrishna/blr-purity-test) - Are you a Deep Deep Bangalorean? (3 weeks ago)
   - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (1 month ago)
-  - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Memoirs (1 month ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [chore: update OSS UI](https://github.com/tensorlakeai/indexify/pull/1180) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (3 days ago)
-  - [chore: fix responsiveness of organization screens](https://github.com/langwatch/langwatch/pull/87) on [langwatch/langwatch](https://github.com/langwatch/langwatch) (5 days ago)
+  - [chore: update OSS UI](https://github.com/tensorlakeai/indexify/pull/1180) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (5 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes. (today)
-  - [NiazMorshed2007/shadcn-tour](https://github.com/NiazMorshed2007/shadcn-tour) -  (2 days ago)
-  - [QuivrHQ/MegaParse](https://github.com/QuivrHQ/MegaParse) - File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.  (5 days ago)
-  - [langwatch/langwatch](https://github.com/langwatch/langwatch) - The ultimate LLM Ops platform - Monitoring, Analytics, Evaluations, Datasets and Prompt Optimization ✨ (5 days ago)
-  - [opensource-emr/hospital-management-emr](https://github.com/opensource-emr/hospital-management-emr) - A complete open source for electronic healthcare record management in Hospitals, Clinics and Pharmacy. (1 week ago)
+  - [compound-finance/compound-protocol](https://github.com/compound-finance/compound-protocol) - The Compound On-Chain Protocol (1 day ago)
+  - [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes. (2 days ago)
+  - [NiazMorshed2007/shadcn-tour](https://github.com/NiazMorshed2007/shadcn-tour) -  (4 days ago)
+  - [QuivrHQ/MegaParse](https://github.com/QuivrHQ/MegaParse) - File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.  (1 week ago)
+  - [langwatch/langwatch](https://github.com/langwatch/langwatch) - The ultimate LLM Ops platform - Monitoring, Analytics, Evaluations, Datasets and Prompt Optimization ✨ (1 week ago)
 </details>
 
 <br> 
