@@ -36,11 +36,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
+  - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, &amp; extras. (today)
   - [unriddle-ai/lector](https://github.com/unriddle-ai/lector) - Simple, fast primitives for building pdf viewers. maintained by @unriddle-ai (1 day ago)
   - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. (2 days ago)
   - [compound-finance/compound-protocol](https://github.com/compound-finance/compound-protocol) - The Compound On-Chain Protocol (6 days ago)
   - [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes. (1 week ago)
-  - [NiazMorshed2007/shadcn-tour](https://github.com/NiazMorshed2007/shadcn-tour) -  (1 week ago)
 </details>
 
 <br> 
