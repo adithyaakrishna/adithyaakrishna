@@ -1,5 +1,7 @@
 ### Hey! I'm Adithya Krishna 👋
 I'm a Full-stack developer by day and a framework tinkerer by Night
+
+I currently work with @tensorlakeai - Building the UI for next-gen AI Infra catering to generative ai applications
   
 I used to work as a SWE-II at [Documenso](https://documenso.com) for ~7 months. And before that, I started my career by working at [Red Hat](https://redhat.com) for ~2.5yrs wherein I worked with the Customer Portal team [https://access.redhat.com](https://access.redhat.com)
 
