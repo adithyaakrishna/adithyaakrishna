@@ -23,8 +23,8 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 day ago)
-  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (4 days ago)
+  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 days ago)
+  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (5 days ago)
   - [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) - Documentation for Reclaim Protocol (1 week ago)
   - [reclaimprotocol/blog](https://github.com/reclaimprotocol/blog) -  (1 week ago)
   - [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons (4 weeks ago)
@@ -38,9 +38,9 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, &amp; extras. (2 days ago)
-  - [unriddle-ai/lector](https://github.com/unriddle-ai/lector) - Simple, fast primitives for building pdf viewers. maintained by @unriddle-ai (3 days ago)
-  - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. (4 days ago)
+  - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, &amp; extras. (3 days ago)
+  - [unriddle-ai/lector](https://github.com/unriddle-ai/lector) - Simple, fast primitives for building pdf viewers. maintained by @unriddle-ai (4 days ago)
+  - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. (5 days ago)
   - [compound-finance/compound-protocol](https://github.com/compound-finance/compound-protocol) - The Compound On-Chain Protocol (1 week ago)
   - [polarsource/polar](https://github.com/polarsource/polar) - An open source Merchant of Record. Sell SaaS and digital products in minutes. (1 week ago)
 </details>
