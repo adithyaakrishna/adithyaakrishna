@@ -23,7 +23,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (6 days ago)
+  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (1 week ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 week ago)
   - [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) - Documentation for Reclaim Protocol (2 weeks ago)
   - [reclaimprotocol/blog](https://github.com/reclaimprotocol/blog) -  (2 weeks ago)
@@ -38,11 +38,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [tensorlakeai/tensorlake](https://github.com/tensorlakeai/tensorlake) - Tensorlake SDK (2 days ago)
-  - [LegacyCodeHQ/eureka](https://github.com/LegacyCodeHQ/eureka) - Breakthrough tooling to work with Kotlin and Java codebases 🚀 (5 days ago)
+  - [Rob--W/cors-anywhere](https://github.com/Rob--W/cors-anywhere) - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request. (1 day ago)
+  - [tensorlakeai/tensorlake](https://github.com/tensorlakeai/tensorlake) - Tensorlake SDK (3 days ago)
+  - [LegacyCodeHQ/eureka](https://github.com/LegacyCodeHQ/eureka) - Breakthrough tooling to work with Kotlin and Java codebases 🚀 (6 days ago)
   - [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, &amp; extras. (1 week ago)
   - [unriddle-ai/lector](https://github.com/unriddle-ai/lector) - Simple, fast primitives for building pdf viewers. maintained by @unriddle-ai (1 week ago)
-  - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs. (1 week ago)
 </details>
 
 <br> 
