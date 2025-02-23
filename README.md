@@ -23,10 +23,10 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) - Documentation for Reclaim Protocol (today)
-  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (2 weeks ago)
+  - [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) - Documentation for Reclaim Protocol (1 day ago)
+  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (3 weeks ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (3 weeks ago)
-  - [reclaimprotocol/blog](https://github.com/reclaimprotocol/blog) -  (4 weeks ago)
+  - [reclaimprotocol/blog](https://github.com/reclaimprotocol/blog) -  (1 month ago)
   - [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons (1 month ago)
 </details>
 
@@ -38,11 +38,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere. (1 day ago)
-  - [gear5sh/Gear5](https://github.com/gear5sh/Gear5) - high performance better alternative to Airbyte, Singer, Meltano (1 day ago)
-  - [gensx-inc/gensx](https://github.com/gensx-inc/gensx) - The TypeScript framework for agents &amp; workflows with react-like components. Lightning fast dev loop. Easy to learn. Easy to extend. (1 day ago)
-  - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source Cursor for Designers. Design directly in your live React app and publish your changes to code. (3 days ago)
-  - [Emissary-Tech/legit-rag](https://github.com/Emissary-Tech/legit-rag) - A real production-worthy RAG Pipeline. (3 days ago)
+  - [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere. (2 days ago)
+  - [gear5sh/Gear5](https://github.com/gear5sh/Gear5) - high performance better alternative to Airbyte, Singer, Meltano (2 days ago)
+  - [gensx-inc/gensx](https://github.com/gensx-inc/gensx) - The TypeScript framework for agents &amp; workflows with react-like components. Lightning fast dev loop. Easy to learn. Easy to extend. (2 days ago)
+  - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source Cursor for Designers. Design directly in your live React app and publish your changes to code. (4 days ago)
+  - [Emissary-Tech/legit-rag](https://github.com/Emissary-Tech/legit-rag) - A real production-worthy RAG Pipeline. (4 days ago)
 </details>
 
 <br> 
