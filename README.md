@@ -38,11 +38,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
+  - [hyperjump-io/json-schema](https://github.com/hyperjump-io/json-schema) - JSON Schema Validation, Annotation, and Bundling. Supports Draft 04, 06, 07, 2019-09, 2020-12, OpenAPI 3.0, and OpenAPI 3.1 (today)
+  - [tdegrunt/jsonschema](https://github.com/tdegrunt/jsonschema) - JSON Schema validation (today)
   - [prazzon/Flexbox-Labs](https://github.com/prazzon/Flexbox-Labs) - A web app for creating flexible layouts with the power of CSS Flexbox. (5 days ago)
   - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0. (1 week ago)
   - [raphaelsalaja/toldo](https://github.com/raphaelsalaja/toldo) - An elevated dialog component for React. (1 week ago)
-  - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (2 weeks ago)
-  - [ansible-collections/cloud.terraform](https://github.com/ansible-collections/cloud.terraform) - The collection automates the management and provisioning of infrastructure as code (IaC) using the Terraform CLI tool within Ansible playbooks and Execution Environment runtimes. (2 weeks ago)
 </details>
 
 <br> 
