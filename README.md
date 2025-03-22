@@ -38,8 +38,8 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [hyperjump-io/json-schema](https://github.com/hyperjump-io/json-schema) - JSON Schema Validation, Annotation, and Bundling. Supports Draft 04, 06, 07, 2019-09, 2020-12, OpenAPI 3.0, and OpenAPI 3.1 (4 days ago)
-  - [tdegrunt/jsonschema](https://github.com/tdegrunt/jsonschema) - JSON Schema validation (4 days ago)
+  - [hyperjump-io/json-schema](https://github.com/hyperjump-io/json-schema) - JSON Schema Validation, Annotation, and Bundling. Supports Draft 04, 06, 07, 2019-09, 2020-12, OpenAPI 3.0, and OpenAPI 3.1 (6 days ago)
+  - [tdegrunt/jsonschema](https://github.com/tdegrunt/jsonschema) - JSON Schema validation (6 days ago)
   - [prazzon/Flexbox-Labs](https://github.com/prazzon/Flexbox-Labs) - A web app for creating flexible layouts with the power of CSS Flexbox. (1 week ago)
   - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0. (2 weeks ago)
   - [raphaelsalaja/toldo](https://github.com/raphaelsalaja/toldo) - An elevated dialog component for React. (2 weeks ago)
