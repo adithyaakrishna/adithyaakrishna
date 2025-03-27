@@ -24,7 +24,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   <summary>Check out what I'm currently working on</summary>
   
   - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Memoirs (1 day ago)
-  - [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) - Documentation for Reclaim Protocol (1 week ago)
+  - [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) - Documentation for Reclaim Protocol (2 weeks ago)
   - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (3 weeks ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 month ago)
   - [reclaimprotocol/blog](https://github.com/reclaimprotocol/blog) -  (2 months ago)
@@ -41,8 +41,8 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   - [hyperjump-io/json-schema](https://github.com/hyperjump-io/json-schema) - JSON Schema Validation, Annotation, and Bundling. Supports Draft 04, 06, 07, 2019-09, 2020-12, OpenAPI 3.0, and OpenAPI 3.1 (1 week ago)
   - [tdegrunt/jsonschema](https://github.com/tdegrunt/jsonschema) - JSON Schema validation (1 week ago)
   - [prazzon/Flexbox-Labs](https://github.com/prazzon/Flexbox-Labs) - A web app for creating flexible layouts with the power of CSS Flexbox. (2 weeks ago)
-  - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0. (2 weeks ago)
-  - [raphaelsalaja/toldo](https://github.com/raphaelsalaja/toldo) - An elevated dialog component for React. (2 weeks ago)
+  - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0. (3 weeks ago)
+  - [raphaelsalaja/toldo](https://github.com/raphaelsalaja/toldo) - An elevated dialog component for React. (3 weeks ago)
 </details>
 
 <br> 
