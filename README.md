@@ -23,17 +23,17 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Memoirs (4 days ago)
+  - [nyayanidhi/website-v2](https://github.com/nyayanidhi/website-v2) -  (1 day ago)
+  - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Memoirs (6 days ago)
   - [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) - Documentation for Reclaim Protocol (2 weeks ago)
-  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (4 weeks ago)
-  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 month ago)
-  - [reclaimprotocol/blog](https://github.com/reclaimprotocol/blog) -  (2 months ago)
+  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (1 month ago)
+  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 months ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [refactor(ui): updated to shadcn components](https://github.com/antiwork/flexile/pull/28) on [antiwork/flexile](https://github.com/antiwork/flexile) (3 days ago)
+  - [refactor(ui): updated to shadcn components](https://github.com/antiwork/flexile/pull/28) on [antiwork/flexile](https://github.com/antiwork/flexile) (5 days ago)
 </details>
 
 <details>
@@ -41,7 +41,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   
   - [hyperjump-io/json-schema](https://github.com/hyperjump-io/json-schema) - JSON Schema Validation, Annotation, and Bundling. Supports Draft 04, 06, 07, 2019-09, 2020-12, OpenAPI 3.0, and OpenAPI 3.1 (2 weeks ago)
   - [tdegrunt/jsonschema](https://github.com/tdegrunt/jsonschema) - JSON Schema validation (2 weeks ago)
-  - [prazzon/Flexbox-Labs](https://github.com/prazzon/Flexbox-Labs) - A web app for creating flexible layouts with the power of CSS Flexbox. (2 weeks ago)
+  - [prazzon/Flexbox-Labs](https://github.com/prazzon/Flexbox-Labs) - A web app for creating flexible layouts with the power of CSS Flexbox. (3 weeks ago)
   - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0. (3 weeks ago)
   - [raphaelsalaja/toldo](https://github.com/raphaelsalaja/toldo) - An elevated dialog component for React. (3 weeks ago)
 </details>
