@@ -23,8 +23,8 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Blogs (1 day ago)
-  - [nyayanidhi/website-v2](https://github.com/nyayanidhi/website-v2) -  (1 week ago)
+  - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Blogs (3 days ago)
+  - [nyayanidhi/website-v2](https://github.com/nyayanidhi/website-v2) -  (2 weeks ago)
   - [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) - Documentation for Reclaim Protocol (1 month ago)
   - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (1 month ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 months ago)
@@ -38,8 +38,8 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [hyperjump-io/json-schema](https://github.com/hyperjump-io/json-schema) - JSON Schema Validation, Annotation, and Bundling. Supports Draft 04, 06, 07, 2019-09, 2020-12, OpenAPI 3.0, and OpenAPI 3.1 (4 weeks ago)
-  - [tdegrunt/jsonschema](https://github.com/tdegrunt/jsonschema) - JSON Schema validation (4 weeks ago)
+  - [hyperjump-io/json-schema](https://github.com/hyperjump-io/json-schema) - JSON Schema Validation, Annotation, and Bundling. Supports Draft 04, 06, 07, 2019-09, 2020-12, OpenAPI 3.0, and OpenAPI 3.1 (1 month ago)
+  - [tdegrunt/jsonschema](https://github.com/tdegrunt/jsonschema) - JSON Schema validation (1 month ago)
   - [prazzon/Flexbox-Labs](https://github.com/prazzon/Flexbox-Labs) - A web app for creating flexible layouts with the power of CSS Flexbox. (1 month ago)
   - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0. (1 month ago)
   - [raphaelsalaja/toldo](https://github.com/raphaelsalaja/toldo) - An elevated dialog component for React. (1 month ago)
