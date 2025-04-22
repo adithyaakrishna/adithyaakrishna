@@ -23,27 +23,28 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
+  - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Blogs (today)
   - [adithyaakrishna/react-slot](https://github.com/adithyaakrishna/react-slot) - A React component library inspired by vintage split-flap display boards, like those classic railway station information boards (1 day ago)
   - [nyayanidhi/website-v2](https://github.com/nyayanidhi/website-v2) -  (3 days ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (6 days ago)
-  - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Blogs (1 week ago)
   - [reclaimprotocol/docs](https://github.com/reclaimprotocol/docs) - Documentation for Reclaim Protocol (1 month ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
+  - [chore: fix social links and update opengraph metadata](https://github.com/gensx-inc/gensx/pull/600) on [gensx-inc/gensx](https://github.com/gensx-inc/gensx) (today)
   - [chore: added namespace dropdown](https://github.com/tensorlakeai/indexify/pull/1370) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (1 day ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
+  - [buster-so/buster](https://github.com/buster-so/buster) - The open-source, AI-native data stack (today)
   - [hyperjump-io/json-schema](https://github.com/hyperjump-io/json-schema) - JSON Schema Validation, Annotation, and Bundling. Supports Draft 04, 06, 07, 2019-09, 2020-12, OpenAPI 3.0, and OpenAPI 3.1 (1 month ago)
   - [tdegrunt/jsonschema](https://github.com/tdegrunt/jsonschema) - JSON Schema validation (1 month ago)
   - [prazzon/Flexbox-Labs](https://github.com/prazzon/Flexbox-Labs) - A web app for creating flexible layouts with the power of CSS Flexbox. (1 month ago)
   - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0. (1 month ago)
-  - [raphaelsalaja/toldo](https://github.com/raphaelsalaja/toldo) - An elevated dialog component for React. (1 month ago)
 </details>
 
 <br> 
