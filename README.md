@@ -23,9 +23,9 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (3 days ago)
-  - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Blogs (4 days ago)
-  - [adithyaakrishna/react-slot](https://github.com/adithyaakrishna/react-slot) - A React component library inspired by vintage split-flap display boards, like those classic railway station information boards (5 days ago)
+  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (4 days ago)
+  - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Blogs (5 days ago)
+  - [adithyaakrishna/react-slot](https://github.com/adithyaakrishna/react-slot) - A React component library inspired by vintage split-flap display boards, like those classic railway station information boards (6 days ago)
   - [nyayanidhi/website-v2](https://github.com/nyayanidhi/website-v2) -  (1 week ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 week ago)
 </details>
@@ -33,15 +33,15 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [chore: fix social links and update opengraph metadata](https://github.com/gensx-inc/gensx/pull/600) on [gensx-inc/gensx](https://github.com/gensx-inc/gensx) (4 days ago)
-  - [chore: added namespace dropdown](https://github.com/tensorlakeai/indexify/pull/1370) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (5 days ago)
+  - [chore: fix social links and update opengraph metadata](https://github.com/gensx-inc/gensx/pull/600) on [gensx-inc/gensx](https://github.com/gensx-inc/gensx) (5 days ago)
+  - [chore: added namespace dropdown](https://github.com/tensorlakeai/indexify/pull/1370) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (6 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for AI Agents (4 days ago)
-  - [buster-so/buster](https://github.com/buster-so/buster) - Buster is an open-source platform for deploying AI data analysts  (4 days ago)
+  - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for AI Agents (5 days ago)
+  - [buster-so/buster](https://github.com/buster-so/buster) - Buster is an open-source platform for deploying AI data analysts  (5 days ago)
   - [hyperjump-io/json-schema](https://github.com/hyperjump-io/json-schema) - JSON Schema Validation, Annotation, and Bundling. Supports Draft 04, 06, 07, 2019-09, 2020-12, OpenAPI 3.0, and OpenAPI 3.1 (1 month ago)
   - [tdegrunt/jsonschema](https://github.com/tdegrunt/jsonschema) - JSON Schema validation (1 month ago)
   - [prazzon/Flexbox-Labs](https://github.com/prazzon/Flexbox-Labs) - A web app for creating flexible layouts with the power of CSS Flexbox. (1 month ago)
