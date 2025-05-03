@@ -26,7 +26,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (1 week ago)
   - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Blogs (1 week ago)
   - [adithyaakrishna/react-slot](https://github.com/adithyaakrishna/react-slot) - A React component library inspired by vintage split-flap display boards, like those classic railway station information boards (1 week ago)
-  - [nyayanidhi/website-v2](https://github.com/nyayanidhi/website-v2) -  (1 week ago)
+  - [nyayanidhi/website-v2](https://github.com/nyayanidhi/website-v2) -  (2 weeks ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 weeks ago)
 </details>
 
@@ -38,11 +38,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200&#43; LLMs, 50&#43; AI Guardrails with 1 fast &amp; friendly API. (3 days ago)
+  - [opentensor/developer-docs](https://github.com/opentensor/developer-docs) - Developer documentation for Bittensor. (1 day ago)
+  - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200&#43; LLMs, 50&#43; AI Guardrails with 1 fast &amp; friendly API. (5 days ago)
   - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory, beating OpenAI Memory in accuracy by 26% - https://mem0.ai/research (1 week ago)
   - [buster-so/buster](https://github.com/buster-so/buster) - Buster is an open-source platform for deploying AI data analysts  (1 week ago)
   - [hyperjump-io/json-schema](https://github.com/hyperjump-io/json-schema) - JSON Schema Validation, Annotation, and Bundling. Supports Draft 04, 06, 07, 2019-09, 2020-12, OpenAPI 3.0, and OpenAPI 3.1 (1 month ago)
-  - [tdegrunt/jsonschema](https://github.com/tdegrunt/jsonschema) - JSON Schema validation (1 month ago)
 </details>
 
 <br> 
