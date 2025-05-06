@@ -24,8 +24,8 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   <summary>Check out what I'm currently working on</summary>
   
   - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (1 week ago)
-  - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Blogs (1 week ago)
-  - [adithyaakrishna/react-slot](https://github.com/adithyaakrishna/react-slot) - A React component library inspired by vintage split-flap display boards, like those classic railway station information boards (1 week ago)
+  - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Blogs (2 weeks ago)
+  - [adithyaakrishna/react-slot](https://github.com/adithyaakrishna/react-slot) - A React component library inspired by vintage split-flap display boards, like those classic railway station information boards (2 weeks ago)
   - [nyayanidhi/website-v2](https://github.com/nyayanidhi/website-v2) -  (2 weeks ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 weeks ago)
 </details>
@@ -38,10 +38,10 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [opentensor/developer-docs](https://github.com/opentensor/developer-docs) - Developer documentation for Bittensor. (2 days ago)
-  - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200&#43; LLMs, 50&#43; AI Guardrails with 1 fast &amp; friendly API. (6 days ago)
-  - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory, beating OpenAI Memory in accuracy by 26% - https://mem0.ai/research (1 week ago)
-  - [buster-so/buster](https://github.com/buster-so/buster) - Buster is an open-source platform for deploying AI data analysts  (1 week ago)
+  - [opentensor/developer-docs](https://github.com/opentensor/developer-docs) - Developer documentation for Bittensor. (4 days ago)
+  - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200&#43; LLMs, 50&#43; AI Guardrails with 1 fast &amp; friendly API. (1 week ago)
+  - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory, beating OpenAI Memory in accuracy by 26% - https://mem0.ai/research (2 weeks ago)
+  - [buster-so/buster](https://github.com/buster-so/buster) - Buster is an open-source platform for deploying AI data analysts  (2 weeks ago)
   - [hyperjump-io/json-schema](https://github.com/hyperjump-io/json-schema) - JSON Schema Validation, Annotation, and Bundling. Supports Draft 04, 06, 07, 2019-09, 2020-12, OpenAPI 3.0, and OpenAPI 3.1 (1 month ago)
 </details>
 
