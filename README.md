@@ -23,11 +23,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
+  - [nyayanidhi/nyayanidhi-rag-ui](https://github.com/nyayanidhi/nyayanidhi-rag-ui) -  (today)
   - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (today)
   - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Blogs (2 weeks ago)
   - [adithyaakrishna/react-slot](https://github.com/adithyaakrishna/react-slot) - A React component library inspired by vintage split-flap display boards, like those classic railway station information boards (2 weeks ago)
   - [nyayanidhi/website-v2](https://github.com/nyayanidhi/website-v2) -  (3 weeks ago)
-  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (3 weeks ago)
 </details>
 
 <details>
