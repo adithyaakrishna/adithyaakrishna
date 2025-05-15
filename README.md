@@ -23,27 +23,27 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [nyayanidhi/nyayanidhi-rag-ui](https://github.com/nyayanidhi/nyayanidhi-rag-ui) -  (3 days ago)
-  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (3 days ago)
+  - [tensorlakeai/tensorlake](https://github.com/tensorlakeai/tensorlake) - Tensorlake SDK (1 day ago)
+  - [nyayanidhi/nyayanidhi-rag-ui](https://github.com/nyayanidhi/nyayanidhi-rag-ui) -  (5 days ago)
+  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (5 days ago)
   - [adithyaakrishna/blog](https://github.com/adithyaakrishna/blog) - My Blogs (3 weeks ago)
   - [adithyaakrishna/react-slot](https://github.com/adithyaakrishna/react-slot) - A React component library inspired by vintage split-flap display boards, like those classic railway station information boards (3 weeks ago)
-  - [nyayanidhi/website-v2](https://github.com/nyayanidhi/website-v2) -  (3 weeks ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [chore: fix namespace dropdown](https://github.com/tensorlakeai/indexify/pull/1417) on [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) (4 days ago)
+  - [chore: add form detection to sdk](https://github.com/tensorlakeai/tensorlake/pull/136) on [tensorlakeai/tensorlake](https://github.com/tensorlakeai/tensorlake) (2 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23  (6 days ago)
+  - [kuzudb/kuzu](https://github.com/kuzudb/kuzu) - Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher. (1 day ago)
+  - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23  (1 week ago)
   - [opentensor/developer-docs](https://github.com/opentensor/developer-docs) - Developer documentation for Bittensor. (1 week ago)
   - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200&#43; LLMs, 50&#43; AI Guardrails with 1 fast &amp; friendly API. (2 weeks ago)
-  - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory, beating OpenAI Memory in accuracy by 26% - https://mem0.ai/research (3 weeks ago)
-  - [buster-so/buster](https://github.com/buster-so/buster) - Buster is an open-source platform for deploying AI data analysts  (3 weeks ago)
+  - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management. (3 weeks ago)
 </details>
 
 <br> 
