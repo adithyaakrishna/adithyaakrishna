@@ -33,6 +33,8 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Lately, I have worked on</summary>
   
+  - [chore: reorganize chat page to follow nextjs best practices](https://github.com/BasedHardware/omi/pull/2433) on [BasedHardware/omi](https://github.com/BasedHardware/omi) (1 day ago)
+  - [chore: fix formatting issue of the docs](https://github.com/BasedHardware/omi/pull/2432) on [BasedHardware/omi](https://github.com/BasedHardware/omi) (1 day ago)
 </details>
 
 <details>
