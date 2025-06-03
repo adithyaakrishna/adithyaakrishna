@@ -23,8 +23,8 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/pi-chat](https://github.com/adithyaakrishna/pi-chat) - Clone of PiChat Using Sarvam and OpenAI API (today)
-  - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically (6 days ago)
+  - [adithyaakrishna/pi-chat](https://github.com/adithyaakrishna/pi-chat) - Clone of PiChat Using Sarvam and OpenAI API (2 days ago)
+  - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically (1 week ago)
   - [tensorlakeai/tensorlake](https://github.com/tensorlakeai/tensorlake) - Tensorlake SDK (2 weeks ago)
   - [nyayanidhi/nyayanidhi-rag-ui](https://github.com/nyayanidhi/nyayanidhi-rag-ui) -  (3 weeks ago)
   - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (3 weeks ago)
@@ -33,18 +33,18 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [chore: update username page](https://github.com/BasedHardware/omi/pull/2481) on [BasedHardware/omi](https://github.com/BasedHardware/omi) (2 days ago)
-  - [chore: fix modal bug](https://github.com/BasedHardware/omi/pull/2480) on [BasedHardware/omi](https://github.com/BasedHardware/omi) (2 days ago)
+  - [chore: update username page](https://github.com/BasedHardware/omi/pull/2481) on [BasedHardware/omi](https://github.com/BasedHardware/omi) (4 days ago)
+  - [chore: fix modal bug](https://github.com/BasedHardware/omi/pull/2480) on [BasedHardware/omi](https://github.com/BasedHardware/omi) (4 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [tensorlakeai/platform-api](https://github.com/tensorlakeai/platform-api) - Tensorlake Cloud Plaform API (6 days ago)
-  - [tensorlakeai/platform-ui](https://github.com/tensorlakeai/platform-ui) - Indexify Cloud Platform (6 days ago)
-  - [tensorlakeai/docs](https://github.com/tensorlakeai/docs) -  (6 days ago)
-  - [tensorlakeai/inkwell-server](https://github.com/tensorlakeai/inkwell-server) - Inkwell Server (6 days ago)
-  - [trycompai/comp](https://github.com/trycompai/comp) - The open source compliance platform - Drata &amp; Vanta Alternative (6 days ago)
+  - [tensorlakeai/platform-api](https://github.com/tensorlakeai/platform-api) - Tensorlake Cloud Plaform API (1 week ago)
+  - [tensorlakeai/platform-ui](https://github.com/tensorlakeai/platform-ui) - Indexify Cloud Platform (1 week ago)
+  - [tensorlakeai/docs](https://github.com/tensorlakeai/docs) -  (1 week ago)
+  - [tensorlakeai/inkwell-server](https://github.com/tensorlakeai/inkwell-server) - Inkwell Server (1 week ago)
+  - [trycompai/comp](https://github.com/trycompai/comp) - The open source compliance platform - Drata &amp; Vanta Alternative (1 week ago)
 </details>
 
 <br> 
