@@ -38,11 +38,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
+  - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS (today)
   - [niledatabase/nile-auth](https://github.com/niledatabase/nile-auth) - Auth for B2B apps - multi-tenant, comprehensive, drop-in, unlimited active users, open source, customer data in your Nile&#39;s Postgres (5 days ago)
   - [tensorlakeai/platform-api](https://github.com/tensorlakeai/platform-api) - Tensorlake Cloud Plaform API (2 weeks ago)
   - [tensorlakeai/platform-ui](https://github.com/tensorlakeai/platform-ui) - Indexify Cloud Platform (2 weeks ago)
   - [tensorlakeai/docs](https://github.com/tensorlakeai/docs) -  (2 weeks ago)
-  - [tensorlakeai/inkwell-server](https://github.com/tensorlakeai/inkwell-server) - Inkwell Server (2 weeks ago)
 </details>
 
 <br> 
