@@ -23,8 +23,8 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
+  - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically (1 day ago)
   - [adithyaakrishna/pi-chat](https://github.com/adithyaakrishna/pi-chat) - Clone of PiChat Using Sarvam and OpenAI API (2 weeks ago)
-  - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically (2 weeks ago)
   - [tensorlakeai/tensorlake](https://github.com/tensorlakeai/tensorlake) - Tensorlake SDK (1 month ago)
   - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (1 month ago)
   - [nyayanidhi/nyayanidhi-rag-ui](https://github.com/nyayanidhi/nyayanidhi-rag-ui) -  (1 month ago)
@@ -33,16 +33,20 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Lately, I have worked on</summary>
   
+  - [chore: fix loading issue](https://github.com/BasedHardware/omi/pull/2556) on [BasedHardware/omi](https://github.com/BasedHardware/omi) (1 day ago)
+  - [chore: fix scroll animation](https://github.com/BasedHardware/omi/pull/2555) on [BasedHardware/omi](https://github.com/BasedHardware/omi) (1 day ago)
+  - [feat: add lint check workflow and lint all files](https://github.com/BasedHardware/omi/pull/2553) on [BasedHardware/omi](https://github.com/BasedHardware/omi) (1 day ago)
+  - [chore: update docs to follow organized structure](https://github.com/BasedHardware/omi/pull/2552) on [BasedHardware/omi](https://github.com/BasedHardware/omi) (1 day ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS (5 days ago)
+  - [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️   (1 day ago)
+  - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS (1 week ago)
   - [niledatabase/nile-auth](https://github.com/niledatabase/nile-auth) - Auth for B2B apps - multi-tenant, comprehensive, drop-in, unlimited active users, open source, customer data in your Nile&#39;s Postgres (1 week ago)
-  - [tensorlakeai/platform-api](https://github.com/tensorlakeai/platform-api) - Tensorlake Cloud Plaform API (2 weeks ago)
-  - [tensorlakeai/platform-ui](https://github.com/tensorlakeai/platform-ui) - Indexify Cloud Platform (2 weeks ago)
-  - [tensorlakeai/docs](https://github.com/tensorlakeai/docs) -  (2 weeks ago)
+  - [tensorlakeai/platform-api](https://github.com/tensorlakeai/platform-api) - Tensorlake Cloud Plaform API (3 weeks ago)
+  - [tensorlakeai/platform-ui](https://github.com/tensorlakeai/platform-ui) - Indexify Cloud Platform (3 weeks ago)
 </details>
 
 <br> 
