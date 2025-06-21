@@ -23,11 +23,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
+  - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (today)
   - [adithyaakrishna/pi-chat](https://github.com/adithyaakrishna/pi-chat) - Clone of PiChat Using Sarvam and OpenAI API (2 days ago)
   - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically (4 days ago)
   - [tensorlakeai/tensorlake](https://github.com/tensorlakeai/tensorlake) - Tensorlake SDK (1 month ago)
   - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (1 month ago)
-  - [nyayanidhi/nyayanidhi-rag-ui](https://github.com/nyayanidhi/nyayanidhi-rag-ui) -  (1 month ago)
 </details>
 
 <details>
