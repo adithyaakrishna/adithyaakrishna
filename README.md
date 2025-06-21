@@ -23,8 +23,8 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/pi-chat](https://github.com/adithyaakrishna/pi-chat) - Clone of PiChat Using Sarvam and OpenAI API (today)
-  - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically (2 days ago)
+  - [adithyaakrishna/pi-chat](https://github.com/adithyaakrishna/pi-chat) - Clone of PiChat Using Sarvam and OpenAI API (2 days ago)
+  - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically (4 days ago)
   - [tensorlakeai/tensorlake](https://github.com/tensorlakeai/tensorlake) - Tensorlake SDK (1 month ago)
   - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (1 month ago)
   - [nyayanidhi/nyayanidhi-rag-ui](https://github.com/nyayanidhi/nyayanidhi-rag-ui) -  (1 month ago)
@@ -33,20 +33,20 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [chore: fix loading issue](https://github.com/BasedHardware/omi/pull/2556) on [BasedHardware/omi](https://github.com/BasedHardware/omi) (3 days ago)
-  - [chore: fix scroll animation](https://github.com/BasedHardware/omi/pull/2555) on [BasedHardware/omi](https://github.com/BasedHardware/omi) (3 days ago)
-  - [feat: add lint check workflow and lint all files](https://github.com/BasedHardware/omi/pull/2553) on [BasedHardware/omi](https://github.com/BasedHardware/omi) (3 days ago)
-  - [chore: update docs to follow organized structure](https://github.com/BasedHardware/omi/pull/2552) on [BasedHardware/omi](https://github.com/BasedHardware/omi) (3 days ago)
+  - [chore: fix loading issue](https://github.com/BasedHardware/omi/pull/2556) on [BasedHardware/omi](https://github.com/BasedHardware/omi) (5 days ago)
+  - [chore: fix scroll animation](https://github.com/BasedHardware/omi/pull/2555) on [BasedHardware/omi](https://github.com/BasedHardware/omi) (5 days ago)
+  - [feat: add lint check workflow and lint all files](https://github.com/BasedHardware/omi/pull/2553) on [BasedHardware/omi](https://github.com/BasedHardware/omi) (5 days ago)
+  - [chore: update docs to follow organized structure](https://github.com/BasedHardware/omi/pull/2552) on [BasedHardware/omi](https://github.com/BasedHardware/omi) (5 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease. (today)
-  - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/ (today)
-  - [Portkey-AI/portkey-node-sdk](https://github.com/Portkey-AI/portkey-node-sdk) - Build reliable, secure, and production-ready AI apps easily. (1 day ago)
-  - [MotiaDev/motia](https://github.com/MotiaDev/motia) - Unified Backend Framework for APIs, Events, and AI Agents (1 day ago)
-  - [diggerhq/digger](https://github.com/diggerhq/digger) - Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️   (3 days ago)
+  - [fal-ai/fal-js](https://github.com/fal-ai/fal-js) - The JavaScript client and utilities to fal-serverless with built-in TypeScript definitions (1 day ago)
+  - [tesseral-labs/tesseral-sdk-node](https://github.com/tesseral-labs/tesseral-sdk-node) - Tesseral SDK for Node / Bun / Deno (1 day ago)
+  - [tesseral-labs/docs](https://github.com/tesseral-labs/docs) - Content powering tesseral.com/docs (1 day ago)
+  - [tesseral-labs/tesseral](https://github.com/tesseral-labs/tesseral) - Open source auth infrastructure for B2B SaaS (1 day ago)
+  - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (1 day ago)
 </details>
 
 <br> 
