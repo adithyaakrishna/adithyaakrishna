@@ -23,30 +23,30 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (1 day ago)
-  - [adithyaakrishna/pi-chat](https://github.com/adithyaakrishna/pi-chat) - Clone of PiChat Using Sarvam and OpenAI API (3 days ago)
-  - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically (5 days ago)
+  - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (3 days ago)
+  - [adithyaakrishna/pi-chat](https://github.com/adithyaakrishna/pi-chat) - Clone of PiChat Using Sarvam and OpenAI API (5 days ago)
+  - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically (1 week ago)
   - [tensorlakeai/tensorlake](https://github.com/tensorlakeai/tensorlake) - Tensorlake SDK (1 month ago)
-  - [tensorlakeai/indexify](https://github.com/tensorlakeai/indexify) - A realtime serving engine for Data-Intensive Generative AI Applications (1 month ago)
+  - [nyayanidhi/nyayanidhi-rag-ui](https://github.com/nyayanidhi/nyayanidhi-rag-ui) -  (1 month ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [chore: fix loading issue](https://github.com/BasedHardware/omi/pull/2556) on [BasedHardware/omi](https://github.com/BasedHardware/omi) (6 days ago)
-  - [chore: fix scroll animation](https://github.com/BasedHardware/omi/pull/2555) on [BasedHardware/omi](https://github.com/BasedHardware/omi) (6 days ago)
-  - [feat: add lint check workflow and lint all files](https://github.com/BasedHardware/omi/pull/2553) on [BasedHardware/omi](https://github.com/BasedHardware/omi) (6 days ago)
-  - [chore: update docs to follow organized structure](https://github.com/BasedHardware/omi/pull/2552) on [BasedHardware/omi](https://github.com/BasedHardware/omi) (6 days ago)
+  - [chore: fix loading issue](https://github.com/BasedHardware/omi/pull/2556) on [BasedHardware/omi](https://github.com/BasedHardware/omi) (1 week ago)
+  - [chore: fix scroll animation](https://github.com/BasedHardware/omi/pull/2555) on [BasedHardware/omi](https://github.com/BasedHardware/omi) (1 week ago)
+  - [feat: add lint check workflow and lint all files](https://github.com/BasedHardware/omi/pull/2553) on [BasedHardware/omi](https://github.com/BasedHardware/omi) (1 week ago)
+  - [chore: update docs to follow organized structure](https://github.com/BasedHardware/omi/pull/2552) on [BasedHardware/omi](https://github.com/BasedHardware/omi) (1 week ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [fal-ai/fal-js](https://github.com/fal-ai/fal-js) - The JavaScript client and utilities to fal-serverless with built-in TypeScript definitions (2 days ago)
-  - [tesseral-labs/tesseral-sdk-node](https://github.com/tesseral-labs/tesseral-sdk-node) - Tesseral SDK for Node / Bun / Deno (2 days ago)
-  - [tesseral-labs/docs](https://github.com/tesseral-labs/docs) - Content powering tesseral.com/docs (2 days ago)
-  - [tesseral-labs/tesseral](https://github.com/tesseral-labs/tesseral) - Open source auth infrastructure for B2B SaaS (2 days ago)
-  - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (2 days ago)
+  - [fal-ai/fal-js](https://github.com/fal-ai/fal-js) - The JavaScript client and utilities to fal-serverless with built-in TypeScript definitions (4 days ago)
+  - [tesseral-labs/tesseral-sdk-node](https://github.com/tesseral-labs/tesseral-sdk-node) - Tesseral SDK for Node / Bun / Deno (4 days ago)
+  - [tesseral-labs/docs](https://github.com/tesseral-labs/docs) - Content powering tesseral.com/docs (4 days ago)
+  - [tesseral-labs/tesseral](https://github.com/tesseral-labs/tesseral) - Open source auth infrastructure for B2B SaaS (4 days ago)
+  - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (4 days ago)
 </details>
 
 <br> 
