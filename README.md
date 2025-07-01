@@ -25,7 +25,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   
   - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (1 week ago)
   - [adithyaakrishna/pi-chat](https://github.com/adithyaakrishna/pi-chat) - Clone of PiChat Using Sarvam and OpenAI API (1 week ago)
-  - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically (1 week ago)
+  - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically (2 weeks ago)
   - [tensorlakeai/tensorlake](https://github.com/tensorlakeai/tensorlake) - Tensorlake SDK (1 month ago)
   - [nyayanidhi/nyayanidhi-rag-ui](https://github.com/nyayanidhi/nyayanidhi-rag-ui) -  (1 month ago)
 </details>
@@ -33,17 +33,16 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [chore: fix loading issue](https://github.com/BasedHardware/omi/pull/2556) on [BasedHardware/omi](https://github.com/BasedHardware/omi) (1 week ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative (4 days ago)
-  - [sam-goodwin/alchemy](https://github.com/sam-goodwin/alchemy) - Orchestrate the Cloud with pure TypeScript (4 days ago)
-  - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript (4 days ago)
-  - [lumina-ai-inc/chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision infrastructure to turn complex documents into RAG/LLM-ready data (5 days ago)
-  - [fal-ai/fal-js](https://github.com/fal-ai/fal-js) - The JavaScript client and utilities to fal-serverless with built-in TypeScript definitions (1 week ago)
+  - [agno-agi/agno](https://github.com/agno-agi/agno) - Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning. (1 day ago)
+  - [CambioML/any-parser](https://github.com/CambioML/any-parser) - Accurate, private and configurable document retrieval LLM (1 day ago)
+  - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama. (1 day ago)
+  - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration &amp; Revenue analytics (1 day ago)
+  - [KhoomeiK/sanskrit-ocr](https://github.com/KhoomeiK/sanskrit-ocr) -  (1 day ago)
 </details>
 
 <br> 
