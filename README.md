@@ -38,11 +38,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [antiwork/gumroad](https://github.com/antiwork/gumroad) -  (3 days ago)
-  - [raunofreiberg/interfaces](https://github.com/raunofreiberg/interfaces) - A non-exhaustive list of details that make a good web interface. (4 days ago)
-  - [agno-agi/agno](https://github.com/agno-agi/agno) - Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning. (5 days ago)
-  - [CambioML/any-parser](https://github.com/CambioML/any-parser) - Accurate, private and configurable document retrieval LLM (5 days ago)
-  - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama. (5 days ago)
+  - [antiwork/gumroad](https://github.com/antiwork/gumroad) -  (4 days ago)
+  - [raunofreiberg/interfaces](https://github.com/raunofreiberg/interfaces) - A non-exhaustive list of details that make a good web interface. (5 days ago)
+  - [agno-agi/agno](https://github.com/agno-agi/agno) - Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning. (6 days ago)
+  - [CambioML/any-parser](https://github.com/CambioML/any-parser) - Accurate, private and configurable document retrieval LLM (6 days ago)
+  - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama. (6 days ago)
 </details>
 
 <br> 
