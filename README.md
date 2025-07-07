@@ -3,9 +3,9 @@ I'm a Full-Stack Developer (more frontend oriented) by day and a framework tinke
 
 I currently work with [@tensorlakeai](https://www.tensorlake.ai) - Building the UI for next-gen AI Infra catering to generative ai applications. I work primarily with NextJS, React, TypeScript, Tailwind CSS and Fastify, I've
 
-- Co-led the development of https://cloud.tensorlake.ai from scratch
-- Built https://arxiv.tensorlake.ai our semantic search technology for arXiv papers
-- Built our website https://www.tensorlake.ai entirely from the ground up
+- Co-led the development of https://cloud.tensorlake.ai from scratch alongside other team members
+- Built https://arxiv.tensorlake.ai - our semantic search technology for arXiv papers
+- Built our website https://www.tensorlake.ai entirely from the ground up using NextJS, Typescript, TailwindCSS and shadcn/ui
 - Worked with https://documenso.com where my tech stack also involved building backend features
 - Recently I've built https://github.com/adithyaakrishna/pi-chat which is a clone of pi-chat but has Sarvam's API (https://sarvam.ai) powering the Text to Speech
   
