@@ -1,9 +1,15 @@
 ### Hey! I'm Adithya Krishna 👋
-I'm a Full-stack developer by day and a framework tinkerer by Night
+I'm a Full-Stack Developer (more frontend oriented) by day and a framework tinkerer by Night
 
-I currently work with @tensorlakeai - Building the UI for next-gen AI Infra catering to generative ai applications
+I currently work with [@tensorlakeai](https://www.tensorlake.ai) - Building the UI for next-gen AI Infra catering to generative ai applications. I work primarily with NextJS, React, TypeScript, Tailwind CSS and Fastify, I've
+
+- Co-led the development of https://cloud.tensorlake.ai from scratch
+- Built https://arxiv.tensorlake.ai our semantic search technology for arXiv papers
+- Built our website https://www.tensorlake.ai entirely from the ground up
+- Worked with https://documenso.com where my tech stack also involved building backend features
+- Recently I've built https://github.com/adithyaakrishna/pi-chat which is a clone of pi-chat but has Sarvam's API (https://sarvam.ai) powering the Text to Speech
   
-I used to work as a SWE-II at [Documenso](https://documenso.com) for ~7 months. And before that, I started my career by working at [Red Hat](https://redhat.com) for ~2.5yrs wherein I worked with the Customer Portal team [https://access.redhat.com](https://access.redhat.com)
+Previously, I used to work as a SWE-II at [Documenso](https://documenso.com) for ~7 months. And before that, I started my career by working at [Red Hat](https://redhat.com) for ~2.5yrs wherein I worked with the Customer Portal team [https://access.redhat.com](https://access.redhat.com)
 
 I was also a [Google Season of Docs - GSoD '23](https://developers.google.com/season-of-docs) Technical Writer at [WasmEdge](https://github.com/WasmEdge) were I worked towards improving the Documentation of the project and onboarding contributors. And I was also a [Google Summer of Code - GSoC '23](https://summerofcode.withgoogle.com/) Developer at [OpenChemistry](https://openchemistry.org), where I worked on improving [3DMol.js](https://github.com/3dmol/3Dmol.js) library
 
@@ -38,11 +44,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [antiwork/gumroad](https://github.com/antiwork/gumroad) -  (4 days ago)
-  - [raunofreiberg/interfaces](https://github.com/raunofreiberg/interfaces) - A non-exhaustive list of details that make a good web interface. (5 days ago)
-  - [agno-agi/agno](https://github.com/agno-agi/agno) - Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning. (6 days ago)
-  - [CambioML/any-parser](https://github.com/CambioML/any-parser) - Accurate, private and configurable document retrieval LLM (6 days ago)
-  - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama. (6 days ago)
+  - [antiwork/gumroad](https://github.com/antiwork/gumroad) -  (5 days ago)
+  - [raunofreiberg/interfaces](https://github.com/raunofreiberg/interfaces) - A non-exhaustive list of details that make a good web interface. (6 days ago)
+  - [agno-agi/agno](https://github.com/agno-agi/agno) - Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning. (1 week ago)
+  - [CambioML/any-parser](https://github.com/CambioML/any-parser) - Accurate, private and configurable document retrieval LLM (1 week ago)
+  - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama. (1 week ago)
 </details>
 
 <br> 
