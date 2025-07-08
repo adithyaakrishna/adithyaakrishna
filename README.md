@@ -31,7 +31,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   
   - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (2 weeks ago)
   - [adithyaakrishna/pi-chat](https://github.com/adithyaakrishna/pi-chat) - Clone of PiChat Using Sarvam and OpenAI API (2 weeks ago)
-  - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically (2 weeks ago)
+  - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically (3 weeks ago)
   - [tensorlakeai/tensorlake](https://github.com/tensorlakeai/tensorlake) - Tensorlake SDK (1 month ago)
   - [nyayanidhi/nyayanidhi-rag-ui](https://github.com/nyayanidhi/nyayanidhi-rag-ui) -  (1 month ago)
 </details>
@@ -44,8 +44,8 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [antiwork/gumroad](https://github.com/antiwork/gumroad) -  (5 days ago)
-  - [raunofreiberg/interfaces](https://github.com/raunofreiberg/interfaces) - A non-exhaustive list of details that make a good web interface. (6 days ago)
+  - [antiwork/gumroad](https://github.com/antiwork/gumroad) -  (6 days ago)
+  - [raunofreiberg/interfaces](https://github.com/raunofreiberg/interfaces) - A non-exhaustive list of details that make a good web interface. (1 week ago)
   - [agno-agi/agno](https://github.com/agno-agi/agno) - Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning. (1 week ago)
   - [CambioML/any-parser](https://github.com/CambioML/any-parser) - Accurate, private and configurable document retrieval LLM (1 week ago)
   - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama. (1 week ago)
