@@ -39,6 +39,9 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Lately, I have worked on</summary>
   
+  - [chore: optimize filters for useMemo and nextjs/react conventions](https://github.com/antiwork/helper/pull/745) on [antiwork/helper](https://github.com/antiwork/helper) (today)
+  - [chore: fix siderbar layout shift](https://github.com/antiwork/helper/pull/743) on [antiwork/helper](https://github.com/antiwork/helper) (today)
+  - [chore: use useMemo and performance optimizations for conversationList](https://github.com/antiwork/helper/pull/742) on [antiwork/helper](https://github.com/antiwork/helper) (today)
 </details>
 
 <details>
