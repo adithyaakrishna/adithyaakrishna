@@ -29,19 +29,19 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
+  - [antiwork/helper](https://github.com/antiwork/helper) - Customer support with AI assistance (today)
   - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (3 weeks ago)
   - [adithyaakrishna/pi-chat](https://github.com/adithyaakrishna/pi-chat) - Clone of PiChat Using Sarvam and OpenAI API (3 weeks ago)
   - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically (3 weeks ago)
-  - [tensorlakeai/tensorlake](https://github.com/tensorlakeai/tensorlake) - Tensorlake SDK (1 month ago)
-  - [nyayanidhi/nyayanidhi-rag-ui](https://github.com/nyayanidhi/nyayanidhi-rag-ui) -  (2 months ago)
+  - [tensorlakeai/tensorlake](https://github.com/tensorlakeai/tensorlake) - Tensorlake SDK (2 months ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [chore: optimize filters for useMemo and nextjs/react conventions](https://github.com/antiwork/helper/pull/745) on [antiwork/helper](https://github.com/antiwork/helper) (today)
-  - [chore: fix siderbar layout shift](https://github.com/antiwork/helper/pull/743) on [antiwork/helper](https://github.com/antiwork/helper) (today)
-  - [chore: use useMemo and performance optimizations for conversationList](https://github.com/antiwork/helper/pull/742) on [antiwork/helper](https://github.com/antiwork/helper) (today)
+  - [chore: optimize filters for useMemo and nextjs/react conventions](https://github.com/antiwork/helper/pull/745) on [antiwork/helper](https://github.com/antiwork/helper) (1 day ago)
+  - [chore: fix siderbar layout shift](https://github.com/antiwork/helper/pull/743) on [antiwork/helper](https://github.com/antiwork/helper) (1 day ago)
+  - [chore: use useMemo and performance optimizations for conversationList](https://github.com/antiwork/helper/pull/742) on [antiwork/helper](https://github.com/antiwork/helper) (1 day ago)
 </details>
 
 <details>
