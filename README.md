@@ -49,11 +49,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
+  - [analogdotnow/Analog](https://github.com/analogdotnow/Analog) - Meet the calendar that changes everything (today)
   - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers (1 day ago)
   - [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - OCR &amp; Document Extraction using vision models (1 day ago)
   - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool. (1 day ago)
   - [danmayer/coverband](https://github.com/danmayer/coverband) - Ruby production code coverage collection and reporting (line of code usage) (2 days ago)
-  - [jackjackbits/sunday](https://github.com/jackjackbits/sunday) - track your D (4 days ago)
 </details>
 
 <br> 
