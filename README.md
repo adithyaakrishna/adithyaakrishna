@@ -29,31 +29,31 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [antiwork/helper](https://github.com/antiwork/helper) - Help customers help themselves (today)
+  - [antiwork/helper](https://github.com/antiwork/helper) - Help customers help themselves (2 days ago)
   - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (3 weeks ago)
-  - [adithyaakrishna/pi-chat](https://github.com/adithyaakrishna/pi-chat) - Clone of PiChat Using Sarvam and OpenAI API (3 weeks ago)
-  - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically (4 weeks ago)
+  - [adithyaakrishna/pi-chat](https://github.com/adithyaakrishna/pi-chat) - Clone of PiChat Using Sarvam and OpenAI API (4 weeks ago)
+  - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically (1 month ago)
   - [tensorlakeai/tensorlake](https://github.com/tensorlakeai/tensorlake) - Tensorlake SDK (2 months ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat: improved not found page design](https://github.com/antiwork/helper/pull/760) on [antiwork/helper](https://github.com/antiwork/helper) (1 day ago)
-  - [feat: dark mode improvements](https://github.com/antiwork/helper/pull/758) on [antiwork/helper](https://github.com/antiwork/helper) (1 day ago)
-  - [feat: add searchable select to settings](https://github.com/antiwork/gumroad/pull/620) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (2 days ago)
-  - [chore: add loader to team setting](https://github.com/antiwork/helper/pull/749) on [antiwork/helper](https://github.com/antiwork/helper) (2 days ago)
-  - [chore: optimize filters for useMemo and nextjs/react conventions](https://github.com/antiwork/helper/pull/745) on [antiwork/helper](https://github.com/antiwork/helper) (3 days ago)
+  - [feat: revamp the settings pages](https://github.com/antiwork/helper/pull/777) on [antiwork/helper](https://github.com/antiwork/helper) (2 days ago)
+  - [feat: improved not found page design](https://github.com/antiwork/helper/pull/760) on [antiwork/helper](https://github.com/antiwork/helper) (3 days ago)
+  - [feat: dark mode improvements](https://github.com/antiwork/helper/pull/758) on [antiwork/helper](https://github.com/antiwork/helper) (3 days ago)
+  - [feat: add searchable select to settings](https://github.com/antiwork/gumroad/pull/620) on [antiwork/gumroad](https://github.com/antiwork/gumroad) (4 days ago)
+  - [chore: add loader to team setting](https://github.com/antiwork/helper/pull/749) on [antiwork/helper](https://github.com/antiwork/helper) (4 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [jackjackbits/sunday](https://github.com/jackjackbits/sunday) - track your D (2 days ago)
-  - [antiwork/gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks (1 week ago)
-  - [raunofreiberg/interfaces](https://github.com/raunofreiberg/interfaces) - A non-exhaustive list of details that make a good web interface. (2 weeks ago)
-  - [agno-agi/agno](https://github.com/agno-agi/agno) - Full-stack framework for building Multi-Agent Systems with memory, knowledge and reasoning. (2 weeks ago)
-  - [CambioML/any-parser](https://github.com/CambioML/any-parser) - Accurate, private and configurable document retrieval LLM (2 weeks ago)
+  - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers (1 day ago)
+  - [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - OCR &amp; Document Extraction using vision models (1 day ago)
+  - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool. (1 day ago)
+  - [danmayer/coverband](https://github.com/danmayer/coverband) - Ruby production code coverage collection and reporting (line of code usage) (2 days ago)
+  - [jackjackbits/sunday](https://github.com/jackjackbits/sunday) - track your D (4 days ago)
 </details>
 
 <br> 
