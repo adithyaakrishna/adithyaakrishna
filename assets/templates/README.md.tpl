@@ -1,7 +1,9 @@
 ### Hey! I'm Adithya Krishna 👋
 I'm a Full-Stack Developer (more frontend oriented) by day and a framework tinkerer by Night
 
-I currently work with [@tensorlakeai](https://www.tensorlake.ai) - Building the UI for next-gen AI Infra catering to generative ai applications. I work primarily with NextJS, React, TypeScript, Tailwind CSS and Fastify, I've
+Currently figuring things out :)
+
+I used to work with [@tensorlakeai](https://www.tensorlake.ai) where I built the UI for next-gen AI Infra catering to generative ai applications. I worked primarily with NextJS, React, TypeScript, Tailwind CSS and Fastify, and I've
 
 - Co-led the development of https://cloud.tensorlake.ai from scratch alongside other team members
 - Built https://arxiv.tensorlake.ai - our semantic search technology for arXiv papers
