@@ -31,7 +31,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically (4 days ago)
+  - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically (6 days ago)
   - [antiwork/helper](https://github.com/antiwork/helper) - Help customers help themselves (1 week ago)
   - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (1 month ago)
   - [adithyaakrishna/pi-chat](https://github.com/adithyaakrishna/pi-chat) - Clone of PiChat Using Sarvam and OpenAI API (1 month ago)
@@ -46,10 +46,10 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [analogdotnow/Analog](https://github.com/analogdotnow/Analog) - Meet the calendar that changes everything (5 days ago)
-  - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers (6 days ago)
-  - [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - OCR &amp; Document Extraction using vision models (6 days ago)
-  - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool. (6 days ago)
+  - [analogdotnow/Analog](https://github.com/analogdotnow/Analog) - Meet the calendar that changes everything (1 week ago)
+  - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers (1 week ago)
+  - [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - OCR &amp; Document Extraction using vision models (1 week ago)
+  - [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool. (1 week ago)
   - [danmayer/coverband](https://github.com/danmayer/coverband) - Ruby production code coverage collection and reporting (line of code usage) (1 week ago)
 </details>
 
