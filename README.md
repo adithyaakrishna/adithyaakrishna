@@ -32,7 +32,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   <summary>Check out what I'm currently working on</summary>
   
   - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically (2 weeks ago)
-  - [antiwork/helper](https://github.com/antiwork/helper) - Help customers help themselves (2 weeks ago)
+  - [antiwork/helper](https://github.com/antiwork/helper) - Help customers help themselves (3 weeks ago)
   - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (1 month ago)
   - [adithyaakrishna/pi-chat](https://github.com/adithyaakrishna/pi-chat) - Clone of PiChat Using Sarvam and OpenAI API (1 month ago)
   - [tensorlakeai/tensorlake](https://github.com/tensorlakeai/tensorlake) - Tensorlake SDK (2 months ago)
@@ -46,7 +46,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms. (2 days ago)
+  - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms. (4 days ago)
   - [Harbour-Enterprises/SuperDoc](https://github.com/Harbour-Enterprises/SuperDoc) - 🦋️ SuperDoc - modern document editing (1 week ago)
   - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine (1 week ago)
   - [analogdotnow/Analog](https://github.com/analogdotnow/Analog) - Meet the calendar that changes everything (2 weeks ago)
