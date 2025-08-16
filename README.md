@@ -35,7 +35,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   - [antiwork/helper](https://github.com/antiwork/helper) - Help customers help themselves (1 month ago)
   - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (1 month ago)
   - [adithyaakrishna/pi-chat](https://github.com/adithyaakrishna/pi-chat) - Clone of PiChat Using Sarvam and OpenAI API (1 month ago)
-  - [tensorlakeai/tensorlake](https://github.com/tensorlakeai/tensorlake) - Tensorlake SDK (3 months ago)
+  - [tensorlakeai/tensorlake](https://github.com/tensorlakeai/tensorlake) - Tensorlake is a Document Ingestion API and a serverless platform for building data processing and orchestration APIs (3 months ago)
 </details>
 
 <details>
