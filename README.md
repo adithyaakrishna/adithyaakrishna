@@ -31,7 +31,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically (4 weeks ago)
+  - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically (1 month ago)
   - [antiwork/helper](https://github.com/antiwork/helper) - Help customers help themselves (1 month ago)
   - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (1 month ago)
   - [adithyaakrishna/pi-chat](https://github.com/adithyaakrishna/pi-chat) - Clone of PiChat Using Sarvam and OpenAI API (1 month ago)
@@ -46,8 +46,8 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [VecFlow/rossAI](https://github.com/VecFlow/rossAI) - Backend for the Oliver platform (5 days ago)
-  - [VecFlow/rossAI-demo](https://github.com/VecFlow/rossAI-demo) -  (5 days ago)
+  - [VecFlow/rossAI](https://github.com/VecFlow/rossAI) - Backend for the Oliver platform (6 days ago)
+  - [VecFlow/rossAI-demo](https://github.com/VecFlow/rossAI-demo) -  (6 days ago)
   - [UdaraJay/Pile](https://github.com/UdaraJay/Pile) - Desktop app for digital journaling.  (1 week ago)
   - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms. (2 weeks ago)
   - [Harbour-Enterprises/SuperDoc](https://github.com/Harbour-Enterprises/SuperDoc) - 🦋️ SuperDoc - modern document editing (3 weeks ago)
