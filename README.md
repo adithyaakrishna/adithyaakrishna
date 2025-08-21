@@ -33,7 +33,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   
   - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically (1 month ago)
   - [antiwork/helper](https://github.com/antiwork/helper) - Help customers help themselves (1 month ago)
-  - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (1 month ago)
+  - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (2 months ago)
   - [adithyaakrishna/pi-chat](https://github.com/adithyaakrishna/pi-chat) - Clone of PiChat Using Sarvam and OpenAI API (2 months ago)
   - [tensorlakeai/tensorlake](https://github.com/tensorlakeai/tensorlake) - Tensorlake is a Document Ingestion API and a serverless platform for building data processing and orchestration APIs (3 months ago)
 </details>
@@ -46,7 +46,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [UdaraJay/Pile](https://github.com/UdaraJay/Pile) - Desktop app for digital journaling.  (1 week ago)
+  - [UdaraJay/Pile](https://github.com/UdaraJay/Pile) - Desktop app for digital journaling.  (2 weeks ago)
   - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms. (2 weeks ago)
   - [Harbour-Enterprises/SuperDoc](https://github.com/Harbour-Enterprises/SuperDoc) - 🦋️ SuperDoc - modern document editing (3 weeks ago)
   - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine (3 weeks ago)
