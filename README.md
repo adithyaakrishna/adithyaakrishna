@@ -47,9 +47,9 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   <summary>These are super cool</summary>
   
   - [UdaraJay/Pile](https://github.com/UdaraJay/Pile) - Desktop app for digital journaling.  (2 weeks ago)
-  - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms. (2 weeks ago)
-  - [Harbour-Enterprises/SuperDoc](https://github.com/Harbour-Enterprises/SuperDoc) - 🦋️ SuperDoc - modern document editing (3 weeks ago)
-  - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine (3 weeks ago)
+  - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms. (3 weeks ago)
+  - [Harbour-Enterprises/SuperDoc](https://github.com/Harbour-Enterprises/SuperDoc) - 🦋️ SuperDoc - modern document editing (4 weeks ago)
+  - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine (4 weeks ago)
   - [analogdotnow/Analog](https://github.com/analogdotnow/Analog) - Meet the calendar that changes everything (1 month ago)
 </details>
 
