@@ -46,11 +46,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
+  - [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. (1 day ago)
   - [UdaraJay/Pile](https://github.com/UdaraJay/Pile) - Desktop app for digital journaling.  (2 weeks ago)
   - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms. (3 weeks ago)
   - [Harbour-Enterprises/SuperDoc](https://github.com/Harbour-Enterprises/SuperDoc) - 🦋️ SuperDoc - modern document editing (1 month ago)
   - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine (1 month ago)
-  - [analogdotnow/Analog](https://github.com/analogdotnow/Analog) - Meet the calendar that changes everything (1 month ago)
 </details>
 
 <br> 
