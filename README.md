@@ -46,11 +46,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
+  - [neynarxyz/create-farcaster-mini-app](https://github.com/neynarxyz/create-farcaster-mini-app) - npx script to quickstart Farcaster Mini Apps (formerly frames) (today)
   - [sst/models.dev](https://github.com/sst/models.dev) - An open-source database of AI models. (1 day ago)
   - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person&#39;s profile in 1000 social media \ websites (2 weeks ago)
   - [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. (2 weeks ago)
   - [UdaraJay/Pile](https://github.com/UdaraJay/Pile) - Desktop app for digital journaling.  (1 month ago)
-  - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms. (1 month ago)
 </details>
 
 <br> 
