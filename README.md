@@ -33,7 +33,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   
   - [adithyaakrishna/swag](https://github.com/adithyaakrishna/swag) -  (1 week ago)
   - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically (1 month ago)
-  - [antiwork/helper](https://github.com/antiwork/helper) - Help customers help themselves (1 month ago)
+  - [antiwork/helper](https://github.com/antiwork/helper) - Help customers help themselves (2 months ago)
   - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (2 months ago)
   - [adithyaakrishna/pi-chat](https://github.com/adithyaakrishna/pi-chat) - Clone of PiChat Using Sarvam and OpenAI API (2 months ago)
 </details>
@@ -46,8 +46,8 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [neynarxyz/create-farcaster-mini-app](https://github.com/neynarxyz/create-farcaster-mini-app) - npx script to quickstart Farcaster Mini Apps (formerly frames) (2 days ago)
-  - [sst/models.dev](https://github.com/sst/models.dev) - An open-source database of AI models. (3 days ago)
+  - [neynarxyz/create-farcaster-mini-app](https://github.com/neynarxyz/create-farcaster-mini-app) - npx script to quickstart Farcaster Mini Apps (formerly frames) (4 days ago)
+  - [sst/models.dev](https://github.com/sst/models.dev) - An open-source database of AI models. (5 days ago)
   - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person&#39;s profile in 1000 social media \ websites (2 weeks ago)
   - [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. (2 weeks ago)
   - [UdaraJay/Pile](https://github.com/UdaraJay/Pile) - Desktop app for digital journaling.  (1 month ago)
