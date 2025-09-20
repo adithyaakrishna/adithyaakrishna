@@ -34,7 +34,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   - [adithyaakrishna/swag](https://github.com/adithyaakrishna/swag) -  (2 weeks ago)
   - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically (2 months ago)
   - [antiwork/helper](https://github.com/antiwork/helper) - Help customers help themselves (2 months ago)
-  - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (2 months ago)
+  - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (3 months ago)
   - [adithyaakrishna/pi-chat](https://github.com/adithyaakrishna/pi-chat) - Clone of PiChat Using Sarvam and OpenAI API (3 months ago)
 </details>
 
@@ -46,11 +46,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup (1 day ago)
-  - [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge. (2 days ago)
-  - [neynarxyz/create-farcaster-mini-app](https://github.com/neynarxyz/create-farcaster-mini-app) - npx script to quickstart Farcaster Mini Apps (formerly frames) (1 week ago)
-  - [sst/models.dev](https://github.com/sst/models.dev) - An open-source database of AI models. (1 week ago)
-  - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person&#39;s profile in 1000 social media \ websites (3 weeks ago)
+  - [PolymathicAI/the_well](https://github.com/PolymathicAI/the_well) - A 15TB Collection of Physics Simulation Datasets (1 day ago)
+  - [devflowinc/trieve](https://github.com/devflowinc/trieve) - All-in-one platform for search, recommendations, RAG, and analytics offered via API (1 day ago)
+  - [whetstoneresearch/doppler](https://github.com/whetstoneresearch/doppler) - Core contracts for the Doppler Protocol (2 days ago)
+  - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup (3 days ago)
+  - [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge. (4 days ago)
 </details>
 
 <br> 
