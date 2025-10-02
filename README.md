@@ -31,8 +31,8 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [nyayanidhi/website-v2](https://github.com/nyayanidhi/website-v2) -  (1 day ago)
-  - [adithyaakrishna/swag](https://github.com/adithyaakrishna/swag) -  (3 weeks ago)
+  - [nyayanidhi/website-v2](https://github.com/nyayanidhi/website-v2) -  (3 days ago)
+  - [adithyaakrishna/swag](https://github.com/adithyaakrishna/swag) -  (4 weeks ago)
   - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically (2 months ago)
   - [antiwork/helper](https://github.com/antiwork/helper) - Help customers help themselves (2 months ago)
   - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (3 months ago)
@@ -48,8 +48,8 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   
   - [PolymathicAI/the_well](https://github.com/PolymathicAI/the_well) - A 15TB Collection of Physics Simulation Datasets (1 week ago)
   - [devflowinc/trieve](https://github.com/devflowinc/trieve) - All-in-one platform for search, recommendations, RAG, and analytics offered via API (1 week ago)
-  - [whetstoneresearch/doppler](https://github.com/whetstoneresearch/doppler) - Core contracts for the Doppler Protocol (1 week ago)
-  - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup (1 week ago)
+  - [whetstoneresearch/doppler](https://github.com/whetstoneresearch/doppler) - Core contracts for the Doppler Protocol (2 weeks ago)
+  - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup (2 weeks ago)
   - [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge. (2 weeks ago)
 </details>
 
