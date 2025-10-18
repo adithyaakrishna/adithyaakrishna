@@ -46,11 +46,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [PolymathicAI/the_well](https://github.com/PolymathicAI/the_well) - A 15TB Collection of Physics Simulation Datasets (3 weeks ago)
-  - [devflowinc/trieve](https://github.com/devflowinc/trieve) - All-in-one platform for search, recommendations, RAG, and analytics offered via API (3 weeks ago)
-  - [whetstoneresearch/doppler](https://github.com/whetstoneresearch/doppler) - Core contracts for the Doppler Protocol (4 weeks ago)
-  - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup (4 weeks ago)
-  - [inngest/inngest](https://github.com/inngest/inngest) - The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge. (1 month ago)
+  - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React (1 day ago)
+  - [PolymathicAI/the_well](https://github.com/PolymathicAI/the_well) - A 15TB Collection of Physics Simulation Datasets (4 weeks ago)
+  - [devflowinc/trieve](https://github.com/devflowinc/trieve) - All-in-one platform for search, recommendations, RAG, and analytics offered via API (4 weeks ago)
+  - [whetstoneresearch/doppler](https://github.com/whetstoneresearch/doppler) - Core contracts for the Doppler Protocol (1 month ago)
+  - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup (1 month ago)
 </details>
 
 <br> 
