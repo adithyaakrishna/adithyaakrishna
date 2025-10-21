@@ -31,7 +31,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [nyayanidhi/website-v2](https://github.com/nyayanidhi/website-v2) -  (2 weeks ago)
+  - [nyayanidhi/website-v2](https://github.com/nyayanidhi/website-v2) -  (3 weeks ago)
   - [adithyaakrishna/swag](https://github.com/adithyaakrishna/swag) -  (1 month ago)
   - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically (3 months ago)
   - [antiwork/helper](https://github.com/antiwork/helper) - Help customers help themselves (3 months ago)
@@ -46,7 +46,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React (2 days ago)
+  - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React (4 days ago)
   - [PolymathicAI/the_well](https://github.com/PolymathicAI/the_well) - A 15TB Collection of Physics Simulation Datasets (1 month ago)
   - [devflowinc/trieve](https://github.com/devflowinc/trieve) - All-in-one platform for search, recommendations, RAG, and analytics offered via API (1 month ago)
   - [whetstoneresearch/doppler](https://github.com/whetstoneresearch/doppler) - Core contracts for the Doppler Protocol (1 month ago)
