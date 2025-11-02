@@ -32,7 +32,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   <summary>Check out what I'm currently working on</summary>
   
   - [nyayanidhi/website-v2](https://github.com/nyayanidhi/website-v2) -  (1 month ago)
-  - [adithyaakrishna/swag](https://github.com/adithyaakrishna/swag) -  (1 month ago)
+  - [adithyaakrishna/swag](https://github.com/adithyaakrishna/swag) -  (2 months ago)
   - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically (3 months ago)
   - [antiwork/helper](https://github.com/antiwork/helper) - Help customers help themselves (3 months ago)
   - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (4 months ago)
