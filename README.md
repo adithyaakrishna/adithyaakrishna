@@ -34,7 +34,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   - [adithyaakrishna/swag](https://github.com/adithyaakrishna/swag) -  (2 months ago)
   - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically (4 months ago)
   - [antiwork/helper](https://github.com/antiwork/helper) - Help customers help themselves (4 months ago)
-  - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (4 months ago)
+  - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (5 months ago)
   - [adithyaakrishna/pi-chat](https://github.com/adithyaakrishna/pi-chat) - Clone of PiChat Using Sarvam and OpenAI API (5 months ago)
 </details>
 
@@ -46,11 +46,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [OneBalance-io/onebalance-examples](https://github.com/OneBalance-io/onebalance-examples) - A list of useful code snippets and examples of using OneBalance APIs (5 days ago)
-  - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically (6 days ago)
+  - [OneBalance-io/onebalance-examples](https://github.com/OneBalance-io/onebalance-examples) - A list of useful code snippets and examples of using OneBalance APIs (1 week ago)
+  - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically (1 week ago)
   - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React (1 month ago)
-  - [PolymathicAI/the_well](https://github.com/PolymathicAI/the_well) - A 15TB Collection of Physics Simulation Datasets (1 month ago)
-  - [devflowinc/trieve](https://github.com/devflowinc/trieve) - All-in-one platform for search, recommendations, RAG, and analytics offered via API (1 month ago)
+  - [PolymathicAI/the_well](https://github.com/PolymathicAI/the_well) - A 15TB Collection of Physics Simulation Datasets (2 months ago)
+  - [devflowinc/trieve](https://github.com/devflowinc/trieve) - All-in-one platform for search, recommendations, RAG, and analytics offered via API (2 months ago)
 </details>
 
 <br> 
