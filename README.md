@@ -31,7 +31,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/swag](https://github.com/adithyaakrishna/swag) -  (2 months ago)
+  - [adithyaakrishna/swag](https://github.com/adithyaakrishna/swag) -  (3 months ago)
   - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically (4 months ago)
   - [antiwork/helper](https://github.com/antiwork/helper) - Help customers help themselves (4 months ago)
   - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (5 months ago)
@@ -46,9 +46,9 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [solana-foundation/solana-com](https://github.com/solana-foundation/solana-com) - The solana.com website. (1 week ago)
-  - [OneBalance-io/onebalance-examples](https://github.com/OneBalance-io/onebalance-examples) - A list of useful code snippets and examples of using OneBalance APIs (2 weeks ago)
-  - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically (2 weeks ago)
+  - [solana-foundation/solana-com](https://github.com/solana-foundation/solana-com) - The solana.com website. (2 weeks ago)
+  - [OneBalance-io/onebalance-examples](https://github.com/OneBalance-io/onebalance-examples) - A list of useful code snippets and examples of using OneBalance APIs (3 weeks ago)
+  - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically (3 weeks ago)
   - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React (1 month ago)
   - [PolymathicAI/the_well](https://github.com/PolymathicAI/the_well) - A 15TB Collection of Physics Simulation Datasets (2 months ago)
 </details>
