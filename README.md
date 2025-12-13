@@ -33,7 +33,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   
   - [adithyaakrishna/swag](https://github.com/adithyaakrishna/swag) -  (3 months ago)
   - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically (4 months ago)
-  - [antiwork/helper](https://github.com/antiwork/helper) - Help customers help themselves (4 months ago)
+  - [antiwork/helper](https://github.com/antiwork/helper) - Help customers help themselves (5 months ago)
   - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (5 months ago)
   - [adithyaakrishna/pi-chat](https://github.com/adithyaakrishna/pi-chat) - Clone of PiChat Using Sarvam and OpenAI API (5 months ago)
 </details>
