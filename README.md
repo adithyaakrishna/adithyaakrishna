@@ -46,11 +46,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
+  - [vercel/avatar](https://github.com/vercel/avatar) - 💎   Beautiful avatars as a microservice (1 day ago)
+  - [microlinkhq/unavatar](https://github.com/microlinkhq/unavatar) - Get unified user avatar from social networks, including Instagram, SoundCloud, Telegram, Twitter, YouTube &amp; more. (1 day ago)
+  - [howtographql/howtographql](https://github.com/howtographql/howtographql) - The Fullstack Tutorial for GraphQL (1 day ago)
   - [solana-foundation/solana-com](https://github.com/solana-foundation/solana-com) - The solana.com website. (1 month ago)
   - [OneBalance-io/onebalance-examples](https://github.com/OneBalance-io/onebalance-examples) - A list of useful code snippets and examples of using OneBalance APIs (1 month ago)
-  - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically (1 month ago)
-  - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React (2 months ago)
-  - [PolymathicAI/the_well](https://github.com/PolymathicAI/the_well) - A 15TB Collection of Physics Simulation Datasets (3 months ago)
 </details>
 
 <br> 
