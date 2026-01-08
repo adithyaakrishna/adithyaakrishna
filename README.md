@@ -46,10 +46,10 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord: (today)
-  - [vercel/avatar](https://github.com/vercel/avatar) - 💎   Beautiful avatars as a microservice (4 days ago)
-  - [microlinkhq/unavatar](https://github.com/microlinkhq/unavatar) - Get unified user avatar from social networks, including Instagram, SoundCloud, Telegram, Twitter, YouTube &amp; more. (4 days ago)
-  - [howtographql/howtographql](https://github.com/howtographql/howtographql) - The Fullstack Tutorial for GraphQL (4 days ago)
+  - [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord: (2 days ago)
+  - [vercel/avatar](https://github.com/vercel/avatar) - 💎   Beautiful avatars as a microservice (6 days ago)
+  - [microlinkhq/unavatar](https://github.com/microlinkhq/unavatar) - Get unified user avatar from social networks, including Instagram, SoundCloud, Telegram, Twitter, YouTube &amp; more. (6 days ago)
+  - [howtographql/howtographql](https://github.com/howtographql/howtographql) - The Fullstack Tutorial for GraphQL (6 days ago)
   - [solana-foundation/solana-com](https://github.com/solana-foundation/solana-com) - The solana.com website. (1 month ago)
 </details>
 
