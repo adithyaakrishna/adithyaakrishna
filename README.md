@@ -32,10 +32,10 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   <summary>Check out what I'm currently working on</summary>
   
   - [adithyaakrishna/swag](https://github.com/adithyaakrishna/swag) -  (4 months ago)
-  - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically (5 months ago)
+  - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically (6 months ago)
   - [antiwork/helper](https://github.com/antiwork/helper) - Help customers help themselves (6 months ago)
   - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (6 months ago)
-  - [adithyaakrishna/pi-chat](https://github.com/adithyaakrishna/pi-chat) - Clone of PiChat Using Sarvam and OpenAI API (6 months ago)
+  - [adithyaakrishna/pi-chat](https://github.com/adithyaakrishna/pi-chat) - Clone of PiChat Using Sarvam and OpenAI API (7 months ago)
 </details>
 
 <details>
@@ -46,11 +46,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
+  - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) -  (1 day ago)
   - [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord: (1 week ago)
   - [vercel/avatar](https://github.com/vercel/avatar) - 💎   Beautiful avatars as a microservice (1 week ago)
   - [microlinkhq/unavatar](https://github.com/microlinkhq/unavatar) - Get unified user avatar from social networks, including Instagram, SoundCloud, Telegram, Twitter, YouTube &amp; more. (1 week ago)
   - [howtographql/howtographql](https://github.com/howtographql/howtographql) - The Fullstack Tutorial for GraphQL (1 week ago)
-  - [solana-foundation/solana-com](https://github.com/solana-foundation/solana-com) - The solana.com website. (1 month ago)
 </details>
 
 <br> 
