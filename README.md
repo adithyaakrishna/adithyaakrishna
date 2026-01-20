@@ -46,8 +46,8 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) -  (4 days ago)
-  - [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord: (1 week ago)
+  - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) -  (6 days ago)
+  - [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord: (2 weeks ago)
   - [vercel/avatar](https://github.com/vercel/avatar) - 💎   Beautiful avatars as a microservice (2 weeks ago)
   - [microlinkhq/unavatar](https://github.com/microlinkhq/unavatar) - Get unified user avatar from social networks, including Instagram, SoundCloud, Telegram, Twitter, YouTube &amp; more. (2 weeks ago)
   - [howtographql/howtographql](https://github.com/howtographql/howtographql) - The Fullstack Tutorial for GraphQL (2 weeks ago)
