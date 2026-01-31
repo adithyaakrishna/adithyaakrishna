@@ -31,7 +31,7 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/swag](https://github.com/adithyaakrishna/swag) -  (4 months ago)
+  - [adithyaakrishna/swag](https://github.com/adithyaakrishna/swag) -  (5 months ago)
   - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically (6 months ago)
   - [antiwork/helper](https://github.com/antiwork/helper) - Help customers help themselves (6 months ago)
   - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (7 months ago)
@@ -46,11 +46,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) - PersonaPlex code. (3 days ago)
+  - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas (1 day ago)
+  - [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) - PersonaPlex code. (5 days ago)
   - [benjitaylor/agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents. (1 week ago)
   - [ithacaxyz/porto](https://github.com/ithacaxyz/porto) - Authentication &amp; payments on the web (1 week ago)
   - [anthropics/original_performance_takehome](https://github.com/anthropics/original_performance_takehome) - Anthropic&#39;s original performance take-home, now open for you to try! (1 week ago)
-  - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel&#39;s official collection of agent skills (2 weeks ago)
 </details>
 
 <br> 
