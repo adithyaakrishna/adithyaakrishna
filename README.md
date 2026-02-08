@@ -46,8 +46,8 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming (today)
-  - [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, Svelte, and TS/JS. (4 days ago)
+  - [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming (1 day ago)
+  - [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, Svelte, and TS/JS. (5 days ago)
   - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas (1 week ago)
   - [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) - PersonaPlex code. (1 week ago)
   - [benjitaylor/agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents. (2 weeks ago)
