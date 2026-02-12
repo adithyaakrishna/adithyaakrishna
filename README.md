@@ -32,10 +32,10 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
   <summary>Check out what I'm currently working on</summary>
   
   - [adithyaakrishna/labs](https://github.com/adithyaakrishna/labs) - Area 51 of My Claude Code Ramblings (1 day ago)
+  - [adithyaakrishna/neuramill](https://github.com/adithyaakrishna/neuramill) - Neuramill Website (1 week ago)
   - [adithyaakrishna/swag](https://github.com/adithyaakrishna/swag) -  (5 months ago)
   - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically (6 months ago)
   - [antiwork/helper](https://github.com/antiwork/helper) - Help customers help themselves (7 months ago)
-  - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (7 months ago)
 </details>
 
 <details>
