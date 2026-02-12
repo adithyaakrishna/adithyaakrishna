@@ -31,11 +31,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>Check out what I'm currently working on</summary>
   
+  - [adithyaakrishna/labs](https://github.com/adithyaakrishna/labs) - Area 51 of My Claude Code Ramblings (1 day ago)
   - [adithyaakrishna/swag](https://github.com/adithyaakrishna/swag) -  (5 months ago)
   - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically (6 months ago)
   - [antiwork/helper](https://github.com/antiwork/helper) - Help customers help themselves (7 months ago)
   - [hexclanlabs/mitda](https://github.com/hexclanlabs/mitda) -  (7 months ago)
-  - [adithyaakrishna/pi-chat](https://github.com/adithyaakrishna/pi-chat) - Clone of PiChat Using Sarvam and OpenAI API (7 months ago)
 </details>
 
 <details>
@@ -46,11 +46,11 @@ Polywork Profile: [https://poly.me/adiiikris](https://www.polywork.com/adiiikris
 <details>
   <summary>These are super cool</summary>
   
-  - [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming (3 days ago)
+  - [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming (5 days ago)
   - [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, Svelte, and TS/JS. (1 week ago)
   - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas (1 week ago)
   - [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) - PersonaPlex code. (2 weeks ago)
-  - [benjitaylor/agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents. (2 weeks ago)
+  - [benjitaylor/agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents. (3 weeks ago)
 </details>
 
 <br> 
