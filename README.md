@@ -17,9 +17,9 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 days ago)
-  - [adithyaakrishna/labs](https://github.com/adithyaakrishna/labs) - Area 51 of My Claude Code Ramblings (5 days ago)
-  - [adithyaakrishna/neuramill](https://github.com/adithyaakrishna/neuramill) - Neuramill Website (2 weeks ago)
+  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (4 days ago)
+  - [adithyaakrishna/labs](https://github.com/adithyaakrishna/labs) - Area 51 of My Claude Code Ramblings (1 week ago)
+  - [adithyaakrishna/neuramill](https://github.com/adithyaakrishna/neuramill) - Neuramill Website (3 weeks ago)
   - [adithyaakrishna/swag](https://github.com/adithyaakrishna/swag) -  (5 months ago)
   - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically (7 months ago)
 </details>
@@ -32,11 +32,11 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>These are super cool</summary>
   
+  - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents &amp; MCPs &amp; AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows &amp; AI Agents • MCPs for AI Agents (2 days ago)
   - [synergycodes/ng-diagram](https://github.com/synergycodes/ng-diagram) - ngDiagram – An open-source Angular library for creating rich, interactive diagramming experiences. Designed for flexibility and performance, it lets you build everything from simple flows to advanced visual editors with ease (1 week ago)
   - [retejs/rete](https://github.com/retejs/rete) - JavaScript framework for visual programming (2 weeks ago)
-  - [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, Svelte, and TS/JS. (2 weeks ago)
+  - [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, Svelte, and TS/JS. (3 weeks ago)
   - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas (3 weeks ago)
-  - [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) - PersonaPlex code. (3 weeks ago)
 </details>
 
 <br>
