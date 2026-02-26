@@ -32,11 +32,11 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>These are super cool</summary>
   
+  - [maximhq/bifrost](https://github.com/maximhq/bifrost) - Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000&#43; models support &amp; &lt;100 µs overhead at 5k RPS. (today)
   - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light (1 day ago)
   - [sherdotsh/sher](https://github.com/sherdotsh/sher) -  (1 day ago)
   - [tutkli/ngx-sonner](https://github.com/tutkli/ngx-sonner) - An opinionated toast component for Angular. A port of @emilkowalski&#39;s sonner. (1 day ago)
   - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents &amp; MCPs &amp; AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows &amp; AI Agents • MCPs for AI Agents (4 days ago)
-  - [synergycodes/ng-diagram](https://github.com/synergycodes/ng-diagram) - ngDiagram – An open-source Angular library for creating rich, interactive diagramming experiences. Designed for flexibility and performance, it lets you build everything from simple flows to advanced visual editors with ease (1 week ago)
 </details>
 
 <br>
