@@ -17,11 +17,11 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (5 days ago)
+  - [adithyaakrishna/fireparse](https://github.com/adithyaakrishna/fireparse) - Parse PDFs Easily with Firecrawl (1 day ago)
+  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 days ago)
   - [adithyaakrishna/labs](https://github.com/adithyaakrishna/labs) - Area 51 of My Claude Code Ramblings (2 weeks ago)
-  - [adithyaakrishna/neuramill](https://github.com/adithyaakrishna/neuramill) - Neuramill Website (4 weeks ago)
+  - [adithyaakrishna/neuramill](https://github.com/adithyaakrishna/neuramill) - Neuramill Website (1 month ago)
   - [adithyaakrishna/swag](https://github.com/adithyaakrishna/swag) -  (6 months ago)
-  - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically (7 months ago)
 </details>
 
 <details>
@@ -32,11 +32,11 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>These are super cool</summary>
   
-  - [Remix-Design/RemixIcon-MCP](https://github.com/Remix-Design/RemixIcon-MCP) -  (1 day ago)
-  - [maximhq/bifrost](https://github.com/maximhq/bifrost) - Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000&#43; models support &amp; &lt;100 µs overhead at 5k RPS. (5 days ago)
-  - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light (6 days ago)
-  - [sherdotsh/sher](https://github.com/sherdotsh/sher) -  (6 days ago)
-  - [tutkli/ngx-sonner](https://github.com/tutkli/ngx-sonner) - An opinionated toast component for Angular. A port of @emilkowalski&#39;s sonner. (6 days ago)
+  - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL &amp; the GraphQL LSP Reference Ecosystem for building browser &amp; IDE tools. (1 day ago)
+  - [Remix-Design/RemixIcon-MCP](https://github.com/Remix-Design/RemixIcon-MCP) -  (3 days ago)
+  - [maximhq/bifrost](https://github.com/maximhq/bifrost) - Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000&#43; models support &amp; &lt;100 µs overhead at 5k RPS. (1 week ago)
+  - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light (1 week ago)
+  - [sherdotsh/sher](https://github.com/sherdotsh/sher) -  (1 week ago)
 </details>
 
 <br>
