@@ -32,11 +32,11 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>These are super cool</summary>
   
+  - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. (today)
   - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL &amp; the GraphQL LSP Reference Ecosystem for building browser &amp; IDE tools. (1 day ago)
   - [Remix-Design/RemixIcon-MCP](https://github.com/Remix-Design/RemixIcon-MCP) -  (3 days ago)
   - [maximhq/bifrost](https://github.com/maximhq/bifrost) - Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000&#43; models support &amp; &lt;100 µs overhead at 5k RPS. (1 week ago)
   - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light (1 week ago)
-  - [sherdotsh/sher](https://github.com/sherdotsh/sher) -  (1 week ago)
 </details>
 
 <br>
