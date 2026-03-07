@@ -32,11 +32,11 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>These are super cool</summary>
   
+  - [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control CLI. Entity-level diff, blame, graph, and impact analysis for code. 13 languages via tree-sitter. (today)
   - [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude&#39;s frontend skills (2 days ago)
   - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. (2 days ago)
   - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL &amp; the GraphQL LSP Reference Ecosystem for building browser &amp; IDE tools. (3 days ago)
   - [Remix-Design/RemixIcon-MCP](https://github.com/Remix-Design/RemixIcon-MCP) -  (5 days ago)
-  - [maximhq/bifrost](https://github.com/maximhq/bifrost) - Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000&#43; models support &amp; &lt;100 µs overhead at 5k RPS. (1 week ago)
 </details>
 
 <br>
