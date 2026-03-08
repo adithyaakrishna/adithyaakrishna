@@ -27,6 +27,7 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Lately, I have worked on</summary>
   
+  - [feat(landing): smooth sliding pill for hero service icons](https://github.com/simstudioai/sim/pull/3469) on [simstudioai/sim](https://github.com/simstudioai/sim) (today)
 </details>
 
 <details>
