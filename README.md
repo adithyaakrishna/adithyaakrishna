@@ -27,21 +27,21 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Lately, I have worked on</summary>
   
+  - [feat: landing and docs updates](https://github.com/getpaykit/paykit/pull/27) on [getpaykit/paykit](https://github.com/getpaykit/paykit) (today)
   - [feat: smoother vertical tab animation](https://github.com/simstudioai/sim/pull/3491) on [simstudioai/sim](https://github.com/simstudioai/sim) (1 day ago)
   - [refactor(ui): shared StreamingIndicator and workspace route loading skeletons](https://github.com/simstudioai/sim/pull/3482) on [simstudioai/sim](https://github.com/simstudioai/sim) (1 day ago)
   - [feat: smoother animations on landing](https://github.com/getpaykit/paykit/pull/25) on [getpaykit/paykit](https://github.com/getpaykit/paykit) (2 days ago)
   - [feat(landing): improve SEO foundations and landing-page search readiness](https://github.com/getpaykit/paykit/pull/23) on [getpaykit/paykit](https://github.com/getpaykit/paykit) (2 days ago)
-  - [feat(landing): smooth sliding pill for hero service icons](https://github.com/simstudioai/sim/pull/3469) on [simstudioai/sim](https://github.com/simstudioai/sim) (2 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
+  - [andrewyng/context-hub](https://github.com/andrewyng/context-hub) -  (today)
   - [superset-sh/superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine (2 days ago)
   - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Knowledge Engine for AI Agent Memory in 6 lines of code (2 days ago)
   - [getpaykit/paykit](https://github.com/getpaykit/paykit) - Open-source TypeScript toolkit that unifies multiple payment providers behind a single, extensible API. (2 days ago)
   - [LegacyCodeHQ/clarity-cli](https://github.com/LegacyCodeHQ/clarity-cli) - Clarity is a software design tool for AI-native developers and coding agents. (3 days ago)
-  - [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control CLI. Entity-level diff, blame, graph, and impact analysis for code. 16 languages via tree-sitter. (3 days ago)
 </details>
 
 <br>
