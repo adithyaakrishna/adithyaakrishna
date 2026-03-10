@@ -17,27 +17,31 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (today)
-  - [adithyaakrishna/fireparse](https://github.com/adithyaakrishna/fireparse) - Parse PDFs Easily with Firecrawl (4 days ago)
-  - [adithyaakrishna/labs](https://github.com/adithyaakrishna/labs) - Area 51 of My Claude Code Ramblings (2 weeks ago)
+  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 days ago)
+  - [getpaykit/paykit](https://github.com/getpaykit/paykit) - Open-source TypeScript toolkit that unifies multiple payment providers behind a single, extensible API. (2 days ago)
+  - [adithyaakrishna/fireparse](https://github.com/adithyaakrishna/fireparse) - Parse PDFs Easily with Firecrawl (6 days ago)
+  - [adithyaakrishna/labs](https://github.com/adithyaakrishna/labs) - Area 51 of My Claude Code Ramblings (3 weeks ago)
   - [adithyaakrishna/neuramill](https://github.com/adithyaakrishna/neuramill) - Neuramill Website (1 month ago)
-  - [adithyaakrishna/swag](https://github.com/adithyaakrishna/swag) -  (6 months ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat(landing): smooth sliding pill for hero service icons](https://github.com/simstudioai/sim/pull/3469) on [simstudioai/sim](https://github.com/simstudioai/sim) (today)
+  - [feat: smoother vertical tab animation](https://github.com/simstudioai/sim/pull/3491) on [simstudioai/sim](https://github.com/simstudioai/sim) (1 day ago)
+  - [refactor(ui): shared StreamingIndicator and workspace route loading skeletons](https://github.com/simstudioai/sim/pull/3482) on [simstudioai/sim](https://github.com/simstudioai/sim) (1 day ago)
+  - [feat: smoother animations on landing](https://github.com/getpaykit/paykit/pull/25) on [getpaykit/paykit](https://github.com/getpaykit/paykit) (2 days ago)
+  - [feat(landing): improve SEO foundations and landing-page search readiness](https://github.com/getpaykit/paykit/pull/23) on [getpaykit/paykit](https://github.com/getpaykit/paykit) (2 days ago)
+  - [feat(landing): smooth sliding pill for hero service icons](https://github.com/simstudioai/sim/pull/3469) on [simstudioai/sim](https://github.com/simstudioai/sim) (2 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [LegacyCodeHQ/clarity-cli](https://github.com/LegacyCodeHQ/clarity-cli) - Clarity is a software design tool for AI-native developers and coding agents. (1 day ago)
-  - [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control CLI. Entity-level diff, blame, graph, and impact analysis for code. 16 languages via tree-sitter. (1 day ago)
-  - [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude&#39;s frontend skills (3 days ago)
-  - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. (3 days ago)
-  - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL &amp; the GraphQL LSP Reference Ecosystem for building browser &amp; IDE tools. (4 days ago)
+  - [superset-sh/superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine (2 days ago)
+  - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Knowledge Engine for AI Agent Memory in 6 lines of code (2 days ago)
+  - [getpaykit/paykit](https://github.com/getpaykit/paykit) - Open-source TypeScript toolkit that unifies multiple payment providers behind a single, extensible API. (2 days ago)
+  - [LegacyCodeHQ/clarity-cli](https://github.com/LegacyCodeHQ/clarity-cli) - Clarity is a software design tool for AI-native developers and coding agents. (3 days ago)
+  - [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control CLI. Entity-level diff, blame, graph, and impact analysis for code. 16 languages via tree-sitter. (3 days ago)
 </details>
 
 <br>
