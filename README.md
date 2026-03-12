@@ -17,9 +17,9 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 days ago)
-  - [getpaykit/paykit](https://github.com/getpaykit/paykit) - Open-source TypeScript toolkit that unifies multiple payment providers behind a single, extensible API. (2 days ago)
-  - [adithyaakrishna/fireparse](https://github.com/adithyaakrishna/fireparse) - Parse PDFs Easily with Firecrawl (6 days ago)
+  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (today)
+  - [getpaykit/paykit](https://github.com/getpaykit/paykit) - Open-source TypeScript toolkit that unifies multiple payment providers behind a single, extensible API. (4 days ago)
+  - [adithyaakrishna/fireparse](https://github.com/adithyaakrishna/fireparse) - Parse PDFs Easily with Firecrawl (1 week ago)
   - [adithyaakrishna/labs](https://github.com/adithyaakrishna/labs) - Area 51 of My Claude Code Ramblings (3 weeks ago)
   - [adithyaakrishna/neuramill](https://github.com/adithyaakrishna/neuramill) - Neuramill Website (1 month ago)
 </details>
@@ -27,21 +27,21 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat: landing and docs updates](https://github.com/getpaykit/paykit/pull/27) on [getpaykit/paykit](https://github.com/getpaykit/paykit) (today)
-  - [feat: smoother vertical tab animation](https://github.com/simstudioai/sim/pull/3491) on [simstudioai/sim](https://github.com/simstudioai/sim) (1 day ago)
-  - [refactor(ui): shared StreamingIndicator and workspace route loading skeletons](https://github.com/simstudioai/sim/pull/3482) on [simstudioai/sim](https://github.com/simstudioai/sim) (1 day ago)
-  - [feat: smoother animations on landing](https://github.com/getpaykit/paykit/pull/25) on [getpaykit/paykit](https://github.com/getpaykit/paykit) (2 days ago)
-  - [feat(landing): improve SEO foundations and landing-page search readiness](https://github.com/getpaykit/paykit/pull/23) on [getpaykit/paykit](https://github.com/getpaykit/paykit) (2 days ago)
+  - [feat: create og image](https://github.com/getpaykit/paykit/pull/30) on [getpaykit/paykit](https://github.com/getpaykit/paykit) (1 day ago)
+  - [feat: custom 404 for docs and ask ai](https://github.com/getpaykit/paykit/pull/29) on [getpaykit/paykit](https://github.com/getpaykit/paykit) (1 day ago)
+  - [feat: landing and docs updates](https://github.com/getpaykit/paykit/pull/27) on [getpaykit/paykit](https://github.com/getpaykit/paykit) (2 days ago)
+  - [feat: smoother vertical tab animation](https://github.com/simstudioai/sim/pull/3491) on [simstudioai/sim](https://github.com/simstudioai/sim) (3 days ago)
+  - [refactor(ui): shared StreamingIndicator and workspace route loading skeletons](https://github.com/simstudioai/sim/pull/3482) on [simstudioai/sim](https://github.com/simstudioai/sim) (3 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [andrewyng/context-hub](https://github.com/andrewyng/context-hub) -  (today)
-  - [superset-sh/superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine (2 days ago)
-  - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Knowledge Engine for AI Agent Memory in 6 lines of code (2 days ago)
-  - [getpaykit/paykit](https://github.com/getpaykit/paykit) - Open-source TypeScript toolkit that unifies multiple payment providers behind a single, extensible API. (2 days ago)
-  - [LegacyCodeHQ/clarity-cli](https://github.com/LegacyCodeHQ/clarity-cli) - Clarity is a software design tool for AI-native developers and coding agents. (3 days ago)
+  - [thesysdev/openui](https://github.com/thesysdev/openui) - The Open Standard for Generative UI (1 day ago)
+  - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (1 day ago)
+  - [asapelkin/awesome-eink](https://github.com/asapelkin/awesome-eink) - A curated list of awesome E-ink links and resources. (1 day ago)
+  - [armitage-labs/armitage-monorepo](https://github.com/armitage-labs/armitage-monorepo) - A SourceCred web3 native client to measure engineering impact in Github Repositories and split crypto payments (2 days ago)
+  - [armitage-labs/creem-sdk](https://github.com/armitage-labs/creem-sdk) - Creem official typescript SDK (2 days ago)
 </details>
 
 <br>
