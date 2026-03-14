@@ -27,21 +27,21 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Lately, I have worked on</summary>
   
+  - [feat: add contacts migrate and emails batch-csv cmds for bulk ops](https://github.com/resend/resend-cli/pull/100) on [resend/resend-cli](https://github.com/resend/resend-cli) (today)
   - [feat: create og image](https://github.com/getpaykit/paykit/pull/30) on [getpaykit/paykit](https://github.com/getpaykit/paykit) (3 days ago)
   - [feat: custom 404 for docs and ask ai](https://github.com/getpaykit/paykit/pull/29) on [getpaykit/paykit](https://github.com/getpaykit/paykit) (3 days ago)
   - [feat: landing and docs updates](https://github.com/getpaykit/paykit/pull/27) on [getpaykit/paykit](https://github.com/getpaykit/paykit) (4 days ago)
   - [feat: smoother vertical tab animation](https://github.com/simstudioai/sim/pull/3491) on [simstudioai/sim](https://github.com/simstudioai/sim) (5 days ago)
-  - [refactor(ui): shared StreamingIndicator and workspace route loading skeletons](https://github.com/simstudioai/sim/pull/3482) on [simstudioai/sim](https://github.com/simstudioai/sim) (5 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
+  - [vxcozy/tome](https://github.com/vxcozy/tome) - Beautiful documentation that doesn&#39;t cost a fortune. Open-source Mintlify alternative. (today)
   - [ephraimduncan/mac-download-manager](https://github.com/ephraimduncan/mac-download-manager) - Open source download manager for Mac (1 day ago)
   - [Emanuele-web04/remodex](https://github.com/Emanuele-web04/remodex) - Remote Control for Codex. 24/7 version on the way (1 day ago)
   - [resend/resend-cli](https://github.com/resend/resend-cli) - The official CLI for Resend (1 day ago)
   - [thesysdev/openui](https://github.com/thesysdev/openui) - The Open Standard for Generative UI (3 days ago)
-  - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (3 days ago)
 </details>
 
 <br>
