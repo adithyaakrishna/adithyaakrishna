@@ -27,10 +27,10 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Lately, I have worked on</summary>
   
+  - [feat: updated design for blog and blog details page w dynamic og generation](https://github.com/simstudioai/sim/pull/3625) on [simstudioai/sim](https://github.com/simstudioai/sim) (today)
   - [feat: add contacts migrate and emails batch-csv cmds for bulk ops](https://github.com/resend/resend-cli/pull/100) on [resend/resend-cli](https://github.com/resend/resend-cli) (3 days ago)
   - [feat: create og image](https://github.com/getpaykit/paykit/pull/30) on [getpaykit/paykit](https://github.com/getpaykit/paykit) (6 days ago)
   - [feat: custom 404 for docs and ask ai](https://github.com/getpaykit/paykit/pull/29) on [getpaykit/paykit](https://github.com/getpaykit/paykit) (6 days ago)
-  - [feat: landing and docs updates](https://github.com/getpaykit/paykit/pull/27) on [getpaykit/paykit](https://github.com/getpaykit/paykit) (1 week ago)
 </details>
 
 <details>
