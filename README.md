@@ -17,8 +17,8 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (6 days ago)
-  - [adithyaakrishna/not-natural](https://github.com/adithyaakrishna/not-natural) -  (6 days ago)
+  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 week ago)
+  - [adithyaakrishna/not-natural](https://github.com/adithyaakrishna/not-natural) -  (1 week ago)
   - [getpaykit/paykit](https://github.com/getpaykit/paykit) - Open-source TypeScript toolkit that unifies multiple payment providers behind a single, extensible API. (1 week ago)
   - [adithyaakrishna/fireparse](https://github.com/adithyaakrishna/fireparse) - Parse PDFs Easily with Firecrawl (2 weeks ago)
   - [adithyaakrishna/labs](https://github.com/adithyaakrishna/labs) - Area 51 of My Claude Code Ramblings (1 month ago)
@@ -27,20 +27,21 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat(ui): add interactive product tour with react joyride](https://github.com/simstudioai/sim/pull/3655) on [simstudioai/sim](https://github.com/simstudioai/sim) (1 day ago)
-  - [feat: add newly designed og for the landing](https://github.com/simstudioai/sim/pull/3652) on [simstudioai/sim](https://github.com/simstudioai/sim) (1 day ago)
-  - [feat: updated design for blog and blog details page w dynamic og generation](https://github.com/simstudioai/sim/pull/3625) on [simstudioai/sim](https://github.com/simstudioai/sim) (2 days ago)
-  - [feat: add contacts migrate and emails batch-csv cmds for bulk ops](https://github.com/resend/resend-cli/pull/100) on [resend/resend-cli](https://github.com/resend/resend-cli) (5 days ago)
+  - [fix: emcn component library design engineering polish](https://github.com/simstudioai/sim/pull/3672) on [simstudioai/sim](https://github.com/simstudioai/sim) (2 days ago)
+  - [feat(loading) show route specific skeleton UI](https://github.com/simstudioai/sim/pull/3671) on [simstudioai/sim](https://github.com/simstudioai/sim) (2 days ago)
+  - [feat(ui): add interactive product tour with react joyride](https://github.com/simstudioai/sim/pull/3655) on [simstudioai/sim](https://github.com/simstudioai/sim) (3 days ago)
+  - [feat: add newly designed og for the landing](https://github.com/simstudioai/sim/pull/3652) on [simstudioai/sim](https://github.com/simstudioai/sim) (3 days ago)
+  - [feat: updated design for blog and blog details page w dynamic og generation](https://github.com/simstudioai/sim/pull/3625) on [simstudioai/sim](https://github.com/simstudioai/sim) (4 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [rivet-dev/secure-exec](https://github.com/rivet-dev/secure-exec) - Secure Node.js Execution Without a Sandbox  A lightweight library for secure Node.js execution. No containers, no VMs — just npm-compatible sandboxing out of the box. (today)
-  - [tempoxyz/docs](https://github.com/tempoxyz/docs) -  (1 day ago)
-  - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (1 day ago)
-  - [peakoss/anti-slop](https://github.com/peakoss/anti-slop) - A GitHub action that detects and automatically closes low-quality and AI slop PRs. (4 days ago)
-  - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration (4 days ago)
+  - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically (1 day ago)
+  - [diggerhq/opencomputer](https://github.com/diggerhq/opencomputer) - Secure cloud computers for AI agents. (1 day ago)
+  - [rivet-dev/secure-exec](https://github.com/rivet-dev/secure-exec) - Secure Node.js Execution Without a Sandbox  A lightweight library for secure Node.js execution. No containers, no VMs — just npm-compatible sandboxing out of the box. (2 days ago)
+  - [tempoxyz/docs](https://github.com/tempoxyz/docs) -  (3 days ago)
+  - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (3 days ago)
 </details>
 
 <br>
