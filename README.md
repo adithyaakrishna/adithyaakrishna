@@ -17,7 +17,7 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. (1 day ago)
+  - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. (3 days ago)
   - [adithyaakrishna/not-natural](https://github.com/adithyaakrishna/not-natural) -  (1 week ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 week ago)
   - [getpaykit/paykit](https://github.com/getpaykit/paykit) - Open-source TypeScript toolkit that unifies multiple payment providers behind a single, extensible API. (2 weeks ago)
@@ -27,21 +27,21 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [fix: emcn component library design engineering polish](https://github.com/simstudioai/sim/pull/3672) on [simstudioai/sim](https://github.com/simstudioai/sim) (3 days ago)
-  - [feat(loading) show route specific skeleton UI](https://github.com/simstudioai/sim/pull/3671) on [simstudioai/sim](https://github.com/simstudioai/sim) (3 days ago)
-  - [feat(ui): add interactive product tour with react joyride](https://github.com/simstudioai/sim/pull/3655) on [simstudioai/sim](https://github.com/simstudioai/sim) (4 days ago)
-  - [feat: add newly designed og for the landing](https://github.com/simstudioai/sim/pull/3652) on [simstudioai/sim](https://github.com/simstudioai/sim) (4 days ago)
-  - [feat: updated design for blog and blog details page w dynamic og generation](https://github.com/simstudioai/sim/pull/3625) on [simstudioai/sim](https://github.com/simstudioai/sim) (5 days ago)
+  - [chore(refactor): convert components to server components and split enterprise/pricing](https://github.com/simstudioai/sim/pull/3716) on [simstudioai/sim](https://github.com/simstudioai/sim) (1 day ago)
+  - [chore: optimize all static images and svgs](https://github.com/simstudioai/sim/pull/3713) on [simstudioai/sim](https://github.com/simstudioai/sim) (2 days ago)
+  - [fix: emcn component library design engineering polish](https://github.com/simstudioai/sim/pull/3672) on [simstudioai/sim](https://github.com/simstudioai/sim) (5 days ago)
+  - [feat(loading) show route specific skeleton UI](https://github.com/simstudioai/sim/pull/3671) on [simstudioai/sim](https://github.com/simstudioai/sim) (5 days ago)
+  - [feat(ui): add interactive product tour with react joyride](https://github.com/simstudioai/sim/pull/3655) on [simstudioai/sim](https://github.com/simstudioai/sim) (6 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [Chainlift/liftkit](https://github.com/Chainlift/liftkit) - Components from design to production (1 day ago)
-  - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically (2 days ago)
-  - [diggerhq/opencomputer](https://github.com/diggerhq/opencomputer) - Secure cloud computers for AI agents. (2 days ago)
-  - [rivet-dev/secure-exec](https://github.com/rivet-dev/secure-exec) - Secure Node.js Execution Without a Sandbox  A lightweight library for secure Node.js execution. No containers, no VMs — just npm-compatible sandboxing out of the box. (3 days ago)
-  - [tempoxyz/docs](https://github.com/tempoxyz/docs) -  (4 days ago)
+  - [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution. (1 day ago)
+  - [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) - Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy&#39;s autoresearch. Modify → Verify → Keep/Discard → Repeat forever. (1 day ago)
+  - [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) - An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack  (1 day ago)
+  - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies (1 day ago)
+  - [reaviz/reagraph](https://github.com/reaviz/reagraph) - 🕸 WebGL Graph Visualizations for React. Maintained by @goodcodeus. (1 day ago)
 </details>
 
 <br>
