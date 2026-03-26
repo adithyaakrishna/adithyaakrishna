@@ -17,7 +17,7 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. (2 days ago)
+  - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. (today)
   - [adithyaakrishna/not-natural](https://github.com/adithyaakrishna/not-natural) -  (1 week ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 week ago)
   - [getpaykit/paykit](https://github.com/getpaykit/paykit) - Open-source TypeScript toolkit that unifies multiple payment providers behind a single, extensible API. (2 weeks ago)
@@ -27,11 +27,11 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Lately, I have worked on</summary>
   
+  - [feat: fix rerenders on search input](https://github.com/simstudioai/sim/pull/3784) on [simstudioai/sim](https://github.com/simstudioai/sim) (today)
   - [feat: fix multiple re-renders on user-input and split the file](https://github.com/simstudioai/sim/pull/3768) on [simstudioai/sim](https://github.com/simstudioai/sim) (1 day ago)
   - [feat(docs):  update layout and categorise the sidebar items](https://github.com/simstudioai/sim/pull/3762) on [simstudioai/sim](https://github.com/simstudioai/sim) (1 day ago)
   - [chore: remove lodash](https://github.com/simstudioai/sim/pull/3741) on [simstudioai/sim](https://github.com/simstudioai/sim) (2 days ago)
   - [chore: optimize imports and useShallow](https://github.com/simstudioai/sim/pull/3740) on [simstudioai/sim](https://github.com/simstudioai/sim) (2 days ago)
-  - [chore(refactor): convert components to server components and split enterprise/pricing](https://github.com/simstudioai/sim/pull/3716) on [simstudioai/sim](https://github.com/simstudioai/sim) (3 days ago)
 </details>
 
 <details>
