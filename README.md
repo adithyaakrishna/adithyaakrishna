@@ -17,31 +17,31 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. (1 day ago)
+  - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. (2 days ago)
   - [adithyaakrishna/not-natural](https://github.com/adithyaakrishna/not-natural) -  (1 week ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 week ago)
   - [getpaykit/paykit](https://github.com/getpaykit/paykit) - Open-source TypeScript toolkit that unifies multiple payment providers behind a single, extensible API. (2 weeks ago)
-  - [adithyaakrishna/fireparse](https://github.com/adithyaakrishna/fireparse) - Parse PDFs Easily with Firecrawl (2 weeks ago)
+  - [adithyaakrishna/fireparse](https://github.com/adithyaakrishna/fireparse) - Parse PDFs Easily with Firecrawl (3 weeks ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [chore(refactor): convert components to server components and split enterprise/pricing](https://github.com/simstudioai/sim/pull/3716) on [simstudioai/sim](https://github.com/simstudioai/sim) (1 day ago)
-  - [chore: optimize all static images and svgs](https://github.com/simstudioai/sim/pull/3713) on [simstudioai/sim](https://github.com/simstudioai/sim) (2 days ago)
-  - [fix: emcn component library design engineering polish](https://github.com/simstudioai/sim/pull/3672) on [simstudioai/sim](https://github.com/simstudioai/sim) (5 days ago)
-  - [feat(loading) show route specific skeleton UI](https://github.com/simstudioai/sim/pull/3671) on [simstudioai/sim](https://github.com/simstudioai/sim) (5 days ago)
-  - [feat(ui): add interactive product tour with react joyride](https://github.com/simstudioai/sim/pull/3655) on [simstudioai/sim](https://github.com/simstudioai/sim) (6 days ago)
+  - [feat: fix multiple re-renders on user-input and split the file](https://github.com/simstudioai/sim/pull/3768) on [simstudioai/sim](https://github.com/simstudioai/sim) (1 day ago)
+  - [feat(docs):  update layout and categorise the sidebar items](https://github.com/simstudioai/sim/pull/3762) on [simstudioai/sim](https://github.com/simstudioai/sim) (1 day ago)
+  - [chore: remove lodash](https://github.com/simstudioai/sim/pull/3741) on [simstudioai/sim](https://github.com/simstudioai/sim) (2 days ago)
+  - [chore: optimize imports and useShallow](https://github.com/simstudioai/sim/pull/3740) on [simstudioai/sim](https://github.com/simstudioai/sim) (2 days ago)
+  - [chore(refactor): convert components to server components and split enterprise/pricing](https://github.com/simstudioai/sim/pull/3716) on [simstudioai/sim](https://github.com/simstudioai/sim) (3 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that&#39;s 2-3 times faster and up to 97% smaller—a major upgrade to lodash. (today)
-  - [slavingia/skills](https://github.com/slavingia/skills) - Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia (today)
-  - [openai/parameter-golf](https://github.com/openai/parameter-golf) - Train the smallest LM you can that fits in 16MB. Best model wins! (today)
-  - [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution. (1 day ago)
-  - [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) - Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy&#39;s autoresearch. Modify → Verify → Keep/Discard → Repeat forever. (1 day ago)
+  - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app (1 day ago)
+  - [millionco/expect](https://github.com/millionco/expect) - Let agents test your code in a real browser (1 day ago)
+  - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files. (1 day ago)
+  - [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100&#43; specialized Claude Code subagents covering a wide range of development use cases (1 day ago)
+  - [c15t/c15t](https://github.com/c15t/c15t) - The Developer-First Cookie Banner (1 day ago)
 </details>
 
 <br>
