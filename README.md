@@ -17,31 +17,31 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. (today)
+  - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. (1 day ago)
   - [adithyaakrishna/not-natural](https://github.com/adithyaakrishna/not-natural) -  (2 weeks ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 weeks ago)
-  - [getpaykit/paykit](https://github.com/getpaykit/paykit) - Open-source TypeScript toolkit that unifies multiple payment providers behind a single, extensible API. (2 weeks ago)
+  - [getpaykit/paykit](https://github.com/getpaykit/paykit) - Open-source TypeScript toolkit that unifies multiple payment providers behind a single, extensible API. (3 weeks ago)
   - [adithyaakrishna/fireparse](https://github.com/adithyaakrishna/fireparse) - Parse PDFs Easily with Firecrawl (3 weeks ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [chore: remove font antialiasing](https://github.com/simstudioai/sim/pull/3806) on [simstudioai/sim](https://github.com/simstudioai/sim) (1 day ago)
-  - [chore: fix rerenders on files](https://github.com/simstudioai/sim/pull/3805) on [simstudioai/sim](https://github.com/simstudioai/sim) (1 day ago)
-  - [feat: update sidebar and knowledge](https://github.com/simstudioai/sim/pull/3804) on [simstudioai/sim](https://github.com/simstudioai/sim) (1 day ago)
-  - [feat: add new variants and update agent docs for tokens](https://github.com/simstudioai/sim/pull/3791) on [simstudioai/sim](https://github.com/simstudioai/sim) (2 days ago)
-  - [chore: fix cn with tw-merge](https://github.com/simstudioai/sim/pull/3789) on [simstudioai/sim](https://github.com/simstudioai/sim) (2 days ago)
+  - [chore: remove font antialiasing](https://github.com/simstudioai/sim/pull/3806) on [simstudioai/sim](https://github.com/simstudioai/sim) (2 days ago)
+  - [chore: fix rerenders on files](https://github.com/simstudioai/sim/pull/3805) on [simstudioai/sim](https://github.com/simstudioai/sim) (2 days ago)
+  - [feat: update sidebar and knowledge](https://github.com/simstudioai/sim/pull/3804) on [simstudioai/sim](https://github.com/simstudioai/sim) (2 days ago)
+  - [feat: add new variants and update agent docs for tokens](https://github.com/simstudioai/sim/pull/3791) on [simstudioai/sim](https://github.com/simstudioai/sim) (3 days ago)
+  - [chore: fix cn with tw-merge](https://github.com/simstudioai/sim/pull/3789) on [simstudioai/sim](https://github.com/simstudioai/sim) (3 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app (3 days ago)
-  - [millionco/expect](https://github.com/millionco/expect) - Let agents test your code in a real browser (3 days ago)
-  - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files. (3 days ago)
-  - [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100&#43; specialized Claude Code subagents covering a wide range of development use cases (3 days ago)
-  - [c15t/c15t](https://github.com/c15t/c15t) - The Developer-First Cookie Banner (3 days ago)
+  - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app (4 days ago)
+  - [millionco/expect](https://github.com/millionco/expect) - Let agents test your code in a real browser (4 days ago)
+  - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files. (4 days ago)
+  - [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100&#43; specialized Claude Code subagents covering a wide range of development use cases (4 days ago)
+  - [c15t/c15t](https://github.com/c15t/c15t) - The Developer-First Cookie Banner (4 days ago)
 </details>
 
 <br>
