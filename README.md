@@ -17,31 +17,31 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. (5 days ago)
-  - [adithyaakrishna/not-natural](https://github.com/adithyaakrishna/not-natural) -  (2 weeks ago)
-  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 weeks ago)
+  - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. (1 week ago)
+  - [adithyaakrishna/not-natural](https://github.com/adithyaakrishna/not-natural) -  (3 weeks ago)
+  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (3 weeks ago)
   - [getpaykit/paykit](https://github.com/getpaykit/paykit) - The billing framework for TypeScript (3 weeks ago)
-  - [adithyaakrishna/fireparse](https://github.com/adithyaakrishna/fireparse) - Parse PDFs Easily with Firecrawl (4 weeks ago)
+  - [adithyaakrishna/fireparse](https://github.com/adithyaakrishna/fireparse) - Parse PDFs Easily with Firecrawl (1 month ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat(workflow): resolve canvas re-rendering and logs perf issues](https://github.com/simstudioai/sim/pull/3844) on [simstudioai/sim](https://github.com/simstudioai/sim) (3 days ago)
-  - [chore: remove font antialiasing](https://github.com/simstudioai/sim/pull/3806) on [simstudioai/sim](https://github.com/simstudioai/sim) (6 days ago)
-  - [chore: fix rerenders on files](https://github.com/simstudioai/sim/pull/3805) on [simstudioai/sim](https://github.com/simstudioai/sim) (6 days ago)
-  - [feat: update sidebar and knowledge](https://github.com/simstudioai/sim/pull/3804) on [simstudioai/sim](https://github.com/simstudioai/sim) (6 days ago)
+  - [feat(workflow): resolve canvas re-rendering and logs perf issues](https://github.com/simstudioai/sim/pull/3844) on [simstudioai/sim](https://github.com/simstudioai/sim) (5 days ago)
+  - [chore: remove font antialiasing](https://github.com/simstudioai/sim/pull/3806) on [simstudioai/sim](https://github.com/simstudioai/sim) (1 week ago)
+  - [chore: fix rerenders on files](https://github.com/simstudioai/sim/pull/3805) on [simstudioai/sim](https://github.com/simstudioai/sim) (1 week ago)
+  - [feat: update sidebar and knowledge](https://github.com/simstudioai/sim/pull/3804) on [simstudioai/sim](https://github.com/simstudioai/sim) (1 week ago)
   - [feat: add new variants and update agent docs for tokens](https://github.com/simstudioai/sim/pull/3791) on [simstudioai/sim](https://github.com/simstudioai/sim) (1 week ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (2 days ago)
-  - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex. (2 days ago)
+  - [PrathamLearnsToCode/paper2code](https://github.com/PrathamLearnsToCode/paper2code) - Agent skill to turn any arxiv paper into a working implementation (1 day ago)
+  - [chonkie-inc/chonkie](https://github.com/chonkie-inc/chonkie) - 🦛 CHONK docs with Chonkie ✨ — The lightweight ingestion library for fast, efficient and robust RAG pipelines (2 days ago)
+  - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (4 days ago)
+  - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. (4 days ago)
   - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app (1 week ago)
-  - [millionco/expect](https://github.com/millionco/expect) - Expect tests your app in a browser so you don&#39;t have to. (1 week ago)
-  - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files. (1 week ago)
 </details>
 
 <br>
