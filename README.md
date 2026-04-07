@@ -20,15 +20,15 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
   - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. (1 week ago)
   - [adithyaakrishna/not-natural](https://github.com/adithyaakrishna/not-natural) -  (3 weeks ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (3 weeks ago)
-  - [getpaykit/paykit](https://github.com/getpaykit/paykit) - The billing framework for TypeScript (4 weeks ago)
+  - [getpaykit/paykit](https://github.com/getpaykit/paykit) - The billing framework for TypeScript (1 month ago)
   - [adithyaakrishna/fireparse](https://github.com/adithyaakrishna/fireparse) - Parse PDFs Easily with Firecrawl (1 month ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [ feat: redesign workflow canvas UI w improved UX](https://github.com/simstudioai/sim/pull/3939) on [simstudioai/sim](https://github.com/simstudioai/sim) (1 day ago)
-  - [feat(workflow): resolve canvas re-rendering and logs perf issues](https://github.com/simstudioai/sim/pull/3844) on [simstudioai/sim](https://github.com/simstudioai/sim) (6 days ago)
+  - [ feat: redesign workflow canvas UI w improved UX](https://github.com/simstudioai/sim/pull/3939) on [simstudioai/sim](https://github.com/simstudioai/sim) (3 days ago)
+  - [feat(workflow): resolve canvas re-rendering and logs perf issues](https://github.com/simstudioai/sim/pull/3844) on [simstudioai/sim](https://github.com/simstudioai/sim) (1 week ago)
   - [chore: remove font antialiasing](https://github.com/simstudioai/sim/pull/3806) on [simstudioai/sim](https://github.com/simstudioai/sim) (1 week ago)
   - [chore: fix rerenders on files](https://github.com/simstudioai/sim/pull/3805) on [simstudioai/sim](https://github.com/simstudioai/sim) (1 week ago)
   - [feat: update sidebar and knowledge](https://github.com/simstudioai/sim/pull/3804) on [simstudioai/sim](https://github.com/simstudioai/sim) (1 week ago)
@@ -37,11 +37,11 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>These are super cool</summary>
   
-  - [PrathamLearnsToCode/paper2code](https://github.com/PrathamLearnsToCode/paper2code) - Agent skill to turn any arxiv paper into a working implementation (2 days ago)
-  - [chonkie-inc/chonkie](https://github.com/chonkie-inc/chonkie) - 🦛 CHONK docs with Chonkie ✨ — The lightweight ingestion library for fast, efficient and robust RAG pipelines (3 days ago)
-  - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (5 days ago)
-  - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. (5 days ago)
-  - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app (1 week ago)
+  - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider. (1 day ago)
+  - [zmeyer44/OpenVitals](https://github.com/zmeyer44/OpenVitals) -  (2 days ago)
+  - [zmeyer44/Locker](https://github.com/zmeyer44/Locker) -  (2 days ago)
+  - [PrathamLearnsToCode/paper2code](https://github.com/PrathamLearnsToCode/paper2code) - Agent skill to turn any arxiv paper into a working implementation (4 days ago)
+  - [chonkie-inc/chonkie](https://github.com/chonkie-inc/chonkie) - 🦛 CHONK docs with Chonkie ✨ — The lightweight ingestion library for fast, efficient and robust RAG pipelines (5 days ago)
 </details>
 
 <br>
