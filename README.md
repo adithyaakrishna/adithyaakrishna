@@ -27,7 +27,7 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [ feat: redesign workflow canvas UI w improved UX](https://github.com/simstudioai/sim/pull/3939) on [simstudioai/sim](https://github.com/simstudioai/sim) (3 days ago)
+  - [ feat: redesign workflow canvas UI w improved UX](https://github.com/simstudioai/sim/pull/3939) on [simstudioai/sim](https://github.com/simstudioai/sim) (5 days ago)
   - [feat(workflow): resolve canvas re-rendering and logs perf issues](https://github.com/simstudioai/sim/pull/3844) on [simstudioai/sim](https://github.com/simstudioai/sim) (1 week ago)
   - [chore: remove font antialiasing](https://github.com/simstudioai/sim/pull/3806) on [simstudioai/sim](https://github.com/simstudioai/sim) (1 week ago)
   - [chore: fix rerenders on files](https://github.com/simstudioai/sim/pull/3805) on [simstudioai/sim](https://github.com/simstudioai/sim) (1 week ago)
@@ -37,11 +37,11 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>These are super cool</summary>
   
-  - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider. (1 day ago)
-  - [zmeyer44/OpenVitals](https://github.com/zmeyer44/OpenVitals) -  (2 days ago)
-  - [zmeyer44/Locker](https://github.com/zmeyer44/Locker) -  (2 days ago)
-  - [PrathamLearnsToCode/paper2code](https://github.com/PrathamLearnsToCode/paper2code) - Agent skill to turn any arxiv paper into a working implementation (4 days ago)
-  - [chonkie-inc/chonkie](https://github.com/chonkie-inc/chonkie) - 🦛 CHONK docs with Chonkie ✨ — The lightweight ingestion library for fast, efficient and robust RAG pipelines (5 days ago)
+  - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider. (3 days ago)
+  - [zmeyer44/OpenVitals](https://github.com/zmeyer44/OpenVitals) -  (4 days ago)
+  - [zmeyer44/Locker](https://github.com/zmeyer44/Locker) -  (4 days ago)
+  - [PrathamLearnsToCode/paper2code](https://github.com/PrathamLearnsToCode/paper2code) - Agent skill to turn any arxiv paper into a working implementation (6 days ago)
+  - [chonkie-inc/chonkie](https://github.com/chonkie-inc/chonkie) - 🦛 CHONK docs with Chonkie ✨ — The lightweight ingestion library for fast, efficient and robust RAG pipelines (1 week ago)
 </details>
 
 <br>
