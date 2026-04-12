@@ -18,8 +18,8 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
   <summary>Check out what I'm currently working on</summary>
   
   - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. (2 weeks ago)
-  - [adithyaakrishna/not-natural](https://github.com/adithyaakrishna/not-natural) -  (4 weeks ago)
-  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (4 weeks ago)
+  - [adithyaakrishna/not-natural](https://github.com/adithyaakrishna/not-natural) -  (1 month ago)
+  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 month ago)
   - [getpaykit/paykit](https://github.com/getpaykit/paykit) - The billing framework for TypeScript. Code-first products, handles Stripe, webhooks, and usage state, runs in your app. (1 month ago)
   - [adithyaakrishna/fireparse](https://github.com/adithyaakrishna/fireparse) - Parse PDFs Easily with Firecrawl (1 month ago)
 </details>
@@ -31,15 +31,14 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
   - [feat(workflow): resolve canvas re-rendering and logs perf issues](https://github.com/simstudioai/sim/pull/3844) on [simstudioai/sim](https://github.com/simstudioai/sim) (1 week ago)
   - [chore: remove font antialiasing](https://github.com/simstudioai/sim/pull/3806) on [simstudioai/sim](https://github.com/simstudioai/sim) (2 weeks ago)
   - [chore: fix rerenders on files](https://github.com/simstudioai/sim/pull/3805) on [simstudioai/sim](https://github.com/simstudioai/sim) (2 weeks ago)
-  - [feat: update sidebar and knowledge](https://github.com/simstudioai/sim/pull/3804) on [simstudioai/sim](https://github.com/simstudioai/sim) (2 weeks ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider. (5 days ago)
-  - [zmeyer44/OpenVitals](https://github.com/zmeyer44/OpenVitals) -  (6 days ago)
-  - [zmeyer44/Locker](https://github.com/zmeyer44/Locker) -  (6 days ago)
+  - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider. (6 days ago)
+  - [zmeyer44/OpenVitals](https://github.com/zmeyer44/OpenVitals) -  (1 week ago)
+  - [zmeyer44/Locker](https://github.com/zmeyer44/Locker) -  (1 week ago)
   - [PrathamLearnsToCode/paper2code](https://github.com/PrathamLearnsToCode/paper2code) - Agent skill to turn any arxiv paper into a working implementation (1 week ago)
   - [chonkie-inc/chonkie](https://github.com/chonkie-inc/chonkie) - 🦛 CHONK docs with Chonkie ✨ — The lightweight ingestion library for fast, efficient and robust RAG pipelines (1 week ago)
 </details>
