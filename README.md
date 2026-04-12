@@ -30,7 +30,6 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
   - [ feat: redesign workflow canvas UI w improved UX](https://github.com/simstudioai/sim/pull/3939) on [simstudioai/sim](https://github.com/simstudioai/sim) (1 week ago)
   - [feat(workflow): resolve canvas re-rendering and logs perf issues](https://github.com/simstudioai/sim/pull/3844) on [simstudioai/sim](https://github.com/simstudioai/sim) (1 week ago)
   - [chore: remove font antialiasing](https://github.com/simstudioai/sim/pull/3806) on [simstudioai/sim](https://github.com/simstudioai/sim) (2 weeks ago)
-  - [chore: fix rerenders on files](https://github.com/simstudioai/sim/pull/3805) on [simstudioai/sim](https://github.com/simstudioai/sim) (2 weeks ago)
 </details>
 
 <details>
