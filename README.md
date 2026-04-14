@@ -28,14 +28,13 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
   <summary>Lately, I have worked on</summary>
   
   - [ feat: redesign workflow canvas UI w improved UX](https://github.com/simstudioai/sim/pull/3939) on [simstudioai/sim](https://github.com/simstudioai/sim) (1 week ago)
-  - [feat(workflow): resolve canvas re-rendering and logs perf issues](https://github.com/simstudioai/sim/pull/3844) on [simstudioai/sim](https://github.com/simstudioai/sim) (1 week ago)
-  - [chore: remove font antialiasing](https://github.com/simstudioai/sim/pull/3806) on [simstudioai/sim](https://github.com/simstudioai/sim) (2 weeks ago)
+  - [feat(workflow): resolve canvas re-rendering and logs perf issues](https://github.com/simstudioai/sim/pull/3844) on [simstudioai/sim](https://github.com/simstudioai/sim) (2 weeks ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider. (6 days ago)
+  - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider. (1 week ago)
   - [zmeyer44/OpenVitals](https://github.com/zmeyer44/OpenVitals) -  (1 week ago)
   - [zmeyer44/Locker](https://github.com/zmeyer44/Locker) -  (1 week ago)
   - [PrathamLearnsToCode/paper2code](https://github.com/PrathamLearnsToCode/paper2code) - Agent skill to turn any arxiv paper into a working implementation (1 week ago)
