@@ -27,8 +27,7 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [ feat: redesign workflow canvas UI w improved UX](https://github.com/simstudioai/sim/pull/3939) on [simstudioai/sim](https://github.com/simstudioai/sim) (1 week ago)
-  - [feat(workflow): resolve canvas re-rendering and logs perf issues](https://github.com/simstudioai/sim/pull/3844) on [simstudioai/sim](https://github.com/simstudioai/sim) (2 weeks ago)
+  - [feat: add built-in self loop edge routing support](https://github.com/synergycodes/ng-diagram/pull/646) on [synergycodes/ng-diagram](https://github.com/synergycodes/ng-diagram) (1 day ago)
 </details>
 
 <details>
@@ -38,7 +37,7 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
   - [zmeyer44/OpenVitals](https://github.com/zmeyer44/OpenVitals) -  (1 week ago)
   - [zmeyer44/Locker](https://github.com/zmeyer44/Locker) -  (1 week ago)
   - [PrathamLearnsToCode/paper2code](https://github.com/PrathamLearnsToCode/paper2code) - Agent skill to turn any arxiv paper into a working implementation (1 week ago)
-  - [chonkie-inc/chonkie](https://github.com/chonkie-inc/chonkie) - 🦛 CHONK docs with Chonkie ✨ — The lightweight ingestion library for fast, efficient and robust RAG pipelines (1 week ago)
+  - [chonkie-inc/chonkie](https://github.com/chonkie-inc/chonkie) - 🦛 CHONK docs with Chonkie ✨ — The lightweight ingestion library for fast, efficient and robust RAG pipelines (2 weeks ago)
 </details>
 
 <br>
