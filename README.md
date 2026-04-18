@@ -33,11 +33,11 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>These are super cool</summary>
   
+  - [kieler/elkjs](https://github.com/kieler/elkjs) - ELK&#39;s layout algorithms for JavaScript (today)
   - [bergside/typeui](https://github.com/bergside/typeui) - Design system skills for agentic tools (2 days ago)
   - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider. (1 week ago)
   - [zmeyer44/OpenVitals](https://github.com/zmeyer44/OpenVitals) -  (1 week ago)
   - [zmeyer44/Locker](https://github.com/zmeyer44/Locker) -  (1 week ago)
-  - [PrathamLearnsToCode/paper2code](https://github.com/PrathamLearnsToCode/paper2code) - Agent skill to turn any arxiv paper into a working implementation (2 weeks ago)
 </details>
 
 <br>
