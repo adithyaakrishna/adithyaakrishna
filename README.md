@@ -17,7 +17,7 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. (2 weeks ago)
+  - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. (3 weeks ago)
   - [adithyaakrishna/not-natural](https://github.com/adithyaakrishna/not-natural) -  (1 month ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 month ago)
   - [getpaykit/paykit](https://github.com/getpaykit/paykit) - The billing framework for TypeScript. Code-first products, handles Stripe, webhooks, and usage state, runs in your app. (1 month ago)
@@ -27,17 +27,17 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat: add built-in self loop edge routing support](https://github.com/synergycodes/ng-diagram/pull/646) on [synergycodes/ng-diagram](https://github.com/synergycodes/ng-diagram) (1 day ago)
+  - [feat: add built-in self loop edge routing support](https://github.com/synergycodes/ng-diagram/pull/646) on [synergycodes/ng-diagram](https://github.com/synergycodes/ng-diagram) (3 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
+  - [bergside/typeui](https://github.com/bergside/typeui) - Design system skills for agentic tools (2 days ago)
   - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider. (1 week ago)
   - [zmeyer44/OpenVitals](https://github.com/zmeyer44/OpenVitals) -  (1 week ago)
   - [zmeyer44/Locker](https://github.com/zmeyer44/Locker) -  (1 week ago)
-  - [PrathamLearnsToCode/paper2code](https://github.com/PrathamLearnsToCode/paper2code) - Agent skill to turn any arxiv paper into a working implementation (1 week ago)
-  - [chonkie-inc/chonkie](https://github.com/chonkie-inc/chonkie) - 🦛 CHONK docs with Chonkie ✨ — The lightweight ingestion library for fast, efficient and robust RAG pipelines (2 weeks ago)
+  - [PrathamLearnsToCode/paper2code](https://github.com/PrathamLearnsToCode/paper2code) - Agent skill to turn any arxiv paper into a working implementation (2 weeks ago)
 </details>
 
 <br>
