@@ -27,15 +27,15 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [feat: add built-in self loop edge routing support](https://github.com/synergycodes/ng-diagram/pull/646) on [synergycodes/ng-diagram](https://github.com/synergycodes/ng-diagram) (4 days ago)
+  - [feat: add built-in self loop edge routing support](https://github.com/synergycodes/ng-diagram/pull/646) on [synergycodes/ng-diagram](https://github.com/synergycodes/ng-diagram) (6 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [kieler/elkjs](https://github.com/kieler/elkjs) - ELK&#39;s layout algorithms for JavaScript (1 day ago)
-  - [bergside/typeui](https://github.com/bergside/typeui) - Design system skills for agentic tools (3 days ago)
-  - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider. (1 week ago)
+  - [kieler/elkjs](https://github.com/kieler/elkjs) - ELK&#39;s layout algorithms for JavaScript (3 days ago)
+  - [bergside/typeui](https://github.com/bergside/typeui) - Design system skills for agentic tools (5 days ago)
+  - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider. (2 weeks ago)
   - [zmeyer44/OpenVitals](https://github.com/zmeyer44/OpenVitals) -  (2 weeks ago)
   - [zmeyer44/Locker](https://github.com/zmeyer44/Locker) -  (2 weeks ago)
 </details>
