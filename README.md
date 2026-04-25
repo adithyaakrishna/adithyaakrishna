@@ -17,7 +17,7 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. (3 weeks ago)
+  - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. (4 weeks ago)
   - [adithyaakrishna/not-natural](https://github.com/adithyaakrishna/not-natural) -  (1 month ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 month ago)
   - [getpaykit/paykit](https://github.com/getpaykit/paykit) - The billing framework for TypeScript. Code-first products, handles Stripe, webhooks, and usage state, runs in your app. (1 month ago)
@@ -33,8 +33,8 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>These are super cool</summary>
   
-  - [kieler/elkjs](https://github.com/kieler/elkjs) - ELK&#39;s layout algorithms for JavaScript (5 days ago)
-  - [bergside/typeui](https://github.com/bergside/typeui) - Design system skills for agentic tools (1 week ago)
+  - [kieler/elkjs](https://github.com/kieler/elkjs) - ELK&#39;s layout algorithms for JavaScript (1 week ago)
+  - [bergside/typeui](https://github.com/bergside/typeui) - Design skills for agentic tools such as Claude Design, Google Stitch, Codex, Cursor, and more (1 week ago)
   - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider. (2 weeks ago)
   - [zmeyer44/OpenVitals](https://github.com/zmeyer44/OpenVitals) -  (2 weeks ago)
   - [zmeyer44/Locker](https://github.com/zmeyer44/Locker) -  (2 weeks ago)
