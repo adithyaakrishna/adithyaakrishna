@@ -21,7 +21,7 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 month ago)
   - [adithyaakrishna/not-natural](https://github.com/adithyaakrishna/not-natural) -  (1 month ago)
   - [getpaykit/paykit](https://github.com/getpaykit/paykit) - The billing framework for TypeScript. Code-first products, handles Stripe, webhooks, and usage state, runs in your app. (1 month ago)
-  - [adithyaakrishna/fireparse](https://github.com/adithyaakrishna/fireparse) - Parse PDFs Easily with Firecrawl (1 month ago)
+  - [adithyaakrishna/fireparse](https://github.com/adithyaakrishna/fireparse) - Parse PDFs Easily with Firecrawl (2 months ago)
 </details>
 
 <details>
@@ -32,10 +32,10 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>These are super cool</summary>
   
-  - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration. (2 days ago)
-  - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal. (4 days ago)
-  - [farzaa/clicky](https://github.com/farzaa/clicky) -  (4 days ago)
-  - [al1abb/invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next.js, Typescript, and Shadcn (5 days ago)
+  - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration. (3 days ago)
+  - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal. (5 days ago)
+  - [farzaa/clicky](https://github.com/farzaa/clicky) -  (5 days ago)
+  - [al1abb/invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next.js, Typescript, and Shadcn (6 days ago)
   - [kieler/elkjs](https://github.com/kieler/elkjs) - ELK&#39;s layout algorithms for JavaScript (2 weeks ago)
 </details>
 
