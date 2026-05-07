@@ -20,7 +20,7 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
   - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. (1 month ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 month ago)
   - [adithyaakrishna/not-natural](https://github.com/adithyaakrishna/not-natural) -  (1 month ago)
-  - [getpaykit/paykit](https://github.com/getpaykit/paykit) - The billing framework for TypeScript. Code-first products, handles Stripe, webhooks, and usage state, runs in your app. (2 months ago)
+  - [getpaykit/paykit](https://github.com/getpaykit/paykit) - The billing framework for TypeScript. Products in code, handles Stripe, webhooks, and usage state, runs in your app. (2 months ago)
   - [adithyaakrishna/fireparse](https://github.com/adithyaakrishna/fireparse) - Parse PDFs Easily with Firecrawl (2 months ago)
 </details>
 
