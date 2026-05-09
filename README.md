@@ -36,7 +36,7 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
   - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal. (1 week ago)
   - [farzaa/clicky](https://github.com/farzaa/clicky) -  (1 week ago)
   - [al1abb/invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next.js, Typescript, and Shadcn (1 week ago)
-  - [kieler/elkjs](https://github.com/kieler/elkjs) - ELK&#39;s layout algorithms for JavaScript (2 weeks ago)
+  - [kieler/elkjs](https://github.com/kieler/elkjs) - ELK&#39;s layout algorithms for JavaScript (3 weeks ago)
 </details>
 
 <br>
