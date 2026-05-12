@@ -18,8 +18,8 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
   <summary>Check out what I'm currently working on</summary>
   
   - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. (1 month ago)
-  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 month ago)
-  - [adithyaakrishna/not-natural](https://github.com/adithyaakrishna/not-natural) -  (1 month ago)
+  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 months ago)
+  - [adithyaakrishna/not-natural](https://github.com/adithyaakrishna/not-natural) -  (2 months ago)
   - [getpaykit/paykit](https://github.com/getpaykit/paykit) - The billing framework for TypeScript. Products in code, handles Stripe, webhooks, and usage state, runs in your app. (2 months ago)
   - [adithyaakrishna/fireparse](https://github.com/adithyaakrishna/fireparse) - Parse PDFs Easily with Firecrawl (2 months ago)
 </details>
@@ -32,11 +32,11 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>These are super cool</summary>
   
+  - [pHequals7/muesli](https://github.com/pHequals7/muesli) - Muesli - local meeting transcription &#43; dictation for macOS (Granola &#43; WisprFlow alternative) (1 day ago)
   - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration. (1 week ago)
-  - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal. (1 week ago)
-  - [farzaa/clicky](https://github.com/farzaa/clicky) -  (1 week ago)
-  - [al1abb/invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next.js, Typescript, and Shadcn (1 week ago)
-  - [kieler/elkjs](https://github.com/kieler/elkjs) - ELK&#39;s layout algorithms for JavaScript (3 weeks ago)
+  - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal. (2 weeks ago)
+  - [farzaa/clicky](https://github.com/farzaa/clicky) -  (2 weeks ago)
+  - [al1abb/invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next.js, Typescript, and Shadcn (2 weeks ago)
 </details>
 
 <br>
