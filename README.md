@@ -32,7 +32,7 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>These are super cool</summary>
   
-  - [pHequals7/muesli](https://github.com/pHequals7/muesli) - Muesli - local meeting transcription &#43; dictation for macOS (Granola &#43; WisprFlow alternative) (3 days ago)
+  - [pHequals7/muesli](https://github.com/pHequals7/muesli) - Muesli - local meeting transcription &#43; dictation for macOS (Granola &#43; WisprFlow alternative) (5 days ago)
   - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration. (2 weeks ago)
   - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal. (2 weeks ago)
   - [farzaa/clicky](https://github.com/farzaa/clicky) -  (2 weeks ago)
