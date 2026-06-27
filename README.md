@@ -17,8 +17,8 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (today)
-  - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. (2 months ago)
+  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 days ago)
+  - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. (3 months ago)
   - [adithyaakrishna/not-natural](https://github.com/adithyaakrishna/not-natural) -  (3 months ago)
   - [getpaykit/paykit](https://github.com/getpaykit/paykit) - The billing framework for TypeScript. Products in code, handles Stripe, webhooks, and usage state, runs in your app. (3 months ago)
   - [adithyaakrishna/fireparse](https://github.com/adithyaakrishna/fireparse) - Parse PDFs Easily with Firecrawl (3 months ago)
@@ -32,11 +32,11 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>These are super cool</summary>
   
-  - [diip3sh/portfolio](https://github.com/diip3sh/portfolio) - Design &amp; frontend engineer portfolio showcasing polished product UI, motion, and modern web craft. (1 day ago)
-  - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (1 day ago)
-  - [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Design Engineers. (1 day ago)
-  - [datalab-to/chandra](https://github.com/datalab-to/chandra) - OCR model that handles complex tables, forms, handwriting with full layout. (2 days ago)
-  - [opencoredev/email-sdk](https://github.com/opencoredev/email-sdk) - Email SDK is a lightweight TypeScript library for sending email through Resend, Postmark, SendGrid, Mailgun, Brevo, SMTP, and more (2 days ago)
+  - [wzhudev/reverse-linear-sync-engine](https://github.com/wzhudev/reverse-linear-sync-engine) - A reverse engineering of Linear&#39;s sync engine. Endorsed by Linear CTO. (2 days ago)
+  - [pmndrs/drei](https://github.com/pmndrs/drei) - 🥉 useful helpers for react-three-fiber (2 days ago)
+  - [diip3sh/portfolio](https://github.com/diip3sh/portfolio) - Design &amp; frontend engineer portfolio showcasing polished product UI, motion, and modern web craft. (3 days ago)
+  - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (3 days ago)
+  - [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Design Engineers. (3 days ago)
 </details>
 
 <br>
