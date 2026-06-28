@@ -17,7 +17,7 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 days ago)
+  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (3 days ago)
   - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. (3 months ago)
   - [adithyaakrishna/not-natural](https://github.com/adithyaakrishna/not-natural) -  (3 months ago)
   - [getpaykit/paykit](https://github.com/getpaykit/paykit) - The billing framework for TypeScript. Products in code, handles Stripe, webhooks, and usage state, runs in your app. (3 months ago)
@@ -32,11 +32,11 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>These are super cool</summary>
   
-  - [wzhudev/reverse-linear-sync-engine](https://github.com/wzhudev/reverse-linear-sync-engine) - A reverse engineering of Linear&#39;s sync engine. Endorsed by Linear CTO. (2 days ago)
-  - [pmndrs/drei](https://github.com/pmndrs/drei) - 🥉 useful helpers for react-three-fiber (2 days ago)
-  - [diip3sh/portfolio](https://github.com/diip3sh/portfolio) - Design &amp; frontend engineer portfolio showcasing polished product UI, motion, and modern web craft. (3 days ago)
-  - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (3 days ago)
-  - [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Design Engineers. (3 days ago)
+  - [wzhudev/reverse-linear-sync-engine](https://github.com/wzhudev/reverse-linear-sync-engine) - A reverse engineering of Linear&#39;s sync engine. Endorsed by Linear CTO. (3 days ago)
+  - [pmndrs/drei](https://github.com/pmndrs/drei) - 🥉 useful helpers for react-three-fiber (3 days ago)
+  - [diip3sh/portfolio](https://github.com/diip3sh/portfolio) - Design &amp; frontend engineer portfolio showcasing polished product UI, motion, and modern web craft. (4 days ago)
+  - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (4 days ago)
+  - [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Design Engineers. (4 days ago)
 </details>
 
 <br>
