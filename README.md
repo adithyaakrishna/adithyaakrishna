@@ -17,11 +17,11 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (5 days ago)
+  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 week ago)
   - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. (3 months ago)
   - [adithyaakrishna/not-natural](https://github.com/adithyaakrishna/not-natural) -  (3 months ago)
   - [getpaykit/paykit](https://github.com/getpaykit/paykit) - The billing framework for TypeScript. Products in code, handles Stripe, webhooks, and usage state, runs in your app. (3 months ago)
-  - [adithyaakrishna/fireparse](https://github.com/adithyaakrishna/fireparse) - Parse PDFs Easily with Firecrawl (3 months ago)
+  - [adithyaakrishna/fireparse](https://github.com/adithyaakrishna/fireparse) - Parse PDFs Easily with Firecrawl (4 months ago)
 </details>
 
 <details>
@@ -32,11 +32,11 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>These are super cool</summary>
   
-  - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary (today)
-  - [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. (today)
-  - [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) - MCP server integration for DaVinci Resolve Studio (1 day ago)
-  - [RhysSullivan/executor](https://github.com/RhysSullivan/executor) - The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment. (1 day ago)
-  - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines, statecharts, and actors for complex logic (1 day ago)
+  - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary (2 days ago)
+  - [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. (2 days ago)
+  - [samuelgursky/davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) - MCP server integration for DaVinci Resolve Studio (3 days ago)
+  - [RhysSullivan/executor](https://github.com/RhysSullivan/executor) - The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment. (3 days ago)
+  - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines, statecharts, and actors for complex logic (3 days ago)
 </details>
 
 <br>
