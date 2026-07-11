@@ -21,7 +21,7 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
   - [adithyaakrishna/rekord](https://github.com/adithyaakrishna/rekord) - TE Inspired Spotify Music Playyer (1 week ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (2 weeks ago)
   - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. (3 months ago)
-  - [adithyaakrishna/not-natural](https://github.com/adithyaakrishna/not-natural) -  (3 months ago)
+  - [adithyaakrishna/not-natural](https://github.com/adithyaakrishna/not-natural) -  (4 months ago)
 </details>
 
 <details>
@@ -32,11 +32,11 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>These are super cool</summary>
   
-  - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you. (1 day ago)
-  - [michaelshimeles/boring-computers](https://github.com/michaelshimeles/boring-computers) - On-demand Linux computers you can hand to an AI — real Firecracker microVMs with a browser, terminal, coding agents, and an AI that drives them. (4 days ago)
-  - [openemr/openemr](https://github.com/openemr/openemr) - The most popular open source electronic health records and medical practice management solution. (4 days ago)
-  - [kiprotect/klaro](https://github.com/kiprotect/klaro) - Klaro Privacy Manager. An open-source, privacy-friendly &amp; compliant consent manager for your website. (4 days ago)
-  - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS (5 days ago)
+  - [oso95/scroll-world](https://github.com/oso95/scroll-world) - A skill that turn any brand into a scrollable 3D world (1 day ago)
+  - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern toolkit for building drag and drop interfaces (2 days ago)
+  - [hello-pangea/dnd](https://github.com/hello-pangea/dnd) - 💅 Beautiful and accessible drag and drop for lists with React. ⭐️ Star to support our work! (2 days ago)
+  - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you. (3 days ago)
+  - [michaelshimeles/boring-computers](https://github.com/michaelshimeles/boring-computers) - On-demand Linux computers you can hand to an AI — real Firecracker microVMs with a browser, terminal, coding agents, and an AI that drives them. (6 days ago)
 </details>
 
 <br>
