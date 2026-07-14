@@ -32,11 +32,11 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>These are super cool</summary>
   
+  - [cloudflare/agents](https://github.com/cloudflare/agents) - Build and deploy AI Agents on Cloudflare  (today)
+  - [Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake) - pg_lake: Postgres with Iceberg and data lake access (today)
   - [opencoredev/domain-sdk](https://github.com/opencoredev/domain-sdk) - Add, verify, monitor, and remove customer domains with one TypeScript API. (1 day ago)
   - [starc007/ui-components](https://github.com/starc007/ui-components) - Motion components for React.  Copy, paste, done. (1 day ago)
   - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop  (2 days ago)
-  - [Danilaa1/cuelume](https://github.com/Danilaa1/cuelume) - Cuelume is a curated sound palette, not an audio engine. It gives buttons, links, toggles, and completed actions clear feedback without asking developers to design sounds themselves. Add an attribute, call bind(), done. (2 days ago)
-  - [Subhan-code/Amicro--Micro-transitions-](https://github.com/Subhan-code/Amicro--Micro-transitions-) -  (2 days ago)
 </details>
 
 <br>
