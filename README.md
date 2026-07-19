@@ -27,17 +27,17 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [Build local-first multimodal video search for macOS](https://github.com/Gabrjiele/siglip2-naflex-search/pull/3) on [Gabrjiele/siglip2-naflex-search](https://github.com/Gabrjiele/siglip2-naflex-search) (1 day ago)
+  - [Build local-first multimodal video search for macOS](https://github.com/Gabrjiele/siglip2-naflex-search/pull/3) on [Gabrjiele/siglip2-naflex-search](https://github.com/Gabrjiele/siglip2-naflex-search) (2 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it! (2 days ago)
-  - [Skyvern-AI/rustwright](https://github.com/Skyvern-AI/rustwright) - Playwright&#39;s API on a Rust CDP engine — Chromium browser automation for Python &amp; Node, no driver subprocess. (Alpha) (2 days ago)
-  - [kitlangton/Hex](https://github.com/kitlangton/Hex) - VOICE → WORDS (3 days ago)
-  - [AgentWrapper/agent-orchestrator](https://github.com/AgentWrapper/agent-orchestrator) - AO is an agent IDE, that helps developers manage fleets of coding agents to do your day to day tasks for parallel coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews. (3 days ago)
-  - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. (3 days ago)
+  - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it! (3 days ago)
+  - [Skyvern-AI/rustwright](https://github.com/Skyvern-AI/rustwright) - Playwright&#39;s API on a Rust CDP engine — Chromium browser automation for Python &amp; Node, no driver subprocess. (Alpha) (3 days ago)
+  - [kitlangton/Hex](https://github.com/kitlangton/Hex) - VOICE → WORDS (4 days ago)
+  - [AgentWrapper/agent-orchestrator](https://github.com/AgentWrapper/agent-orchestrator) - Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews. (4 days ago)
+  - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. (4 days ago)
 </details>
 
 <br>
