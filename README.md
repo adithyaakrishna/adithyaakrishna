@@ -27,7 +27,6 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [Build local-first multimodal video search for macOS](https://github.com/Gabrjiele/siglip2-naflex-search/pull/3) on [Gabrjiele/siglip2-naflex-search](https://github.com/Gabrjiele/siglip2-naflex-search) (4 days ago)
 </details>
 
 <details>
