@@ -17,9 +17,9 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/ascii-fable](https://github.com/adithyaakrishna/ascii-fable) -  (2 weeks ago)
-  - [adithyaakrishna/rekord](https://github.com/adithyaakrishna/rekord) - TE Inspired Spotify Music Playyer (2 weeks ago)
-  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (3 weeks ago)
+  - [adithyaakrishna/ascii-fable](https://github.com/adithyaakrishna/ascii-fable) -  (3 weeks ago)
+  - [adithyaakrishna/rekord](https://github.com/adithyaakrishna/rekord) - TE Inspired Spotify Music Playyer (3 weeks ago)
+  - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (4 weeks ago)
   - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. (3 months ago)
   - [adithyaakrishna/not-natural](https://github.com/adithyaakrishna/not-natural) -  (4 months ago)
 </details>
@@ -32,11 +32,11 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>These are super cool</summary>
   
-  - [oblien/openship](https://github.com/oblien/openship) - Self-hosted deployment platform (2 days ago)
-  - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it! (5 days ago)
-  - [Skyvern-AI/rustwright](https://github.com/Skyvern-AI/rustwright) - Playwright&#39;s API on a Rust CDP engine — Chromium browser automation for Python &amp; Node, no driver subprocess. (Alpha) (5 days ago)
-  - [kitlangton/Hex](https://github.com/kitlangton/Hex) - VOICE → WORDS (6 days ago)
-  - [AgentWrapper/agent-orchestrator](https://github.com/AgentWrapper/agent-orchestrator) - Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews. (6 days ago)
+  - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform (1 day ago)
+  - [oblien/openship](https://github.com/oblien/openship) - Self-hosted deployment platform (4 days ago)
+  - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it! (1 week ago)
+  - [Skyvern-AI/rustwright](https://github.com/Skyvern-AI/rustwright) - Playwright&#39;s API on a Rust CDP engine — Chromium browser automation for Python &amp; Node, no driver subprocess. (Alpha) (1 week ago)
+  - [kitlangton/Hex](https://github.com/kitlangton/Hex) - VOICE → WORDS (1 week ago)
 </details>
 
 <br>
