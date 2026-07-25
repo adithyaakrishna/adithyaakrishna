@@ -32,11 +32,11 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>These are super cool</summary>
   
+  - [Cardboard-Inc/cardboard](https://github.com/Cardboard-Inc/cardboard) -  (today)
+  - [aashutoshrathi/toki](https://github.com/aashutoshrathi/toki) - Native macOS menu bar app for tracking Claude Code and Codex account usage. (today)
   - [a5c-ai/babysitter](https://github.com/a5c-ai/babysitter) - Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration (1 day ago)
   - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform (3 days ago)
   - [oblien/openship](https://github.com/oblien/openship) - Self-hosted deployment platform (6 days ago)
-  - [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) - Incremental engine for long horizon agents 🌟 Star if you like it! (1 week ago)
-  - [Skyvern-AI/rustwright](https://github.com/Skyvern-AI/rustwright) - Playwright&#39;s API on a Rust CDP engine — Chromium browser automation for Python &amp; Node, no driver subprocess. (Alpha) (1 week ago)
 </details>
 
 <br>
