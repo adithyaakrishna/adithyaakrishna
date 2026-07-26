@@ -20,7 +20,7 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
   - [adithyaakrishna/ascii-fable](https://github.com/adithyaakrishna/ascii-fable) -  (3 weeks ago)
   - [adithyaakrishna/rekord](https://github.com/adithyaakrishna/rekord) - TE Inspired Spotify Music Playyer (3 weeks ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 month ago)
-  - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. (3 months ago)
+  - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. (4 months ago)
   - [adithyaakrishna/not-natural](https://github.com/adithyaakrishna/not-natural) -  (4 months ago)
 </details>
 
@@ -32,11 +32,11 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>These are super cool</summary>
   
-  - [Cardboard-Inc/cardboard](https://github.com/Cardboard-Inc/cardboard) -  (today)
-  - [aashutoshrathi/toki](https://github.com/aashutoshrathi/toki) - Native macOS menu bar app for tracking Claude Code and Codex account usage. (today)
-  - [a5c-ai/babysitter](https://github.com/a5c-ai/babysitter) - Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration (1 day ago)
-  - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform (3 days ago)
-  - [oblien/openship](https://github.com/oblien/openship) - Self-hosted deployment platform (6 days ago)
+  - [ceorkm/mobile-app-ui-design](https://github.com/ceorkm/mobile-app-ui-design) - Professional mobile app UI/UX design skill for Claude Code (1 day ago)
+  - [Cardboard-Inc/cardboard](https://github.com/Cardboard-Inc/cardboard) -  (1 day ago)
+  - [aashutoshrathi/toki](https://github.com/aashutoshrathi/toki) - Native macOS menu bar app for tracking Claude Code and Codex account usage. (1 day ago)
+  - [a5c-ai/babysitter](https://github.com/a5c-ai/babysitter) - Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration (2 days ago)
+  - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform (4 days ago)
 </details>
 
 <br>
