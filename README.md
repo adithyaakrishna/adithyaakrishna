@@ -32,11 +32,11 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>These are super cool</summary>
   
-  - [ceorkm/mobile-app-ui-design](https://github.com/ceorkm/mobile-app-ui-design) - Professional mobile app UI/UX design skill for Claude Code (1 day ago)
-  - [Cardboard-Inc/cardboard](https://github.com/Cardboard-Inc/cardboard) -  (1 day ago)
-  - [aashutoshrathi/toki](https://github.com/aashutoshrathi/toki) - Native macOS menu bar app for tracking Claude Code and Codex account usage. (1 day ago)
-  - [a5c-ai/babysitter](https://github.com/a5c-ai/babysitter) - Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration (2 days ago)
-  - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform (4 days ago)
+  - [nuonco/nuon](https://github.com/nuonco/nuon) - An open-source platform for software vendors to deploy and operate their software in their customers&#39; cloud accounts. aka Bring Your Own Cloud (BYOC) (1 day ago)
+  - [ceorkm/mobile-app-ui-design](https://github.com/ceorkm/mobile-app-ui-design) - Professional mobile app UI/UX design skill for Claude Code (3 days ago)
+  - [Cardboard-Inc/cardboard](https://github.com/Cardboard-Inc/cardboard) -  (3 days ago)
+  - [aashutoshrathi/toki](https://github.com/aashutoshrathi/toki) - Native macOS menu bar app for tracking Claude Code and Codex account usage. (3 days ago)
+  - [a5c-ai/babysitter](https://github.com/a5c-ai/babysitter) - Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration (4 days ago)
 </details>
 
 <br>
