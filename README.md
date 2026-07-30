@@ -17,8 +17,8 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/ascii-fable](https://github.com/adithyaakrishna/ascii-fable) -  (3 weeks ago)
-  - [adithyaakrishna/rekord](https://github.com/adithyaakrishna/rekord) - TE Inspired Spotify Music Playyer (3 weeks ago)
+  - [adithyaakrishna/ascii-fable](https://github.com/adithyaakrishna/ascii-fable) -  (4 weeks ago)
+  - [adithyaakrishna/rekord](https://github.com/adithyaakrishna/rekord) - TE Inspired Spotify Music Playyer (4 weeks ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 month ago)
   - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. (4 months ago)
   - [adithyaakrishna/not-natural](https://github.com/adithyaakrishna/not-natural) -  (4 months ago)
@@ -32,11 +32,11 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>These are super cool</summary>
   
-  - [nuonco/nuon](https://github.com/nuonco/nuon) - An open-source platform for software vendors to deploy and operate their software in their customers&#39; cloud accounts. aka Bring Your Own Cloud (BYOC) (1 day ago)
-  - [ceorkm/mobile-app-ui-design](https://github.com/ceorkm/mobile-app-ui-design) - Professional mobile app UI/UX design skill for Claude Code (3 days ago)
-  - [Cardboard-Inc/cardboard](https://github.com/Cardboard-Inc/cardboard) -  (3 days ago)
-  - [aashutoshrathi/toki](https://github.com/aashutoshrathi/toki) - Native macOS menu bar app for tracking Claude Code and Codex account usage. (3 days ago)
-  - [a5c-ai/babysitter](https://github.com/a5c-ai/babysitter) - Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration (4 days ago)
+  - [nuonco/nuon](https://github.com/nuonco/nuon) - An open-source platform for software vendors to deploy and operate their software in their customers&#39; cloud accounts. aka Bring Your Own Cloud (BYOC) (3 days ago)
+  - [ceorkm/mobile-app-ui-design](https://github.com/ceorkm/mobile-app-ui-design) - Professional mobile app UI/UX design skill for Claude Code (5 days ago)
+  - [Cardboard-Inc/cardboard](https://github.com/Cardboard-Inc/cardboard) -  (5 days ago)
+  - [aashutoshrathi/toki](https://github.com/aashutoshrathi/toki) - Native macOS menu bar app for managing usage, sessions and remotely controlling your AI Agents. (5 days ago)
+  - [a5c-ai/babysitter](https://github.com/a5c-ai/babysitter) - Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration (6 days ago)
 </details>
 
 <br>
