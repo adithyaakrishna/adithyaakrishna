@@ -32,11 +32,11 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>These are super cool</summary>
   
-  - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (2 days ago)
-  - [nuonco/nuon](https://github.com/nuonco/nuon) - An open-source platform for software vendors to deploy and operate their software in their customers&#39; cloud accounts. aka Bring Your Own Cloud (BYOC) (6 days ago)
+  - [ProtonMail/WebClients](https://github.com/ProtonMail/WebClients) - Monorepo hosting the proton web clients (1 day ago)
+  - [commaai/connect](https://github.com/commaai/connect) - manage your openpilot experience (1 day ago)
+  - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (4 days ago)
+  - [nuonco/nuon](https://github.com/nuonco/nuon) - An open-source platform for software vendors to deploy and operate their software in their customers&#39; cloud accounts. aka Bring Your Own Cloud (BYOC) (1 week ago)
   - [ceorkm/mobile-app-ui-design](https://github.com/ceorkm/mobile-app-ui-design) - Professional mobile app UI/UX design skill for Claude Code (1 week ago)
-  - [Cardboard-Inc/cardboard](https://github.com/Cardboard-Inc/cardboard) -  (1 week ago)
-  - [aashutoshrathi/toki](https://github.com/aashutoshrathi/toki) - Native macOS menu bar app for managing usage, sessions and remotely controlling your AI Agents. (1 week ago)
 </details>
 
 <br>
