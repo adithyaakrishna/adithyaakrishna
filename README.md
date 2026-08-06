@@ -17,11 +17,11 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Check out what I'm currently working on</summary>
   
+  - [adithyaakrishna/zonely](https://github.com/adithyaakrishna/zonely) -  (today)
   - [adithyaakrishna/ascii-fable](https://github.com/adithyaakrishna/ascii-fable) -  (1 month ago)
   - [adithyaakrishna/rekord](https://github.com/adithyaakrishna/rekord) - TE Inspired Spotify Music Playyer (1 month ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 month ago)
   - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. (4 months ago)
-  - [adithyaakrishna/not-natural](https://github.com/adithyaakrishna/not-natural) -  (4 months ago)
 </details>
 
 <details>
@@ -32,11 +32,11 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>These are super cool</summary>
   
-  - [ProtonMail/WebClients](https://github.com/ProtonMail/WebClients) - Monorepo hosting the proton web clients (1 day ago)
-  - [commaai/connect](https://github.com/commaai/connect) - manage your openpilot experience (1 day ago)
-  - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (4 days ago)
-  - [nuonco/nuon](https://github.com/nuonco/nuon) - An open-source platform for software vendors to deploy and operate their software in their customers&#39; cloud accounts. aka Bring Your Own Cloud (BYOC) (1 week ago)
-  - [ceorkm/mobile-app-ui-design](https://github.com/ceorkm/mobile-app-ui-design) - Professional mobile app UI/UX design skill for Claude Code (1 week ago)
+  - [cosscom/coss](https://github.com/cosscom/coss) - coss.com/ui is the official design system of Cal.com (1 day ago)
+  - [cristicretu/diri](https://github.com/cristicretu/diri) - Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts (2 days ago)
+  - [ProtonMail/WebClients](https://github.com/ProtonMail/WebClients) - Monorepo hosting the proton web clients (3 days ago)
+  - [commaai/connect](https://github.com/commaai/connect) - manage your openpilot experience (3 days ago)
+  - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (6 days ago)
 </details>
 
 <br>
