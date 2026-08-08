@@ -27,16 +27,17 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Lately, I have worked on</summary>
   
+  - [Add worldwide city timezone search](https://github.com/adithyaakrishna/zonely/pull/3) on [adithyaakrishna/zonely](https://github.com/adithyaakrishna/zonely) (1 day ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [cosscom/coss](https://github.com/cosscom/coss) - coss.com/ui is the official design system of Cal.com (1 day ago)
-  - [cristicretu/diri](https://github.com/cristicretu/diri) - Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts (2 days ago)
-  - [ProtonMail/WebClients](https://github.com/ProtonMail/WebClients) - Monorepo hosting the proton web clients (3 days ago)
-  - [commaai/connect](https://github.com/commaai/connect) - manage your openpilot experience (3 days ago)
-  - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (6 days ago)
+  - [Nexvyn/Nexvyn-ui](https://github.com/Nexvyn/Nexvyn-ui) -  (1 day ago)
+  - [adithyaakrishna/zonely](https://github.com/adithyaakrishna/zonely) -  (1 day ago)
+  - [cosscom/coss](https://github.com/cosscom/coss) - coss.com/ui is the official design system of Cal.com (3 days ago)
+  - [cristicretu/diri](https://github.com/cristicretu/diri) - Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts (4 days ago)
+  - [ProtonMail/WebClients](https://github.com/ProtonMail/WebClients) - Monorepo hosting the proton web clients (5 days ago)
 </details>
 
 <br>
