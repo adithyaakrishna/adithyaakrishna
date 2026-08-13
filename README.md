@@ -17,7 +17,7 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/zonely](https://github.com/adithyaakrishna/zonely) -  (3 days ago)
+  - [adithyaakrishna/zonely](https://github.com/adithyaakrishna/zonely) -  (5 days ago)
   - [adithyaakrishna/ascii-fable](https://github.com/adithyaakrishna/ascii-fable) -  (1 month ago)
   - [adithyaakrishna/rekord](https://github.com/adithyaakrishna/rekord) - TE Inspired Spotify Music Playyer (1 month ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 month ago)
@@ -27,17 +27,17 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [Add worldwide city timezone search](https://github.com/adithyaakrishna/zonely/pull/3) on [adithyaakrishna/zonely](https://github.com/adithyaakrishna/zonely) (4 days ago)
+  - [Add worldwide city timezone search](https://github.com/adithyaakrishna/zonely/pull/3) on [adithyaakrishna/zonely](https://github.com/adithyaakrishna/zonely) (6 days ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [mr-karan/logchef](https://github.com/mr-karan/logchef) - Lightweight, single-binary log analytics interface for ClickHouse, focused on high-performance querying and visualization (1 day ago)
-  - [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers. (2 days ago)
-  - [Nexvyn/Nexvyn-ui](https://github.com/Nexvyn/Nexvyn-ui) -  (4 days ago)
-  - [cosscom/coss](https://github.com/cosscom/coss) - coss.com/ui is the official design system of Cal.com (6 days ago)
-  - [cristicretu/diri](https://github.com/cristicretu/diri) - Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts (1 week ago)
+  - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration &amp; Scheduling Platform for Mission Critical Applications (1 day ago)
+  - [poteto/noodle](https://github.com/poteto/noodle) - Orchestrate agents using skills (1 day ago)
+  - [poteto/how](https://github.com/poteto/how) - skill for explaining architecture (1 day ago)
+  - [mr-karan/logchef](https://github.com/mr-karan/logchef) - Lightweight, single-binary log analytics interface for ClickHouse, focused on high-performance querying and visualization (3 days ago)
+  - [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers. (4 days ago)
 </details>
 
 <br>
