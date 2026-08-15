@@ -17,7 +17,7 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/zonely](https://github.com/adithyaakrishna/zonely) -  (5 days ago)
+  - [adithyaakrishna/zonely](https://github.com/adithyaakrishna/zonely) -  (today)
   - [adithyaakrishna/ascii-fable](https://github.com/adithyaakrishna/ascii-fable) -  (1 month ago)
   - [adithyaakrishna/rekord](https://github.com/adithyaakrishna/rekord) - TE Inspired Spotify Music Playyer (1 month ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 month ago)
@@ -27,17 +27,17 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [Add worldwide city timezone search](https://github.com/adithyaakrishna/zonely/pull/3) on [adithyaakrishna/zonely](https://github.com/adithyaakrishna/zonely) (6 days ago)
+  - [Add worldwide city timezone search](https://github.com/adithyaakrishna/zonely/pull/3) on [adithyaakrishna/zonely](https://github.com/adithyaakrishna/zonely) (1 week ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Light, flexible and extensible ASGI framework | Built to scale (today)
-  - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration &amp; Scheduling Platform for Mission Critical Applications (1 day ago)
-  - [poteto/noodle](https://github.com/poteto/noodle) - Orchestrate agents using skills (1 day ago)
-  - [poteto/how](https://github.com/poteto/how) - skill for explaining architecture (1 day ago)
-  - [mr-karan/logchef](https://github.com/mr-karan/logchef) - Lightweight, single-binary log analytics interface for ClickHouse, focused on high-performance querying and visualization (3 days ago)
+  - [adithyaakrishna/zonely](https://github.com/adithyaakrishna/zonely) -  (1 day ago)
+  - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Light, flexible and extensible ASGI framework | Built to scale (2 days ago)
+  - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration &amp; Scheduling Platform for Mission Critical Applications (3 days ago)
+  - [poteto/noodle](https://github.com/poteto/noodle) - Orchestrate agents using skills (3 days ago)
+  - [poteto/how](https://github.com/poteto/how) - skill for explaining architecture (3 days ago)
 </details>
 
 <br>
