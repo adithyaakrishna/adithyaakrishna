@@ -17,7 +17,7 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/zonely](https://github.com/adithyaakrishna/zonely) -  (today)
+  - [adithyaakrishna/zonely](https://github.com/adithyaakrishna/zonely) -  (1 day ago)
   - [adithyaakrishna/ascii-fable](https://github.com/adithyaakrishna/ascii-fable) -  (1 month ago)
   - [adithyaakrishna/rekord](https://github.com/adithyaakrishna/rekord) - TE Inspired Spotify Music Playyer (1 month ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 month ago)
@@ -33,11 +33,11 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>These are super cool</summary>
   
-  - [adithyaakrishna/zonely](https://github.com/adithyaakrishna/zonely) -  (1 day ago)
-  - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Light, flexible and extensible ASGI framework | Built to scale (2 days ago)
-  - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration &amp; Scheduling Platform for Mission Critical Applications (3 days ago)
-  - [poteto/noodle](https://github.com/poteto/noodle) - Orchestrate agents using skills (3 days ago)
-  - [poteto/how](https://github.com/poteto/how) - skill for explaining architecture (3 days ago)
+  - [github/gh-stack](https://github.com/github/gh-stack) - GitHub Stacked PRs (1 day ago)
+  - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X (1 day ago)
+  - [adithyaakrishna/zonely](https://github.com/adithyaakrishna/zonely) -  (2 days ago)
+  - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Light, flexible and extensible ASGI framework | Built to scale (3 days ago)
+  - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration &amp; Scheduling Platform for Mission Critical Applications (4 days ago)
 </details>
 
 <br>
