@@ -33,11 +33,11 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>These are super cool</summary>
   
+  - [meridianlabs-ai/inspect_viz](https://github.com/meridianlabs-ai/inspect_viz) - Data visualization for Inspect AI large language model evalutions. (today)
   - [github/gh-stack](https://github.com/github/gh-stack) - GitHub Stacked PRs (3 days ago)
   - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X (3 days ago)
   - [adithyaakrishna/zonely](https://github.com/adithyaakrishna/zonely) -  (4 days ago)
   - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Light, flexible and extensible ASGI framework | Built to scale (5 days ago)
-  - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration &amp; Scheduling Platform for Mission Critical Applications (6 days ago)
 </details>
 
 <br>
