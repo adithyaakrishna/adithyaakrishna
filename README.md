@@ -17,9 +17,9 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/zonely](https://github.com/adithyaakrishna/zonely) -  (1 day ago)
-  - [adithyaakrishna/ascii-fable](https://github.com/adithyaakrishna/ascii-fable) -  (1 month ago)
+  - [adithyaakrishna/zonely](https://github.com/adithyaakrishna/zonely) -  (3 days ago)
   - [adithyaakrishna/rekord](https://github.com/adithyaakrishna/rekord) - TE Inspired Spotify Music Playyer (1 month ago)
+  - [adithyaakrishna/ascii-fable](https://github.com/adithyaakrishna/ascii-fable) -  (1 month ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 month ago)
   - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000&#43; builders. (4 months ago)
 </details>
@@ -33,11 +33,11 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>These are super cool</summary>
   
-  - [github/gh-stack](https://github.com/github/gh-stack) - GitHub Stacked PRs (1 day ago)
-  - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X (1 day ago)
-  - [adithyaakrishna/zonely](https://github.com/adithyaakrishna/zonely) -  (2 days ago)
-  - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Light, flexible and extensible ASGI framework | Built to scale (3 days ago)
-  - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration &amp; Scheduling Platform for Mission Critical Applications (4 days ago)
+  - [github/gh-stack](https://github.com/github/gh-stack) - GitHub Stacked PRs (3 days ago)
+  - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X (3 days ago)
+  - [adithyaakrishna/zonely](https://github.com/adithyaakrishna/zonely) -  (4 days ago)
+  - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Light, flexible and extensible ASGI framework | Built to scale (5 days ago)
+  - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration &amp; Scheduling Platform for Mission Critical Applications (6 days ago)
 </details>
 
 <br>
