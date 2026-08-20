@@ -17,27 +17,26 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/zonely](https://github.com/adithyaakrishna/zonely) -  (3 days ago)
+  - [adithyaakrishna/zonely](https://github.com/adithyaakrishna/zonely) -  (5 days ago)
+  - [adithyaakrishna/agent-activity](https://github.com/adithyaakrishna/agent-activity) - A native macOS menu-bar heatmap for Cursor, Codex, Claude, and GitHub activity. (1 week ago)
   - [adithyaakrishna/rekord](https://github.com/adithyaakrishna/rekord) - TE Inspired Spotify Music Playyer (1 month ago)
   - [adithyaakrishna/ascii-fable](https://github.com/adithyaakrishna/ascii-fable) -  (1 month ago)
   - [adithyaakrishna/adithyaakrishna.github.io](https://github.com/adithyaakrishna/adithyaakrishna.github.io) - My Portfolio Website (1 month ago)
-  - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000&#43; builders. (4 months ago)
 </details>
 
 <details>
   <summary>Lately, I have worked on</summary>
   
-  - [Add worldwide city timezone search](https://github.com/adithyaakrishna/zonely/pull/3) on [adithyaakrishna/zonely](https://github.com/adithyaakrishna/zonely) (1 week ago)
 </details>
 
 <details>
   <summary>These are super cool</summary>
   
-  - [meridianlabs-ai/inspect_viz](https://github.com/meridianlabs-ai/inspect_viz) - Data visualization for Inspect AI large language model evalutions. (today)
-  - [github/gh-stack](https://github.com/github/gh-stack) - GitHub Stacked PRs (3 days ago)
-  - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X (3 days ago)
-  - [adithyaakrishna/zonely](https://github.com/adithyaakrishna/zonely) -  (4 days ago)
-  - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Light, flexible and extensible ASGI framework | Built to scale (5 days ago)
+  - [swamimalode07/rare-ui](https://github.com/swamimalode07/rare-ui) - A collection of rare, ready-to-use UI components and animations you can actually drop into your next project. Free and open source. (1 day ago)
+  - [software-mansion/TypeGPU](https://github.com/software-mansion/TypeGPU) - A modular and open-ended toolkit for WebGPU, with advanced type inference and the ability to write shaders in TypeScript (1 day ago)
+  - [evo-hq/evo](https://github.com/evo-hq/evo) - turns your codebase into an autoresearch loop — discovers what to measure, instruments the benchmark, then runs tree search with parallel subagents. (1 day ago)
+  - [tiberiuzuld/angular-gridster2](https://github.com/tiberiuzuld/angular-gridster2) - Angular gridster 2 (2 days ago)
+  - [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) - Inspect: A framework for large language model evaluations (2 days ago)
 </details>
 
 <br>
