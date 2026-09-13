@@ -17,7 +17,7 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/medik](https://github.com/adithyaakrishna/medik) -  (1 day ago)
+  - [adithyaakrishna/medik](https://github.com/adithyaakrishna/medik) -  (2 days ago)
   - [adithyaakrishna/zonely](https://github.com/adithyaakrishna/zonely) -  (4 weeks ago)
   - [adithyaakrishna/agent-activity](https://github.com/adithyaakrishna/agent-activity) - A native macOS menu-bar heatmap for Cursor, Codex, Claude, and GitHub activity. (1 month ago)
   - [adithyaakrishna/ascii-fable](https://github.com/adithyaakrishna/ascii-fable) -  (2 months ago)
