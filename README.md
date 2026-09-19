@@ -17,7 +17,7 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/medik](https://github.com/adithyaakrishna/medik) -  (6 days ago)
+  - [adithyaakrishna/medik](https://github.com/adithyaakrishna/medik) -  (1 week ago)
   - [adithyaakrishna/zonely](https://github.com/adithyaakrishna/zonely) -  (1 month ago)
   - [adithyaakrishna/agent-activity](https://github.com/adithyaakrishna/agent-activity) - A native macOS menu-bar heatmap for Cursor, Codex, Claude, and GitHub activity. (1 month ago)
   - [adithyaakrishna/ascii-fable](https://github.com/adithyaakrishna/ascii-fable) -  (2 months ago)
@@ -33,10 +33,10 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
   <summary>These are super cool</summary>
   
   - [jaywcjlove/hotkeys-js](https://github.com/jaywcjlove/hotkeys-js) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.  (3 weeks ago)
-  - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. (3 weeks ago)
-  - [OpenLabs-so/openanalytics](https://github.com/OpenLabs-so/openanalytics) - Open-source, privacy-first and cookieless web analytics with revenue attribution and an MCP server. (4 weeks ago)
-  - [swamimalode07/rare-ui](https://github.com/swamimalode07/rare-ui) - A collection of rare, ready-to-use UI components and animations you can actually drop into your next project. Free and open source. (4 weeks ago)
-  - [software-mansion/TypeGPU](https://github.com/software-mansion/TypeGPU) - A modular and open-ended toolkit for WebGPU, with advanced type inference and the ability to write shaders in TypeScript (4 weeks ago)
+  - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. (4 weeks ago)
+  - [OpenLabs-so/openanalytics](https://github.com/OpenLabs-so/openanalytics) - Open-source, privacy-first and cookieless web analytics with revenue attribution and an MCP server. (1 month ago)
+  - [swamimalode07/rare-ui](https://github.com/swamimalode07/rare-ui) - A collection of rare, ready-to-use UI components and animations you can actually drop into your next project. Free and open source. (1 month ago)
+  - [software-mansion/TypeGPU](https://github.com/software-mansion/TypeGPU) - A modular and open-ended toolkit for WebGPU, with advanced type inference and the ability to write shaders in TypeScript (1 month ago)
 </details>
 
 <br>
