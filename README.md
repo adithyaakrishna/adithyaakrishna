@@ -17,7 +17,7 @@ Software Engineer with 4+ years of experience building frontend heavy fullstack 
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [adithyaakrishna/nextile](https://github.com/adithyaakrishna/nextile) - One visual logic puzzle a day. Find the pattern, pick the next tile. Sixty seconds, one try. (2 days ago)
+  - [adithyaakrishna/nextile](https://github.com/adithyaakrishna/nextile) - One visual logic puzzle a day. Find the pattern, pick the next tile. Sixty seconds, one try. (4 days ago)
   - [adithyaakrishna/medik](https://github.com/adithyaakrishna/medik) -  (1 month ago)
   - [adithyaakrishna/zonely](https://github.com/adithyaakrishna/zonely) -  (2 months ago)
   - [adithyaakrishna/agent-activity](https://github.com/adithyaakrishna/agent-activity) - A native macOS menu-bar heatmap for Cursor, Codex, Claude, and GitHub activity. (2 months ago)
